@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Gavasci"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="152"
+Age="29"
+Pow="D"
+Fam="152"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="PAT_PPY"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="9"
+Def="801"
+Tec="410"
+Ata="129"
+Niv="617"

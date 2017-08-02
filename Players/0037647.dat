@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Yupanqui"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="95"
+Age="23"
+Pow="D"
+Fam="95"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="96000"
+Eqp="CHM_ACQ"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="10"
+Def="636"
+Tec="409"
+Ata="294"
+Niv="597"

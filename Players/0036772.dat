@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Bayo"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="289"
+Day="13"
+Age="27"
+Pow="C"
+Fam="289"
+Les="0"
+Tra="2000"
+[2000]
+Sue="296000"
+Eqp="PAT_MOM"
+[Lvl]
+Frm="977"
+Por="3"
+Def="167"
+Tec="582"
+Ata="753"
+Niv="687"

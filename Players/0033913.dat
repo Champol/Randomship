@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Cassim"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="10"
+Day="13"
+Age="20"
+Pow="C"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="29000"
+Eqp="COM_L-W"
+[Lvl]
+Frm="983"
+Por="18"
+Def="346"
+Tec="625"
+Ata="268"
+Niv="514"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Maura"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="172"
+Day="13"
+Age="27"
+Pow="C"
+Fam="172"
+Les="0"
+Tra="2000"
+[2000]
+Sue="172000"
+Eqp="COM_KAR"
+[Lvl]
+Frm="967"
+Por="48"
+Def="135"
+Tec="604"
+Ata="668"
+Niv="642"

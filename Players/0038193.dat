@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Verma "
+Rol="DL"
+Pos="WF"
+Nac="1975"
+[Val]
+Rec="426"
+Age="25"
+Pow="B"
+Fam="426"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="407000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="5"
+Def="361"
+Tec="501"
+Ata="748"
+Niv="716"

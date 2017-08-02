@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Taaffe"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="97"
+Day="13"
+Age="29"
+Pow="C"
+Fam="97"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="PAT_COR"
+[Lvl]
+Frm="960"
+Por="30"
+Def="258"
+Tec="656"
+Ata="395"
+Niv="599"

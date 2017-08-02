@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Budeguer"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="24"
+Age="23"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="49000"
+Eqp="PAT_GNO"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="8"
+Def="140"
+Tec="445"
+Ata="629"
+Niv="550"

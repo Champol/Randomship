@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Urase"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="68"
+Age="20"
+Pow="B"
+Fam="68"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="74000"
+Eqp="COM_ASL"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="45"
+Def="286"
+Tec="762"
+Ata="233"
+Niv="579"

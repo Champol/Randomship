@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Kargachin"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="19"
+Age="21"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="43000"
+Eqp="PAT_SPP"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="19"
+Def="141"
+Tec="435"
+Ata="618"
+Niv="540"

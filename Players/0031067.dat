@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Woogate"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="309"
+Age="23"
+Pow="B"
+Fam="309"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="352000"
+Eqp="BKN_G-B"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="18"
+Def="881"
+Tec="516"
+Ata="179"
+Niv="702"

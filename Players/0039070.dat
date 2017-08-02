@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Peinovi"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="18"
+Day="13"
+Age="27"
+Pow="E"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="32000"
+Eqp="CHM_FAN"
+[Lvl]
+Frm="972"
+Por="24"
+Def="624"
+Tec="430"
+Ata="133"
+Niv="521"

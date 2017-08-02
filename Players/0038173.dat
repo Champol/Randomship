@@ -1,0 +1,24 @@
+[Inf]
+Nom="C.A. Chimbonda"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="350"
+Age="27"
+Pow="B"
+Fam="350"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="245000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="0"
+Def="846"
+Tec="469"
+Ata="240"
+Niv="672"

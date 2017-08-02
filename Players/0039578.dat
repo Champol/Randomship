@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Sissener"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="104"
+Age="26"
+Pow="B"
+Fam="104"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="124000"
+Eqp="CHM_TUT"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="44"
+Def="151"
+Tec="408"
+Ata="800"
+Niv="616"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Avarado"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="67"
+Day="13"
+Age="27"
+Pow="D"
+Fam="67"
+Les="0"
+Tra="2000"
+[2000]
+Sue="81000"
+Eqp="COM_KHE"
+[Lvl]
+Frm="978"
+Por="29"
+Def="643"
+Tec="416"
+Ata="205"
+Niv="584"

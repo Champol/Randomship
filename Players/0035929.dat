@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Bairamovi"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="35"
+Age="29"
+Pow="D"
+Fam="35"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="49000"
+Eqp="PAT_LCH"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="48"
+Def="742"
+Tec="276"
+Ata="174"
+Niv="550"

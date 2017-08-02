@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Ibori"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="318"
+Day="13"
+Age="24"
+Pow="A"
+Fam="318"
+Les="0"
+Tra="2000"
+[2000]
+Sue="403000"
+Eqp="CHM_AUL"
+[Lvl]
+Frm="983"
+Por="39"
+Def="326"
+Tec="899"
+Ata="407"
+Niv="714"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Taucare"
+Rol="DL"
+Pos="WF"
+Nac="1982"
+[Val]
+Rec="11"
+Age="18"
+Pow="B"
+Fam="11"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="24000"
+Eqp="CHM_AUC"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="28"
+Def="246"
+Tec="392"
+Ata="512"
+Niv="501"

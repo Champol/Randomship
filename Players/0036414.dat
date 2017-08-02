@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Dennison"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="173"
+Day="13"
+Age="22"
+Pow="C"
+Fam="173"
+Les="0"
+Tra="2000"
+[2000]
+Sue="248000"
+Eqp="PAT_BOC"
+[Lvl]
+Frm="974"
+Por="24"
+Def="286"
+Tec="908"
+Ata="207"
+Niv="672"

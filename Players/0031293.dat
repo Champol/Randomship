@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Aristizábal"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="122"
+Day="13"
+Age="24"
+Pow="C"
+Fam="122"
+Les="0"
+Tra="2000"
+[2000]
+Sue="144000"
+Eqp="COM_MAK"
+[Lvl]
+Frm="966"
+Por="818"
+Def="286"
+Tec="275"
+Ata="38"
+Niv="629"

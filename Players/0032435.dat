@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Jul"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="33"
+Day="13"
+Age="26"
+Pow="E"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="COM_BOR"
+[Lvl]
+Frm="975"
+Por="13"
+Def="266"
+Tec="757"
+Ata="162"
+Niv="551"

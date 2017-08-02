@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. Spaulding"
+Rol="DL"
+Pos="SS"
+Nac="1969"
+[Val]
+Rec="579"
+Age="31"
+Pow="A"
+Fam="579"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="475000"
+Eqp="PAT_ASA"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="6"
+Def="196"
+Tec="602"
+Ata="808"
+Niv="729"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Hartley"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="1099"
+Age="27"
+Pow="B"
+Fam="1099"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="800000"
+Eqp="CHM_HHZ"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="39"
+Def="312"
+Tec="1034"
+Ata="320"
+Niv="778"

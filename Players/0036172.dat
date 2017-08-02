@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Camissa"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="231"
+Age="26"
+Pow="D"
+Fam="231"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="276000"
+Eqp="PAT_CUR"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="46"
+Def="882"
+Tec="456"
+Ata="127"
+Niv="681"

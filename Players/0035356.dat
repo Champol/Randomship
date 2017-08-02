@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Rasse"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="152"
+Day="13"
+Age="26"
+Pow="C"
+Fam="152"
+Les="0"
+Tra="2000"
+[2000]
+Sue="236000"
+Eqp="PAT_DUQ"
+[Lvl]
+Frm="974"
+Por="32"
+Def="869"
+Tec="425"
+Ata="205"
+Niv="668"

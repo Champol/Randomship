@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Camusso"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="76"
+Age="27"
+Pow="D"
+Fam="76"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="84000"
+Eqp="COM_GDV"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="40"
+Def="106"
+Tec="439"
+Ata="738"
+Niv="587"

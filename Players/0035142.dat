@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Johannessen"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="45"
+Age="30"
+Pow="C"
+Fam="45"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="67000"
+Eqp="PAT_OLI"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="32"
+Def="199"
+Tec="412"
+Ata="707"
+Niv="571"

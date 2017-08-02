@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Jeleń"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="9"
+Age="30"
+Pow="E"
+Fam="9"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="21000"
+Eqp="PAT_ATS"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="42"
+Def="137"
+Tec="386"
+Ata="556"
+Niv="493"

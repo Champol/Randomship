@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Alcaide"
+Rol="MC"
+Pos="DM"
+Nac="1975"
+[Val]
+Rec="90"
+Day="13"
+Age="25"
+Pow="E"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="PAT_CSC"
+[Lvl]
+Frm="980"
+Por="8"
+Def="376"
+Tec="829"
+Ata="120"
+Niv="624"

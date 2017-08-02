@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Menidguren"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="85"
+Age="25"
+Pow="C"
+Fam="85"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="141000"
+Eqp="COM_PER"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="786"
+Def="338"
+Tec="321"
+Ata="21"
+Niv="627"

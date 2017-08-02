@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Casella"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="30"
+Day="13"
+Age="21"
+Pow="D"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="60000"
+Eqp="COM_FLA"
+[Lvl]
+Frm="983"
+Por="15"
+Def="266"
+Tec="628"
+Ata="352"
+Niv="563"

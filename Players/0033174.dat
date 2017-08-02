@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. De Goey"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="125"
+Age="27"
+Pow="C"
+Fam="125"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="139000"
+Eqp="COM_CAT"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="35"
+Def="147"
+Tec="376"
+Ata="825"
+Niv="625"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Issa"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="228"
+Day="13"
+Age="26"
+Pow="C"
+Fam="228"
+Les="0"
+Tra="2000"
+[2000]
+Sue="236000"
+Eqp="PAT_REG"
+[Lvl]
+Frm="986"
+Por="1"
+Def="304"
+Tec="709"
+Ata="458"
+Niv="667"

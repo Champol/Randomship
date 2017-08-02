@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Ronaldo"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="328"
+Age="26"
+Pow="B"
+Fam="328"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="215000"
+Eqp="CHM_ESC"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="41"
+Def="174"
+Tec="444"
+Ata="848"
+Niv="660"

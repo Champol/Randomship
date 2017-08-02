@@ -1,0 +1,24 @@
+[Inf]
+Nom="M.A. Hološko"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="108"
+Age="23"
+Pow="C"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="CHM_KIP"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="36"
+Def="306"
+Tec="456"
+Ata="634"
+Niv="617"

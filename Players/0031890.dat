@@ -1,0 +1,23 @@
+[Inf]
+Nom="X. Majumder"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="200"
+Day="13"
+Age="24"
+Pow="C"
+Fam="200"
+Les="0"
+Tra="2000"
+[2000]
+Sue="306000"
+Eqp="COM_OCE"
+[Lvl]
+Frm="973"
+Por="46"
+Def="462"
+Tec="888"
+Ata="176"
+Niv="690"

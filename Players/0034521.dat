@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Sayous"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="214"
+Day="13"
+Age="22"
+Pow="B"
+Fam="214"
+Les="0"
+Tra="2000"
+[2000]
+Sue="364000"
+Eqp="PAT_PAT"
+[Lvl]
+Frm="983"
+Por="43"
+Def="798"
+Tec="440"
+Ata="288"
+Niv="705"

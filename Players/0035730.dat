@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Tommasini"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="624"
+Age="26"
+Pow="B"
+Fam="624"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="678000"
+Eqp="PAT_ASA"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="984"
+Def="318"
+Tec="370"
+Ata="41"
+Niv="762"

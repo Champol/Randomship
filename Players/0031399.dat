@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Cabañas"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="86"
+Day="13"
+Age="30"
+Pow="C"
+Fam="86"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="COM_TIS"
+[Lvl]
+Frm="975"
+Por="30"
+Def="76"
+Tec="405"
+Ata="750"
+Niv="582"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Rensburg"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="19"
+Day="13"
+Age="21"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="43000"
+Eqp="PAT_ELS"
+[Lvl]
+Frm="965"
+Por="22"
+Def="585"
+Tec="324"
+Ata="327"
+Niv="539"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Irving"
+Rol="DL"
+Pos="SS"
+Nac="1978"
+[Val]
+Rec="144"
+Age="22"
+Pow="C"
+Fam="144"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="179000"
+Eqp="CHM_TRA"
+PCal="0"
+[Lvl]
+Frm="965"
+Por="12"
+Def="144"
+Tec="570"
+Ata="698"
+Niv="645"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Esnault"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="80"
+Age="22"
+Pow="D"
+Fam="80"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="116000"
+Eqp="CHM_LOG"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="9"
+Def="637"
+Tec="394"
+Ata="363"
+Niv="610"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Engelbrecht"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Age="17"
+Pow="D"
+Fam="0"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PAT_MAR"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="568"
+Def="168"
+Tec="211"
+Ata="29"
+Niv="426"

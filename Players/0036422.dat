@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Gruev"
+Rol="MC"
+Pos="AM"
+Nac="1970"
+[Val]
+Rec="83"
+Day="13"
+Age="30"
+Pow="B"
+Fam="83"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="PAT_BOC"
+[Lvl]
+Frm="977"
+Por="13"
+Def="214"
+Tec="796"
+Ata="316"
+Niv="594"

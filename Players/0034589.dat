@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Gaby"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="171"
+Day="13"
+Age="23"
+Pow="D"
+Fam="171"
+Les="0"
+Tra="2000"
+[2000]
+Sue="276000"
+Eqp="PAT_MIL"
+[Lvl]
+Frm="985"
+Por="18"
+Def="155"
+Tec="432"
+Ata="895"
+Niv="681"

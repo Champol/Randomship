@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Vegas"
+Rol="DL"
+Pos="WF"
+Nac="1981"
+[Val]
+Rec="38"
+Age="19"
+Pow="C"
+Fam="38"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="61000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="48"
+Def="305"
+Tec="374"
+Ata="596"
+Niv="564"

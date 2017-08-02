@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Deptford"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="26"
+Day="13"
+Age="20"
+Pow="D"
+Fam="26"
+Les="0"
+Tra="2000"
+[2000]
+Sue="52000"
+Eqp="BKN_COR"
+[Lvl]
+Frm="974"
+Por="704"
+Def="248"
+Tec="296"
+Ata="5"
+Niv="554"

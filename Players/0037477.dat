@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.M. Kadir"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="51"
+Day="13"
+Age="20"
+Pow="C"
+Fam="51"
+Les="0"
+Tra="2000"
+[2000]
+Sue="85000"
+Eqp="PAT_FOL"
+[Lvl]
+Frm="967"
+Por="22"
+Def="787"
+Tec="336"
+Ata="186"
+Niv="589"

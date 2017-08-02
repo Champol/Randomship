@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Abt"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="89"
+Age="22"
+Pow="B"
+Fam="89"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="120000"
+Eqp="PAT_ENS"
+PCal="0"
+[Lvl]
+Frm="995"
+Por="810"
+Def="303"
+Tec="218"
+Ata="50"
+Niv="615"

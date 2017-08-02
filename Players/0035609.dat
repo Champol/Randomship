@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.D. Foncohalza"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="54"
+Day="13"
+Age="27"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="72000"
+Eqp="PAT_LMP"
+[Lvl]
+Frm="967"
+Por="15"
+Def="766"
+Tec="327"
+Ata="192"
+Niv="576"

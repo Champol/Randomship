@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Draman"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="21"
+Day="13"
+Age="29"
+Pow="D"
+Fam="21"
+Les="0"
+Tra="2000"
+[2000]
+Sue="33000"
+Eqp="COM_OCE"
+[Lvl]
+Frm="981"
+Por="42"
+Def="371"
+Tec="659"
+Ata="137"
+Niv="522"

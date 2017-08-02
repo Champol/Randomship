@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Smirnov"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="29"
+Day="13"
+Age="23"
+Pow="D"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="PAT_SAL"
+[Lvl]
+Frm="984"
+Por="5"
+Def="602"
+Tec="403"
+Ata="190"
+Niv="551"

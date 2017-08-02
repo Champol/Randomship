@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Claude"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="186"
+Age="26"
+Pow="D"
+Fam="186"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="179000"
+Eqp="CHM_ACQ"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="50"
+Def="706"
+Tec="412"
+Ata="308"
+Niv="645"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Swanson"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="16"
+Age="30"
+Pow="D"
+Fam="16"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="29000"
+Eqp="CHM_GOT"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="37"
+Def="60"
+Tec="392"
+Ata="644"
+Niv="513"

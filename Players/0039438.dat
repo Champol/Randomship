@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Krekler"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="107"
+Day="13"
+Age="22"
+Pow="D"
+Fam="107"
+Les="0"
+Tra="2000"
+[2000]
+Sue="144000"
+Eqp="CHM_ASI"
+[Lvl]
+Frm="981"
+Por="23"
+Def="251"
+Tec="668"
+Ata="467"
+Niv="629"

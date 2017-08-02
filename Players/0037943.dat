@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Carballar"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Rec="1"
+Age="17"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CHM_C-V"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="43"
+Def="501"
+Tec="307"
+Ata="171"
+Niv="446"

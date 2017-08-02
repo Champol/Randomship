@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Kitching"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="195"
+Age="26"
+Pow="C"
+Fam="195"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="228000"
+Eqp="CHM_TUT"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="2"
+Def="208"
+Tec="769"
+Ata="420"
+Niv="665"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Durrieu"
+Rol="DF"
+Pos="WB"
+Nac="1969"
+[Val]
+Rec="17"
+Age="31"
+Pow="D"
+Fam="17"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="30000"
+Eqp="PAT_STP"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="20"
+Def="623"
+Tec="292"
+Ata="157"
+Niv="517"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Verdaguer"
+Rol="MC"
+Pos="WM"
+Nac="1975"
+[Val]
+Rec="61"
+Age="25"
+Pow="D"
+Fam="61"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="65000"
+Eqp="CHM_AGH"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="26"
+Def="279"
+Tec="604"
+Ata="388"
+Niv="568"

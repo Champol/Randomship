@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Cateula"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="23"
+Age="26"
+Pow="E"
+Fam="23"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="42000"
+Eqp="PAT_PRN"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="43"
+Def="114"
+Tec="402"
+Ata="670"
+Niv="538"

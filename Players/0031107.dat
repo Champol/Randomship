@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Manoel"
+Rol="MC"
+Pos="AM"
+Nac="1971"
+[Val]
+Rec="185"
+Age="29"
+Pow="B"
+Fam="185"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="179000"
+Eqp="COM_XAG"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="22"
+Def="138"
+Tec="817"
+Ata="453"
+Niv="645"

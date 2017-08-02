@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Hosonuma"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="10"
+Day="13"
+Age="20"
+Pow="D"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="COM_EPS"
+[Lvl]
+Frm="987"
+Por="9"
+Def="102"
+Tec="364"
+Ata="645"
+Niv="503"

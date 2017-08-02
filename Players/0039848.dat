@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Gastón"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="160"
+Day="13"
+Age="21"
+Pow="A"
+Fam="160"
+Les="0"
+Tra="2000"
+[2000]
+Sue="192000"
+Eqp="CHM_WIT"
+[Lvl]
+Frm="966"
+Por="835"
+Def="322"
+Tec="312"
+Ata="38"
+Niv="650"

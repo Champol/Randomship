@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Fidalgo"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Rec="1"
+Day="13"
+Age="32"
+Pow="C"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="11000"
+Eqp="BKN_M-P"
+[Lvl]
+Frm="979"
+Por="0"
+Def="204"
+Tec="477"
+Ata="321"
+Niv="455"

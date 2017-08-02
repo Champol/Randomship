@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Arrizabalaga"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="130"
+Age="29"
+Pow="C"
+Fam="130"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="99000"
+Eqp="BKN_G-B"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="23"
+Def="637"
+Tec="362"
+Ata="359"
+Niv="599"

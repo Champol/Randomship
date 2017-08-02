@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Hayasaka"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="133"
+Day="13"
+Age="29"
+Pow="C"
+Fam="133"
+Les="0"
+Tra="2000"
+[2000]
+Sue="172000"
+Eqp="COM_MAB"
+[Lvl]
+Frm="966"
+Por="22"
+Def="694"
+Tec="442"
+Ata="274"
+Niv="642"

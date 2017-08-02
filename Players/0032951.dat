@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Dam"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="167"
+Day="13"
+Age="29"
+Pow="C"
+Fam="167"
+Les="0"
+Tra="2000"
+[2000]
+Sue="160000"
+Eqp="COM_N-R"
+[Lvl]
+Frm="963"
+Por="14"
+Def="786"
+Tec="479"
+Ata="203"
+Niv="636"

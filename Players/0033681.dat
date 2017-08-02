@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Moodley"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="2"
+Age="21"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="15000"
+Eqp="COM_PER"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="6"
+Def="317"
+Tec="614"
+Ata="136"
+Niv="474"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Fitzpatrick"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="37"
+Day="13"
+Age="23"
+Pow="E"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="BKN_COR"
+[Lvl]
+Frm="987"
+Por="25"
+Def="173"
+Tec="530"
+Ata="580"
+Niv="566"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Katzarov"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="78"
+Day="13"
+Age="23"
+Pow="D"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="95000"
+Eqp="PAT_FOL"
+[Lvl]
+Frm="977"
+Por="4"
+Def="118"
+Tec="421"
+Ata="770"
+Niv="596"

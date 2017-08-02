@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Swate"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="19"
+Day="13"
+Age="27"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="33000"
+Eqp="COM_TOR"
+[Lvl]
+Frm="963"
+Por="37"
+Def="192"
+Tec="270"
+Ata="692"
+Niv="521"

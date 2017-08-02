@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Ninomiya"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="19"
+Day="13"
+Age="24"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="41000"
+Eqp="PAT_ELS"
+[Lvl]
+Frm="962"
+Por="39"
+Def="169"
+Tec="409"
+Ata="667"
+Niv="537"

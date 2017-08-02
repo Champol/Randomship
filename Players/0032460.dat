@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Vacaflor"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="COM_MED"
+[Lvl]
+Frm="988"
+Por="49"
+Def="534"
+Tec="249"
+Ata="97"
+Niv="398"

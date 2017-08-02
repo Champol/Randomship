@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Flebbe"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Rec="1"
+Day="13"
+Age="18"
+Pow="D"
+Fam="1"
+Les="1"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="11000"
+Eqp="CHM_SAK"
+[Lvl]
+Frm="987"
+Por="13"
+Def="176"
+Tec="600"
+Ata="208"
+Niv="453"

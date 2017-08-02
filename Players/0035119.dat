@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Lowther"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="194"
+Day="13"
+Age="21"
+Pow="A"
+Fam="194"
+Les="0"
+Tra="2000"
+[2000]
+Sue="344000"
+Eqp="PAT_SER"
+[Lvl]
+Frm="983"
+Por="958"
+Def="258"
+Tec="252"
+Ata="10"
+Niv="700"

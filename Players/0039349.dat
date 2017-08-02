@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. D'lope"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="414"
+Age="26"
+Pow="B"
+Fam="414"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="394000"
+Eqp="CHM_AUC"
+PCal="0"
+[Lvl]
+Frm="995"
+Por="23"
+Def="132"
+Tec="428"
+Ata="950"
+Niv="712"

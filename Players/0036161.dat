@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Palacio"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="113"
+Day="13"
+Age="25"
+Pow="D"
+Fam="113"
+Les="0"
+Tra="2000"
+[2000]
+Sue="146000"
+Eqp="PAT_T-P"
+[Lvl]
+Frm="967"
+Por="34"
+Def="95"
+Tec="769"
+Ata="531"
+Niv="629"

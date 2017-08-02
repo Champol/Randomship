@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Zanelli"
+Rol="MC"
+Pos="DM"
+Nac="1981"
+[Val]
+Rec="12"
+Day="13"
+Age="19"
+Pow="D"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="27000"
+Eqp="CHM_AUL"
+[Lvl]
+Frm="991"
+Por="10"
+Def="334"
+Tec="679"
+Ata="68"
+Niv="510"

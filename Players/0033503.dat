@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Brocksopp"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="196"
+Day="13"
+Age="24"
+Pow="B"
+Fam="196"
+Les="0"
+Tra="2000"
+[2000]
+Sue="228000"
+Eqp="COM_MIR"
+[Lvl]
+Frm="974"
+Por="48"
+Def="855"
+Tec="467"
+Ata="122"
+Niv="665"

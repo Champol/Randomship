@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Al-Harbi"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="279"
+Day="13"
+Age="25"
+Pow="A"
+Fam="279"
+Les="0"
+Tra="2000"
+[2000]
+Sue="403000"
+Eqp="COM_HOB"
+[Lvl]
+Frm="969"
+Por="4"
+Def="144"
+Tec="898"
+Ata="538"
+Niv="714"

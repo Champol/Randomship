@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Henin"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="179"
+Age="22"
+Pow="B"
+Fam="179"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="251000"
+Eqp="CHM_TRA"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="7"
+Def="125"
+Tec="456"
+Ata="874"
+Niv="673"

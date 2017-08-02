@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Maimó"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="6"
+Age="27"
+Pow="E"
+Fam="6"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="PAT_SPP"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="2"
+Def="566"
+Tec="442"
+Ata="98"
+Niv="487"

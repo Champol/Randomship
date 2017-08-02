@@ -1,0 +1,23 @@
+[Inf]
+Nom="Q. Torassa"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="141"
+Day="13"
+Age="22"
+Pow="C"
+Fam="141"
+Les="0"
+Tra="2000"
+[2000]
+Sue="223000"
+Eqp="COM_EPS"
+[Lvl]
+Frm="976"
+Por="20"
+Def="290"
+Tec="793"
+Ata="334"
+Niv="663"

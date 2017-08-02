@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Moura"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="758"
+Age="24"
+Pow="A"
+Fam="758"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="744000"
+Eqp="COM_SAL"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="32"
+Def="585"
+Tec="958"
+Ata="180"
+Niv="771"

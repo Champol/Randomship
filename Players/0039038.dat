@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Fontana"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="77"
+Day="13"
+Age="27"
+Pow="B"
+Fam="77"
+Les="0"
+Tra="2000"
+[2000]
+Sue="97000"
+Eqp="CHM_THU"
+[Lvl]
+Frm="976"
+Por="39"
+Def="770"
+Tec="406"
+Ata="134"
+Niv="598"

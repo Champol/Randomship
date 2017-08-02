@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Chengying"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="39"
+Day="13"
+Age="20"
+Pow="C"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="BKN_ZRT"
+[Lvl]
+Frm="989"
+Por="730"
+Def="250"
+Tec="228"
+Ata="23"
+Niv="555"

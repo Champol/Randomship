@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Honda"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="133"
+Age="22"
+Pow="C"
+Fam="133"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="152000"
+Eqp="COM_SPR"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="28"
+Def="735"
+Tec="358"
+Ata="260"
+Niv="632"

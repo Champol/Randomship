@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Tornquist"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="417"
+Age="22"
+Pow="B"
+Fam="417"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="412000"
+Eqp="CHM_ANG"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="15"
+Def="189"
+Tec="406"
+Ata="966"
+Niv="716"

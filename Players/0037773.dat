@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Arnaldo"
+Rol="MC"
+Pos="WM"
+Nac="1975"
+[Val]
+Rec="79"
+Age="25"
+Pow="C"
+Fam="79"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="104000"
+Eqp="CHM_BES"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="29"
+Def="303"
+Tec="626"
+Ata="432"
+Niv="603"

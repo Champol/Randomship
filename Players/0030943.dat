@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Briones"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Rec="6"
+Age="18"
+Pow="C"
+Fam="6"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="23000"
+Eqp="BKN_TEC"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="674"
+Def="176"
+Tec="214"
+Ata="36"
+Niv="501"

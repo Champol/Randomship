@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Yateman"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="119"
+Day="13"
+Age="26"
+Pow="D"
+Fam="119"
+Les="0"
+Tra="2000"
+[2000]
+Sue="185000"
+Eqp="COM_MOW"
+[Lvl]
+Frm="958"
+Por="15"
+Def="150"
+Tec="454"
+Ata="828"
+Niv="648"

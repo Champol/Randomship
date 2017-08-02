@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Zegada"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="86"
+Age="32"
+Pow="A"
+Fam="86"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="71000"
+Eqp="COM_CDS"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="38"
+Def="701"
+Tec="448"
+Ata="174"
+Niv="574"

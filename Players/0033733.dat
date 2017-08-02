@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Estrugamou"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="12"
+Age="32"
+Pow="C"
+Fam="12"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="20000"
+Eqp="COM_TIT"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="20"
+Def="577"
+Tec="416"
+Ata="146"
+Niv="491"

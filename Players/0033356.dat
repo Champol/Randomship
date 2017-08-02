@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Shinya"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="184"
+Age="23"
+Pow="E"
+Fam="184"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="174000"
+Eqp="COM_SAL"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="43"
+Def="723"
+Tec="373"
+Ata="310"
+Niv="643"

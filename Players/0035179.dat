@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Sittler"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="147"
+Day="13"
+Age="25"
+Pow="C"
+Fam="147"
+Les="0"
+Tra="2000"
+[2000]
+Sue="174000"
+Eqp="PAT_FER"
+[Lvl]
+Frm="990"
+Por="814"
+Def="266"
+Tec="360"
+Ata="11"
+Niv="642"

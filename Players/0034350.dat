@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Riggs"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="68"
+Age="23"
+Pow="B"
+Fam="68"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="110000"
+Eqp="PAT_SNP"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="13"
+Def="317"
+Tec="745"
+Ata="361"
+Niv="606"

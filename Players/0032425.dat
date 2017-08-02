@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Cousin"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="203"
+Day="13"
+Age="25"
+Pow="B"
+Fam="203"
+Les="0"
+Tra="2000"
+[2000]
+Sue="306000"
+Eqp="COM_BOR"
+[Lvl]
+Frm="987"
+Por="898"
+Def="300"
+Tec="292"
+Ata="18"
+Niv="689"

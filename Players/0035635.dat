@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Erasuquin"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="118"
+Age="23"
+Pow="D"
+Fam="118"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="139000"
+Eqp="PAT_PPD"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="7"
+Def="171"
+Tec="410"
+Ata="809"
+Niv="625"

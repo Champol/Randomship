@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Daigoho"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="58"
+Age="23"
+Pow="C"
+Fam="58"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="91000"
+Eqp="CHM_C-W"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="29"
+Def="252"
+Tec="622"
+Ata="436"
+Niv="592"

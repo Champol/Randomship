@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Kumagai"
+Rol="MC"
+Pos="DM"
+Nac="1970"
+[Val]
+Rec="107"
+Day="13"
+Age="30"
+Pow="B"
+Fam="107"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="CHM_THU"
+[Lvl]
+Frm="975"
+Por="45"
+Def="473"
+Tec="752"
+Ata="178"
+Niv="614"

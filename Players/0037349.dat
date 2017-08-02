@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Larroca"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="367"
+Age="23"
+Pow="A"
+Fam="367"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="344000"
+Eqp="PAT_FRI"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="26"
+Def="372"
+Tec="691"
+Ata="547"
+Niv="700"

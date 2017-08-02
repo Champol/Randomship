@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Bachev"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="328"
+Age="24"
+Pow="C"
+Fam="328"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="269000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="21"
+Def="944"
+Tec="306"
+Ata="192"
+Niv="677"

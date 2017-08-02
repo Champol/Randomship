@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Haseyama"
+Rol="MC"
+Pos="DM"
+Nac="1983"
+[Val]
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CHM_C-V"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="0"
+Def="278"
+Tec="547"
+Ata="112"
+Niv="419"

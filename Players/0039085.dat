@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Urdambidieta"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="16"
+Day="13"
+Age="21"
+Pow="E"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="CHM_FAN"
+[Lvl]
+Frm="984"
+Por="30"
+Def="137"
+Tec="357"
+Ata="681"
+Niv="526"

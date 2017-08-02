@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Povea"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="531"
+Age="27"
+Pow="B"
+Fam="531"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="643000"
+Eqp="PAT_MAR"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="971"
+Def="423"
+Tec="284"
+Ata="29"
+Niv="757"

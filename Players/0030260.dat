@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Gully"
+Rol="MC"
+Pos="WM"
+Nac="1983"
+[Val]
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="BKN_BAR"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="15"
+Def="237"
+Tec="501"
+Ata="245"
+Niv="439"

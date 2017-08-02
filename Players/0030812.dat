@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Koziol"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="7"
+Age="27"
+Pow="E"
+Fam="7"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="BKN_NAZ"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="0"
+Def="309"
+Tec="628"
+Ata="167"
+Niv="488"

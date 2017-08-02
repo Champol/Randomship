@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Maldino"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="82"
+Day="13"
+Age="21"
+Pow="C"
+Fam="82"
+Les="1"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="PAT_UNE"
+[Lvl]
+Frm="965"
+Por="31"
+Def="804"
+Tec="418"
+Ata="178"
+Niv="624"

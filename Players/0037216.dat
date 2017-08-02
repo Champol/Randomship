@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Chambers"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="2"
+Day="13"
+Age="30"
+Pow="D"
+Fam="2"
+Les="3"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="PAT_STF"
+[Lvl]
+Frm="982"
+Por="5"
+Def="499"
+Tec="302"
+Ata="222"
+Niv="462"

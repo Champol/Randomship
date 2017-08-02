@@ -1,0 +1,23 @@
+[Inf]
+Nom="Q. Baudouin"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="113"
+Day="13"
+Age="23"
+Pow="D"
+Fam="113"
+Les="0"
+Tra="2000"
+[2000]
+Sue="142000"
+Eqp="BKN_TAL"
+[Lvl]
+Frm="972"
+Por="27"
+Def="357"
+Tec="831"
+Ata="198"
+Niv="627"

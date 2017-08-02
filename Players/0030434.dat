@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Jacobella"
+Rol="MC"
+Pos="DM"
+Nac="1981"
+[Val]
+Rec="11"
+Day="13"
+Age="19"
+Pow="E"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="31000"
+Eqp="BKN_TAL"
+[Lvl]
+Frm="974"
+Por="2"
+Def="305"
+Tec="701"
+Ata="115"
+Niv="519"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Barassi"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="134"
+Day="13"
+Age="32"
+Pow="C"
+Fam="134"
+Les="0"
+Tra="2000"
+[2000]
+Sue="135000"
+Eqp="COM_DOP"
+[Lvl]
+Frm="983"
+Por="33"
+Def="123"
+Tec="431"
+Ata="797"
+Niv="623"

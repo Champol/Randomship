@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Sundblad"
+Rol="DL"
+Pos="WF"
+Nac="1969"
+[Val]
+Rec="206"
+Age="31"
+Pow="B"
+Fam="206"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="COM_B-P"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="24"
+Def="272"
+Tec="340"
+Ata="737"
+Niv="629"

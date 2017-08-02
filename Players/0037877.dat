@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Canaval"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="7"
+Age="30"
+Pow="C"
+Fam="7"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="18000"
+Eqp="CHM_LOG"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="605"
+Def="208"
+Tec="266"
+Ata="49"
+Niv="483"

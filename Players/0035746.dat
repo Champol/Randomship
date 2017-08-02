@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Chow"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="155"
+Age="26"
+Pow="D"
+Fam="155"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="134000"
+Eqp="PAT_ASA"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="35"
+Def="323"
+Tec="786"
+Ata="302"
+Niv="623"

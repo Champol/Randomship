@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. De Ayala"
+Rol="MC"
+Pos="CM"
+Nac="1969"
+[Val]
+Rec="55"
+Day="13"
+Age="31"
+Pow="B"
+Fam="55"
+Les="0"
+Tra="2000"
+[2000]
+Sue="70000"
+Eqp="COM_POR"
+[Lvl]
+Frm="971"
+Por="24"
+Def="320"
+Tec="708"
+Ata="308"
+Niv="575"

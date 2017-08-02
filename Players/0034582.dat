@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Frye"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="80"
+Day="13"
+Age="23"
+Pow="D"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="107000"
+Eqp="PAT_MIL"
+[Lvl]
+Frm="970"
+Por="11"
+Def="327"
+Tec="772"
+Ata="247"
+Niv="605"

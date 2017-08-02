@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Abril"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="52"
+Day="13"
+Age="23"
+Pow="E"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="75000"
+Eqp="PAT_P-L"
+[Lvl]
+Frm="989"
+Por="31"
+Def="205"
+Tec="663"
+Ata="373"
+Niv="579"

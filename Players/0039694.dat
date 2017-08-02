@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Tsushiro"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="51"
+Age="21"
+Pow="C"
+Fam="51"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="65000"
+Eqp="CHM_VDL"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="36"
+Def="92"
+Tec="394"
+Ata="738"
+Niv="568"

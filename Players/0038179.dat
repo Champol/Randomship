@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Caravia"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="142"
+Age="27"
+Pow="C"
+Fam="142"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="108000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="43"
+Def="216"
+Tec="689"
+Ata="396"
+Niv="607"

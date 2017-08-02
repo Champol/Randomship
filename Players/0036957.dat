@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Battro"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="22"
+Day="13"
+Age="20"
+Pow="C"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="PAT_P-L"
+[Lvl]
+Frm="984"
+Por="30"
+Def="717"
+Tec="319"
+Ata="166"
+Niv="538"

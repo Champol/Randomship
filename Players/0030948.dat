@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Cotto"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="52"
+Day="13"
+Age="26"
+Pow="E"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="BKN_COR"
+[Lvl]
+Frm="968"
+Por="1"
+Def="697"
+Tec="451"
+Ata="161"
+Niv="569"

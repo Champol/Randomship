@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Loring"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="431"
+Day="13"
+Age="29"
+Pow="A"
+Fam="431"
+Les="0"
+Tra="2000"
+[2000]
+Sue="440000"
+Eqp="CHM_SPE"
+[Lvl]
+Frm="984"
+Por="20"
+Def="974"
+Tec="426"
+Ata="92"
+Niv="722"

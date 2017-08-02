@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Potier"
+Rol="MC"
+Pos="AM"
+Nac="1979"
+[Val]
+Rec="13"
+Day="13"
+Age="21"
+Pow="E"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="32000"
+Eqp="CHM_PRU"
+[Lvl]
+Frm="985"
+Por="39"
+Def="80"
+Tec="657"
+Ata="397"
+Niv="521"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Catalán"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="190"
+Age="22"
+Pow="C"
+Fam="190"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="272000"
+Eqp="PAT_PTÑ"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="7"
+Def="862"
+Tec="506"
+Ata="132"
+Niv="680"

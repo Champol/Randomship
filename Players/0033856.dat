@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Wood"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="63"
+Day="13"
+Age="24"
+Pow="D"
+Fam="63"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="COM_DOP"
+[Lvl]
+Frm="985"
+Por="40"
+Def="320"
+Tec="817"
+Ata="111"
+Niv="599"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Lores"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="113"
+Age="29"
+Pow="C"
+Fam="113"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="108000"
+Eqp="COM_G-G"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="42"
+Def="211"
+Tec="800"
+Ata="286"
+Niv="606"

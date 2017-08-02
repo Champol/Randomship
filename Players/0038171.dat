@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Moua"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Rec="4"
+Age="17"
+Pow="A"
+Fam="4"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="14000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="37"
+Def="630"
+Tec="299"
+Ata="149"
+Niv="483"

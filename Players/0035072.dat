@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Buedo"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="33"
+Day="13"
+Age="23"
+Pow="D"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="PAT_ABO"
+[Lvl]
+Frm="978"
+Por="1"
+Def="743"
+Tec="352"
+Ata="130"
+Niv="564"

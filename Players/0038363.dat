@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Kawakami"
+Rol="DL"
+Pos="SS"
+Nac="1983"
+[Val]
+Age="17"
+Pow="D"
+Fam="0"
+Les="7"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CHM_ALP"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="13"
+Def="73"
+Tec="381"
+Ata="442"
+Niv="410"

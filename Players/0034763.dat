@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Arnaus"
+Rol="DL"
+Pos="WF"
+Nac="1980"
+[Val]
+Rec="15"
+Day="13"
+Age="20"
+Pow="D"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="PAT_BAT"
+[Lvl]
+Frm="974"
+Por="6"
+Def="328"
+Tec="348"
+Ata="555"
+Niv="536"

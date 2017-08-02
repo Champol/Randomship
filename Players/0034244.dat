@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Allseits"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="127"
+Day="13"
+Age="21"
+Pow="C"
+Fam="127"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="COM_CHR"
+[Lvl]
+Frm="988"
+Por="50"
+Def="158"
+Tec="422"
+Ata="828"
+Niv="637"

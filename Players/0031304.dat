@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Grad"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="37"
+Day="13"
+Age="20"
+Pow="B"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="66000"
+Eqp="COM_MAK"
+[Lvl]
+Frm="966"
+Por="0"
+Def="283"
+Tec="577"
+Ata="447"
+Niv="570"

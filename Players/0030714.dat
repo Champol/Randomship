@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Schilling"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="106"
+Age="23"
+Pow="D"
+Fam="106"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="103000"
+Eqp="BKN_KUL"
+PCal="0"
+[Lvl]
+Frm="965"
+Por="776"
+Def="265"
+Tec="280"
+Ata="25"
+Niv="602"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Tomaghelli"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="86"
+Age="27"
+Pow="C"
+Fam="86"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="132000"
+Eqp="COM_PEN"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="2"
+Def="264"
+Tec="797"
+Ata="297"
+Niv="621"

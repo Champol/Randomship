@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Jäger"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="83"
+Day="13"
+Age="26"
+Pow="D"
+Fam="83"
+Les="0"
+Tra="2000"
+[2000]
+Sue="116000"
+Eqp="PAT_PNA"
+[Lvl]
+Frm="970"
+Por="36"
+Def="632"
+Tec="480"
+Ata="247"
+Niv="611"

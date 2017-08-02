@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Leger"
+Rol="MC"
+Pos="DM"
+Nac="1972"
+[Val]
+Rec="295"
+Age="28"
+Pow="B"
+Fam="295"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="360000"
+Eqp="CHM_P-R"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="32"
+Def="364"
+Tec="967"
+Ata="118"
+Niv="704"

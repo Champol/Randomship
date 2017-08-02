@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Bridges"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="219"
+Age="22"
+Pow="C"
+Fam="219"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="317000"
+Eqp="PAT_CMS"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="18"
+Def="862"
+Tec="540"
+Ata="148"
+Niv="693"

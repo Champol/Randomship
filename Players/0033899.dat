@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Ibarbaltz"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="5"
+Age="21"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="17000"
+Eqp="COM_DOR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="49"
+Def="229"
+Tec="613"
+Ata="254"
+Niv="479"

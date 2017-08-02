@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Guglielmone"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="43"
+Day="13"
+Age="21"
+Pow="C"
+Fam="43"
+Les="0"
+Tra="2000"
+[2000]
+Sue="69000"
+Eqp="PAT_SAL"
+[Lvl]
+Frm="981"
+Por="17"
+Def="153"
+Tec="334"
+Ata="770"
+Niv="573"

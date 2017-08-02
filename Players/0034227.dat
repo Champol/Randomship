@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Zaytsev"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="9"
+Day="13"
+Age="27"
+Pow="E"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="22000"
+Eqp="COM_CHR"
+[Lvl]
+Frm="973"
+Por="33"
+Def="517"
+Tec="406"
+Ata="170"
+Niv="496"

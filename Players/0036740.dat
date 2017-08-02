@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.F. Findley"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="155"
+Age="24"
+Pow="C"
+Fam="155"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="217000"
+Eqp="PAT_SNA"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="35"
+Def="272"
+Tec="868"
+Ata="293"
+Niv="660"

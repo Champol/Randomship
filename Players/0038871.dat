@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Fornari"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="289"
+Age="23"
+Pow="C"
+Fam="289"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="389000"
+Eqp="CHM_ALC"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="13"
+Def="766"
+Tec="438"
+Ata="394"
+Niv="711"

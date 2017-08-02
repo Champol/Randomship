@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Cammerlinck"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Age="17"
+Pow="D"
+Fam="0"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CHM_CUM"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="34"
+Def="552"
+Tec="236"
+Ata="75"
+Niv="407"

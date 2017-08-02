@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Budeguer"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="683"
+Age="31"
+Pow="A"
+Fam="683"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="714000"
+Eqp="CHM_TRO"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="14"
+Def="1074"
+Tec="342"
+Ata="185"
+Niv="767"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Partenio"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="83"
+Age="21"
+Pow="C"
+Fam="83"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="114000"
+Eqp="COM_G-G"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="2"
+Def="298"
+Tec="328"
+Ata="712"
+Niv="610"

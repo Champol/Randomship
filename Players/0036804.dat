@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Lencini"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="186"
+Age="27"
+Pow="D"
+Fam="186"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="183000"
+Eqp="PAT_RUS"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="848"
+Def="319"
+Tec="237"
+Ata="16"
+Niv="647"

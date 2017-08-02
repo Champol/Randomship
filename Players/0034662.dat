@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Bradley"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="144"
+Age="21"
+Pow="C"
+Fam="144"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="148000"
+Eqp="PAT_GSL"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="50"
+Def="646"
+Tec="473"
+Ata="304"
+Niv="630"

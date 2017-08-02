@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Costantini"
+Rol="MC"
+Pos="AM"
+Nac="1973"
+[Val]
+Rec="35"
+Age="27"
+Pow="E"
+Fam="35"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="48000"
+Eqp="COM_NAT"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="10"
+Def="101"
+Tec="736"
+Ata="316"
+Niv="548"

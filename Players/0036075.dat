@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Terrero"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="34"
+Day="13"
+Age="20"
+Pow="B"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="76000"
+Eqp="PAT_ENT"
+[Lvl]
+Frm="977"
+Por="39"
+Def="725"
+Tec="445"
+Ata="157"
+Niv="580"

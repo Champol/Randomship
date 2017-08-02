@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Luther"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="171"
+Age="22"
+Pow="C"
+Fam="171"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="141000"
+Eqp="PAT_SEM"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="34"
+Def="460"
+Tec="782"
+Ata="196"
+Niv="626"

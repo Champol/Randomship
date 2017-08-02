@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.M. Abiola"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="122"
+Day="13"
+Age="24"
+Pow="D"
+Fam="122"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="PAT_FER"
+[Lvl]
+Frm="969"
+Por="11"
+Def="806"
+Tec="445"
+Ata="193"
+Niv="637"

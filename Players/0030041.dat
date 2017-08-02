@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Diène"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Rec="6"
+Age="18"
+Pow="A"
+Fam="6"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="BKN_M-S"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="10"
+Def="645"
+Tec="330"
+Ata="96"
+Niv="488"

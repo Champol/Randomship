@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Schourbaji"
+Rol="MC"
+Pos="DM"
+Nac="1969"
+[Val]
+Rec="10"
+Age="31"
+Pow="E"
+Fam="10"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="COM_COR"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="19"
+Def="188"
+Tec="408"
+Ata="84"
+Niv="313"

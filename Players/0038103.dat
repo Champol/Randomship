@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Gould"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="174"
+Age="30"
+Pow="B"
+Fam="174"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="CHM_VEN"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="22"
+Def="152"
+Tec="448"
+Ata="836"
+Niv="655"

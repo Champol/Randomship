@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Hays"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="40"
+Day="13"
+Age="25"
+Pow="D"
+Fam="40"
+Les="17"
+Tra="2000"
+[2000]
+Sue="58000"
+Eqp="PAT_STF"
+[Lvl]
+Frm="974"
+Por="41"
+Def="220"
+Tec="678"
+Ata="448"
+Niv="561"

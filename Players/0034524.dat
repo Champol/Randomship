@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Cortázar"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="38"
+Day="13"
+Age="26"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="PAT_PAT"
+[Lvl]
+Frm="987"
+Por="23"
+Def="340"
+Tec="688"
+Ata="260"
+Niv="557"

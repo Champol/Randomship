@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Moody"
+Rol="DF"
+Pos="WB"
+Nac="1969"
+[Val]
+Rec="60"
+Day="13"
+Age="31"
+Pow="C"
+Fam="60"
+Les="0"
+Tra="2000"
+[2000]
+Sue="76000"
+Eqp="PAT_COR"
+[Lvl]
+Frm="973"
+Por="22"
+Def="660"
+Tec="327"
+Ata="270"
+Niv="580"

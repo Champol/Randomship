@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Ćorluka"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="296"
+Day="13"
+Age="23"
+Pow="B"
+Fam="296"
+Les="0"
+Tra="2000"
+[2000]
+Sue="513000"
+Eqp="COM_BGG"
+[Lvl]
+Frm="984"
+Por="11"
+Def="401"
+Tec="1002"
+Ata="140"
+Niv="735"

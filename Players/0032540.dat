@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Donev"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="85"
+Age="32"
+Pow="B"
+Fam="85"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="56000"
+Eqp="COM_CON"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="733"
+Def="194"
+Tec="265"
+Ata="48"
+Niv="557"

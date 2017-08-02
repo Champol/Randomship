@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Benveniste"
+Rol="MC"
+Pos="DM"
+Nac="1981"
+[Val]
+Rec="15"
+Day="13"
+Age="19"
+Pow="C"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="38000"
+Eqp="PAT_UNE"
+[Lvl]
+Frm="982"
+Por="19"
+Def="368"
+Tec="681"
+Ata="158"
+Niv="532"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Koshiba"
+Rol="DL"
+Pos="SS"
+Nac="1983"
+[Val]
+Age="17"
+Pow="E"
+Fam="0"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="BKN_ELH"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="36"
+Def="127"
+Tec="323"
+Ata="417"
+Niv="380"

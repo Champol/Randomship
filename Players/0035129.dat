@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Molteni"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="62"
+Age="28"
+Pow="D"
+Fam="62"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="94000"
+Eqp="PAT_OLI"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="31"
+Def="784"
+Tec="362"
+Ata="136"
+Niv="595"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Ostad-Asadi"
+Rol="DL"
+Pos="SS"
+Nac="1972"
+[Val]
+Rec="261"
+Age="28"
+Pow="C"
+Fam="261"
+Les="9"
+Tra="2000"
+Day="13"
+[2000]
+Sue="236000"
+Eqp="CHM_TRO"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="50"
+Def="114"
+Tec="573"
+Ata="739"
+Niv="668"

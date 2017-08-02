@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Upton"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="189"
+Age="30"
+Pow="C"
+Fam="189"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="192000"
+Eqp="CHM_GOT"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="21"
+Def="767"
+Tec="337"
+Ata="282"
+Niv="651"

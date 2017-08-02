@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.T. Cafrune"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="16"
+Day="13"
+Age="21"
+Pow="E"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="33000"
+Eqp="PAT_COR"
+[Lvl]
+Frm="979"
+Por="34"
+Def="344"
+Tec="666"
+Ata="198"
+Niv="523"

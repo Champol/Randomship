@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Duhalde"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="13"
+Age="20"
+Pow="D"
+Fam="13"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="32000"
+Eqp="COM_WAD"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="679"
+Def="272"
+Tec="190"
+Ata="36"
+Niv="521"

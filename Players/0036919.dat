@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Porozo"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="71"
+Day="13"
+Age="25"
+Pow="E"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="PAT_FEC"
+[Lvl]
+Frm="976"
+Por="770"
+Def="206"
+Tec="289"
+Ata="19"
+Niv="587"

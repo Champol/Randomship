@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Folliero"
+Rol="MC"
+Pos="AM"
+Nac="1972"
+[Val]
+Rec="86"
+Age="28"
+Pow="C"
+Fam="86"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="111000"
+Eqp="CHM_DRI"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="31"
+Def="110"
+Tec="823"
+Ata="338"
+Niv="609"

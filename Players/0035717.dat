@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.P. Kumagai"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="1027"
+Age="26"
+Pow="A"
+Fam="1027"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="1126000"
+Eqp="PAT_KEN"
+PCal="0"
+[Lvl]
+Frm="998"
+Por="38"
+Def="354"
+Tec="1082"
+Ata="306"
+Niv="812"

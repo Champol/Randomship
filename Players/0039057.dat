@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Moscarda"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="12"
+Day="13"
+Age="20"
+Pow="D"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="CHM_THU"
+[Lvl]
+Frm="970"
+Por="19"
+Def="99"
+Tec="396"
+Ata="652"
+Niv="516"

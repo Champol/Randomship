@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Mchunu"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="261"
+Age="24"
+Pow="C"
+Fam="261"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="228000"
+Eqp="PAT_PMP"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="21"
+Def="269"
+Tec="387"
+Ata="768"
+Niv="664"

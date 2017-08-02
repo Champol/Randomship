@@ -1,0 +1,23 @@
+[Inf]
+Nom="C.A. Albertelli"
+Rol="MC"
+Pos="DM"
+Nac="1970"
+[Val]
+Rec="95"
+Day="13"
+Age="30"
+Pow="B"
+Fam="95"
+Les="0"
+Tra="2000"
+[2000]
+Sue="113000"
+Eqp="COM_N-R"
+[Lvl]
+Frm="977"
+Por="6"
+Def="488"
+Tec="743"
+Ata="166"
+Niv="609"

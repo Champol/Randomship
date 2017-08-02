@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.H. Cremona"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="22"
+Day="13"
+Age="22"
+Pow="E"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="CHM_DEL"
+[Lvl]
+Frm="973"
+Por="17"
+Def="589"
+Tec="376"
+Ata="228"
+Niv="539"

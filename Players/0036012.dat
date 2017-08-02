@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Marma"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="257"
+Day="13"
+Age="29"
+Pow="B"
+Fam="257"
+Les="0"
+Tra="2000"
+[2000]
+Sue="279000"
+Eqp="PAT_SAL"
+[Lvl]
+Frm="972"
+Por="35"
+Def="231"
+Tec="460"
+Ata="868"
+Niv="682"

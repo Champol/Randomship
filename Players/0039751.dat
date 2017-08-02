@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Paladini"
+Rol="DL"
+Pos="SS"
+Nac="1969"
+[Val]
+Rec="30"
+Day="13"
+Age="31"
+Pow="C"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="CHM_SPE"
+[Lvl]
+Frm="988"
+Por="24"
+Def="196"
+Tec="572"
+Ata="468"
+Niv="526"

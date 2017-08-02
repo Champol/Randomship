@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Howard"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="460"
+Age="26"
+Pow="A"
+Fam="460"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="536000"
+Eqp="CHM_VDL"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="8"
+Def="155"
+Tec="426"
+Ata="992"
+Niv="740"

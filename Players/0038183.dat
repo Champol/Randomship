@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Carrizales"
+Rol="MC"
+Pos="WM"
+Nac="1983"
+[Val]
+Rec="1"
+Age="17"
+Pow="A"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="11000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="30"
+Def="175"
+Tec="498"
+Ata="339"
+Niv="461"

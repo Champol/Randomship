@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Allard"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="108"
+Age="22"
+Pow="C"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="110000"
+Eqp="PAT_VDK"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="15"
+Def="228"
+Tec="802"
+Ata="305"
+Niv="608"

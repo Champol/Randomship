@@ -1,0 +1,24 @@
+[Inf]
+Nom="X. Lerma"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="54"
+Age="21"
+Pow="C"
+Fam="54"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="61000"
+Eqp="COM_SAL"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="9"
+Def="584"
+Tec="362"
+Ata="356"
+Niv="564"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A.G. McFadden"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="369"
+Day="13"
+Age="22"
+Pow="A"
+Fam="369"
+Les="0"
+Tra="2000"
+[2000]
+Sue="554000"
+Eqp="PAT_FOL"
+[Lvl]
+Frm="973"
+Por="31"
+Def="848"
+Tec="465"
+Ata="295"
+Niv="743"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Tasielo"
+Rol="DF"
+Pos="WB"
+Nac="1969"
+[Val]
+Rec="72"
+Age="31"
+Pow="C"
+Fam="72"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="58000"
+Eqp="CHM_REC"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="44"
+Def="601"
+Tec="336"
+Ata="315"
+Niv="561"

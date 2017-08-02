@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Lăcătuș"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="107"
+Day="13"
+Age="21"
+Pow="C"
+Fam="107"
+Les="0"
+Tra="2000"
+[2000]
+Sue="176000"
+Eqp="COM_KAK"
+[Lvl]
+Frm="989"
+Por="13"
+Def="116"
+Tec="593"
+Ata="694"
+Niv="644"

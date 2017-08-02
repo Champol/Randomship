@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Arduino"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="900"
+Age="29"
+Pow="B"
+Fam="900"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="497000"
+Eqp="COM_PEL"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="947"
+Def="306"
+Tec="340"
+Ata="23"
+Niv="733"

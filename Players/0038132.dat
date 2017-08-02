@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Batlle"
+Rol="MC"
+Pos="DM"
+Nac="1975"
+[Val]
+Rec="114"
+Age="25"
+Pow="D"
+Fam="114"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="122000"
+Eqp="CHM_A20"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="8"
+Def="424"
+Tec="781"
+Ata="186"
+Niv="615"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.E. Segurola"
+Rol="MC"
+Pos="AM"
+Nac="1971"
+[Val]
+Rec="139"
+Age="29"
+Pow="C"
+Fam="139"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="97000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="32"
+Def="169"
+Tec="738"
+Ata="458"
+Niv="597"

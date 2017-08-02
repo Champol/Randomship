@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.L. Suffloni"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="353"
+Age="25"
+Pow="B"
+Fam="353"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="407000"
+Eqp="CHM_SDG"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="935"
+Def="304"
+Tec="325"
+Ata="2"
+Niv="715"

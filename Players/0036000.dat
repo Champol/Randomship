@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Chas"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="82"
+Day="13"
+Age="25"
+Pow="D"
+Fam="82"
+Les="0"
+Tra="2000"
+[2000]
+Sue="94000"
+Eqp="PAT_SAL"
+[Lvl]
+Frm="982"
+Por="46"
+Def="625"
+Tec="422"
+Ata="291"
+Niv="595"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Tsiklauri"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="231"
+Age="23"
+Pow="B"
+Fam="231"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="225000"
+Eqp="COM_SHO"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="39"
+Def="682"
+Tec="512"
+Ata="299"
+Niv="664"

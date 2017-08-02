@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Mahdi"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="222"
+Age="22"
+Pow="C"
+Fam="222"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="289000"
+Eqp="BKN_TEC"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="28"
+Def="946"
+Tec="371"
+Ata="81"
+Niv="685"

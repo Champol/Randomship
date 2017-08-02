@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Cataldi"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="44"
+Day="13"
+Age="21"
+Pow="D"
+Fam="44"
+Les="0"
+Tra="2000"
+[2000]
+Sue="62000"
+Eqp="CHM_AUL"
+[Lvl]
+Frm="983"
+Por="21"
+Def="292"
+Tec="584"
+Ata="403"
+Niv="565"

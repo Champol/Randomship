@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Berganza"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="78"
+Day="13"
+Age="25"
+Pow="C"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="COM_KAA"
+[Lvl]
+Frm="965"
+Por="32"
+Def="782"
+Tec="390"
+Ata="114"
+Niv="599"

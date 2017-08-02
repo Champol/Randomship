@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Bauer"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="24"
+Day="13"
+Age="21"
+Pow="E"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="COM_TOR"
+[Lvl]
+Frm="979"
+Por="21"
+Def="113"
+Tec="362"
+Ata="702"
+Niv="538"

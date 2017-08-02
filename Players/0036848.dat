@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Carril"
+Rol="MC"
+Pos="DM"
+Nac="1975"
+[Val]
+Rec="266"
+Age="25"
+Pow="D"
+Fam="266"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="269000"
+Eqp="PAT_CUL"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="3"
+Def="370"
+Tec="917"
+Ata="176"
+Niv="679"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Landman"
+Rol="MC"
+Pos="AM"
+Nac="1980"
+[Val]
+Rec="147"
+Age="20"
+Pow="A"
+Fam="147"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="172000"
+Eqp="CHM_VDL"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="32"
+Def="189"
+Tec="823"
+Ata="456"
+Niv="642"

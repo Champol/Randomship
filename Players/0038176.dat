@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Achával"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="234"
+Age="21"
+Pow="B"
+Fam="234"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="225000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="30"
+Def="288"
+Tec="767"
+Ata="383"
+Niv="667"

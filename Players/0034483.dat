@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Nichols"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="124"
+Day="13"
+Age="24"
+Pow="C"
+Fam="124"
+Les="0"
+Tra="2000"
+[2000]
+Sue="164000"
+Eqp="PAT_PMY"
+[Lvl]
+Frm="963"
+Por="840"
+Def="190"
+Tec="347"
+Ata="14"
+Niv="638"

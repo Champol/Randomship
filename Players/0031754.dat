@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Goya"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="1033"
+Age="27"
+Pow="B"
+Fam="1033"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="699000"
+Eqp="COM_SYL"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="48"
+Def="168"
+Tec="426"
+Ata="1032"
+Niv="764"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Jaureguiberry"
+Rol="MC"
+Pos="WM"
+Nac="1976"
+[Val]
+Rec="622"
+Day="13"
+Age="24"
+Pow="A"
+Fam="622"
+Les="0"
+Tra="2000"
+[2000]
+Sue="842000"
+Eqp="CHM_ZOT"
+[Lvl]
+Frm="988"
+Por="4"
+Def="420"
+Tec="827"
+Ata="508"
+Niv="783"

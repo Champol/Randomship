@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Rioseco"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="207"
+Day="13"
+Age="26"
+Pow="D"
+Fam="207"
+Les="0"
+Tra="2000"
+[2000]
+Sue="185000"
+Eqp="COM_SHI"
+[Lvl]
+Frm="972"
+Por="842"
+Def="211"
+Tec="372"
+Ata="1"
+Niv="648"

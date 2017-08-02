@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. De Cusatis"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="37"
+Day="13"
+Age="26"
+Pow="E"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="PAT_G-Y"
+[Lvl]
+Frm="986"
+Por="21"
+Def="153"
+Tec="495"
+Ata="585"
+Niv="555"

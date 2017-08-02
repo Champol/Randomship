@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Trevino"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="4"
+Age="27"
+Pow="E"
+Fam="4"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="16000"
+Eqp="COM_KIL"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="11"
+Def="165"
+Tec="258"
+Ata="633"
+Niv="477"

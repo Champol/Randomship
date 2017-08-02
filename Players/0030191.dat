@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Gusils"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="261"
+Day="13"
+Age="22"
+Pow="A"
+Fam="261"
+Les="0"
+Tra="2000"
+[2000]
+Sue="310000"
+Eqp="BKN_ZRT"
+[Lvl]
+Frm="982"
+Por="878"
+Def="378"
+Tec="312"
+Ata="8"
+Niv="691"

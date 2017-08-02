@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Guaresti"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="86"
+Day="13"
+Age="23"
+Pow="D"
+Fam="86"
+Les="0"
+Tra="2000"
+[2000]
+Sue="119000"
+Eqp="COM_MIR"
+[Lvl]
+Frm="969"
+Por="10"
+Def="659"
+Tec="384"
+Ata="342"
+Niv="614"

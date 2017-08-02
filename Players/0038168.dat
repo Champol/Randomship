@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Nishiyama"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Rec="11"
+Age="18"
+Pow="B"
+Fam="11"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="25000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="40"
+Def="662"
+Tec="336"
+Ata="93"
+Niv="507"

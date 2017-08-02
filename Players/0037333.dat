@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.C. Joyce"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="27"
+Age="21"
+Pow="E"
+Fam="27"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="44000"
+Eqp="PAT_FRI"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="14"
+Def="717"
+Tec="327"
+Ata="146"
+Niv="542"

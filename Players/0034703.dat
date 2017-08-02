@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Cormier"
+Rol="MC"
+Pos="DM"
+Nac="1968"
+[Val]
+Rec="12"
+Day="13"
+Age="32"
+Pow="E"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PAT_CSC"
+[Lvl]
+Frm="972"
+Por="50"
+Def="203"
+Tec="377"
+Ata="86"
+Niv="306"

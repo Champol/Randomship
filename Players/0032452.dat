@@ -1,0 +1,23 @@
+[Inf]
+Nom="X. Briere"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="88"
+Day="13"
+Age="23"
+Pow="D"
+Fam="88"
+Les="0"
+Tra="2000"
+[2000]
+Sue="116000"
+Eqp="COM_MED"
+[Lvl]
+Frm="969"
+Por="788"
+Def="298"
+Tec="261"
+Ata="30"
+Niv="611"

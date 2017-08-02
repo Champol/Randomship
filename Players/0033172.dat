@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Nell"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="90"
+Age="29"
+Pow="C"
+Fam="90"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="80000"
+Eqp="COM_CAT"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="42"
+Def="132"
+Tec="577"
+Ata="579"
+Niv="584"

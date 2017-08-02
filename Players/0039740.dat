@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Boykin"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="177"
+Day="13"
+Age="23"
+Pow="C"
+Fam="177"
+Les="0"
+Tra="2000"
+[2000]
+Sue="209000"
+Eqp="CHM_SPE"
+[Lvl]
+Frm="979"
+Por="5"
+Def="696"
+Tec="458"
+Ata="326"
+Niv="658"

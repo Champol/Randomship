@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Calcaño"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="118"
+Day="13"
+Age="29"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="156000"
+Eqp="COM_ARN"
+[Lvl]
+Frm="980"
+Por="15"
+Def="690"
+Tec="396"
+Ata="317"
+Niv="634"

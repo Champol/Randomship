@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Belamendia"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="206"
+Age="30"
+Pow="B"
+Fam="206"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="PAT_TOB"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="41"
+Def="627"
+Tec="511"
+Ata="284"
+Niv="629"

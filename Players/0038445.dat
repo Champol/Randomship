@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Pous"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="13"
+Day="13"
+Age="32"
+Pow="C"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="23000"
+Eqp="CHM_GRA"
+[Lvl]
+Frm="983"
+Por="27"
+Def="140"
+Tec="324"
+Ata="640"
+Niv="500"

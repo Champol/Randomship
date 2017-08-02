@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Skenandore"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="54"
+Day="13"
+Age="24"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="COM_ARN"
+[Lvl]
+Frm="979"
+Por="18"
+Def="310"
+Tec="766"
+Ata="240"
+Niv="592"

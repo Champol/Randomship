@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Líbano"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="99"
+Age="25"
+Pow="C"
+Fam="99"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="106000"
+Eqp="COM_SHU"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="20"
+Def="140"
+Tec="459"
+Ata="750"
+Niv="604"

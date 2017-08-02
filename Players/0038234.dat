@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Amatruda"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="866"
+Age="24"
+Pow="A"
+Fam="866"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="932000"
+Eqp="CHM_IMB"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="3"
+Def="468"
+Tec="1063"
+Ata="147"
+Niv="793"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Llona"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="261"
+Age="23"
+Pow="B"
+Fam="261"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="242000"
+Eqp="CHM_CHM"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="31"
+Def="870"
+Tec="422"
+Ata="253"
+Niv="670"

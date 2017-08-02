@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Drucka"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="76"
+Age="22"
+Pow="D"
+Fam="76"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="100000"
+Eqp="PAT_TIK"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="790"
+Def="238"
+Tec="274"
+Ata="4"
+Niv="600"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Licer"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="40"
+Day="13"
+Age="21"
+Pow="D"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="67000"
+Eqp="PAT_STF"
+[Lvl]
+Frm="969"
+Por="12"
+Def="758"
+Tec="356"
+Ata="99"
+Niv="571"

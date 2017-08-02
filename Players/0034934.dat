@@ -1,0 +1,24 @@
+[Inf]
+Nom="Ñ. Tiger"
+Rol="MC"
+Pos="WM"
+Nac="1969"
+[Val]
+Rec="2"
+Age="31"
+Pow="D"
+Fam="2"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="11000"
+Eqp="PAT_AGA"
+PCal="0"
+[Lvl]
+Frm="997"
+Por="7"
+Def="208"
+Tec="526"
+Ata="242"
+Niv="456"

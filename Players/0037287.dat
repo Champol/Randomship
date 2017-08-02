@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Danny"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="85"
+Age="29"
+Pow="C"
+Fam="85"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="80000"
+Eqp="PAT_VDK"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="46"
+Def="129"
+Tec="446"
+Ata="728"
+Niv="584"

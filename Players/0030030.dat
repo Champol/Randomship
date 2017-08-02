@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Ratti"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="140"
+Age="26"
+Pow="C"
+Fam="140"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="188000"
+Eqp="BKN_M-S"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="16"
+Def="387"
+Tec="850"
+Ata="229"
+Niv="649"

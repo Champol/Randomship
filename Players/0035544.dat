@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Monge"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="108"
+Age="23"
+Pow="D"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="PAT_SPP"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="45"
+Def="334"
+Tec="800"
+Ata="306"
+Niv="634"

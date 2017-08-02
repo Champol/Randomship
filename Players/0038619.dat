@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Licer"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="199"
+Age="24"
+Pow="C"
+Fam="199"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="170000"
+Eqp="CHM_CHM"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="25"
+Def="174"
+Tec="450"
+Ata="809"
+Niv="641"

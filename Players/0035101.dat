@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Lepe"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="186"
+Day="13"
+Age="23"
+Pow="A"
+Fam="186"
+Les="0"
+Tra="2000"
+[2000]
+Sue="279000"
+Eqp="PAT_SER"
+[Lvl]
+Frm="979"
+Por="16"
+Def="864"
+Tec="487"
+Ata="169"
+Niv="682"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Norambuena"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="200"
+Age="26"
+Pow="B"
+Fam="200"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="204000"
+Eqp="COM_SAL"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="828"
+Def="357"
+Tec="289"
+Ata="13"
+Niv="656"

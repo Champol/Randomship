@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Jarolím"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="54"
+Day="13"
+Age="29"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="60000"
+Eqp="CHM_WIT"
+[Lvl]
+Frm="966"
+Por="17"
+Def="294"
+Tec="760"
+Ata="141"
+Niv="562"

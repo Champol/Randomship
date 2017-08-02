@@ -1,0 +1,23 @@
+[Inf]
+Nom="A.G. Balbas"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="19"
+Day="13"
+Age="23"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="PAT_BAT"
+[Lvl]
+Frm="979"
+Por="14"
+Def="510"
+Tec="617"
+Ata="95"
+Niv="535"

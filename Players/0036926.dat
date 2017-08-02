@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Matsushige"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="104"
+Day="13"
+Age="25"
+Pow="D"
+Fam="104"
+Les="0"
+Tra="2000"
+[2000]
+Sue="125000"
+Eqp="PAT_FEC"
+[Lvl]
+Frm="976"
+Por="6"
+Def="651"
+Tec="422"
+Ata="309"
+Niv="617"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. DeMerit"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="102"
+Age="21"
+Pow="B"
+Fam="102"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="PAT_VDK"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="23"
+Def="322"
+Tec="801"
+Ata="256"
+Niv="618"

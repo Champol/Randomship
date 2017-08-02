@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Hirata"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="217"
+Day="13"
+Age="26"
+Pow="C"
+Fam="217"
+Les="0"
+Tra="2000"
+[2000]
+Sue="231000"
+Eqp="COM_N-R"
+[Lvl]
+Frm="970"
+Por="29"
+Def="699"
+Tec="442"
+Ata="366"
+Niv="667"

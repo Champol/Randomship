@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Payán"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="16"
+Day="13"
+Age="23"
+Pow="E"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="PAT_CHÑ"
+[Lvl]
+Frm="974"
+Por="50"
+Def="663"
+Tec="387"
+Ata="134"
+Niv="527"

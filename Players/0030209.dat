@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Wiid"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="107"
+Day="13"
+Age="32"
+Pow="B"
+Fam="107"
+Les="0"
+Tra="2000"
+[2000]
+Sue="91000"
+Eqp="BKN_ZRT"
+[Lvl]
+Frm="977"
+Por="2"
+Def="110"
+Tec="306"
+Ata="813"
+Niv="592"

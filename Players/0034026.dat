@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Lecocq"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="156"
+Day="13"
+Age="25"
+Pow="C"
+Fam="156"
+Les="0"
+Tra="2000"
+[2000]
+Sue="176000"
+Eqp="COM_W-U"
+[Lvl]
+Frm="972"
+Por="2"
+Def="830"
+Tec="410"
+Ata="230"
+Niv="644"

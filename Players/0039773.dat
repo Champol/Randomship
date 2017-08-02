@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Guillermón"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="58"
+Day="13"
+Age="23"
+Pow="C"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="CHM_DEL"
+[Lvl]
+Frm="986"
+Por="44"
+Def="336"
+Tec="570"
+Ata="438"
+Niv="582"

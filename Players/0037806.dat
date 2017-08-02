@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Marx"
+Rol="MC"
+Pos="CM"
+Nac="1981"
+[Val]
+Rec="32"
+Age="19"
+Pow="B"
+Fam="32"
+Les="13"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="CHM_P-C"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="9"
+Def="270"
+Tec="711"
+Ata="282"
+Niv="555"

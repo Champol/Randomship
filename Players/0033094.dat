@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Feeney"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="479"
+Age="22"
+Pow="B"
+Fam="479"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="508000"
+Eqp="COM_ASL"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="46"
+Def="834"
+Tec="413"
+Ata="369"
+Niv="735"

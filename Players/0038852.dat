@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Fujisaki"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="68"
+Age="21"
+Pow="C"
+Fam="68"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="75000"
+Eqp="CHM_AGH"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="6"
+Def="184"
+Tec="467"
+Ata="704"
+Niv="578"

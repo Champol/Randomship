@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Di Donato"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="57"
+Day="13"
+Age="20"
+Pow="C"
+Fam="57"
+Les="0"
+Tra="2000"
+[2000]
+Sue="95000"
+Eqp="COM_KHE"
+[Lvl]
+Frm="974"
+Por="49"
+Def="716"
+Tec="320"
+Ata="245"
+Niv="596"

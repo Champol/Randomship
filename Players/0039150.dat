@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Milanesi"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="60"
+Age="29"
+Pow="E"
+Fam="60"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="61000"
+Eqp="CHM_OCT"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="21"
+Def="380"
+Tec="725"
+Ata="111"
+Niv="564"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Gundersen"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="82"
+Day="13"
+Age="30"
+Pow="C"
+Fam="82"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="COM_MED"
+[Lvl]
+Frm="985"
+Por="36"
+Def="170"
+Tec="359"
+Ata="770"
+Niv="587"

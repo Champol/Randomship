@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Ferradas"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="248"
+Age="29"
+Pow="C"
+Fam="248"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="192000"
+Eqp="PAT_GSL"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="14"
+Def="310"
+Tec="853"
+Ata="244"
+Niv="651"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Kubo"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="76"
+Day="13"
+Age="25"
+Pow="D"
+Fam="76"
+Les="0"
+Tra="2000"
+[2000]
+Sue="95000"
+Eqp="COM_DOP"
+[Lvl]
+Frm="974"
+Por="14"
+Def="764"
+Tec="408"
+Ata="166"
+Niv="596"

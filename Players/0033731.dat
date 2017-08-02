@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Cianchi"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="229"
+Age="28"
+Pow="C"
+Fam="229"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="192000"
+Eqp="COM_TIT"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="40"
+Def="813"
+Tec="484"
+Ata="152"
+Niv="651"

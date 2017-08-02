@@ -1,0 +1,24 @@
+[Inf]
+Nom="Y. Catalán"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="88"
+Age="23"
+Pow="D"
+Fam="88"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="106000"
+Eqp="CHM_LOG"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="42"
+Def="801"
+Tec="385"
+Ata="84"
+Niv="604"

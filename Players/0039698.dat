@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.A. Latour"
+Rol="DL"
+Pos="WF"
+Nac="1969"
+[Val]
+Rec="421"
+Age="31"
+Pow="B"
+Fam="421"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="313000"
+Eqp="CHM_VDL"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="36"
+Def="363"
+Tec="385"
+Ata="772"
+Niv="692"

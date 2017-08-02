@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Isely"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="55"
+Age="21"
+Pow="D"
+Fam="55"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="70000"
+Eqp="CHM_BES"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="4"
+Def="224"
+Tec="328"
+Ata="677"
+Niv="574"

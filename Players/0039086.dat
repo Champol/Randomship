@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Jaime"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="56"
+Day="13"
+Age="26"
+Pow="E"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="81000"
+Eqp="CHM_FAN"
+[Lvl]
+Frm="964"
+Por="47"
+Def="146"
+Tec="358"
+Ata="762"
+Niv="584"

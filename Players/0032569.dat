@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Gil"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="532"
+Age="24"
+Pow="C"
+Fam="532"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="475000"
+Eqp="COM_B-P"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="966"
+Def="258"
+Tec="338"
+Ata="5"
+Niv="730"

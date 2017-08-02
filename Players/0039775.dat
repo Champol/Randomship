@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Adendorff"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="56"
+Day="13"
+Age="29"
+Pow="D"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="CHM_DEL"
+[Lvl]
+Frm="973"
+Por="50"
+Def="298"
+Tec="619"
+Ata="336"
+Niv="569"

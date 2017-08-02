@@ -1,0 +1,24 @@
+[Inf]
+Nom="M.A. Adriaan"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="166"
+Age="26"
+Pow="C"
+Fam="166"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="220000"
+Eqp="PAT_SPP"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="19"
+Def="690"
+Tec="495"
+Ata="290"
+Niv="662"

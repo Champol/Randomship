@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Aceves"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="77"
+Day="13"
+Age="23"
+Pow="D"
+Fam="77"
+Les="0"
+Tra="2000"
+[2000]
+Sue="100000"
+Eqp="BKN_M-P"
+[Lvl]
+Frm="976"
+Por="50"
+Def="637"
+Tec="435"
+Ata="272"
+Niv="600"

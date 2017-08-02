@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Salifou"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="138"
+Age="24"
+Pow="C"
+Fam="138"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="139000"
+Eqp="CHM_INF"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="801"
+Def="317"
+Tec="286"
+Ata="28"
+Niv="625"

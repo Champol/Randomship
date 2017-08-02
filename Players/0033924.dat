@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Urgel"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="404"
+Day="13"
+Age="23"
+Pow="A"
+Fam="404"
+Les="0"
+Tra="2000"
+[2000]
+Sue="578000"
+Eqp="COM_L-W"
+[Lvl]
+Frm="972"
+Por="11"
+Def="270"
+Tec="408"
+Ata="994"
+Niv="748"

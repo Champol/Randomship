@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Al-Masri"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="89"
+Age="24"
+Pow="C"
+Fam="89"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="135000"
+Eqp="COM_COC"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="18"
+Def="90"
+Tec="545"
+Ata="692"
+Niv="623"

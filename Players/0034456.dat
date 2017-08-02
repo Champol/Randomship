@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Di Livio"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="44"
+Age="20"
+Pow="C"
+Fam="44"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="56000"
+Eqp="PAT_TOB"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="32"
+Def="584"
+Tec="466"
+Ata="200"
+Niv="558"

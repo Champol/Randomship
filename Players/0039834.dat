@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Toril"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="17"
+Age="20"
+Pow="D"
+Fam="17"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="33000"
+Eqp="CHM_M-B"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="36"
+Def="218"
+Tec="689"
+Ata="225"
+Niv="522"

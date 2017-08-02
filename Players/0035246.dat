@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Imai"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="54"
+Day="13"
+Age="26"
+Pow="C"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="PAT_CHÑ"
+[Lvl]
+Frm="974"
+Por="30"
+Def="641"
+Tec="368"
+Ata="255"
+Niv="577"

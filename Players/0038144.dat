@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Tieu"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="185"
+Age="27"
+Pow="C"
+Fam="185"
+Les="11"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="CHM_ANG"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="45"
+Def="810"
+Tec="514"
+Ata="132"
+Niv="654"

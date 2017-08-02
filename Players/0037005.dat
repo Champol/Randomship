@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Saint"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="46"
+Age="26"
+Pow="C"
+Fam="46"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="51000"
+Eqp="PAT_PMP"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="709"
+Def="210"
+Tec="294"
+Ata="29"
+Niv="552"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Buckner"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="85"
+Age="20"
+Pow="B"
+Fam="85"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="122000"
+Eqp="PAT_PST"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="846"
+Def="197"
+Tec="234"
+Ata="1"
+Niv="615"

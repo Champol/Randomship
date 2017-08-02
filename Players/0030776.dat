@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Figueroa"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="28"
+Age="27"
+Pow="D"
+Fam="28"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="51000"
+Eqp="BKN_MAT"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="29"
+Def="622"
+Tec="328"
+Ata="258"
+Niv="551"

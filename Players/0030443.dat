@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Gisande"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="40"
+Day="13"
+Age="26"
+Pow="E"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="BKN_TAL"
+[Lvl]
+Frm="978"
+Por="15"
+Def="174"
+Tec="437"
+Ata="688"
+Niv="566"

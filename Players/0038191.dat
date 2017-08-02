@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Sakho"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="318"
+Age="24"
+Pow="B"
+Fam="318"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="292000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="22"
+Def="232"
+Tec="554"
+Ata="723"
+Niv="689"

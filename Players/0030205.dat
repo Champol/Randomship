@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Stankevičius"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="127"
+Day="13"
+Age="25"
+Pow="C"
+Fam="127"
+Les="0"
+Tra="2000"
+[2000]
+Sue="156000"
+Eqp="BKN_ZRT"
+[Lvl]
+Frm="981"
+Por="9"
+Def="90"
+Tec="794"
+Ata="483"
+Niv="634"

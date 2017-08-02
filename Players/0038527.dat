@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Duquesne"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="29"
+Age="20"
+Pow="B"
+Fam="29"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="CHM_C-W"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="24"
+Def="263"
+Tec="613"
+Ata="352"
+Niv="555"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Marais"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="67"
+Age="28"
+Pow="D"
+Fam="67"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="77000"
+Eqp="CHM_A20"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="762"
+Def="286"
+Tec="215"
+Ata="23"
+Niv="581"

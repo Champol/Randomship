@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Castelli"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="102"
+Day="13"
+Age="23"
+Pow="D"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="154000"
+Eqp="COM_N-O"
+[Lvl]
+Frm="968"
+Por="9"
+Def="320"
+Tec="823"
+Ata="241"
+Niv="633"

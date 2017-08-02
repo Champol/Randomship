@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Jameel"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="28"
+Day="13"
+Age="23"
+Pow="E"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="44000"
+Eqp="PAT_ELS"
+[Lvl]
+Frm="979"
+Por="50"
+Def="703"
+Tec="377"
+Ata="112"
+Niv="542"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.L. Teeling"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="195"
+Day="13"
+Age="23"
+Pow="D"
+Fam="195"
+Les="0"
+Tra="2000"
+[2000]
+Sue="251000"
+Eqp="CHM_DEL"
+[Lvl]
+Frm="974"
+Por="6"
+Def="207"
+Tec="926"
+Ata="248"
+Niv="673"

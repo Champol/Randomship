@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Haywood"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="61"
+Age="32"
+Pow="E"
+Fam="61"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="65000"
+Eqp="PAT_UNP"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="49"
+Def="759"
+Tec="327"
+Ata="109"
+Niv="568"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Vitale"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="274"
+Age="22"
+Pow="B"
+Fam="274"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="360000"
+Eqp="BKN_MEG"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="898"
+Def="309"
+Tec="382"
+Ata="37"
+Niv="704"

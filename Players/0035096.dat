@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Tiger"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="116"
+Day="13"
+Age="24"
+Pow="B"
+Fam="116"
+Les="0"
+Tra="2000"
+[2000]
+Sue="156000"
+Eqp="PAT_SER"
+[Lvl]
+Frm="974"
+Por="49"
+Def="824"
+Tec="420"
+Ata="151"
+Niv="634"

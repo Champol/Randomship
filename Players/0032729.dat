@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Stassen"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="97"
+Day="13"
+Age="23"
+Pow="C"
+Fam="97"
+Les="0"
+Tra="2000"
+[2000]
+Sue="148000"
+Eqp="COM_KAK"
+[Lvl]
+Frm="990"
+Por="40"
+Def="228"
+Tec="816"
+Ata="333"
+Niv="630"

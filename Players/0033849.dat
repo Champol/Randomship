@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Wassermann"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="6"
+Day="13"
+Age="19"
+Pow="D"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="21000"
+Eqp="COM_DOP"
+[Lvl]
+Frm="972"
+Por="6"
+Def="667"
+Tec="290"
+Ata="128"
+Niv="493"

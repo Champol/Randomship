@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Remón"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="164"
+Day="13"
+Age="22"
+Pow="D"
+Fam="164"
+Les="0"
+Tra="2000"
+[2000]
+Sue="228000"
+Eqp="CHM_DEL"
+[Lvl]
+Frm="977"
+Por="4"
+Def="233"
+Tec="888"
+Ata="288"
+Niv="666"

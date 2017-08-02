@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Cufré"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="118"
+Day="13"
+Age="24"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="COM_TOR"
+[Lvl]
+Frm="987"
+Por="37"
+Def="837"
+Tec="392"
+Ata="164"
+Niv="637"

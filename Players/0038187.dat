@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Spagnoletti"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="127"
+Age="29"
+Pow="C"
+Fam="127"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="84000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="14"
+Def="234"
+Tec="439"
+Ata="712"
+Niv="582"

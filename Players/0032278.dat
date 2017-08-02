@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. Kovalchuk"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="83"
+Age="23"
+Pow="D"
+Fam="83"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="135000"
+Eqp="COM_PEN"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="828"
+Def="264"
+Tec="238"
+Ata="46"
+Niv="623"

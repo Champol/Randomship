@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Bowman"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="99"
+Age="30"
+Pow="B"
+Fam="99"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="120000"
+Eqp="CHM_DIL"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="36"
+Def="620"
+Tec="432"
+Ata="349"
+Niv="614"

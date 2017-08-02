@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Utsubo"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="71"
+Day="13"
+Age="29"
+Pow="C"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="75000"
+Eqp="COM_MAB"
+[Lvl]
+Frm="974"
+Por="0"
+Def="643"
+Tec="341"
+Ata="286"
+Niv="579"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Veltman"
+Rol="DL"
+Pos="WF"
+Nac="1980"
+[Val]
+Rec="26"
+Age="20"
+Pow="D"
+Fam="26"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="41000"
+Eqp="COM_CDS"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="15"
+Def="289"
+Tec="349"
+Ata="570"
+Niv="536"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="V.M. Garrone"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="71"
+Age="27"
+Pow="D"
+Fam="71"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="99000"
+Eqp="BKN_NAZ"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="753"
+Def="294"
+Tec="316"
+Ata="16"
+Niv="599"

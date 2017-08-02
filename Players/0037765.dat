@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Daltern"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="5"
+Age="27"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="14000"
+Eqp="CHM_BES"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="23"
+Def="608"
+Tec="290"
+Ata="148"
+Niv="467"

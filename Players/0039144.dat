@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Amunátegui"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Rec="9"
+Age="18"
+Pow="C"
+Fam="9"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="23000"
+Eqp="CHM_OCT"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="33"
+Def="168"
+Tec="342"
+Ata="641"
+Niv="499"

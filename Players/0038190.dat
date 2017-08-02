@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Muramaru"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="100"
+Age="30"
+Pow="C"
+Fam="100"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="68000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="44"
+Def="746"
+Tec="344"
+Ata="176"
+Niv="568"

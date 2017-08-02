@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. De Molina"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="114"
+Day="13"
+Age="27"
+Pow="C"
+Fam="114"
+Les="0"
+Tra="2000"
+[2000]
+Sue="164000"
+Eqp="COM_MAB"
+[Lvl]
+Frm="975"
+Por="847"
+Def="280"
+Tec="231"
+Ata="17"
+Niv="638"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Hooper"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="19"
+Day="13"
+Age="20"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="PAT_DUQ"
+[Lvl]
+Frm="981"
+Por="21"
+Def="82"
+Tec="372"
+Ata="716"
+Niv="545"

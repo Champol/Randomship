@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Shu"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="418"
+Day="13"
+Age="27"
+Pow="C"
+Fam="418"
+Les="0"
+Tra="2000"
+[2000]
+Sue="368000"
+Eqp="COM_GUL"
+[Lvl]
+Frm="998"
+Por="13"
+Def="993"
+Tec="309"
+Ata="180"
+Niv="706"

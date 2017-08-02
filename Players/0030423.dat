@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Diale"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="1"
+Day="13"
+Age="32"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="BKN_TAL"
+[Lvl]
+Frm="980"
+Por="451"
+Def="177"
+Tec="157"
+Ata="33"
+Niv="354"

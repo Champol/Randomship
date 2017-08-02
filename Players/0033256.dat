@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. César"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="49"
+Day="13"
+Age="24"
+Pow="E"
+Fam="49"
+Les="0"
+Tra="2000"
+[2000]
+Sue="77000"
+Eqp="COM_EAS"
+[Lvl]
+Frm="993"
+Por="38"
+Def="236"
+Tec="574"
+Ata="561"
+Niv="581"

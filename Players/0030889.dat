@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Durquety"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="24"
+Age="21"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="36000"
+Eqp="BKN_TUT"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="5"
+Def="656"
+Tec="420"
+Ata="119"
+Niv="528"

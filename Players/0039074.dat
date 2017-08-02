@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. England"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="11"
+Day="13"
+Age="22"
+Pow="E"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="CHM_FAN"
+[Lvl]
+Frm="980"
+Por="12"
+Def="570"
+Tec="334"
+Ata="238"
+Niv="516"

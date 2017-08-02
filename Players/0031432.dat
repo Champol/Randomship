@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Yong-Soo"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="63"
+Day="13"
+Age="30"
+Pow="C"
+Fam="63"
+Les="0"
+Tra="2000"
+[2000]
+Sue="72000"
+Eqp="COM_N-O"
+[Lvl]
+Frm="985"
+Por="8"
+Def="250"
+Tec="468"
+Ata="578"
+Niv="576"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Villarejo"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="88"
+Age="22"
+Pow="C"
+Fam="88"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="CHM_TRA"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="49"
+Def="811"
+Tec="380"
+Ata="142"
+Niv="612"

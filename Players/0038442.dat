@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Khalef"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="78"
+Day="13"
+Age="23"
+Pow="C"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="106000"
+Eqp="CHM_GRA"
+[Lvl]
+Frm="970"
+Por="24"
+Def="324"
+Tec="680"
+Ata="334"
+Niv="604"

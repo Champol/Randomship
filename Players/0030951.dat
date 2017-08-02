@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Puzio"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="55"
+Day="13"
+Age="26"
+Pow="C"
+Fam="55"
+Les="0"
+Tra="2000"
+[2000]
+Sue="69000"
+Eqp="BKN_COR"
+[Lvl]
+Frm="974"
+Por="35"
+Def="699"
+Tec="462"
+Ata="150"
+Niv="572"

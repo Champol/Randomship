@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Gundersen"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="250"
+Age="24"
+Pow="D"
+Fam="250"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="204000"
+Eqp="PAT_SEM"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="42"
+Def="242"
+Tec="418"
+Ata="846"
+Niv="656"

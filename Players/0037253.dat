@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Nebra"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="815"
+Age="27"
+Pow="A"
+Fam="815"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="868000"
+Eqp="PAT_CHP"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="42"
+Def="432"
+Tec="784"
+Ata="592"
+Niv="786"

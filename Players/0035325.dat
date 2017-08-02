@@ -1,0 +1,23 @@
+[Inf]
+Nom="Ñ. Blanchard"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="219"
+Day="13"
+Age="24"
+Pow="C"
+Fam="219"
+Les="0"
+Tra="2000"
+[2000]
+Sue="269000"
+Eqp="PAT_DOR"
+[Lvl]
+Frm="981"
+Por="892"
+Def="365"
+Tec="218"
+Ata="38"
+Niv="680"

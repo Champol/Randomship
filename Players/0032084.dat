@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Banik"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="62"
+Age="23"
+Pow="D"
+Fam="62"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="74000"
+Eqp="COM_SIL"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="13"
+Def="720"
+Tec="460"
+Ata="90"
+Niv="578"

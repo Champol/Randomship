@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Melliti"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="177"
+Age="24"
+Pow="C"
+Fam="177"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="183000"
+Eqp="CHM_OCT"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="10"
+Def="692"
+Tec="433"
+Ata="315"
+Niv="647"

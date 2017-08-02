@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Palomares"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="65"
+Day="13"
+Age="24"
+Pow="E"
+Fam="65"
+Les="0"
+Tra="2000"
+[2000]
+Sue="100000"
+Eqp="PAT_CHÑ"
+[Lvl]
+Frm="959"
+Por="770"
+Def="269"
+Tec="303"
+Ata="18"
+Niv="600"

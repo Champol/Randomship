@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Rooney"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="34"
+Day="13"
+Age="24"
+Pow="D"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="BKN_M-P"
+[Lvl]
+Frm="976"
+Por="5"
+Def="142"
+Tec="411"
+Ata="717"
+Niv="567"

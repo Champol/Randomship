@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Omeruo"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="264"
+Day="13"
+Age="28"
+Pow="B"
+Fam="264"
+Les="0"
+Tra="2000"
+[2000]
+Sue="260000"
+Eqp="COM_KHE"
+[Lvl]
+Frm="980"
+Por="12"
+Def="386"
+Tec="848"
+Ata="315"
+Niv="676"

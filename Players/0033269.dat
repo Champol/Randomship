@@ -1,0 +1,24 @@
+[Inf]
+Nom="A.G. Brid"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="195"
+Age="21"
+Pow="A"
+Fam="195"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="248000"
+Eqp="COM_OTT"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="14"
+Def="873"
+Tec="436"
+Ata="242"
+Niv="672"

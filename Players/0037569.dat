@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Camou"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="385"
+Day="13"
+Age="29"
+Pow="A"
+Fam="385"
+Les="0"
+Tra="2000"
+[2000]
+Sue="403000"
+Eqp="PAT_PGZ"
+[Lvl]
+Frm="981"
+Por="46"
+Def="480"
+Tec="914"
+Ata="204"
+Niv="715"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.A. Febrer"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="161"
+Age="23"
+Pow="A"
+Fam="161"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="179000"
+Eqp="CHM_C-V"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="27"
+Def="400"
+Tec="629"
+Ata="483"
+Niv="645"

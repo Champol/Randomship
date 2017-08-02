@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Moody"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="13"
+Day="13"
+Age="28"
+Pow="D"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="26000"
+Eqp="PAT_LMP"
+[Lvl]
+Frm="959"
+Por="672"
+Def="219"
+Tec="198"
+Ata="22"
+Niv="508"

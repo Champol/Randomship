@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Bosco"
+Rol="MC"
+Pos="WM"
+Nac="1982"
+[Val]
+Age="18"
+Pow="D"
+Fam="0"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="COM_SHK"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="45"
+Def="216"
+Tec="481"
+Ata="266"
+Niv="431"

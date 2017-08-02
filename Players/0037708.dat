@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.T. Alves"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="97"
+Day="13"
+Age="27"
+Pow="D"
+Fam="97"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="CHM_ZOT"
+[Lvl]
+Frm="965"
+Por="41"
+Def="814"
+Tec="331"
+Ata="116"
+Niv="599"

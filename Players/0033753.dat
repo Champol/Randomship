@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Mahouvé"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Rec="61"
+Age="30"
+Pow="B"
+Fam="61"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="59000"
+Eqp="COM_TIT"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="23"
+Def="210"
+Tec="580"
+Ata="442"
+Niv="562"

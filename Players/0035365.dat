@@ -1,0 +1,23 @@
+[Inf]
+Nom="M.A. Boutros"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="194"
+Day="13"
+Age="22"
+Pow="C"
+Fam="194"
+Les="0"
+Tra="2000"
+[2000]
+Sue="310000"
+Eqp="PAT_DUQ"
+[Lvl]
+Frm="980"
+Por="27"
+Def="446"
+Tec="906"
+Ata="154"
+Niv="691"

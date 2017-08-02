@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.F. Hine"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="263"
+Age="28"
+Pow="C"
+Fam="263"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="204000"
+Eqp="PAT_ASA"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="35"
+Def="169"
+Tec="546"
+Ata="792"
+Niv="656"

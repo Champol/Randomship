@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Leoni"
+Rol="MC"
+Pos="DM"
+Nac="1983"
+[Val]
+Age="17"
+Pow="C"
+Fam="0"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PAT_POL"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="38"
+Def="357"
+Tec="542"
+Ata="107"
+Niv="437"

@@ -1,0 +1,22 @@
+[Inf]
+Nom="S. Guimaraes"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="COM_S-R"
+[Lvl]
+Frm="970"
+Por="12"
+Def="565"
+Tec="324"
+Ata="139"
+Niv="446"

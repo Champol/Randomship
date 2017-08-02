@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Ninis"
+Rol="MC"
+Pos="AM"
+Nac="1972"
+[Val]
+Rec="594"
+Age="28"
+Pow="A"
+Fam="594"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="610000"
+Eqp="COM_CEB"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="1"
+Def="146"
+Tec="971"
+Ata="516"
+Niv="751"

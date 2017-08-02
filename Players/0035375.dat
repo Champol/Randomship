@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Martiarena"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="199"
+Day="13"
+Age="30"
+Pow="B"
+Fam="199"
+Les="0"
+Tra="2000"
+[2000]
+Sue="220000"
+Eqp="PAT_DUQ"
+[Lvl]
+Frm="975"
+Por="19"
+Def="161"
+Tec="347"
+Ata="904"
+Niv="662"

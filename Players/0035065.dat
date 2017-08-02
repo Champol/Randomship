@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Pallete"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="40"
+Day="13"
+Age="21"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="72000"
+Eqp="PAT_ABO"
+[Lvl]
+Frm="977"
+Por="38"
+Def="622"
+Tec="367"
+Ata="304"
+Niv="576"

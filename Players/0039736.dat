@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.F. Gericke"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="118"
+Day="13"
+Age="23"
+Pow="D"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="146000"
+Eqp="CHM_SPE"
+[Lvl]
+Frm="996"
+Por="17"
+Def="794"
+Tec="482"
+Ata="109"
+Niv="630"

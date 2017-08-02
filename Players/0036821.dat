@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Mene"
+Rol="DL"
+Pos="CF"
+Nac="1969"
+[Val]
+Rec="199"
+Age="31"
+Pow="C"
+Fam="199"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="152000"
+Eqp="PAT_RUS"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="6"
+Def="118"
+Tec="376"
+Ata="840"
+Niv="632"

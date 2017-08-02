@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Cerezo"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="245"
+Day="13"
+Age="24"
+Pow="D"
+Fam="245"
+Les="0"
+Tra="2000"
+[2000]
+Sue="321000"
+Eqp="PAT_ABO"
+[Lvl]
+Frm="977"
+Por="4"
+Def="357"
+Tec="453"
+Ata="744"
+Niv="694"

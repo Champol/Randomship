@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Mauyou"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Age="17"
+Pow="C"
+Fam="0"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PAT_VEG"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="6"
+Def="522"
+Tec="341"
+Ata="181"
+Niv="427"

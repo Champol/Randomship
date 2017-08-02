@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Draper"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="164"
+Age="26"
+Pow="B"
+Fam="164"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="204000"
+Eqp="BKN_MEG"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="41"
+Def="192"
+Tec="518"
+Ata="748"
+Niv="656"

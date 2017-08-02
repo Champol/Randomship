@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Lindstroem"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="301"
+Age="25"
+Pow="C"
+Fam="301"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="299000"
+Eqp="PAT_COS"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="35"
+Def="133"
+Tec="467"
+Ata="896"
+Niv="689"

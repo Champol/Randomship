@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Giménez"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="65"
+Age="20"
+Pow="A"
+Fam="65"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="74000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="707"
+Def="368"
+Tec="298"
+Ata="3"
+Niv="581"

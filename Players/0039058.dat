@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Blanchet"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="161"
+Day="13"
+Age="28"
+Pow="B"
+Fam="161"
+Les="0"
+Tra="2000"
+[2000]
+Sue="176000"
+Eqp="CHM_THU"
+[Lvl]
+Frm="974"
+Por="36"
+Def="131"
+Tec="462"
+Ata="820"
+Niv="644"

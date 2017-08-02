@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Kagawa"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="44"
+Age="21"
+Pow="D"
+Fam="44"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="54000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="709"
+Def="288"
+Tec="271"
+Ata="44"
+Niv="560"

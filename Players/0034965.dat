@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Sellimi"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="7"
+Age="29"
+Pow="E"
+Fam="7"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="PAT_ATS"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="29"
+Def="128"
+Tec="318"
+Ata="622"
+Niv="487"

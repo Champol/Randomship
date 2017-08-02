@@ -1,0 +1,22 @@
+[Inf]
+Nom="I. Meleán"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="CHM_FAN"
+[Lvl]
+Frm="966"
+Por="518"
+Def="161"
+Tec="229"
+Ata="6"
+Niv="402"

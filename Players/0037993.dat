@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Molloy"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="507"
+Age="22"
+Pow="A"
+Fam="507"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="554000"
+Eqp="CHM_ESC"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="962"
+Def="332"
+Tec="347"
+Ata="19"
+Niv="743"

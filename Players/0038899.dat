@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Michaux"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="203"
+Age="27"
+Pow="C"
+Fam="203"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="251000"
+Eqp="CHM_VAL"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="39"
+Def="730"
+Tec="373"
+Ata="412"
+Niv="673"

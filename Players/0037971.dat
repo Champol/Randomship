@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Brande"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="179"
+Day="13"
+Age="23"
+Pow="C"
+Fam="179"
+Les="0"
+Tra="2000"
+[2000]
+Sue="245000"
+Eqp="CHM_AUL"
+[Lvl]
+Frm="984"
+Por="5"
+Def="892"
+Tec="414"
+Ata="152"
+Niv="671"

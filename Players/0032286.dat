@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Pirozzi"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="22"
+Age="23"
+Pow="D"
+Fam="22"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="42000"
+Eqp="COM_PEN"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="17"
+Def="694"
+Tec="361"
+Ata="129"
+Niv="538"

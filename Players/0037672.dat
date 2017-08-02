@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Iperique"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="106"
+Age="23"
+Pow="C"
+Fam="106"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="CHM_TRA"
+PCal="0"
+[Lvl]
+Frm="966"
+Por="787"
+Def="208"
+Tec="368"
+Ata="37"
+Niv="612"

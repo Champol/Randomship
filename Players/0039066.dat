@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Apodaca"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="387"
+Day="13"
+Age="24"
+Pow="C"
+Fam="387"
+Les="0"
+Tra="2000"
+[2000]
+Sue="491000"
+Eqp="CHM_FAN"
+[Lvl]
+Frm="972"
+Por="977"
+Def="304"
+Tec="264"
+Ata="33"
+Niv="732"

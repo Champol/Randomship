@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. De Cusatis"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="190"
+Age="23"
+Pow="C"
+Fam="190"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="299000"
+Eqp="COM_DOR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="33"
+Def="137"
+Tec="450"
+Ata="902"
+Niv="688"

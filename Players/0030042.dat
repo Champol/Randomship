@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Arizu"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="50"
+Age="23"
+Pow="E"
+Fam="50"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="71000"
+Eqp="BKN_M-S"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="43"
+Def="742"
+Tec="392"
+Ata="124"
+Niv="575"

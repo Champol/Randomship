@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Damonte"
+Rol="DL"
+Pos="WF"
+Nac="1982"
+[Val]
+Rec="7"
+Day="13"
+Age="18"
+Pow="A"
+Fam="7"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="PAT_SAL"
+[Lvl]
+Frm="956"
+Por="30"
+Def="277"
+Tec="318"
+Ata="549"
+Niv="505"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Curuchet"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="278"
+Day="13"
+Age="26"
+Pow="B"
+Fam="278"
+Les="0"
+Tra="2000"
+[2000]
+Sue="313000"
+Eqp="COM_N-R"
+[Lvl]
+Frm="986"
+Por="9"
+Def="918"
+Tec="412"
+Ata="174"
+Niv="692"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Sakurai"
+Rol="DF"
+Pos="WB"
+Nac="1981"
+[Val]
+Rec="39"
+Age="19"
+Pow="A"
+Fam="39"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="55000"
+Eqp="PAT_CHK"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="0"
+Def="609"
+Tec="363"
+Ata="278"
+Niv="557"

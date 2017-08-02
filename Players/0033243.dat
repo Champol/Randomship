@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.C. Uzoenyi"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="37"
+Day="13"
+Age="20"
+Pow="C"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="66000"
+Eqp="COM_EAS"
+[Lvl]
+Frm="982"
+Por="43"
+Def="760"
+Tec="343"
+Ata="160"
+Niv="570"

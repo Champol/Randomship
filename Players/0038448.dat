@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Baştürk"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="90"
+Day="13"
+Age="26"
+Pow="B"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="100000"
+Eqp="CHM_GRA"
+[Lvl]
+Frm="985"
+Por="14"
+Def="375"
+Tec="396"
+Ata="618"
+Niv="600"

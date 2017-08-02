@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Naik"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="24"
+Day="13"
+Age="23"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="44000"
+Eqp="CHM_TOP"
+[Lvl]
+Frm="978"
+Por="38"
+Def="725"
+Tec="324"
+Ata="112"
+Niv="541"

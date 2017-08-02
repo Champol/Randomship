@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Derombie"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="289"
+Age="26"
+Pow="B"
+Fam="289"
+Les="8"
+Tra="2000"
+Day="13"
+[2000]
+Sue="215000"
+Eqp="PAT_PPH"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="27"
+Def="879"
+Tec="396"
+Ata="130"
+Niv="661"

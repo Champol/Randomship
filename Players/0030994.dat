@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Van Den Berg"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="95"
+Age="26"
+Pow="E"
+Fam="95"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="BKN_MEG"
+PCal="0"
+[Lvl]
+Frm="966"
+Por="37"
+Def="168"
+Tec="430"
+Ata="784"
+Niv="616"

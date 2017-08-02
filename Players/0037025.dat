@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Sancines"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="230"
+Age="23"
+Pow="B"
+Fam="230"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="299000"
+Eqp="PAT_PMP"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="25"
+Def="267"
+Tec="613"
+Ata="725"
+Niv="688"

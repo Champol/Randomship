@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Renard"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="298"
+Day="13"
+Age="23"
+Pow="B"
+Fam="298"
+Les="0"
+Tra="2000"
+[2000]
+Sue="394000"
+Eqp="PAT_LMP"
+[Lvl]
+Frm="979"
+Por="935"
+Def="350"
+Tec="268"
+Ata="7"
+Niv="712"

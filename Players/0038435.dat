@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Cufré"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="46"
+Day="13"
+Age="23"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="CHM_GRA"
+[Lvl]
+Frm="978"
+Por="11"
+Def="612"
+Tec="388"
+Ata="302"
+Niv="577"

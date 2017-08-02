@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Fagan"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="23"
+Age="23"
+Pow="E"
+Fam="23"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="37000"
+Eqp="COM_MOO"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="21"
+Def="558"
+Tec="364"
+Ata="273"
+Niv="529"

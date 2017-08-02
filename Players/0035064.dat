@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Ciampoli"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="10"
+Day="13"
+Age="30"
+Pow="D"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="21000"
+Eqp="PAT_ABO"
+[Lvl]
+Frm="993"
+Por="611"
+Def="256"
+Tec="274"
+Ata="24"
+Niv="494"

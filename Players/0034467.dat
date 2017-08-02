@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Torre"
+Rol="MC"
+Pos="AM"
+Nac="1973"
+[Val]
+Rec="199"
+Age="27"
+Pow="C"
+Fam="199"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="PAT_TOB"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="22"
+Def="120"
+Tec="811"
+Ata="450"
+Niv="634"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Hsieh"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="24"
+Age="29"
+Pow="D"
+Fam="24"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="40000"
+Eqp="CHM_WOR"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="1"
+Def="284"
+Tec="693"
+Ata="202"
+Niv="535"

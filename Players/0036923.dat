@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Perel"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="199"
+Day="13"
+Age="32"
+Pow="A"
+Fam="199"
+Les="0"
+Tra="2000"
+[2000]
+Sue="172000"
+Eqp="PAT_FEC"
+[Lvl]
+Frm="983"
+Por="0"
+Def="852"
+Tec="365"
+Ata="189"
+Niv="641"

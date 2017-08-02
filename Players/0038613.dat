@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Elletti"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="58"
+Age="20"
+Pow="D"
+Fam="58"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="64000"
+Eqp="CHM_CHM"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="11"
+Def="250"
+Tec="605"
+Ata="404"
+Niv="567"

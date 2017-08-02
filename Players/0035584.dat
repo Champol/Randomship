@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Landaburu"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="116"
+Day="13"
+Age="22"
+Pow="D"
+Fam="116"
+Les="0"
+Tra="2000"
+[2000]
+Sue="150000"
+Eqp="PAT_LMP"
+[Lvl]
+Frm="972"
+Por="818"
+Def="368"
+Tec="224"
+Ata="39"
+Niv="631"

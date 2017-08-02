@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Corrales"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="99"
+Age="27"
+Pow="E"
+Fam="99"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="PAT_TBU"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="11"
+Def="300"
+Tec="652"
+Ata="426"
+Niv="617"

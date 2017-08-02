@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Escober"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="80"
+Day="13"
+Age="23"
+Pow="D"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="PAT_G-Y"
+[Lvl]
+Frm="980"
+Por="23"
+Def="171"
+Tec="396"
+Ata="776"
+Niv="599"

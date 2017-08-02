@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Theobald"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="117"
+Age="27"
+Pow="C"
+Fam="117"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="CHM_P-R"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="8"
+Def="622"
+Tec="444"
+Ata="313"
+Niv="612"

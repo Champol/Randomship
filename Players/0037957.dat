@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Molinero"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="164"
+Age="24"
+Pow="D"
+Fam="164"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="CHM_C-V"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="46"
+Def="108"
+Tec="356"
+Ata="862"
+Niv="634"

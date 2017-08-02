@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Maniche"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="186"
+Age="19"
+Pow="B"
+Fam="186"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="PAT_VDK"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="9"
+Def="878"
+Tec="393"
+Ata="85"
+Niv="650"

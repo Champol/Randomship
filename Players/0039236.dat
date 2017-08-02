@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Abt"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="82"
+Day="13"
+Age="23"
+Pow="C"
+Fam="82"
+Les="0"
+Tra="2000"
+[2000]
+Sue="111000"
+Eqp="CHM_TRI"
+[Lvl]
+Frm="982"
+Por="47"
+Def="822"
+Tec="329"
+Ata="155"
+Niv="608"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Camogli"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="140"
+Age="22"
+Pow="B"
+Fam="140"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="154000"
+Eqp="BKN_BAR"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="21"
+Def="726"
+Tec="368"
+Ata="275"
+Niv="633"

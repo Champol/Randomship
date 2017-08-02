@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Paliza"
+Rol="MC"
+Pos="DM"
+Nac="1982"
+[Val]
+Age="18"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CHM_INF"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="31"
+Def="344"
+Tec="551"
+Ata="86"
+Niv="436"

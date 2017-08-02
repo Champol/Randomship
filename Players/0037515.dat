@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Sang-Chul"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="266"
+Age="29"
+Pow="C"
+Fam="266"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="192000"
+Eqp="PAT_ÑAM"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="1"
+Def="314"
+Tec="869"
+Ata="198"
+Niv="651"

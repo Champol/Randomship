@@ -1,0 +1,22 @@
+[Inf]
+Nom="H. Guillestegui"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PAT_G-Y"
+[Lvl]
+Frm="968"
+Por="521"
+Def="253"
+Tec="190"
+Ata="47"
+Niv="410"

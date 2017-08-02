@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Sasso"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="488"
+Day="13"
+Age="25"
+Pow="B"
+Fam="488"
+Les="0"
+Tra="2000"
+[2000]
+Sue="623000"
+Eqp="COM_MIR"
+[Lvl]
+Frm="973"
+Por="36"
+Def="966"
+Tec="510"
+Ata="194"
+Niv="754"

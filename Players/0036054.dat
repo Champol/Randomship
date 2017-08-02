@@ -1,0 +1,22 @@
+[Inf]
+Nom="L. Baliero"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PAT_ENT"
+[Lvl]
+Frm="970"
+Por="48"
+Def="548"
+Tec="254"
+Ata="157"
+Niv="412"

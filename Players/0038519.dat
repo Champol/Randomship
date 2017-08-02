@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Blanca"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="168"
+Age="23"
+Pow="C"
+Fam="168"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="202000"
+Eqp="CHM_C-W"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="47"
+Def="862"
+Tec="414"
+Ata="143"
+Niv="654"

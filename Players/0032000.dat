@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Pierri"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="66"
+Day="13"
+Age="23"
+Pow="D"
+Fam="66"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="COM_HOB"
+[Lvl]
+Frm="984"
+Por="39"
+Def="233"
+Tec="800"
+Ata="246"
+Niv="599"

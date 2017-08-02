@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Gardewez"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="290"
+Day="13"
+Age="23"
+Pow="A"
+Fam="290"
+Les="0"
+Tra="2000"
+[2000]
+Sue="360000"
+Eqp="CHM_TOP"
+[Lvl]
+Frm="993"
+Por="44"
+Def="904"
+Tec="492"
+Ata="136"
+Niv="704"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Maiz"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="39"
+Day="13"
+Age="23"
+Pow="E"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="59000"
+Eqp="PAT_ELS"
+[Lvl]
+Frm="968"
+Por="44"
+Def="212"
+Tec="734"
+Ata="282"
+Niv="562"

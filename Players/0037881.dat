@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Kazemian"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="141"
+Age="25"
+Pow="C"
+Fam="141"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="209000"
+Eqp="CHM_LOG"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="37"
+Def="728"
+Tec="459"
+Ata="234"
+Niv="658"

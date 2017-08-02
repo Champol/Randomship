@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Xulu"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="153"
+Age="28"
+Pow="C"
+Fam="153"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="148000"
+Eqp="BKN_KUL"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="21"
+Def="241"
+Tec="810"
+Ata="336"
+Niv="630"

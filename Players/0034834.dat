@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.C. De Saavedra"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="287"
+Age="24"
+Pow="D"
+Fam="287"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="257000"
+Eqp="PAT_SEM"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="3"
+Def="895"
+Tec="424"
+Ata="114"
+Niv="675"

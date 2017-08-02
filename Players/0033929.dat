@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Koshiba"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="86"
+Day="13"
+Age="23"
+Pow="C"
+Fam="86"
+Les="0"
+Tra="2000"
+[2000]
+Sue="104000"
+Eqp="COM_L-W"
+[Lvl]
+Frm="1001"
+Por="766"
+Def="297"
+Tec="291"
+Ata="36"
+Niv="603"

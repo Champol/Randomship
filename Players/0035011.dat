@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Beckham"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="97"
+Age="24"
+Pow="B"
+Fam="97"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="PAT_U-P"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="18"
+Def="660"
+Tec="423"
+Ata="338"
+Niv="628"

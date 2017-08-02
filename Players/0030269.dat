@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Yam"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="462"
+Age="25"
+Pow="C"
+Fam="462"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="426000"
+Eqp="BKN_BAR"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="47"
+Def="207"
+Tec="519"
+Ata="904"
+Niv="719"

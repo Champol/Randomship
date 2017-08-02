@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Ngcobo"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="121"
+Day="13"
+Age="22"
+Pow="C"
+Fam="121"
+Les="0"
+Tra="2000"
+[2000]
+Sue="207000"
+Eqp="COM_MAB"
+[Lvl]
+Frm="989"
+Por="39"
+Def="342"
+Tec="744"
+Ata="366"
+Niv="657"

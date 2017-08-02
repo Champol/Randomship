@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Simonsen"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="413"
+Age="27"
+Pow="A"
+Fam="413"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="394000"
+Eqp="COM_CAT"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="8"
+Def="906"
+Tec="508"
+Ata="158"
+Niv="712"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Sarciat"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="22"
+Day="13"
+Age="24"
+Pow="D"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="CHM_GRA"
+[Lvl]
+Frm="971"
+Por="49"
+Def="703"
+Tec="354"
+Ata="85"
+Niv="535"

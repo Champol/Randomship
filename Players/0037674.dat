@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Sōma"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="43"
+Age="20"
+Pow="C"
+Fam="43"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="65000"
+Eqp="CHM_TRA"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="773"
+Def="264"
+Tec="174"
+Ata="5"
+Niv="568"

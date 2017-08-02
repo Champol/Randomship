@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Inkoom"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="110"
+Day="13"
+Age="26"
+Pow="C"
+Fam="110"
+Les="0"
+Tra="2000"
+[2000]
+Sue="132000"
+Eqp="PAT_FEC"
+[Lvl]
+Frm="967"
+Por="35"
+Def="219"
+Tec="430"
+Ata="781"
+Niv="621"

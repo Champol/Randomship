@@ -1,0 +1,22 @@
+[Inf]
+Nom="H. Whiteeagle"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="COM_W-U"
+[Lvl]
+Frm="967"
+Por="39"
+Def="471"
+Tec="222"
+Ata="203"
+Niv="407"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Nordenstahl"
+Rol="MC"
+Pos="DM"
+Nac="1970"
+[Val]
+Rec="106"
+Age="30"
+Pow="D"
+Fam="106"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="92000"
+Eqp="CHM_STR"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="30"
+Def="396"
+Tec="762"
+Ata="158"
+Niv="594"

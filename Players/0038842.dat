@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Inler"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="173"
+Age="23"
+Pow="D"
+Fam="173"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="231000"
+Eqp="CHM_AGH"
+PCal="0"
+[Lvl]
+Frm="995"
+Por="40"
+Def="881"
+Tec="416"
+Ata="113"
+Niv="666"

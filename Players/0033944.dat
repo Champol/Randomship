@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.P. Gallego"
+Rol="MC"
+Pos="WM"
+Nac="1975"
+[Val]
+Rec="283"
+Age="25"
+Pow="B"
+Fam="283"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="223000"
+Eqp="COM_NIU"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="11"
+Def="401"
+Tec="702"
+Ata="400"
+Niv="663"

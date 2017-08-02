@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Izuzquiza"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="1"
+Age="32"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PAT_U-V"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="16"
+Def="417"
+Tec="402"
+Ata="230"
+Niv="451"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Mach"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="46"
+Day="13"
+Age="27"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="CHM_DEL"
+[Lvl]
+Frm="978"
+Por="8"
+Def="176"
+Tec="360"
+Ata="717"
+Niv="556"

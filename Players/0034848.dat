@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Oliveros"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="172"
+Age="22"
+Pow="C"
+Fam="172"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="192000"
+Eqp="PAT_SEM"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="48"
+Def="219"
+Tec="788"
+Ata="360"
+Niv="651"

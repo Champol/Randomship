@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Scordamaglia"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="49"
+Age="27"
+Pow="C"
+Fam="49"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="58000"
+Eqp="COM_CAT"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="45"
+Def="694"
+Tec="422"
+Ata="122"
+Niv="560"

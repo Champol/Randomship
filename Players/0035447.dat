@@ -1,0 +1,22 @@
+[Inf]
+Nom="I. Gerosa"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Day="13"
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PAT_TOR"
+[Lvl]
+Frm="985"
+Por="31"
+Def="403"
+Tec="322"
+Ata="162"
+Niv="401"

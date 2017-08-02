@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Davel"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="101"
+Day="13"
+Age="24"
+Pow="D"
+Fam="101"
+Les="0"
+Tra="2000"
+[2000]
+Sue="127000"
+Eqp="PAT_PTO"
+[Lvl]
+Frm="980"
+Por="25"
+Def="817"
+Tec="369"
+Ata="194"
+Niv="618"

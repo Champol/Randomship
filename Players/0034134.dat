@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Aldineo"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="133"
+Age="23"
+Pow="C"
+Fam="133"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="174000"
+Eqp="COM_MOO"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="848"
+Def="272"
+Tec="273"
+Ata="26"
+Niv="643"

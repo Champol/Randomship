@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Maillard"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="93"
+Day="13"
+Age="23"
+Pow="D"
+Fam="93"
+Les="0"
+Tra="2000"
+[2000]
+Sue="148000"
+Eqp="BKN_COR"
+[Lvl]
+Frm="968"
+Por="34"
+Def="233"
+Tec="840"
+Ata="284"
+Niv="630"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Moukandjo"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="189"
+Age="23"
+Pow="C"
+Fam="189"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="164000"
+Eqp="PAT_FRI"
+PCal="0"
+[Lvl]
+Frm="966"
+Por="19"
+Def="800"
+Tec="468"
+Ata="162"
+Niv="638"

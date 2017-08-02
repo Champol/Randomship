@@ -1,0 +1,22 @@
+[Inf]
+Nom="R. Ameobi"
+Rol="MC"
+Pos="DM"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PAT_BOC"
+[Lvl]
+Frm="973"
+Por="26"
+Def="256"
+Tec="575"
+Ata="149"
+Niv="434"

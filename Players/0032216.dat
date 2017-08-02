@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Ávila"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="79"
+Day="13"
+Age="24"
+Pow="D"
+Fam="79"
+Les="0"
+Tra="2000"
+[2000]
+Sue="106000"
+Eqp="COM_KAR"
+[Lvl]
+Frm="988"
+Por="32"
+Def="789"
+Tec="364"
+Ata="187"
+Niv="604"

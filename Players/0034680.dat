@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Millot"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="218"
+Age="24"
+Pow="C"
+Fam="218"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="181000"
+Eqp="PAT_GSL"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="24"
+Def="148"
+Tec="624"
+Ata="658"
+Niv="646"

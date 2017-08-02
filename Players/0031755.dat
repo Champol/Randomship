@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Urquieta"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="588"
+Age="28"
+Pow="A"
+Fam="588"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="445000"
+Eqp="COM_SYL"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="28"
+Def="979"
+Tec="402"
+Ata="157"
+Niv="723"

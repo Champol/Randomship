@@ -1,0 +1,23 @@
+[Inf]
+Nom="Q. Moriones"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="76"
+Day="13"
+Age="20"
+Pow="B"
+Fam="76"
+Les="0"
+Tra="2000"
+[2000]
+Sue="101000"
+Eqp="PAT_ABO"
+[Lvl]
+Frm="976"
+Por="746"
+Def="359"
+Tec="300"
+Ata="18"
+Niv="600"

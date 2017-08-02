@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Morimoto"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="74"
+Age="21"
+Pow="C"
+Fam="74"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="139000"
+Eqp="COM_PEN"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="17"
+Def="828"
+Tec="410"
+Ata="110"
+Niv="625"

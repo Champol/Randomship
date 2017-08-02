@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Cárcano"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="34"
+Day="13"
+Age="21"
+Pow="D"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="CHM_WIT"
+[Lvl]
+Frm="980"
+Por="5"
+Def="601"
+Tec="378"
+Ata="310"
+Niv="569"

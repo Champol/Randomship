@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Ren"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="382"
+Day="13"
+Age="23"
+Pow="A"
+Fam="382"
+Les="0"
+Tra="2000"
+[2000]
+Sue="636000"
+Eqp="COM_KHE"
+[Lvl]
+Frm="976"
+Por="33"
+Def="158"
+Tec="438"
+Ata="1022"
+Niv="756"

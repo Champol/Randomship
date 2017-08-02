@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Lambrechts"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="80"
+Day="13"
+Age="21"
+Pow="C"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="128000"
+Eqp="PAT_COR"
+[Lvl]
+Frm="983"
+Por="17"
+Def="832"
+Tec="366"
+Ata="104"
+Niv="618"

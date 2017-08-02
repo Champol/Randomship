@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Arthur"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="41"
+Age="19"
+Pow="D"
+Fam="41"
+Les="0"
+Tra="2000"
+Day="14"
+[2000]
+Sue="48000"
+Eqp="CHM_CAL"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="12"
+Def="729"
+Tec="334"
+Ata="171"
+Niv="555"

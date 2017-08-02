@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Mealla"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="212"
+Age="30"
+Pow="B"
+Fam="212"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="185000"
+Eqp="BKN_BAR"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="12"
+Def="842"
+Tec="430"
+Ata="141"
+Niv="648"

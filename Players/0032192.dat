@@ -1,0 +1,22 @@
+[Inf]
+Nom="N. Lastres"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="A"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="COM_KAR"
+[Lvl]
+Frm="975"
+Por="545"
+Def="157"
+Tec="268"
+Ata="36"
+Niv="424"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Sainz"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="456"
+Age="24"
+Pow="B"
+Fam="456"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="407000"
+Eqp="PAT_PMP"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="7"
+Def="226"
+Tec="717"
+Ata="692"
+Niv="715"

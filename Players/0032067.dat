@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Liquín"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Age="18"
+Pow="E"
+Fam="0"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="COM_BAB"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="44"
+Def="135"
+Tec="331"
+Ata="503"
+Niv="414"

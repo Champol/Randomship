@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Salie"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="263"
+Age="21"
+Pow="B"
+Fam="263"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="299000"
+Eqp="PAT_VDK"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="14"
+Def="132"
+Tec="444"
+Ata="906"
+Niv="689"

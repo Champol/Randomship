@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Bassano"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="9"
+Day="13"
+Age="20"
+Pow="D"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="23000"
+Eqp="CHM_FAN"
+[Lvl]
+Frm="984"
+Por="42"
+Def="208"
+Tec="649"
+Ata="244"
+Niv="498"

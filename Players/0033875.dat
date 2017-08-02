@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Toloza"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="212"
+Age="26"
+Pow="C"
+Fam="212"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="207000"
+Eqp="COM_DOR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="825"
+Def="319"
+Tec="363"
+Ata="25"
+Niv="657"

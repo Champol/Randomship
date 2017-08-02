@@ -1,0 +1,22 @@
+[Inf]
+Nom="K. Giné"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="COM_MAK"
+[Lvl]
+Frm="966"
+Por="9"
+Def="498"
+Tec="251"
+Ata="190"
+Niv="436"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Martina"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="50"
+Age="29"
+Pow="E"
+Fam="50"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="57000"
+Eqp="PAT_TIK"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="756"
+Def="188"
+Tec="211"
+Ata="27"
+Niv="559"

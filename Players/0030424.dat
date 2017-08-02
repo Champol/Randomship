@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Calcarami"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="11"
+Day="13"
+Age="32"
+Pow="C"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="20000"
+Eqp="BKN_TAL"
+[Lvl]
+Frm="979"
+Por="629"
+Def="260"
+Tec="181"
+Ata="9"
+Niv="492"

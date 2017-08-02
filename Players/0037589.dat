@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Balut"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="587"
+Age="27"
+Pow="B"
+Fam="587"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="737000"
+Eqp="CHM_KIP"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="8"
+Def="825"
+Tec="510"
+Ata="382"
+Niv="770"

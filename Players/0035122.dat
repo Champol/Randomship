@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Belkalem"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="28"
+Age="24"
+Pow="E"
+Fam="28"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="43000"
+Eqp="PAT_OLI"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="707"
+Def="234"
+Tec="224"
+Ata="38"
+Niv="540"

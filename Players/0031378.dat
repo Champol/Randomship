@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Cheron"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="315"
+Day="13"
+Age="22"
+Pow="A"
+Fam="315"
+Les="0"
+Tra="2000"
+[2000]
+Sue="440000"
+Eqp="COM_KHE"
+[Lvl]
+Frm="983"
+Por="35"
+Def="172"
+Tec="973"
+Ata="421"
+Niv="722"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Bourguignon"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="7"
+Day="13"
+Age="20"
+Pow="D"
+Fam="7"
+Les="0"
+Tra="2000"
+[2000]
+Sue="23000"
+Eqp="COM_BGG"
+[Lvl]
+Frm="991"
+Por="2"
+Def="292"
+Tec="664"
+Ata="160"
+Niv="498"

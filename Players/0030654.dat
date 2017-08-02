@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Matozzi"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="181"
+Age="28"
+Pow="B"
+Fam="181"
+Les="6"
+Tra="2000"
+Day="13"
+[2000]
+Sue="188000"
+Eqp="BKN_AMP"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="832"
+Def="276"
+Tec="346"
+Ata="29"
+Niv="649"

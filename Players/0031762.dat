@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Rocha"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="88"
+Age="22"
+Pow="C"
+Fam="88"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="122000"
+Eqp="COM_COC"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="6"
+Def="805"
+Tec="410"
+Ata="102"
+Niv="615"

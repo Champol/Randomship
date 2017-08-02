@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. May"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="11"
+Day="13"
+Age="30"
+Pow="D"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="CHM_THU"
+[Lvl]
+Frm="958"
+Por="634"
+Def="258"
+Tec="226"
+Ata="15"
+Niv="504"

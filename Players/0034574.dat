@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Adebayor"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="364"
+Day="13"
+Age="24"
+Pow="B"
+Fam="364"
+Les="0"
+Tra="2000"
+[2000]
+Sue="440000"
+Eqp="PAT_MIL"
+[Lvl]
+Frm="967"
+Por="32"
+Def="930"
+Tec="504"
+Ata="124"
+Niv="722"

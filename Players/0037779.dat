@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Kastrati"
+Rol="DL"
+Pos="SS"
+Nac="1975"
+[Val]
+Rec="21"
+Age="25"
+Pow="E"
+Fam="21"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="31000"
+Eqp="CHM_BES"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="33"
+Def="119"
+Tec="506"
+Ata="518"
+Niv="518"

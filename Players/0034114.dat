@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Jándula"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="68"
+Age="28"
+Pow="D"
+Fam="68"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="85000"
+Eqp="COM_GOT"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="20"
+Def="777"
+Tec="373"
+Ata="74"
+Niv="587"

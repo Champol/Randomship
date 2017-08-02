@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Granata"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="773"
+Age="26"
+Pow="A"
+Fam="773"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="721000"
+Eqp="PAT_FRI"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="1030"
+Def="244"
+Tec="360"
+Ata="47"
+Niv="768"

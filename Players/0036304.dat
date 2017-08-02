@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Cabello"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="46"
+Age="20"
+Pow="C"
+Fam="46"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="70000"
+Eqp="PAT_MAR"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="6"
+Def="214"
+Tec="410"
+Ata="719"
+Niv="574"

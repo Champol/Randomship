@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Calandrelli"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="90"
+Age="21"
+Pow="B"
+Fam="90"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="160000"
+Eqp="PAT_TIK"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="16"
+Def="203"
+Tec="548"
+Ata="758"
+Niv="636"

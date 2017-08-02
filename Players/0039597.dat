@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Msibi"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="106"
+Age="21"
+Pow="B"
+Fam="106"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="150000"
+Eqp="CHM_RAT"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="15"
+Def="320"
+Tec="820"
+Ata="276"
+Niv="631"

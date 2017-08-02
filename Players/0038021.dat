@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Souayah"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="44"
+Day="13"
+Age="26"
+Pow="D"
+Fam="44"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="CHM_TOP"
+[Lvl]
+Frm="966"
+Por="724"
+Def="278"
+Tec="264"
+Ata="35"
+Niv="566"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Culina"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="142"
+Day="13"
+Age="23"
+Pow="C"
+Fam="142"
+Les="0"
+Tra="2000"
+[2000]
+Sue="217000"
+Eqp="COM_EAS"
+[Lvl]
+Frm="985"
+Por="50"
+Def="766"
+Tec="409"
+Ata="240"
+Niv="661"

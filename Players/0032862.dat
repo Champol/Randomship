@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Ling"
+Rol="DF"
+Pos="WB"
+Nac="1981"
+[Val]
+Rec="74"
+Day="13"
+Age="19"
+Pow="A"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="95000"
+Eqp="COM_SHI"
+[Lvl]
+Frm="988"
+Por="14"
+Def="692"
+Tec="370"
+Ata="225"
+Niv="596"

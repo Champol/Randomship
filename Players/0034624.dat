@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Migliore"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="139"
+Age="24"
+Pow="C"
+Fam="139"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="183000"
+Eqp="PAT_PST"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="50"
+Def="805"
+Tec="496"
+Ata="138"
+Niv="647"

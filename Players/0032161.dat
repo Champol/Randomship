@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Deferrari"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="38"
+Day="13"
+Age="23"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="COM_KAS"
+[Lvl]
+Frm="972"
+Por="35"
+Def="343"
+Tec="743"
+Ata="186"
+Niv="567"

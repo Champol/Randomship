@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Tricio"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="79"
+Day="13"
+Age="26"
+Pow="C"
+Fam="79"
+Les="0"
+Tra="2000"
+[2000]
+Sue="108000"
+Eqp="PAT_ENT"
+[Lvl]
+Frm="966"
+Por="40"
+Def="305"
+Tec="787"
+Ata="243"
+Niv="606"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Stoch"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="58"
+Age="23"
+Pow="D"
+Fam="58"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="75000"
+Eqp="COM_MOO"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="5"
+Def="169"
+Tec="387"
+Ata="748"
+Niv="579"

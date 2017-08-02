@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Labranda"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="55"
+Age="20"
+Pow="C"
+Fam="55"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="75000"
+Eqp="CHM_ACQ"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="13"
+Def="170"
+Tec="389"
+Ata="747"
+Niv="579"

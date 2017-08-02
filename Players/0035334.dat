@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. De Aldariz"
+Rol="MC"
+Pos="CM"
+Nac="1970"
+[Val]
+Rec="38"
+Day="13"
+Age="30"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="PAT_DOR"
+[Lvl]
+Frm="973"
+Por="16"
+Def="238"
+Tec="736"
+Ata="204"
+Niv="558"

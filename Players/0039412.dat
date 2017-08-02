@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Murakami"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="111"
+Day="13"
+Age="22"
+Pow="C"
+Fam="111"
+Les="0"
+Tra="2000"
+[2000]
+Sue="166000"
+Eqp="CHM_ASI"
+[Lvl]
+Frm="966"
+Por="827"
+Def="312"
+Tec="282"
+Ata="17"
+Niv="639"

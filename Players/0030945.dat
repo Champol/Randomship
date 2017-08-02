@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Elwart"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="192"
+Day="13"
+Age="23"
+Pow="C"
+Fam="192"
+Les="0"
+Tra="2000"
+[2000]
+Sue="286000"
+Eqp="BKN_COR"
+[Lvl]
+Frm="970"
+Por="908"
+Def="270"
+Tec="288"
+Ata="45"
+Niv="683"

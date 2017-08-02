@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Barrague"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="24"
+Age="29"
+Pow="D"
+Fam="24"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="31000"
+Eqp="COM_NAN"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="8"
+Def="258"
+Tec="548"
+Ata="356"
+Niv="519"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Slimani"
+Rol="PT"
+Pos="GK"
+Nac="1969"
+[Val]
+Rec="17"
+Day="13"
+Age="31"
+Pow="C"
+Fam="17"
+Les="0"
+Tra="2000"
+[2000]
+Sue="26000"
+Eqp="COM_W-U"
+[Lvl]
+Frm="974"
+Por="606"
+Def="296"
+Tec="304"
+Ata="22"
+Niv="507"

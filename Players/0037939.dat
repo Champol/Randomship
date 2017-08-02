@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Krugg"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="371"
+Age="22"
+Pow="B"
+Fam="371"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="368000"
+Eqp="CHM_C-V"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="37"
+Def="749"
+Tec="474"
+Ata="368"
+Niv="706"

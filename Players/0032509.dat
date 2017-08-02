@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Casiano"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="37"
+Day="13"
+Age="26"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="COM_FER"
+[Lvl]
+Frm="960"
+Por="19"
+Def="180"
+Tec="511"
+Ata="594"
+Niv="568"

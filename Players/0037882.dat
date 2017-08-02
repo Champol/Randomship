@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Pepin"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="68"
+Age="26"
+Pow="D"
+Fam="68"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="78000"
+Eqp="CHM_LOG"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="42"
+Def="784"
+Tec="314"
+Ata="140"
+Niv="582"

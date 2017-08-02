@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Foyssac"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="29"
+Age="20"
+Pow="D"
+Fam="29"
+Les="17"
+Tra="2000"
+Day="13"
+[2000]
+Sue="58000"
+Eqp="BKN_ZIP"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="33"
+Def="141"
+Tec="363"
+Ata="734"
+Niv="561"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Di Vita"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="35"
+Age="21"
+Pow="C"
+Fam="35"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="COM_GAL"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="23"
+Def="334"
+Tec="408"
+Ata="553"
+Niv="556"

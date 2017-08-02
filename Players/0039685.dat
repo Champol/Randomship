@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Fiorentini"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="253"
+Age="26"
+Pow="C"
+Fam="253"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="CHM_VDL"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="42"
+Def="344"
+Tec="834"
+Ata="290"
+Niv="654"

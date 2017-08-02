@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Bouba"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="9"
+Day="13"
+Age="20"
+Pow="D"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="COM_MOW"
+[Lvl]
+Frm="984"
+Por="39"
+Def="560"
+Tec="352"
+Ata="209"
+Niv="511"

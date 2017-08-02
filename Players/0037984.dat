@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Aliaga"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="1"
+Day="13"
+Age="30"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="CHM_AUL"
+[Lvl]
+Frm="982"
+Por="44"
+Def="104"
+Tec="183"
+Ata="633"
+Niv="450"

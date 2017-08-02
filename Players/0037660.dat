@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Negretto"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="205"
+Age="23"
+Pow="D"
+Fam="205"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="195000"
+Eqp="CHM_ACQ"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="29"
+Def="278"
+Tec="885"
+Ata="210"
+Niv="652"

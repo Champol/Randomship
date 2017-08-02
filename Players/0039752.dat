@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Valderrama"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="89"
+Day="13"
+Age="27"
+Pow="D"
+Fam="89"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="CHM_SPE"
+[Lvl]
+Frm="972"
+Por="38"
+Def="126"
+Tec="479"
+Ata="672"
+Niv="594"

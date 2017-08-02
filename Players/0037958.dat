@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Perrotta"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="229"
+Age="26"
+Pow="C"
+Fam="229"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="242000"
+Eqp="CHM_C-V"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="25"
+Def="240"
+Tec="459"
+Ata="742"
+Niv="670"

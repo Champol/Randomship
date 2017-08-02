@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Tula"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Day="13"
+Age="29"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PAT_CHÑ"
+[Lvl]
+Frm="971"
+Por="23"
+Def="122"
+Tec="318"
+Ata="543"
+Niv="435"

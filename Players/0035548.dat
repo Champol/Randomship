@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.J. Kähler"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="16"
+Age="26"
+Pow="E"
+Fam="16"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="32000"
+Eqp="PAT_SPP"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="15"
+Def="88"
+Tec="338"
+Ata="680"
+Niv="519"

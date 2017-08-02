@@ -1,0 +1,22 @@
+[Inf]
+Nom="M. Mhlanga"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Day="13"
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="CHM_SPE"
+[Lvl]
+Frm="987"
+Por="450"
+Def="315"
+Tec="206"
+Ata="43"
+Niv="395"

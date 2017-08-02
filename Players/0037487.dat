@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Wilkins"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="301"
+Day="13"
+Age="22"
+Pow="A"
+Fam="301"
+Les="0"
+Tra="2000"
+[2000]
+Sue="385000"
+Eqp="PAT_FOL"
+[Lvl]
+Frm="987"
+Por="45"
+Def="212"
+Tec="966"
+Ata="382"
+Niv="710"

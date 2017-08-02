@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Wentworth"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="34"
+Day="13"
+Age="22"
+Pow="E"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="52000"
+Eqp="PAT_DUQ"
+[Lvl]
+Frm="990"
+Por="11"
+Def="722"
+Tec="342"
+Ata="159"
+Niv="553"

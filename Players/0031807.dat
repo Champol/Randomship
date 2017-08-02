@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Cravero"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="231"
+Day="13"
+Age="27"
+Pow="B"
+Fam="231"
+Les="0"
+Tra="2000"
+[2000]
+Sue="254000"
+Eqp="COM_POR"
+[Lvl]
+Frm="968"
+Por="21"
+Def="242"
+Tec="424"
+Ata="866"
+Niv="674"

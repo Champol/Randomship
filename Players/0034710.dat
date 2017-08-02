@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Aragón"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="7"
+Day="13"
+Age="29"
+Pow="D"
+Fam="7"
+Les="0"
+Tra="2000"
+[2000]
+Sue="18000"
+Eqp="PAT_CSC"
+[Lvl]
+Frm="987"
+Por="7"
+Def="137"
+Tec="308"
+Ata="628"
+Niv="484"

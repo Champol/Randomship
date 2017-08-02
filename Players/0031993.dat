@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Atanacio"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="97"
+Day="13"
+Age="25"
+Pow="D"
+Fam="97"
+Les="0"
+Tra="2000"
+[2000]
+Sue="120000"
+Eqp="COM_HOB"
+[Lvl]
+Frm="973"
+Por="21"
+Def="854"
+Tec="292"
+Ata="144"
+Niv="614"

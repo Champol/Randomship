@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Garay"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="199"
+Age="26"
+Pow="C"
+Fam="199"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="CHM_C-W"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="11"
+Def="237"
+Tec="449"
+Ata="721"
+Niv="650"

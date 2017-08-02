@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Mcduffie"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="404"
+Age="26"
+Pow="C"
+Fam="404"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="460000"
+Eqp="PAT_FRI"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="41"
+Def="722"
+Tec="550"
+Ata="377"
+Niv="726"

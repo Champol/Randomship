@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Pilgrim"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="13"
+Age="32"
+Pow="A"
+Fam="13"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="25000"
+Eqp="COM_DAL"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="28"
+Def="654"
+Tec="326"
+Ata="133"
+Niv="504"

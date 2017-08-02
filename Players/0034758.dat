@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Duggan"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="37"
+Day="13"
+Age="21"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="75000"
+Eqp="PAT_BAT"
+[Lvl]
+Frm="995"
+Por="2"
+Def="208"
+Tec="756"
+Ata="300"
+Niv="579"

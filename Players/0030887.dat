@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Ochi"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="119"
+Age="21"
+Pow="C"
+Fam="119"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="124000"
+Eqp="BKN_TUT"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="838"
+Def="200"
+Tec="240"
+Ata="12"
+Niv="616"

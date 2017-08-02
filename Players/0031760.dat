@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Garcés"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="21"
+Age="32"
+Pow="E"
+Fam="21"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="COM_COC"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="37"
+Def="340"
+Tec="198"
+Ata="152"
+Niv="286"

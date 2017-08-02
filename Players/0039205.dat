@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Crivelli"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="106"
+Age="28"
+Pow="C"
+Fam="106"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="86000"
+Eqp="CHM_YUR"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="33"
+Def="288"
+Tec="737"
+Ata="310"
+Niv="589"

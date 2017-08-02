@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Huynh"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="124"
+Day="13"
+Age="30"
+Pow="C"
+Fam="124"
+Les="0"
+Tra="2000"
+[2000]
+Sue="120000"
+Eqp="BKN_ZRT"
+[Lvl]
+Frm="977"
+Por="17"
+Def="677"
+Tec="374"
+Ata="298"
+Niv="614"

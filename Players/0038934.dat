@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Fejzić"
+Rol="MC"
+Pos="CM"
+Nac="1975"
+[Val]
+Rec="145"
+Age="25"
+Pow="B"
+Fam="145"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="162000"
+Eqp="CHM_KIL"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="42"
+Def="360"
+Tec="810"
+Ata="271"
+Niv="638"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Peltier"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="230"
+Age="24"
+Pow="C"
+Fam="230"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="336000"
+Eqp="CHM_AYU"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="905"
+Def="282"
+Tec="349"
+Ata="24"
+Niv="698"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Wagener"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="80"
+Age="32"
+Pow="C"
+Fam="80"
+Les="7"
+Tra="2000"
+Day="13"
+[2000]
+Sue="58000"
+Eqp="CHM_KIP"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="2"
+Def="626"
+Tec="398"
+Ata="164"
+Niv="560"

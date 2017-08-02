@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Redlich"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="140"
+Age="29"
+Pow="D"
+Fam="140"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="150000"
+Eqp="CHM_P-R"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="14"
+Def="183"
+Tec="848"
+Ata="294"
+Niv="631"

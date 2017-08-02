@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Campiotti"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="61"
+Day="13"
+Age="20"
+Pow="C"
+Fam="61"
+Les="10"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="COM_SNT"
+[Lvl]
+Frm="968"
+Por="37"
+Def="277"
+Tec="675"
+Ata="331"
+Niv="587"

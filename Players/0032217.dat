@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Milinovič"
+Rol="MC"
+Pos="CM"
+Nac="1981"
+[Val]
+Rec="32"
+Day="13"
+Age="19"
+Pow="B"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="COM_KAR"
+[Lvl]
+Frm="983"
+Por="50"
+Def="167"
+Tec="754"
+Ata="256"
+Niv="555"

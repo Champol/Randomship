@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Fraser"
+Rol="DL"
+Pos="SS"
+Nac="1980"
+[Val]
+Rec="43"
+Age="20"
+Pow="D"
+Fam="43"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="66000"
+Eqp="BKN_M-S"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="13"
+Def="192"
+Tec="522"
+Ata="592"
+Niv="570"

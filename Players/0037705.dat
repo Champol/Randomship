@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Ueta"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="9"
+Day="13"
+Age="32"
+Pow="B"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="18000"
+Eqp="CHM_ZOT"
+[Lvl]
+Frm="983"
+Por="50"
+Def="616"
+Tec="336"
+Ata="118"
+Niv="485"

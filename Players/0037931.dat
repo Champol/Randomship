@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Großkreutz"
+Rol="MC"
+Pos="WM"
+Nac="1972"
+[Val]
+Age="28"
+Pow="A"
+Fam="790"
+Les="0"
+Tra="2000"
+Day="14"
+Rec="790"
+[2000]
+Sue="784000"
+Eqp="CHM_CEL"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="3"
+Def="358"
+Tec="826"
+Ata="534"
+Niv="776"

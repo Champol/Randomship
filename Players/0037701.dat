@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Rosendo"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="16"
+Day="13"
+Age="29"
+Pow="C"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="CHM_ZOT"
+[Lvl]
+Frm="967"
+Por="668"
+Def="211"
+Tec="205"
+Ata="16"
+Niv="505"

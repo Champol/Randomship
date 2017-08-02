@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Kakei"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="171"
+Age="21"
+Pow="A"
+Fam="171"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="164000"
+Eqp="COM_SPR"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="12"
+Def="302"
+Tec="710"
+Ata="396"
+Niv="638"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Meteucci"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Age="29"
+Pow="A"
+Fam="963"
+Les="0"
+Tra="2000"
+Day="14"
+Rec="963"
+[2000]
+Sue="834000"
+Eqp="CHM_CEL"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="39"
+Def="508"
+Tec="1018"
+Ata="156"
+Niv="782"

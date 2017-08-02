@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Astete"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="82"
+Age="28"
+Pow="C"
+Fam="82"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="83000"
+Eqp="CHM_DRI"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="42"
+Def="774"
+Tec="371"
+Ata="95"
+Niv="586"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Kashgari"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="533"
+Age="27"
+Pow="A"
+Fam="533"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="426000"
+Eqp="PAT_CHP"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="0"
+Def="151"
+Tec="522"
+Ata="867"
+Niv="719"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Warnock"
+Rol="MC"
+Pos="DM"
+Nac="1972"
+[Val]
+Rec="304"
+Age="28"
+Pow="B"
+Fam="304"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="398000"
+Eqp="CHM_TRA"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="38"
+Def="417"
+Tec="951"
+Ata="176"
+Niv="713"

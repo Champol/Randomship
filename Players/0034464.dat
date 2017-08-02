@@ -1,0 +1,24 @@
+[Inf]
+Nom="A.G. Craig"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="341"
+Age="24"
+Pow="B"
+Fam="341"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="332000"
+Eqp="PAT_TOB"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="42"
+Def="456"
+Tec="905"
+Ata="157"
+Niv="697"

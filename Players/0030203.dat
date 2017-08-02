@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Agyeman"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="216"
+Day="13"
+Age="26"
+Pow="A"
+Fam="216"
+Les="0"
+Tra="2000"
+[2000]
+Sue="195000"
+Eqp="BKN_ZRT"
+[Lvl]
+Frm="975"
+Por="20"
+Def="290"
+Tec="810"
+Ata="456"
+Niv="652"

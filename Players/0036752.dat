@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Malaurie"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="47"
+Day="13"
+Age="29"
+Pow="E"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="PAT_MOM"
+[Lvl]
+Frm="978"
+Por="36"
+Def="742"
+Tec="327"
+Ata="108"
+Niv="559"

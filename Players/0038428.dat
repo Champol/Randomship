@@ -1,0 +1,22 @@
+[Inf]
+Nom="J. Nino"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="CHM_GRA"
+[Lvl]
+Frm="984"
+Por="549"
+Def="257"
+Tec="158"
+Ata="19"
+Niv="424"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Menvielle"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="77"
+Day="13"
+Age="26"
+Pow="D"
+Fam="77"
+Les="0"
+Tra="2000"
+[2000]
+Sue="101000"
+Eqp="PAT_BAT"
+[Lvl]
+Frm="974"
+Por="794"
+Def="258"
+Tec="248"
+Ata="12"
+Niv="601"

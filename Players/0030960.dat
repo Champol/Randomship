@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Lepretre"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="129"
+Day="13"
+Age="21"
+Pow="C"
+Fam="129"
+Les="0"
+Tra="2000"
+[2000]
+Sue="231000"
+Eqp="BKN_COR"
+[Lvl]
+Frm="981"
+Por="26"
+Def="309"
+Tec="868"
+Ata="308"
+Niv="666"

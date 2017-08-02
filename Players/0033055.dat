@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Tshabalala"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="12"
+Day="13"
+Age="23"
+Pow="E"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="COM_ARN"
+[Lvl]
+Frm="984"
+Por="23"
+Def="93"
+Tec="334"
+Ata="678"
+Niv="516"

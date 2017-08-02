@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Lockhart"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="332"
+Day="13"
+Age="30"
+Pow="A"
+Fam="332"
+Les="0"
+Tra="2000"
+[2000]
+Sue="381000"
+Eqp="PAT_DUQ"
+[Lvl]
+Frm="975"
+Por="44"
+Def="936"
+Tec="439"
+Ata="154"
+Niv="709"

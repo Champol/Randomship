@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Morimoto"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="60"
+Age="20"
+Pow="C"
+Fam="60"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="85000"
+Eqp="CHM_ACQ"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="10"
+Def="210"
+Tec="695"
+Ata="352"
+Niv="588"

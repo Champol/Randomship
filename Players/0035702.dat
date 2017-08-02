@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Skoko"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="192"
+Age="24"
+Pow="C"
+Fam="192"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="217000"
+Eqp="PAT_KEN"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="891"
+Def="250"
+Tec="234"
+Ata="12"
+Niv="660"

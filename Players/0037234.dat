@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Silveyra"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="63"
+Day="13"
+Age="30"
+Pow="C"
+Fam="63"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="PAT_STF"
+[Lvl]
+Frm="984"
+Por="7"
+Def="731"
+Tec="460"
+Ata="89"
+Niv="592"
