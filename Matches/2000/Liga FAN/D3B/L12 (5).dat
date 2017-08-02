@@ -1,0 +1,9 @@
+[Inf]
+Def="0"
+Vis="FAN_DIA"
+Loc="FAN_THR"
+Rnd="L12"
+Div="D3B"
+Lig="Liga FAN"
+Tor="L"
+OK="0"
