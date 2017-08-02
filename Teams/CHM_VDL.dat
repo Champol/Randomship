@@ -1,9 +1,19 @@
+[CHM_ADI]
+GF="0"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [2000]
+Pop="-28"
+LDG="-1"
+LGC="1"
+LGF="0"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="30414401"
 L30="2000\Liga CHM\D2A\L30 (5).dat"
 L28="2000\Liga CHM\D2A\L28 (4).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga CHM\D2A\L23 (5).dat"
 L25="2000\Liga CHM\D2A\L25 (4).dat"
 L27="2000\Liga CHM\D2A\L27 (6).dat"
 L29="2000\Liga CHM\D2A\L29 (8).dat"
-LPos="4"
+LPos="10"
 Niv="658"
 [Inf]
 Eqp="Verdelitro"
@@ -78,7 +88,7 @@ Est="Estadio de Verdelitro"
 [1999]
 Fam="2808"
 [Eco]
-Par="0"
+Par="1539868"
 Tor="1965154"
 Gas="2553534"
 Ing="1958"

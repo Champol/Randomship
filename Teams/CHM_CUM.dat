@@ -1,9 +1,19 @@
+[CHM_SDG]
+GF="1"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [2000]
+Pop="-14"
+LDG="-1"
+LGC="2"
+LGF="1"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="28643750"
 L30="2000\Liga CHM\D2A\L30 (2).dat"
 L28="2000\Liga CHM\D2A\L28 (4).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga CHM\D2A\L23 (4).dat"
 L25="2000\Liga CHM\D2A\L25 (3).dat"
 L27="2000\Liga CHM\D2A\L27 (5).dat"
 L29="2000\Liga CHM\D2A\L29 (5).dat"
-LPos="16"
+LPos="15"
 Niv="634"
 [Inf]
 Eqp="Cumbirencio"
@@ -78,7 +88,7 @@ Est="Estadio de Cumbirencio"
 [1999]
 Fam="1151"
 [Eco]
-Par="0"
+Par="-69031"
 Tor="1299541"
 Gas="1755993"
 Ing="2937"

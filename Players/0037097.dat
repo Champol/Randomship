@@ -4,7 +4,7 @@ Rol="DF"
 Pos="WB"
 Nac="1969"
 [Val]
-Day="13"
+Day="15"
 Age="31"
 Pow="D"
 Fam="0"
@@ -13,6 +13,7 @@ Tra="2000"
 [2000]
 Sue="10000"
 Eqp="PAT_PNA"
+PCal="0"
 [Lvl]
 Frm="979"
 Por="1"

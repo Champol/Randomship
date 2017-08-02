@@ -1,14 +1,17 @@
+[PAT_PMP]
+GF="1"
+PE="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXE"
 [Col]
 Bor="62201.000000"
 Let="62201.000000"
 Fon="297030.000000"
 [Eco]
-Par="0"
+Par="-288486"
 Tor="2992869"
 Gas="3462068"
 Ing="1964"
@@ -21,6 +24,13 @@ Est="Estadio de Vegeteral"
 Lig="Liga PAT"
 Eqp="Vegeteral"
 [2000]
+Pop="0"
+LDG="0"
+LGC="1"
+LGF="1"
+LPts="1"
+LPE="1"
+LPJ="1"
 Din="-14974368"
 LPos="8"
 L29="2000\Liga PAT\D1A\L29 (4).dat"

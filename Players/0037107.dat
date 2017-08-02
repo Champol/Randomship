@@ -5,7 +5,7 @@ Pos="DM"
 Nac="1982"
 [Val]
 Rec="1"
-Day="13"
+Day="15"
 Age="18"
 Pow="D"
 Fam="1"
@@ -14,6 +14,7 @@ Tra="2000"
 [2000]
 Sue="11000"
 Eqp="PAT_PNA"
+PCal="0"
 [Lvl]
 Frm="984"
 Por="21"

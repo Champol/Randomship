@@ -1,7 +1,10 @@
+[CHM_BON]
+GF="2"
+PP="1"
 [Val]
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 Day="14"
 [Col]
 Bor="16777215.000000"
@@ -13,7 +16,7 @@ Gas="3335875"
 Ing="2162"
 Din="-17436104"
 Sue="5586000"
-Par="0"
+Par="-242939"
 [1999]
 Fam="2430"
 [Inf]
@@ -21,8 +24,15 @@ Est="Estadio de Fallerston"
 Lig="Liga CHM"
 Eqp="Fallerston"
 [2000]
+Pop="-46"
+LDG="-2"
+LGC="4"
+LGF="2"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="-13692366"
-LPos="9"
+LPos="15"
 L29="2000\Liga CHM\D1A\L29 (8).dat"
 L27="2000\Liga CHM\D1A\L27 (1).dat"
 L25="2000\Liga CHM\D1A\L25 (1).dat"

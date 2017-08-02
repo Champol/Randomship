@@ -1,9 +1,19 @@
+[FAN_HOG]
+GF="0"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [2000]
+Pop="-47"
+LDG="-2"
+LGC="2"
+LGF="0"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="56933269"
 L30="2000\Liga FAN\D1A\L30 (8).dat"
 L28="2000\Liga FAN\D1A\L28 (8).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga FAN\D1A\L23 (6).dat"
 L25="2000\Liga FAN\D1A\L25 (8).dat"
 L27="2000\Liga FAN\D1A\L27 (3).dat"
 L29="2000\Liga FAN\D1A\L29 (2).dat"
-LPos="9"
+LPos="14"
 Niv="672"
 [Inf]
 Eqp="Mordor"
@@ -78,7 +88,7 @@ Est="Estadio de Mordor"
 [1999]
 Fam="3071"
 [Eco]
-Par="0"
+Par="1407877"
 Tor="2258270"
 Gas="2816704"
 Ing="1938"

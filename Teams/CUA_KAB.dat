@@ -1,9 +1,19 @@
+[CUA_PAT]
+GF="2"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [2000]
+Pop="-30"
+LDG="-1"
+LGC="3"
+LGF="2"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="-14269319"
 L30="2000\Liga CUA\D1A\L30 (1).dat"
 L28="2000\Liga CUA\D1A\L28 (1).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga CUA\D1A\L23 (2).dat"
 L25="2000\Liga CUA\D1A\L25 (2).dat"
 L27="2000\Liga CUA\D1A\L27 (4).dat"
 L29="2000\Liga CUA\D1A\L29 (2).dat"
-LPos="11"
+LPos="14"
 Niv="649"
 [Inf]
 Eqp="Kabon"
@@ -78,15 +88,15 @@ Est="Estadio de Kabon"
 [1999]
 Fam="2321"
 [Eco]
-Par="0"
+Par="1431068"
 Tor="1953575"
 Gas="2402147"
 Ing="2267"
 Din="-15439590"
 Sue="4062000"
 [Col]
-Fon="1502718.000000"
-Let="606566.000000"
+Fon="606566.000000"
+Let="1502718.000000"
 Bor="271615.000000"
 [Tra]
 Com="0"

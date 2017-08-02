@@ -1,9 +1,19 @@
+[PAT_PAP]
+GF="2"
+PG="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXG"
 [2000]
+Pop="32"
+LDG="1"
+LGC="1"
+LGF="2"
+LPts="3"
+LPG="1"
+LPJ="1"
 Din="-27192974"
 L30="2000\Liga PAT\D1A\L30 (2).dat"
 L28="2000\Liga PAT\D1A\L28 (2).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga PAT\D1A\L23 (3).dat"
 L25="2000\Liga PAT\D1A\L25 (2).dat"
 L27="2000\Liga PAT\D1A\L27 (3).dat"
 L29="2000\Liga PAT\D1A\L29 (7).dat"
-LPos="7"
+LPos="4"
 Niv="679"
 [Inf]
 Eqp="Patatagonia"
@@ -78,7 +88,7 @@ Est="Estadio de Patatagonia"
 [1999]
 Fam="3066"
 [Eco]
-Par="0"
+Par="2358120"
 Tor="2987552"
 Gas="3366644"
 Ing="2022"

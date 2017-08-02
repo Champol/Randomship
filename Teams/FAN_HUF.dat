@@ -1,9 +1,19 @@
+[FAN_GON]
+GF="2"
+PE="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXE"
 [2000]
+Pop="0"
+LDG="0"
+LGC="2"
+LGF="2"
+LPts="1"
+LPE="1"
+LPJ="1"
 Din="38799035"
 L30="2000\Liga FAN\D1A\L30 (8).dat"
 L28="2000\Liga FAN\D1A\L28 (6).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga FAN\D1A\L23 (8).dat"
 L25="2000\Liga FAN\D1A\L25 (6).dat"
 L27="2000\Liga FAN\D1A\L27 (5).dat"
 L29="2000\Liga FAN\D1A\L29 (1).dat"
-LPos="8"
+LPos="9"
 Niv="677"
 [Inf]
 Eqp="Hufflepuff"
@@ -78,7 +88,7 @@ Est="Estadio de Hufflepuff"
 [1999]
 Fam="2758"
 [Eco]
-Par="0"
+Par="1431898"
 Tor="2129577"
 Gas="2733038"
 Ing="1928"

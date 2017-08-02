@@ -1,3 +1,6 @@
+[AGE_BLO]
+GF="1"
+PG="1"
 [Tra]
 Prm="587"
 Mej="739"
@@ -7,6 +10,14 @@ Max="4772580"
 Ven="0"
 Com="0"
 [2000]
+CPos="R3"
+Pop="14"
+LDG="1"
+LGC="0"
+LGF="1"
+LPts="3"
+LPG="1"
+LPJ="1"
 Niv="652"
 C3V="2000\Liga AGE\CUP\C3V (2).dat"
 L30="2000\Liga AGE\D2A\L30 (4).dat"
@@ -83,7 +94,7 @@ Est="Estadio de Ovolos"
 [1999]
 Fam="2585"
 [Eco]
-Par="0"
+Par="-130219"
 Sue="4409000"
 Din="10620759"
 Ing="1937"
@@ -95,6 +106,6 @@ Let="5408"
 Bor="12578815"
 [Val]
 Day="14"
-LCon="XXXXX"
+LCon="XXXXG"
 CCon="XXXXX"
 TCon="XXXXX"

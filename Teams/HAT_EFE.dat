@@ -1,14 +1,17 @@
+[HAT_INC]
+GF="1"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [Col]
 Bor="65535.000000"
 Let="224.000000"
 Fon="39423.000000"
 [Eco]
-Par="0"
+Par="2311335"
 Tor="2642474"
 Gas="3250445"
 Ing="1810"
@@ -17,12 +20,19 @@ Sue="5211000"
 [1999]
 Fam="3373"
 [Inf]
-Est="Estadio de Efecé F.C."
+Est="Fábrica de los Completos"
 Lig="Liga HAT"
 Eqp="Efecé F.C."
 [2000]
+Pop="-33"
+LDG="-1"
+LGC="2"
+LGF="1"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="43266059"
-LPos="7"
+LPos="11"
 L29="2000\Liga HAT\D1A\L29 (2).dat"
 L27="2000\Liga HAT\D1A\L27 (3).dat"
 L25="2000\Liga HAT\D1A\L25 (8).dat"

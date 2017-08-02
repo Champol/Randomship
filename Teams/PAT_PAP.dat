@@ -1,9 +1,19 @@
+[PAT_PTG]
+GF="1"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [2000]
+Pop="-32"
+LDG="-1"
+LGC="2"
+LGF="1"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="42145152"
 L30="2000\Liga PAT\D1A\L30 (1).dat"
 L28="2000\Liga PAT\D1A\L28 (5).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga PAT\D1A\L23 (1).dat"
 L25="2000\Liga PAT\D1A\L25 (3).dat"
 L27="2000\Liga PAT\D1A\L27 (8).dat"
 L29="2000\Liga PAT\D1A\L29 (1).dat"
-LPos="11"
+LPos="13"
 Niv="676"
 [Inf]
 Eqp="Papudo F.C."
@@ -78,7 +88,7 @@ Est="Estadio de Papudo F.C."
 [1999]
 Fam="2947"
 [Eco]
-Par="0"
+Par="-276208"
 Tor="2934827"
 Gas="3501021"
 Ing="1946"

@@ -1,14 +1,17 @@
+[FAN_GRY]
+GF="1"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [Col]
 Bor="2366701.000000"
 Let="2366701.000000"
 Fon="62207.000000"
 [Eco]
-Par="0"
+Par="1278323"
 Tor="1942910"
 Gas="2598453"
 Ing="2117"
@@ -21,6 +24,13 @@ Est="Estadio de Archenland"
 Lig="Liga FAN"
 Eqp="Archenland"
 [2000]
+Pop="-23"
+LDG="-1"
+LGC="2"
+LGF="1"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="6626782"
 LPos="11"
 L29="2000\Liga FAN\D1A\L29 (4).dat"

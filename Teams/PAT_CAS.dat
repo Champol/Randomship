@@ -1,9 +1,19 @@
+[PAT_GSL]
+GF="0"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [2000]
+Pop="-35"
+LDG="-2"
+LGC="2"
+LGF="0"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="273448"
 L30="2000\Liga PAT\D1A\L30 (4).dat"
 L28="2000\Liga PAT\D1A\L28 (3).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga PAT\D1A\L23 (4).dat"
 L25="2000\Liga PAT\D1A\L25 (1).dat"
 L27="2000\Liga PAT\D1A\L27 (1).dat"
 L29="2000\Liga PAT\D1A\L29 (8).dat"
-LPos="13"
+LPos="16"
 Niv="680"
 [Inf]
 Eqp="Cascarudos"
@@ -78,7 +88,7 @@ Est="Estadio de Cascarudos"
 [1999]
 Fam="2407"
 [Eco]
-Par="0"
+Par="-225596"
 Tor="2695571"
 Gas="3017625"
 Ing="2249"

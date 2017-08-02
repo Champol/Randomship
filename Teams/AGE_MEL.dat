@@ -1,3 +1,6 @@
+[AGE_NOS]
+GF="1"
+PP="1"
 [Tra]
 Prm="566"
 Mej="685"
@@ -7,6 +10,14 @@ Max="3164014"
 Ven="0"
 Com="0"
 [2000]
+CPos="R3"
+Pop="-15"
+LDG="-1"
+LGC="2"
+LGF="1"
+LPts="0"
+LPP="1"
+LPJ="1"
 Niv="621"
 C3V="2000\Liga AGE\CUP\C3V (15).dat"
 L30="2000\Liga AGE\D2A\L30 (6).dat"
@@ -83,7 +94,7 @@ Est="Estadio de Meliuto"
 [1999]
 Fam="1146"
 [Eco]
-Par="0"
+Par="-57730"
 Sue="2743000"
 Din="21833860"
 Ing="2867"
@@ -95,6 +106,6 @@ Let="983056"
 Bor="1990712"
 [Val]
 Day="14"
-LCon="XXXXX"
+LCon="XXXXP"
 CCon="XXXXX"
 TCon="XXXXX"

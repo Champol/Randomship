@@ -1,9 +1,19 @@
+[FAN_HUF]
+GF="2"
+PE="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXE"
 [2000]
+Pop="0"
+LDG="0"
+LGC="2"
+LGF="2"
+LPts="1"
+LPE="1"
+LPJ="1"
 Din="38573440"
 L30="2000\Liga FAN\D1A\L30 (3).dat"
 L28="2000\Liga FAN\D1A\L28 (7).dat"
@@ -69,7 +79,7 @@ L23="2000\Liga FAN\D1A\L23 (7).dat"
 L25="2000\Liga FAN\D1A\L25 (8).dat"
 L27="2000\Liga FAN\D1A\L27 (4).dat"
 L29="2000\Liga FAN\D1A\L29 (7).dat"
-LPos="13"
+LPos="10"
 Niv="642"
 [Inf]
 Eqp="Gondor"
@@ -78,7 +88,7 @@ Est="Estadio de Gondor"
 [1999]
 Fam="2048"
 [Eco]
-Par="0"
+Par="-138394"
 Tor="1837653"
 Gas="2484080"
 Ing="2333"

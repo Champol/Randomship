@@ -1,9 +1,20 @@
+[CHM_DRI]
+GF="1"
+PP="1"
 [Val]
 Day="14"
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXX"
+LCon="XXXXP"
 [2000]
+CPos="R1"
+Pop="-15"
+LDG="-2"
+LGC="3"
+LGF="1"
+LPts="0"
+LPP="1"
+LPJ="1"
 Din="19671769"
 C1V="2000\Liga CHM\CUP\C1V (5).dat"
 L30="2000\Liga CHM\D3B\L30 (3).dat"
@@ -80,7 +91,7 @@ Est="Estadio de Fantasma"
 [1999]
 Fam="942"
 [Eco]
-Par="0"
+Par="-37680"
 Tor="831038"
 Gas="1315128"
 Ing="3017"
