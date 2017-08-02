@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Nazir"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="63"
+Day="13"
+Age="23"
+Pow="E"
+Fam="63"
+Les="4"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="BKN_HAN"
+[Lvl]
+Frm="951"
+Por="39"
+Def="788"
+Tec="367"
+Ata="106"
+Niv="594"

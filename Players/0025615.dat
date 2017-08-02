@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Katlego"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="1039"
+Age="25"
+Pow="A"
+Fam="1039"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="752000"
+Eqp="ACT_WHZ"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="37"
+Def="998"
+Tec="500"
+Ata="219"
+Niv="772"

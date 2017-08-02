@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Wiggins"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="121"
+Day="13"
+Age="27"
+Pow="C"
+Fam="121"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="973"
+Por="12"
+Def="784"
+Tec="464"
+Ata="162"
+Niv="625"

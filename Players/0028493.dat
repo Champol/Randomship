@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Carrer"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="648"
+Age="26"
+Pow="B"
+Fam="648"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="465000"
+Eqp="AGE_CLF"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="11"
+Def="399"
+Tec="776"
+Ata="456"
+Niv="727"

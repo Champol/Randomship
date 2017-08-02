@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Zissi"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="160"
+Age="24"
+Pow="D"
+Fam="160"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="CUA_MRR"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="44"
+Def="412"
+Tec="814"
+Ata="168"
+Niv="629"

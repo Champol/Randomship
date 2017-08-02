@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Rokupyakuda"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="34"
+Day="13"
+Age="30"
+Pow="E"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="43000"
+Eqp="FAN_B-L"
+[Lvl]
+Frm="970"
+Por="9"
+Def="730"
+Tec="258"
+Ata="168"
+Niv="539"

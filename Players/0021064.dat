@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Akbar"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="85"
+Age="23"
+Pow="D"
+Fam="85"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="134000"
+Eqp="CUA_GOP"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="26"
+Def="710"
+Tec="328"
+Ata="322"
+Niv="622"

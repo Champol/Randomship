@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Peng"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="247"
+Age="26"
+Pow="C"
+Fam="247"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="FAN_GRY"
+PCal="0"
+[Lvl]
+Frm="965"
+Por="3"
+Def="875"
+Tec="362"
+Ata="168"
+Niv="650"

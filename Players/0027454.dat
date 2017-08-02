@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Tóth"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="340"
+Age="30"
+Pow="A"
+Fam="340"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="336000"
+Eqp="HAT_OBW"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="44"
+Def="164"
+Tec="580"
+Ata="781"
+Niv="698"

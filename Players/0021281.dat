@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Cataigner"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="37"
+Day="13"
+Age="21"
+Pow="D"
+Fam="37"
+Les="4"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="58000"
+Eqp="CUA_APA"
+[Lvl]
+Frm="980"
+Por="31"
+Def="153"
+Tec="551"
+Ata="564"
+Niv="560"

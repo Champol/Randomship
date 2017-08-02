@@ -1,0 +1,22 @@
+[Inf]
+Nom="T. Garciarena"
+Rol="MC"
+Pos="DM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="CUA_LAK"
+[Lvl]
+Frm="984"
+Por="43"
+Def="257"
+Tec="564"
+Ata="115"
+Niv="419"

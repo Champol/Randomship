@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Soldano"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="65"
+Age="23"
+Pow="D"
+Fam="65"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="107000"
+Eqp="CUA_MSA"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="38"
+Def="702"
+Tec="344"
+Ata="245"
+Niv="605"

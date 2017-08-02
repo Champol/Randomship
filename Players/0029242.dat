@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Ramella"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="106"
+Age="29"
+Pow="C"
+Fam="106"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="84000"
+Eqp="BKN_P-U"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="37"
+Def="696"
+Tec="488"
+Ata="186"
+Niv="587"

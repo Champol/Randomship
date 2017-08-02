@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Zavalúa"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="5"
+Day="13"
+Age="20"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+[2000]
+Sue="17000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="972"
+Por="35"
+Def="235"
+Tec="513"
+Ata="336"
+Niv="480"

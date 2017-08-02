@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Marte"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="34"
+Age="24"
+Pow="E"
+Fam="34"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="56000"
+Eqp="CUA_POP"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="48"
+Def="726"
+Tec="365"
+Ata="136"
+Niv="558"

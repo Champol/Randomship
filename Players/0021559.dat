@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Nilmar"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="150"
+Age="29"
+Pow="C"
+Fam="150"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="137000"
+Eqp="CUA_CER"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="45"
+Def="424"
+Tec="802"
+Ata="134"
+Niv="624"

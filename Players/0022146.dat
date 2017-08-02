@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Guigou"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="301"
+Age="21"
+Pow="A"
+Fam="301"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="313000"
+Eqp="CUA_CAR"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="43"
+Def="325"
+Tec="772"
+Ata="420"
+Niv="692"

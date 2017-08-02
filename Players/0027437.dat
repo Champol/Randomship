@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Depietri"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="203"
+Age="23"
+Pow="B"
+Fam="203"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="179000"
+Eqp="HAT_OBW"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="788"
+Def="297"
+Tec="434"
+Ata="5"
+Niv="645"

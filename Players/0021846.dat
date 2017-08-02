@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Lorca"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="9"
+Age="30"
+Pow="D"
+Fam="9"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="CUA_ABC"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="13"
+Def="534"
+Tec="237"
+Ata="341"
+Niv="489"

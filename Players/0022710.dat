@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Pradier"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="116"
+Age="29"
+Pow="B"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="114000"
+Eqp="CUA_B-D"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="724"
+Def="385"
+Tec="359"
+Ata="2"
+Niv="610"

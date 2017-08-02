@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Huh"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="80"
+Day="13"
+Age="28"
+Pow="C"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="FAN_TAR"
+[Lvl]
+Frm="986"
+Por="1"
+Def="192"
+Tec="392"
+Ata="743"
+Niv="583"

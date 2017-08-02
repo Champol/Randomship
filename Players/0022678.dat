@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Marte"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="101"
+Age="21"
+Pow="B"
+Fam="101"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="CUA_CEN"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="47"
+Def="433"
+Tec="796"
+Ata="156"
+Niv="618"

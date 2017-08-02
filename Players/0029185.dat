@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Bird"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="72"
+Age="23"
+Pow="D"
+Fam="72"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="83000"
+Eqp="BKN_POI"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="16"
+Def="750"
+Tec="412"
+Ata="121"
+Niv="586"

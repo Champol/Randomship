@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.F. Paddock"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="161"
+Age="26"
+Pow="C"
+Fam="161"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="188000"
+Eqp="ACT_D-R"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="31"
+Def="814"
+Tec="455"
+Ata="227"
+Niv="649"

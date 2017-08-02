@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Boennig"
+Rol="MC"
+Pos="DM"
+Nac="1970"
+[Val]
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CUA_FAI"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="24"
+Def="328"
+Tec="482"
+Ata="110"
+Niv="402"

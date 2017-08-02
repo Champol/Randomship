@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Pochettino"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="24"
+Day="13"
+Age="20"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="52000"
+Eqp="FAN_FEL"
+[Lvl]
+Frm="960"
+Por="3"
+Def="639"
+Tec="308"
+Ata="256"
+Niv="553"

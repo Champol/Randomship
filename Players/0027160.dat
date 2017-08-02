@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Dagermanne"
+Rol="MC"
+Pos="AM"
+Nac="1982"
+[Val]
+Rec="1"
+Age="18"
+Pow="C"
+Fam="1"
+Les="11"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="HAT_PAN"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="21"
+Def="125"
+Tec="572"
+Ata="302"
+Niv="443"

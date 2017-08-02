@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Chopitea"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="169"
+Age="26"
+Pow="C"
+Fam="169"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="223000"
+Eqp="CUA_CER"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="807"
+Def="428"
+Tec="314"
+Ata="9"
+Niv="663"

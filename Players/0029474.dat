@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Higashi"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="19"
+Day="13"
+Age="20"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="BKN_CIM"
+[Lvl]
+Frm="979"
+Por="13"
+Def="721"
+Tec="334"
+Ata="122"
+Niv="539"

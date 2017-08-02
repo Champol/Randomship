@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Noguchi"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="134"
+Day="13"
+Age="22"
+Pow="D"
+Fam="134"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="FAN_GOD"
+[Lvl]
+Frm="982"
+Por="44"
+Def="332"
+Tec="486"
+Ata="636"
+Niv="635"

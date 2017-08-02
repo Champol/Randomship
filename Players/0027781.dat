@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Golletti"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="62"
+Day="13"
+Age="24"
+Pow="D"
+Fam="62"
+Les="0"
+Tra="2000"
+[2000]
+Sue="77000"
+Eqp="HAT_ENF"
+[Lvl]
+Frm="982"
+Por="32"
+Def="160"
+Tec="589"
+Ata="559"
+Niv="581"

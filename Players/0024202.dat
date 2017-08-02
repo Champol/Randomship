@@ -1,0 +1,22 @@
+[Inf]
+Nom="E. Roqués"
+Rol="MC"
+Pos="WM"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_AZA"
+[Lvl]
+Frm="976"
+Por="24"
+Def="313"
+Tec="448"
+Ata="277"
+Niv="439"

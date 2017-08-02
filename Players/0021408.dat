@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Chu"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="197"
+Age="22"
+Pow="A"
+Fam="197"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="272000"
+Eqp="CUA_MLD"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="10"
+Def="716"
+Tec="511"
+Ata="283"
+Niv="680"

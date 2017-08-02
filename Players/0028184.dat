@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Pros"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Rec="1"
+Age="18"
+Pow="C"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="AGE_SAN"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="6"
+Def="137"
+Tec="306"
+Ata="582"
+Niv="450"

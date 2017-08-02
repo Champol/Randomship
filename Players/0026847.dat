@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Kopúnek"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="235"
+Age="21"
+Pow="A"
+Fam="235"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="257000"
+Eqp="HAT_TOM"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="10"
+Def="137"
+Tec="568"
+Ata="762"
+Niv="675"

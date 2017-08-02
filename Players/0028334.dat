@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Jullien"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="650"
+Age="27"
+Pow="B"
+Fam="650"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="737000"
+Eqp="AGE_CAN"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="1029"
+Def="336"
+Tec="275"
+Ata="35"
+Niv="770"

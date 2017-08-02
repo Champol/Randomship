@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Mascherano"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="97"
+Day="13"
+Age="23"
+Pow="D"
+Fam="97"
+Les="0"
+Tra="2000"
+[2000]
+Sue="104000"
+Eqp="FAN_CLV"
+[Lvl]
+Frm="969"
+Por="32"
+Def="90"
+Tec="500"
+Ata="689"
+Niv="603"

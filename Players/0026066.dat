@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Pezzini"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Rec="4"
+Age="18"
+Pow="B"
+Fam="4"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="15000"
+Eqp="ACT_V-R"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="18"
+Def="206"
+Tec="314"
+Ata="599"
+Niv="473"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Lebedev"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="312"
+Age="23"
+Pow="B"
+Fam="312"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="364000"
+Eqp="ACT_GRA"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="933"
+Def="211"
+Tec="365"
+Ata="43"
+Niv="705"

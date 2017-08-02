@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Muratorio"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="96"
+Day="13"
+Age="27"
+Pow="B"
+Fam="96"
+Les="0"
+Tra="2000"
+[2000]
+Sue="132000"
+Eqp="FAN_FAN"
+[Lvl]
+Frm="977"
+Por="18"
+Def="313"
+Tec="777"
+Ata="332"
+Niv="621"

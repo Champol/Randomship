@@ -1,0 +1,22 @@
+[Inf]
+Nom="L.F. Holmes"
+Rol="MC"
+Pos="DM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="BKN_OLI"
+[Lvl]
+Frm="978"
+Por="23"
+Def="290"
+Tec="470"
+Ata="131"
+Niv="378"

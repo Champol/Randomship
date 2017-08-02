@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. McKee"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="401"
+Age="23"
+Pow="B"
+Fam="401"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="440000"
+Eqp="HAT_OBW"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="43"
+Def="204"
+Tec="933"
+Ata="479"
+Niv="722"

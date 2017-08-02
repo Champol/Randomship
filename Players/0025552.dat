@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Comero"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="208"
+Age="23"
+Pow="C"
+Fam="208"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="289000"
+Eqp="ACT_CRE"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="928"
+Def="242"
+Tec="263"
+Ata="8"
+Niv="686"

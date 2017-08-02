@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Matarazzo"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="399"
+Age="24"
+Pow="A"
+Fam="399"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="376000"
+Eqp="BKN_RAV"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="25"
+Def="392"
+Tec="939"
+Ata="240"
+Niv="708"

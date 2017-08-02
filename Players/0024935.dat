@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Maynor"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="191"
+Day="13"
+Age="28"
+Pow="B"
+Fam="191"
+Les="0"
+Tra="2000"
+[2000]
+Sue="197000"
+Eqp="FAN_CLV"
+[Lvl]
+Frm="992"
+Por="9"
+Def="148"
+Tec="412"
+Ata="855"
+Niv="653"

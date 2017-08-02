@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Briscoe"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="1"
+Age="18"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="HAT_T-Z"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="30"
+Def="482"
+Tec="291"
+Ata="230"
+Niv="445"

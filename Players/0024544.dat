@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Coyle"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="13"
+Day="13"
+Age="19"
+Pow="A"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="32000"
+Eqp="FAN_MEZ"
+[Lvl]
+Frm="973"
+Por="17"
+Def="666"
+Tec="352"
+Ata="178"
+Niv="521"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Picco"
+Rol="PT"
+Pos="GK"
+Nac="1969"
+[Val]
+Rec="23"
+Age="31"
+Pow="D"
+Fam="23"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="38000"
+Eqp="CUA_DEN"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="691"
+Def="210"
+Tec="246"
+Ata="26"
+Niv="531"

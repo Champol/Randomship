@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Torcivia"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="239"
+Age="26"
+Pow="B"
+Fam="239"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="364000"
+Eqp="FAN_NUR"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="30"
+Def="424"
+Tec="876"
+Ata="322"
+Niv="705"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.P. Perrot"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="28"
+Age="23"
+Pow="E"
+Fam="28"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="51000"
+Eqp="CUA_CRC"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="9"
+Def="689"
+Tec="389"
+Ata="209"
+Niv="551"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="C.A. Molouny"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="297"
+Age="24"
+Pow="B"
+Fam="297"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="356000"
+Eqp="ACT_YER"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="34"
+Def="146"
+Tec="665"
+Ata="724"
+Niv="703"

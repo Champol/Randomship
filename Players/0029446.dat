@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Bailleul"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="47"
+Day="13"
+Age="22"
+Pow="D"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="86000"
+Eqp="BKN_ZON"
+[Lvl]
+Frm="970"
+Por="8"
+Def="633"
+Tec="351"
+Ata="352"
+Niv="589"

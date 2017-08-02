@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.H. Panagiotopoulos "
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Rec="12"
+Day="13"
+Age="30"
+Pow="D"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="HAT_ENF"
+[Lvl]
+Frm="992"
+Por="27"
+Def="315"
+Tec="490"
+Ata="372"
+Niv="505"

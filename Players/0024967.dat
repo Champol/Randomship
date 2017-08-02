@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Pirlo"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="255"
+Day="13"
+Age="24"
+Pow="C"
+Fam="255"
+Les="0"
+Tra="2000"
+[2000]
+Sue="245000"
+Eqp="FAN_TEH"
+[Lvl]
+Frm="980"
+Por="22"
+Def="715"
+Tec="478"
+Ata="294"
+Niv="671"

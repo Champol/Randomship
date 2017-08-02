@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.T. Imakake"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="46"
+Day="13"
+Age="25"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="72000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="973"
+Por="8"
+Def="616"
+Tec="348"
+Ata="345"
+Niv="576"

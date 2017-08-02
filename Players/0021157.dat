@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Tatum"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="180"
+Age="23"
+Pow="C"
+Fam="180"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="202000"
+Eqp="CUA_MSA"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="2"
+Def="414"
+Tec="852"
+Ata="204"
+Niv="655"

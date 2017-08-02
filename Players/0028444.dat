@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Bareux"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="319"
+Age="23"
+Pow="A"
+Fam="319"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="251000"
+Eqp="AGE_M-N"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="34"
+Def="208"
+Tec="415"
+Ata="885"
+Niv="673"

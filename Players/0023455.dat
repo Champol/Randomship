@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Mesa"
+Rol="DL"
+Pos="WF"
+Nac="1982"
+[Val]
+Rec="1"
+Day="13"
+Age="18"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="FAN_HOR"
+[Lvl]
+Frm="989"
+Por="41"
+Def="152"
+Tec="349"
+Ata="508"
+Niv="464"

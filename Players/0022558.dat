@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. De Videla"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="1"
+Age="30"
+Pow="D"
+Fam="1"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="11000"
+Eqp="CUA_VOR"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="17"
+Def="151"
+Tec="305"
+Ata="574"
+Niv="455"

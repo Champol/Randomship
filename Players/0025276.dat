@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Kvist"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="122"
+Day="13"
+Age="23"
+Pow="C"
+Fam="122"
+Les="0"
+Tra="2000"
+[2000]
+Sue="199000"
+Eqp="FAN_B-L"
+[Lvl]
+Frm="967"
+Por="5"
+Def="322"
+Tec="651"
+Ata="522"
+Niv="654"

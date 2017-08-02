@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.C. Eki"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="157"
+Age="23"
+Pow="D"
+Fam="157"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="181000"
+Eqp="CUA_CLF"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="20"
+Def="869"
+Tec="375"
+Ata="135"
+Niv="646"

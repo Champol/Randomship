@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Onishi"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="516"
+Age="22"
+Pow="B"
+Fam="516"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="513000"
+Eqp="CUA_CAR"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="36"
+Def="818"
+Tec="483"
+Ata="305"
+Niv="737"

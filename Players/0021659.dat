@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Elósegui"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="13"
+Age="21"
+Pow="E"
+Fam="13"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="30000"
+Eqp="CUA_CND"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="28"
+Def="89"
+Tec="408"
+Ata="641"
+Niv="517"

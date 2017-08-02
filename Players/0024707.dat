@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.L. Arnedo"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="11"
+Day="13"
+Age="30"
+Pow="D"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="23000"
+Eqp="FAN_M-T"
+[Lvl]
+Frm="978"
+Por="7"
+Def="662"
+Tec="296"
+Ata="114"
+Niv="499"

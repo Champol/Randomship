@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Zuccotti"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="276"
+Age="29"
+Pow="B"
+Fam="276"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="233000"
+Eqp="HAT_EDP"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="39"
+Def="116"
+Tec="345"
+Ata="920"
+Niv="667"

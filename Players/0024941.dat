@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Agostini"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="501"
+Day="13"
+Age="27"
+Pow="A"
+Fam="501"
+Les="0"
+Tra="2000"
+[2000]
+Sue="497000"
+Eqp="FAN_TEH"
+[Lvl]
+Frm="984"
+Por="946"
+Def="234"
+Tec="446"
+Ata="18"
+Niv="733"

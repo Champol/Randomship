@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Punta"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="149"
+Day="13"
+Age="29"
+Pow="B"
+Fam="149"
+Les="0"
+Tra="2000"
+[2000]
+Sue="190000"
+Eqp="BKN_OLI"
+[Lvl]
+Frm="972"
+Por="43"
+Def="862"
+Tec="394"
+Ata="138"
+Niv="650"

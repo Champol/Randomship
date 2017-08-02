@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Tormey"
+Rol="MC"
+Pos="CM"
+Nac="1969"
+[Val]
+Rec="76"
+Age="31"
+Pow="B"
+Fam="76"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="80000"
+Eqp="ACT_GRA"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="26"
+Def="278"
+Tec="740"
+Ata="295"
+Niv="582"

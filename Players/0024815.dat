@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Coudeu"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="12"
+Day="13"
+Age="26"
+Pow="E"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="29000"
+Eqp="FAN_HAR"
+[Lvl]
+Frm="972"
+Por="16"
+Def="190"
+Tec="300"
+Ata="669"
+Niv="515"

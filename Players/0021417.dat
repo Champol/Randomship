@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Segura"
+Rol="MC"
+Pos="CM"
+Nac="1975"
+[Val]
+Rec="158"
+Age="25"
+Pow="C"
+Fam="158"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="209000"
+Eqp="CUA_MLD"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="34"
+Def="275"
+Tec="852"
+Ata="330"
+Niv="659"

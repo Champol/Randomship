@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Lepetina"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="96"
+Age="23"
+Pow="D"
+Fam="96"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="CUA_CER"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="4"
+Def="484"
+Tec="778"
+Ata="147"
+Niv="629"

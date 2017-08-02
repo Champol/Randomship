@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Alkain"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="655"
+Age="29"
+Pow="A"
+Fam="655"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="554000"
+Eqp="BKN_POI"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="30"
+Def="342"
+Tec="822"
+Ata="467"
+Niv="743"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Brial"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="72"
+Age="22"
+Pow="C"
+Fam="72"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="96000"
+Eqp="CUA_AAI"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="776"
+Def="318"
+Tec="226"
+Ata="40"
+Niv="597"

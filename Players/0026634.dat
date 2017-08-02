@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Oruma"
+Rol="MC"
+Pos="CM"
+Nac="1970"
+[Val]
+Rec="861"
+Age="30"
+Pow="A"
+Fam="861"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="1000000"
+Eqp="HAT_CUR"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="3"
+Def="454"
+Tec="1020"
+Ata="306"
+Niv="801"

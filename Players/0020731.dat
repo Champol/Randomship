@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Livingston"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="62"
+Age="25"
+Pow="D"
+Fam="62"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="82000"
+Eqp="CUA_EDD"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="35"
+Def="97"
+Tec="420"
+Ata="748"
+Niv="586"

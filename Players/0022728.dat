@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Tsugawa"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="32"
+Age="27"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="50000"
+Eqp="CUA_B-D"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="36"
+Def="132"
+Tec="373"
+Ata="709"
+Niv="550"

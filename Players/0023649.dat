@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Sicard"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="376"
+Age="27"
+Pow="C"
+Fam="376"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="313000"
+Eqp="FAN_DUR"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="38"
+Def="408"
+Tec="915"
+Ata="210"
+Niv="692"

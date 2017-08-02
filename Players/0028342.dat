@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Namouchi"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="199"
+Age="29"
+Pow="C"
+Fam="199"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="141000"
+Eqp="AGE_CAN"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="31"
+Def="747"
+Tec="544"
+Ata="146"
+Niv="626"

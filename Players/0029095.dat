@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Emenike"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="339"
+Age="25"
+Pow="B"
+Fam="339"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="426000"
+Eqp="BKN_R-S"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="38"
+Def="945"
+Tec="474"
+Ata="101"
+Niv="719"

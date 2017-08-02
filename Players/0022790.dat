@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Camilión"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="134"
+Age="25"
+Pow="D"
+Fam="134"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="CUA_HVO"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="1"
+Def="155"
+Tec="435"
+Ata="776"
+Niv="612"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Noval"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="99"
+Day="13"
+Age="23"
+Pow="C"
+Fam="99"
+Les="0"
+Tra="2000"
+[2000]
+Sue="128000"
+Eqp="FAN_AZI"
+[Lvl]
+Frm="981"
+Por="17"
+Def="793"
+Tec="423"
+Ata="166"
+Niv="619"

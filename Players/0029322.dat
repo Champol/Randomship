@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Obilalé"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="23"
+Day="13"
+Age="20"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="BKN_HLK"
+[Lvl]
+Frm="977"
+Por="723"
+Def="213"
+Tec="264"
+Ata="4"
+Niv="552"

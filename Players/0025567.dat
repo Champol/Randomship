@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Bernardis"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="362"
+Age="29"
+Pow="A"
+Fam="362"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="356000"
+Eqp="ACT_CRE"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="14"
+Def="344"
+Tec="736"
+Ata="488"
+Niv="703"

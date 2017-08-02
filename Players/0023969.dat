@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Oquendo"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="346"
+Age="22"
+Pow="A"
+Fam="346"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="381000"
+Eqp="FAN_HUF"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="46"
+Def="302"
+Tec="761"
+Ata="502"
+Niv="709"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Koscielny"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="138"
+Day="13"
+Age="26"
+Pow="D"
+Fam="138"
+Les="0"
+Tra="2000"
+[2000]
+Sue="144000"
+Eqp="FAN_ILV"
+[Lvl]
+Frm="980"
+Por="35"
+Def="134"
+Tec="544"
+Ata="692"
+Niv="628"

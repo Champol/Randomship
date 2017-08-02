@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Marcuzzi"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Rec="1107"
+Age="32"
+Pow="A"
+Fam="1107"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="650000"
+Eqp="ACT_WHZ"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="48"
+Def="304"
+Tec="1001"
+Ata="297"
+Niv="758"

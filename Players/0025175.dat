@@ -1,0 +1,22 @@
+[Inf]
+Nom="I. Laurence"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_LTH"
+[Lvl]
+Frm="969"
+Por="522"
+Def="220"
+Tec="270"
+Ata="18"
+Niv="426"

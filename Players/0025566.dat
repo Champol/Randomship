@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Gaspachero"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="97"
+Age="26"
+Pow="D"
+Fam="97"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="103000"
+Eqp="ACT_CRE"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="13"
+Def="364"
+Tec="784"
+Ata="180"
+Niv="602"

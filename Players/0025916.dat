@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Azoaga"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="451"
+Age="23"
+Pow="B"
+Fam="451"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="430000"
+Eqp="ACT_AND"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="21"
+Def="333"
+Tec="783"
+Ata="482"
+Niv="719"

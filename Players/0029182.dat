@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Echaurri"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="342"
+Age="23"
+Pow="B"
+Fam="342"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="317000"
+Eqp="BKN_POI"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="47"
+Def="799"
+Tec="400"
+Ata="289"
+Niv="693"

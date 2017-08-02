@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Silveyra"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="37"
+Day="13"
+Age="26"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="CUA_PSL"
+[Lvl]
+Frm="974"
+Por="0"
+Def="600"
+Tec="316"
+Ata="330"
+Niv="552"

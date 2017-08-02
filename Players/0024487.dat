@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Morse"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="312"
+Day="13"
+Age="24"
+Pow="A"
+Fam="312"
+Les="0"
+Tra="2000"
+[2000]
+Sue="344000"
+Eqp="FAN_ARG"
+[Lvl]
+Frm="966"
+Por="49"
+Def="871"
+Tec="524"
+Ata="231"
+Niv="700"

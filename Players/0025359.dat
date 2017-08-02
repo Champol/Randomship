@@ -1,0 +1,22 @@
+[Inf]
+Nom="I. Cordiviola"
+Rol="MC"
+Pos="DM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_CAR"
+[Lvl]
+Frm="975"
+Por="49"
+Def="350"
+Tec="524"
+Ata="86"
+Niv="424"

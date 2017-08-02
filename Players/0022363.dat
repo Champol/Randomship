@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Lilliendahl"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="6"
+Day="13"
+Age="20"
+Pow="D"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="19000"
+Eqp="CUA_PSL"
+[Lvl]
+Frm="983"
+Por="48"
+Def="554"
+Tec="328"
+Ata="179"
+Niv="489"

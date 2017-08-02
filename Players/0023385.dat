@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Pike"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="650"
+Age="24"
+Pow="B"
+Fam="650"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="643000"
+Eqp="FAN_HOG"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="31"
+Def="980"
+Tec="472"
+Ata="275"
+Niv="757"

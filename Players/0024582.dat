@@ -1,0 +1,22 @@
+[Inf]
+Nom="T. Ysore"
+Rol="MC"
+Pos="DM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_LOT"
+[Lvl]
+Frm="981"
+Por="33"
+Def="304"
+Tec="526"
+Ata="67"
+Niv="409"

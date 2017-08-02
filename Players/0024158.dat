@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Zerdán"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="251"
+Day="13"
+Age="25"
+Pow="C"
+Fam="251"
+Les="0"
+Tra="2000"
+[2000]
+Sue="313000"
+Eqp="FAN_DIA"
+[Lvl]
+Frm="989"
+Por="901"
+Def="298"
+Tec="317"
+Ata="39"
+Niv="692"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Lacavera"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="55"
+Day="13"
+Age="29"
+Pow="C"
+Fam="55"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="FAN_FEL"
+[Lvl]
+Frm="972"
+Por="43"
+Def="220"
+Tec="364"
+Ata="639"
+Niv="568"

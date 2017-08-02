@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Griet"
+Rol="MC"
+Pos="AM"
+Nac="1972"
+[Val]
+Rec="328"
+Age="28"
+Pow="C"
+Fam="328"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="344000"
+Eqp="CUA_CEC"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="45"
+Def="137"
+Tec="970"
+Ata="348"
+Niv="700"

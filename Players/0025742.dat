@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.E. Hiden"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="181"
+Age="26"
+Pow="C"
+Fam="181"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="ACT_LUM"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="13"
+Def="250"
+Tec="832"
+Ata="290"
+Niv="634"

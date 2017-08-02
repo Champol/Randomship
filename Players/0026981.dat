@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Orbea"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="88"
+Age="20"
+Pow="B"
+Fam="88"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="119000"
+Eqp="HAT_M4E"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="17"
+Def="808"
+Tec="384"
+Ata="174"
+Niv="614"

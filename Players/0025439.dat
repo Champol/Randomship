@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Toro"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="83"
+Day="13"
+Age="22"
+Pow="C"
+Fam="83"
+Les="0"
+Tra="2000"
+[2000]
+Sue="97000"
+Eqp="FAN_BRA"
+[Lvl]
+Frm="971"
+Por="10"
+Def="766"
+Tec="414"
+Ata="190"
+Niv="598"

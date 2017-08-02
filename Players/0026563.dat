@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Sinclair"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Rec="5"
+Day="13"
+Age="32"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="HAT_MAS"
+[Lvl]
+Frm="983"
+Por="50"
+Def="294"
+Tec="305"
+Ata="184"
+Niv="322"

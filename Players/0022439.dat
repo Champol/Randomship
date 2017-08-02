@@ -1,0 +1,23 @@
+[Inf]
+Nom="A.G. Cucullo"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="209"
+Day="13"
+Age="23"
+Pow="B"
+Fam="209"
+Les="0"
+Tra="2000"
+[2000]
+Sue="248000"
+Eqp="CUA_LAK"
+[Lvl]
+Frm="974"
+Por="40"
+Def="334"
+Tec="398"
+Ata="744"
+Niv="671"

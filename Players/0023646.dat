@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Carballar"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="66"
+Age="21"
+Pow="B"
+Fam="66"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="76000"
+Eqp="FAN_DUR"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="24"
+Def="579"
+Tec="458"
+Ata="292"
+Niv="580"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Montilla"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="413"
+Age="29"
+Pow="B"
+Fam="413"
+Les="6"
+Tra="2000"
+Day="13"
+[2000]
+Sue="360000"
+Eqp="CUA_MCT"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="5"
+Def="883"
+Tec="501"
+Ata="188"
+Niv="704"

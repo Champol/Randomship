@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Maudet"
+Rol="MC"
+Pos="DM"
+Nac="1975"
+[Val]
+Rec="116"
+Day="13"
+Age="25"
+Pow="D"
+Fam="116"
+Les="10"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="141000"
+Eqp="HAT_PEP"
+[Lvl]
+Frm="971"
+Por="17"
+Def="406"
+Tec="816"
+Ata="166"
+Niv="626"

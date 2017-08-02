@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Verdugo"
+Rol="DL"
+Pos="WF"
+Nac="1969"
+[Val]
+Rec="329"
+Age="31"
+Pow="A"
+Fam="329"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="242000"
+Eqp="FAN_ERI"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="22"
+Def="240"
+Tec="562"
+Ata="685"
+Niv="670"

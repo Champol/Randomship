@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Zandanel"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="27"
+Age="20"
+Pow="D"
+Fam="27"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="48000"
+Eqp="CUA_CND"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="25"
+Def="236"
+Tec="699"
+Ata="314"
+Niv="547"

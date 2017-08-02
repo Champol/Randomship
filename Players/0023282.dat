@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Ricchieri"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="39"
+Day="13"
+Age="22"
+Pow="C"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="50000"
+Eqp="FAN_BER"
+[Lvl]
+Frm="975"
+Por="9"
+Def="146"
+Tec="453"
+Ata="666"
+Niv="550"

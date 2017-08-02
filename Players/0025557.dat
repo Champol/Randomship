@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Wade"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="7"
+Age="23"
+Pow="E"
+Fam="7"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="ACT_CRE"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="2"
+Def="526"
+Tec="318"
+Ata="261"
+Niv="489"

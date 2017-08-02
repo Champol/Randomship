@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Al-Harthi"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_ARG"
+[Lvl]
+Frm="971"
+Por="2"
+Def="369"
+Tec="252"
+Ata="225"
+Niv="372"

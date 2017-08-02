@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Marwan"
+Rol="DL"
+Pos="SS"
+Nac="1981"
+[Val]
+Rec="6"
+Age="19"
+Pow="D"
+Fam="6"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="23000"
+Eqp="CUA_CEG"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="37"
+Def="186"
+Tec="459"
+Ata="520"
+Niv="499"

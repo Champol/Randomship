@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Odom"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="643"
+Age="23"
+Pow="A"
+Fam="643"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="737000"
+Eqp="AGE_M-N"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="24"
+Def="267"
+Tec="546"
+Ata="848"
+Niv="770"

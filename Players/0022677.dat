@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Nuevo"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="50"
+Age="29"
+Pow="C"
+Fam="50"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="50000"
+Eqp="CUA_CEN"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="35"
+Def="354"
+Tec="700"
+Ata="187"
+Niv="550"

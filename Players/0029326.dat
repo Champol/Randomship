@@ -1,0 +1,22 @@
+[Inf]
+Nom="L. Irigoin"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="BKN_HLK"
+[Lvl]
+Frm="983"
+Por="10"
+Def="428"
+Tec="313"
+Ata="204"
+Niv="417"

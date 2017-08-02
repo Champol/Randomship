@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Baires"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="205"
+Age="24"
+Pow="B"
+Fam="205"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="215000"
+Eqp="ACT_AND"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="31"
+Def="436"
+Tec="855"
+Ata="170"
+Niv="660"

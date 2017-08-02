@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Gastelú"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="93"
+Age="29"
+Pow="C"
+Fam="93"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="89000"
+Eqp="BKN_CHE"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="47"
+Def="261"
+Tec="688"
+Ata="319"
+Niv="591"

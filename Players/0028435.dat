@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Vizcarra"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="39"
+Age="20"
+Pow="C"
+Fam="39"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="42000"
+Eqp="AGE_M-N"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="17"
+Def="332"
+Tec="712"
+Ata="162"
+Niv="539"

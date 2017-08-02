@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Jaque"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="177"
+Age="21"
+Pow="B"
+Fam="177"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="181000"
+Eqp="CUA_MRR"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="49"
+Def="284"
+Tec="712"
+Ata="427"
+Niv="647"

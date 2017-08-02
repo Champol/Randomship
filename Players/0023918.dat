@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Alas"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="30"
+Day="13"
+Age="20"
+Pow="C"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="48000"
+Eqp="FAN_TAS"
+[Lvl]
+Frm="974"
+Por="21"
+Def="112"
+Tec="304"
+Ata="751"
+Niv="548"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Cánovas"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="49"
+Day="13"
+Age="21"
+Pow="C"
+Fam="49"
+Les="0"
+Tra="2000"
+[2000]
+Sue="76000"
+Eqp="FAN_THR"
+[Lvl]
+Frm="988"
+Por="32"
+Def="372"
+Tec="751"
+Ata="184"
+Niv="579"

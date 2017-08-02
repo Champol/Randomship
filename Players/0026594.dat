@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Seok-Ju"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="454"
+Age="27"
+Pow="A"
+Fam="454"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="450000"
+Eqp="HAT_EDP"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="940"
+Def="366"
+Tec="288"
+Ata="45"
+Niv="723"

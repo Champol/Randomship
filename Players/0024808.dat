@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Qi"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="72"
+Day="13"
+Age="21"
+Pow="D"
+Fam="72"
+Les="0"
+Tra="2000"
+[2000]
+Sue="110000"
+Eqp="FAN_HAR"
+[Lvl]
+Frm="984"
+Por="14"
+Def="270"
+Tec="804"
+Ata="234"
+Niv="607"

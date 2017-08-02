@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Govea"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="237"
+Age="23"
+Pow="B"
+Fam="237"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="251000"
+Eqp="AGE_TAT"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="6"
+Def="246"
+Tec="505"
+Ata="725"
+Niv="673"

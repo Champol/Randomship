@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Reed"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="117"
+Age="30"
+Pow="C"
+Fam="117"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="97000"
+Eqp="ACT_LUM"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="29"
+Def="650"
+Tec="397"
+Ata="271"
+Niv="598"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A.G. Aziawonou"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="28"
+Day="13"
+Age="20"
+Pow="D"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="BKN_CPH"
+[Lvl]
+Frm="971"
+Por="1"
+Def="244"
+Tec="754"
+Ata="220"
+Niv="565"

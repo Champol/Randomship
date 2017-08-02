@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Das"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="13"
+Age="24"
+Pow="D"
+Fam="13"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="30000"
+Eqp="HAT_CAC"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="28"
+Def="372"
+Tec="656"
+Ata="103"
+Niv="515"

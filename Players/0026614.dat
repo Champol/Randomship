@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Arenillas"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="269"
+Age="27"
+Pow="C"
+Fam="269"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="245000"
+Eqp="HAT_EDP"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="50"
+Def="115"
+Tec="518"
+Ata="838"
+Niv="671"

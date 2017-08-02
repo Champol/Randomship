@@ -1,0 +1,24 @@
+[Inf]
+Nom="Y. Aignasse"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="26"
+Age="21"
+Pow="E"
+Fam="26"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="40000"
+Eqp="CUA_CEC"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="46"
+Def="125"
+Tec="383"
+Ata="687"
+Niv="535"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Chouciño"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="91"
+Day="13"
+Age="20"
+Pow="C"
+Fam="91"
+Les="0"
+Tra="2000"
+[2000]
+Sue="124000"
+Eqp="FAN_D-G"
+[Lvl]
+Frm="990"
+Por="1"
+Def="113"
+Tec="392"
+Ata="814"
+Niv="616"

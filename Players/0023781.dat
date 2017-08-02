@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Amand"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="40"
+Day="13"
+Age="32"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="45000"
+Eqp="FAN_UAG"
+[Lvl]
+Frm="975"
+Por="692"
+Def="327"
+Tec="195"
+Ata="19"
+Niv="543"

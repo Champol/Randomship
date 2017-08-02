@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Bostic"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="213"
+Day="13"
+Age="26"
+Pow="C"
+Fam="213"
+Les="0"
+Tra="2000"
+[2000]
+Sue="286000"
+Eqp="FAN_LTH"
+[Lvl]
+Frm="980"
+Por="33"
+Def="734"
+Tec="509"
+Ata="247"
+Niv="684"

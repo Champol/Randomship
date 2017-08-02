@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Nogami"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Rec="21"
+Age="32"
+Pow="C"
+Fam="21"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="32000"
+Eqp="ACT_TRL"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="47"
+Def="232"
+Tec="637"
+Ata="322"
+Niv="521"

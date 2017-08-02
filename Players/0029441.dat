@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Mayol"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="63"
+Day="13"
+Age="23"
+Pow="D"
+Fam="63"
+Les="0"
+Tra="2000"
+[2000]
+Sue="107000"
+Eqp="BKN_ZON"
+[Lvl]
+Frm="968"
+Por="16"
+Def="841"
+Tec="307"
+Ata="90"
+Niv="604"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Moroni"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="90"
+Day="13"
+Age="23"
+Pow="C"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="114000"
+Eqp="BKN_PQG"
+[Lvl]
+Frm="984"
+Por="27"
+Def="205"
+Tec="492"
+Ata="740"
+Niv="611"

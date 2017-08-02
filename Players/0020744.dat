@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Santillano"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="4"
+Age="20"
+Pow="E"
+Fam="4"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="CUA_LOE"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="41"
+Def="548"
+Tec="290"
+Ata="235"
+Niv="486"

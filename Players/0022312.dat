@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Struwig"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="654"
+Age="24"
+Pow="B"
+Fam="654"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="643000"
+Eqp="CUA_MRR"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="5"
+Def="988"
+Tec="486"
+Ata="180"
+Niv="757"

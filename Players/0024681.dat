@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Bacchus"
+Rol="PT"
+Pos="GK"
+Nac="1969"
+[Val]
+Rec="2"
+Day="13"
+Age="31"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="FAN_M-T"
+[Lvl]
+Frm="975"
+Por="561"
+Def="235"
+Tec="282"
+Ata="30"
+Niv="460"

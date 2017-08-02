@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Miera"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="167"
+Day="13"
+Age="21"
+Pow="B"
+Fam="167"
+Les="0"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="190000"
+Eqp="FAN_UAG"
+[Lvl]
+Frm="976"
+Por="24"
+Def="138"
+Tec="474"
+Ata="825"
+Niv="650"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Goncharova"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="325"
+Age="22"
+Pow="A"
+Fam="325"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="455000"
+Eqp="CUA_FAI"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="28"
+Def="352"
+Tec="949"
+Ata="280"
+Niv="725"

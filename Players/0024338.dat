@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Abaffy"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="112"
+Day="13"
+Age="22"
+Pow="C"
+Fam="112"
+Les="0"
+Tra="2000"
+[2000]
+Sue="141000"
+Eqp="FAN_GOD"
+[Lvl]
+Frm="969"
+Por="25"
+Def="733"
+Tec="352"
+Ata="266"
+Niv="626"

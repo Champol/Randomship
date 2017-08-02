@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Oshima"
+Rol="DL"
+Pos="SS"
+Nac="1980"
+[Val]
+Rec="169"
+Age="20"
+Pow="A"
+Fam="169"
+Les="7"
+Tra="2000"
+Day="13"
+[2000]
+Sue="202000"
+Eqp="HAT_INC"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="46"
+Def="157"
+Tec="549"
+Ata="738"
+Niv="655"

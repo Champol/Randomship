@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Feit"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="HAT_V-N"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="50"
+Def="113"
+Tec="305"
+Ata="568"
+Niv="435"

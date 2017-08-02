@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Meran"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="246"
+Day="13"
+Age="30"
+Pow="B"
+Fam="246"
+Les="0"
+Tra="2000"
+[2000]
+Sue="276000"
+Eqp="FAN_ESG"
+[Lvl]
+Frm="977"
+Por="43"
+Def="725"
+Tec="528"
+Ata="238"
+Niv="681"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Gana"
+Rol="MC"
+Pos="DM"
+Nac="1982"
+[Val]
+Rec="16"
+Age="18"
+Pow="B"
+Fam="16"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="33000"
+Eqp="CUA_CLF"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="13"
+Def="326"
+Tec="700"
+Ata="105"
+Niv="522"

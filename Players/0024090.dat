@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Arismendi"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="503"
+Day="13"
+Age="27"
+Pow="B"
+Fam="503"
+Les="0"
+Tra="2000"
+[2000]
+Sue="508000"
+Eqp="FAN_ESG"
+[Lvl]
+Frm="983"
+Por="3"
+Def="210"
+Tec="621"
+Ata="807"
+Niv="734"

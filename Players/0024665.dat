@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Jethmalani "
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="164"
+Day="13"
+Age="27"
+Pow="C"
+Fam="164"
+Les="0"
+Tra="2000"
+[2000]
+Sue="183000"
+Eqp="FAN_ERE"
+[Lvl]
+Frm="979"
+Por="42"
+Def="316"
+Tec="704"
+Ata="418"
+Niv="647"

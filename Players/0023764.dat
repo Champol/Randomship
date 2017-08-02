@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Petey"
+Rol="MC"
+Pos="WM"
+Nac="1972"
+[Val]
+Rec="172"
+Age="28"
+Pow="C"
+Fam="172"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="FAN_MAH"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="34"
+Def="321"
+Tec="715"
+Ata="306"
+Niv="621"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Borgetti"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="16"
+Day="13"
+Age="19"
+Pow="D"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="FAN_MRI"
+[Lvl]
+Frm="966"
+Por="30"
+Def="246"
+Tec="573"
+Ata="353"
+Niv="527"

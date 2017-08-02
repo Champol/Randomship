@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Niang"
+Rol="DL"
+Pos="WF"
+Nac="1981"
+[Val]
+Rec="1"
+Day="13"
+Age="19"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="11000"
+Eqp="BKN_PQG"
+[Lvl]
+Frm="960"
+Por="31"
+Def="189"
+Tec="304"
+Ata="503"
+Niv="454"

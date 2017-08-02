@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Dave"
+Rol="MC"
+Pos="DM"
+Nac="1981"
+[Val]
+Rec="2"
+Day="13"
+Age="19"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="14000"
+Eqp="FAN_HGS"
+[Lvl]
+Frm="984"
+Por="5"
+Def="333"
+Tec="591"
+Ata="194"
+Niv="470"

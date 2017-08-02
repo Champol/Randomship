@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Osses"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="51"
+Day="13"
+Age="20"
+Pow="B"
+Fam="51"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="FAN_MRK"
+[Lvl]
+Frm="977"
+Por="7"
+Def="713"
+Tec="415"
+Ata="253"
+Niv="577"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Antinori"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="200"
+Age="24"
+Pow="C"
+Fam="200"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="164000"
+Eqp="FAN_NAR"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="18"
+Def="346"
+Tec="813"
+Ata="280"
+Niv="637"

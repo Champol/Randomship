@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Del Oro"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="47"
+Age="27"
+Pow="E"
+Fam="47"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="62000"
+Eqp="ACT_YER"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="44"
+Def="390"
+Tec="723"
+Ata="128"
+Niv="565"

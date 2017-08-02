@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Nottolini"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="12"
+Age="29"
+Pow="D"
+Fam="12"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="24000"
+Eqp="CUA_CRL"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="31"
+Def="223"
+Tec="657"
+Ata="208"
+Niv="503"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Barrett"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="118"
+Day="13"
+Age="27"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="FAN_MUI"
+[Lvl]
+Frm="965"
+Por="42"
+Def="810"
+Tec="380"
+Ata="122"
+Niv="612"

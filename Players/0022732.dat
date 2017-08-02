@@ -1,0 +1,24 @@
+[Inf]
+Nom="X. Ferré"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="10"
+Age="30"
+Pow="E"
+Fam="10"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="20000"
+Eqp="CUA_B-D"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="8"
+Def="146"
+Tec="359"
+Ata="578"
+Niv="491"

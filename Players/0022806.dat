@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Idoyaga"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="2"
+Age="27"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="12000"
+Eqp="CUA_CUC"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="11"
+Def="413"
+Tec="534"
+Ata="133"
+Niv="458"

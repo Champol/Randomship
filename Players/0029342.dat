@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Seals"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="27"
+Day="13"
+Age="23"
+Pow="E"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="52000"
+Eqp="BKN_HLK"
+[Lvl]
+Frm="981"
+Por="18"
+Def="276"
+Tec="340"
+Ata="610"
+Niv="553"

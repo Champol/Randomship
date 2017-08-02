@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Mavuba"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="161"
+Age="26"
+Pow="C"
+Fam="161"
+Les="9"
+Tra="2000"
+Day="13"
+[2000]
+Sue="195000"
+Eqp="AGE_MEL"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="21"
+Def="696"
+Tec="428"
+Ata="329"
+Niv="651"

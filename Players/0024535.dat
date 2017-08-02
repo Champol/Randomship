@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Cello"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="146"
+Day="13"
+Age="27"
+Pow="C"
+Fam="146"
+Les="0"
+Tra="2000"
+[2000]
+Sue="152000"
+Eqp="FAN_MEZ"
+[Lvl]
+Frm="965"
+Por="792"
+Def="310"
+Tec="338"
+Ata="12"
+Niv="632"

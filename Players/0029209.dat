@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Royster"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="207"
+Age="22"
+Pow="B"
+Fam="207"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="317000"
+Eqp="BKN_ETI"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="7"
+Def="928"
+Tec="378"
+Ata="230"
+Niv="693"

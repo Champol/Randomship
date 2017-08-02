@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Koranteng"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="442"
+Age="26"
+Pow="C"
+Fam="442"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="412000"
+Eqp="CUA_HVO"
+PCal="0"
+[Lvl]
+Frm="960"
+Por="39"
+Def="320"
+Tec="923"
+Ata="349"
+Niv="717"

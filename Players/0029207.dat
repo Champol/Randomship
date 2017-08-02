@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. Bibolini"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="127"
+Age="24"
+Pow="D"
+Fam="127"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="BKN_ETI"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="24"
+Def="796"
+Tec="460"
+Ata="166"
+Niv="629"

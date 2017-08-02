@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.L. Mason"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="112"
+Day="13"
+Age="22"
+Pow="B"
+Fam="112"
+Les="0"
+Tra="2000"
+[2000]
+Sue="146000"
+Eqp="BKN_GPC"
+[Lvl]
+Frm="993"
+Por="840"
+Def="223"
+Tec="284"
+Ata="5"
+Niv="629"

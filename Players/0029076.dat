@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Duncan"
+Rol="MC"
+Pos="DM"
+Nac="1972"
+[Val]
+Rec="146"
+Day="13"
+Age="28"
+Pow="C"
+Fam="146"
+Les="0"
+Tra="2000"
+[2000]
+Sue="176000"
+Eqp="BKN_OLI"
+[Lvl]
+Frm="986"
+Por="40"
+Def="480"
+Tec="800"
+Ata="203"
+Niv="644"

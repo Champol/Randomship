@@ -1,0 +1,22 @@
+[Inf]
+Nom="H. Little"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="BKN_NIO"
+[Lvl]
+Frm="972"
+Por="6"
+Def="234"
+Tec="511"
+Ata="203"
+Niv="405"

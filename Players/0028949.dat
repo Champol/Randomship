@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Leyes"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="34"
+Day="13"
+Age="23"
+Pow="D"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="BKN_CPH"
+[Lvl]
+Frm="972"
+Por="47"
+Def="720"
+Tec="396"
+Ata="154"
+Niv="566"

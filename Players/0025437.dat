@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Lamorte"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Rec="28"
+Day="13"
+Age="18"
+Pow="A"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="48000"
+Eqp="FAN_BRA"
+[Lvl]
+Frm="971"
+Por="29"
+Def="715"
+Tec="359"
+Ata="168"
+Niv="547"

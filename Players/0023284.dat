@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Human"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="286"
+Day="13"
+Age="26"
+Pow="A"
+Fam="286"
+Les="0"
+Tra="2000"
+[2000]
+Sue="376000"
+Eqp="FAN_BER"
+[Lvl]
+Frm="988"
+Por="43"
+Def="920"
+Tec="455"
+Ata="201"
+Niv="709"

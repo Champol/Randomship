@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Álamos"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="343"
+Age="27"
+Pow="C"
+Fam="343"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="324000"
+Eqp="FAN_GRY"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="48"
+Def="140"
+Tec="609"
+Ata="751"
+Niv="695"

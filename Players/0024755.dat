@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Che"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="54"
+Day="13"
+Age="24"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="81000"
+Eqp="FAN_M-M"
+[Lvl]
+Frm="974"
+Por="29"
+Def="254"
+Tec="758"
+Ata="272"
+Niv="584"

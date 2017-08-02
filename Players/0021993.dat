@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Foreman"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="133"
+Age="22"
+Pow="C"
+Fam="133"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="179000"
+Eqp="CUA_WAL"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="5"
+Def="838"
+Tec="428"
+Ata="152"
+Niv="645"

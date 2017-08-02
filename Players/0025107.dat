@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Vernengo"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="412"
+Age="26"
+Pow="B"
+Fam="412"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="368000"
+Eqp="FAN_NAR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="26"
+Def="200"
+Tec="467"
+Ata="908"
+Niv="706"

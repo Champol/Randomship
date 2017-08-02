@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Levine"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="74"
+Day="13"
+Age="26"
+Pow="D"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="113000"
+Eqp="FAN_DAL"
+[Lvl]
+Frm="964"
+Por="770"
+Def="264"
+Tec="340"
+Ata="21"
+Niv="609"

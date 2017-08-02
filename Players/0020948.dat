@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Antequera"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="264"
+Age="24"
+Pow="D"
+Fam="264"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="254000"
+Eqp="CUA_AAI"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="15"
+Def="708"
+Tec="456"
+Ata="353"
+Niv="674"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Nielsen"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="30"
+Day="13"
+Age="23"
+Pow="D"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="CUA_PSL"
+[Lvl]
+Frm="974"
+Por="24"
+Def="200"
+Tec="719"
+Ata="322"
+Niv="557"

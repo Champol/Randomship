@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Kirchhoff"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="174"
+Day="13"
+Age="24"
+Pow="C"
+Fam="174"
+Les="1"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="254000"
+Eqp="HAT_PEP"
+[Lvl]
+Frm="971"
+Por="14"
+Def="214"
+Tec="439"
+Ata="870"
+Niv="674"

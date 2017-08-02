@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Boloqui"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="341"
+Age="29"
+Pow="A"
+Fam="341"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="324000"
+Eqp="AGE_CAN"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="48"
+Def="189"
+Tec="790"
+Ata="484"
+Niv="695"

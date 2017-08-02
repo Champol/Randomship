@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Malhotra "
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="146"
+Day="13"
+Age="22"
+Pow="C"
+Fam="146"
+Les="0"
+Tra="2000"
+[2000]
+Sue="233000"
+Eqp="HAT_MAS"
+[Lvl]
+Frm="961"
+Por="38"
+Def="738"
+Tec="399"
+Ata="344"
+Niv="667"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Mathai"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="15"
+Age="22"
+Pow="E"
+Fam="15"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="28000"
+Eqp="AGE_ENG"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="33"
+Def="414"
+Tec="631"
+Ata="110"
+Niv="512"

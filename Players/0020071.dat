@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Butta"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="16"
+Day="13"
+Age="23"
+Pow="E"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="CUA_KCB"
+[Lvl]
+Frm="972"
+Por="692"
+Def="230"
+Tec="206"
+Ata="25"
+Niv="526"

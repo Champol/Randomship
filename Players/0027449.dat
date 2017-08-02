@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Eckmann"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="41"
+Age="21"
+Pow="D"
+Fam="41"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="63000"
+Eqp="HAT_OBW"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="12"
+Def="258"
+Tec="725"
+Ata="296"
+Niv="566"

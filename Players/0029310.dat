@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Tokić"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="248"
+Age="24"
+Pow="B"
+Fam="248"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="269000"
+Eqp="BKN_EFF"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="39"
+Def="164"
+Tec="689"
+Ata="665"
+Niv="679"

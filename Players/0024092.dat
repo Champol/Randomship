@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Sauceda"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="10"
+Day="13"
+Age="30"
+Pow="D"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="22000"
+Eqp="FAN_ESG"
+[Lvl]
+Frm="971"
+Por="25"
+Def="180"
+Tec="334"
+Ata="624"
+Niv="497"

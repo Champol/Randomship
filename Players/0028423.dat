@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Cerro"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="233"
+Age="23"
+Pow="B"
+Fam="233"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="166000"
+Eqp="AGE_M-N"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="803"
+Def="301"
+Tec="351"
+Ata="2"
+Niv="639"

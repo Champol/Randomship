@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Peyronne"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="90"
+Age="23"
+Pow="D"
+Fam="90"
+Les="9"
+Tra="2000"
+Day="13"
+[2000]
+Sue="122000"
+Eqp="BKN_KER"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="18"
+Def="686"
+Tec="372"
+Ata="308"
+Niv="615"

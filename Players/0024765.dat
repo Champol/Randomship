@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Buhaza"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="43"
+Day="13"
+Age="22"
+Pow="D"
+Fam="43"
+Les="0"
+Tra="2000"
+[2000]
+Sue="67000"
+Eqp="FAN_M-M"
+[Lvl]
+Frm="965"
+Por="10"
+Def="269"
+Tec="642"
+Ata="351"
+Niv="571"

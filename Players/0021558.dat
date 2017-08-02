@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Leavy"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="72"
+Age="25"
+Pow="E"
+Fam="72"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="84000"
+Eqp="CUA_CER"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="49"
+Def="643"
+Tec="360"
+Ata="292"
+Niv="587"

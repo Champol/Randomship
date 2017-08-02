@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Geyer"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="95"
+Age="27"
+Pow="D"
+Fam="95"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="84000"
+Eqp="AGE_CHR"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="752"
+Def="270"
+Tec="274"
+Ata="19"
+Niv="587"

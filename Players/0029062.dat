@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Mosley"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="365"
+Day="13"
+Age="26"
+Pow="C"
+Fam="365"
+Les="0"
+Tra="2000"
+[2000]
+Sue="440000"
+Eqp="BKN_OLI"
+[Lvl]
+Frm="971"
+Por="12"
+Def="983"
+Tec="378"
+Ata="205"
+Niv="722"

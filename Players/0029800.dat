@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Colabella"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="211"
+Age="23"
+Pow="C"
+Fam="211"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="195000"
+Eqp="BKN_WAL"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="10"
+Def="407"
+Tec="856"
+Ata="168"
+Niv="651"

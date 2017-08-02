@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. Owusu"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="348"
+Age="26"
+Pow="C"
+Fam="348"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="233000"
+Eqp="ACT_ROD"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="36"
+Def="909"
+Tec="341"
+Ata="177"
+Niv="667"

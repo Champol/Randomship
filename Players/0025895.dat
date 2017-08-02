@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Arrea"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="451"
+Age="20"
+Pow="B"
+Fam="451"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="450000"
+Eqp="ACT_THS"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="29"
+Def="224"
+Tec="1010"
+Ata="219"
+Niv="724"

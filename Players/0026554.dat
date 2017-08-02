@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Belma"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="188"
+Day="13"
+Age="29"
+Pow="C"
+Fam="188"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="HAT_MAS"
+[Lvl]
+Frm="975"
+Por="36"
+Def="259"
+Tec="614"
+Ata="558"
+Niv="635"

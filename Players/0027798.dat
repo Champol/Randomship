@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Griera"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="262"
+Age="22"
+Pow="C"
+Fam="262"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="223000"
+Eqp="HAT_INC"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="25"
+Def="164"
+Tec="870"
+Ata="432"
+Niv="663"

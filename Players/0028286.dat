@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Ardal"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="83"
+Age="27"
+Pow="E"
+Fam="83"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="67000"
+Eqp="AGE_PIP"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="29"
+Def="656"
+Tec="295"
+Ata="298"
+Niv="571"

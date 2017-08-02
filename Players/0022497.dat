@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Gyan"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="47"
+Age="26"
+Pow="C"
+Fam="47"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="62000"
+Eqp="CUA_PAQ"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="28"
+Def="106"
+Tec="510"
+Ata="608"
+Niv="565"

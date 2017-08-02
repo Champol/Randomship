@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Pantoja"
+Rol="MC"
+Pos="DM"
+Nac="1972"
+[Val]
+Rec="79"
+Day="13"
+Age="28"
+Pow="D"
+Fam="79"
+Les="0"
+Tra="2000"
+[2000]
+Sue="86000"
+Eqp="FAN_M-T"
+[Lvl]
+Frm="991"
+Por="9"
+Def="423"
+Tec="748"
+Ata="128"
+Niv="588"

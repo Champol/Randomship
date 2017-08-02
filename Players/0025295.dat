@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Hamada"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="35"
+Age="19"
+Pow="A"
+Fam="35"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="46000"
+Eqp="FAN_SLY"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="5"
+Def="707"
+Tec="365"
+Ata="185"
+Niv="544"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Marechal"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="46"
+Age="28"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="62000"
+Eqp="ACT_CRE"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="31"
+Def="716"
+Tec="412"
+Ata="117"
+Niv="565"

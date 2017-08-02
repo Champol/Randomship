@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Gutarra"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="39"
+Day="13"
+Age="22"
+Pow="D"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="62000"
+Eqp="FAN_CLV"
+[Lvl]
+Frm="976"
+Por="720"
+Def="321"
+Tec="234"
+Ata="17"
+Niv="565"

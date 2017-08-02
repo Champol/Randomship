@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Groenewald"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="27"
+Day="13"
+Age="20"
+Pow="C"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="48000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="972"
+Por="0"
+Def="397"
+Tec="681"
+Ata="191"
+Niv="546"

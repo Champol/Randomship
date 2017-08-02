@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Haramatsu"
+Rol="DL"
+Pos="WF"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="BKN_HAN"
+[Lvl]
+Frm="978"
+Por="3"
+Def="201"
+Tec="276"
+Ata="544"
+Niv="467"

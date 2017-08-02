@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Pazo"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="85"
+Age="25"
+Pow="C"
+Fam="85"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="90000"
+Eqp="BKN_SUI"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="45"
+Def="770"
+Tec="345"
+Ata="246"
+Niv="592"

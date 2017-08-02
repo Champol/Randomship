@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Govou"
+Rol="MC"
+Pos="WM"
+Nac="1982"
+[Val]
+Rec="6"
+Day="13"
+Age="18"
+Pow="C"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="19000"
+Eqp="FAN_TEH"
+[Lvl]
+Frm="975"
+Por="10"
+Def="242"
+Tec="507"
+Ata="360"
+Niv="488"

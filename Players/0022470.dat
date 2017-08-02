@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Aydın"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="291"
+Age="23"
+Pow="B"
+Fam="291"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="282000"
+Eqp="CUA_FAI"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="29"
+Def="168"
+Tec="563"
+Ata="768"
+Niv="683"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Grinblat"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="158"
+Age="22"
+Pow="B"
+Fam="158"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="192000"
+Eqp="FAN_RAV"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="8"
+Def="241"
+Tec="630"
+Ata="613"
+Niv="651"

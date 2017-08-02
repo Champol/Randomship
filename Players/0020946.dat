@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Delgri"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="341"
+Age="27"
+Pow="B"
+Fam="341"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="299000"
+Eqp="CUA_AAI"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="5"
+Def="768"
+Tec="471"
+Ata="232"
+Niv="688"

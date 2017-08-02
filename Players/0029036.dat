@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Beom-Seok"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="46"
+Age="21"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="72000"
+Eqp="BKN_PRO"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="29"
+Def="739"
+Tec="383"
+Ata="191"
+Niv="576"

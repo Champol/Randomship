@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Pozzi"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="145"
+Day="13"
+Age="23"
+Pow="B"
+Fam="145"
+Les="0"
+Tra="2000"
+[2000]
+Sue="207000"
+Eqp="FAN_FLN"
+[Lvl]
+Frm="981"
+Por="41"
+Def="156"
+Tec="789"
+Ata="552"
+Niv="656"

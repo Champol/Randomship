@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Alisedo"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="146"
+Day="13"
+Age="25"
+Pow="C"
+Fam="146"
+Les="0"
+Tra="2000"
+[2000]
+Sue="166000"
+Eqp="FAN_M-M"
+[Lvl]
+Frm="984"
+Por="14"
+Def="684"
+Tec="430"
+Ata="301"
+Niv="639"

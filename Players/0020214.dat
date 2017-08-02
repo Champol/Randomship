@@ -1,0 +1,24 @@
+[Inf]
+Nom="M.A. Otamiendi"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="28"
+Age="24"
+Pow="E"
+Fam="28"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="48000"
+Eqp="CUA_MOC"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="726"
+Def="186"
+Tec="258"
+Ata="32"
+Niv="548"

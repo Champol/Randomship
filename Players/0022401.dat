@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Leka"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="15"
+Day="13"
+Age="23"
+Pow="E"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="CUA_ARD"
+[Lvl]
+Frm="983"
+Por="12"
+Def="263"
+Tec="569"
+Ata="345"
+Niv="527"

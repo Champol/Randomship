@@ -1,0 +1,24 @@
+[Inf]
+Nom="M.A. Ilaurita"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="376"
+Age="26"
+Pow="B"
+Fam="376"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="356000"
+Eqp="HAT_M4E"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="5"
+Def="374"
+Tec="465"
+Ata="746"
+Niv="703"

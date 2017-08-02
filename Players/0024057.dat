@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Petros"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="80"
+Day="13"
+Age="26"
+Pow="C"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="111000"
+Eqp="FAN_GRI"
+[Lvl]
+Frm="989"
+Por="45"
+Def="242"
+Tec="656"
+Ata="442"
+Niv="608"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Ronin"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="325"
+Age="26"
+Pow="C"
+Fam="325"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="426000"
+Eqp="CUA_PAQ"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="44"
+Def="188"
+Tec="890"
+Ata="549"
+Niv="719"

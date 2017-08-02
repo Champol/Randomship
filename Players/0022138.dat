@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Malpassi"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="459"
+Age="22"
+Pow="A"
+Fam="459"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="385000"
+Eqp="CUA_CAR"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="10"
+Def="936"
+Tec="417"
+Ata="238"
+Niv="710"

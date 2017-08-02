@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Jacobsen"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="9"
+Day="13"
+Age="18"
+Pow="C"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="23000"
+Eqp="FAN_MUI"
+[Lvl]
+Frm="976"
+Por="42"
+Def="577"
+Tec="312"
+Ata="186"
+Niv="499"

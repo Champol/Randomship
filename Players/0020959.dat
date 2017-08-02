@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Jezierski"
+Rol="DL"
+Pos="WF"
+Nac="1972"
+[Val]
+Rec="189"
+Age="28"
+Pow="B"
+Fam="189"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="209000"
+Eqp="CUA_AAI"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="19"
+Def="444"
+Tec="465"
+Ata="638"
+Niv="658"

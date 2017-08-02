@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Soni"
+Rol="MC"
+Pos="AM"
+Nac="1981"
+[Val]
+Rec="16"
+Age="19"
+Pow="D"
+Fam="16"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="33000"
+Eqp="CUA_CEC"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="34"
+Def="137"
+Tec="696"
+Ata="312"
+Niv="522"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.L. Legarri"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="125"
+Age="23"
+Pow="C"
+Fam="125"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="FAN_NAR"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="12"
+Def="696"
+Tec="337"
+Ata="340"
+Niv="619"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Soteros"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="102"
+Day="13"
+Age="26"
+Pow="B"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="134000"
+Eqp="FAN_ROH"
+[Lvl]
+Frm="975"
+Por="7"
+Def="832"
+Tec="356"
+Ata="148"
+Niv="622"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Onishi"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="113"
+Day="13"
+Age="27"
+Pow="C"
+Fam="113"
+Les="0"
+Tra="2000"
+[2000]
+Sue="135000"
+Eqp="FAN_MUI"
+[Lvl]
+Frm="968"
+Por="10"
+Def="173"
+Tec="430"
+Ata="711"
+Niv="623"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.C. Hayashida"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="16"
+Age="30"
+Pow="C"
+Fam="16"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="30000"
+Eqp="CUA_EYN"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="6"
+Def="673"
+Tec="329"
+Ata="106"
+Niv="516"

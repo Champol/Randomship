@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. De Zeeuw"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="194"
+Day="13"
+Age="28"
+Pow="D"
+Fam="194"
+Les="0"
+Tra="2000"
+[2000]
+Sue="204000"
+Eqp="HAT_TEF"
+[Lvl]
+Frm="978"
+Por="8"
+Def="866"
+Tec="419"
+Ata="90"
+Niv="656"

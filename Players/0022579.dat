@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Facciotti"
+Rol="MC"
+Pos="AM"
+Nac="1971"
+[Val]
+Rec="194"
+Age="29"
+Pow="D"
+Fam="194"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="150000"
+Eqp="CUA_PAT"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="13"
+Def="182"
+Tec="803"
+Ata="431"
+Niv="631"

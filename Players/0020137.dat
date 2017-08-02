@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Miña"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="46"
+Age="32"
+Pow="B"
+Fam="46"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="55000"
+Eqp="CUA_CON"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="14"
+Def="753"
+Tec="318"
+Ata="95"
+Niv="557"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Bapil"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="12"
+Day="13"
+Age="23"
+Pow="D"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="32000"
+Eqp="FAN_ILK"
+[Lvl]
+Frm="980"
+Por="0"
+Def="196"
+Tec="598"
+Ata="333"
+Niv="521"

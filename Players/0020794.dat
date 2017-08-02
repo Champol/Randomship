@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Bravo"
+Rol="PT"
+Pos="GK"
+Nac="1981"
+[Val]
+Rec="63"
+Age="19"
+Pow="B"
+Fam="63"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="63000"
+Eqp="CUA_PUS"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="735"
+Def="238"
+Tec="274"
+Ata="14"
+Niv="566"

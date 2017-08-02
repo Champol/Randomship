@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Escudero"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="23"
+Age="29"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="29000"
+Eqp="CUA_HVO"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="17"
+Def="552"
+Tec="333"
+Ata="247"
+Niv="513"

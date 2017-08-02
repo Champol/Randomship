@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Radziwill"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="65"
+Age="21"
+Pow="C"
+Fam="65"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="78000"
+Eqp="ACT_LUM"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="19"
+Def="248"
+Tec="410"
+Ata="630"
+Niv="582"

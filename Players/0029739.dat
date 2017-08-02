@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Mihanovich"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="199"
+Day="13"
+Age="26"
+Pow="C"
+Fam="199"
+Les="0"
+Tra="2000"
+[2000]
+Sue="260000"
+Eqp="BKN_NIO"
+[Lvl]
+Frm="964"
+Por="6"
+Def="287"
+Tec="863"
+Ata="361"
+Niv="676"

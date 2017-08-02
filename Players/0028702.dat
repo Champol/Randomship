@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Terradas"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="369"
+Age="26"
+Pow="B"
+Fam="369"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="257000"
+Eqp="AGE_W-P"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="32"
+Def="142"
+Tec="505"
+Ata="846"
+Niv="675"

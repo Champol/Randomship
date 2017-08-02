@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Meossi"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="35"
+Day="13"
+Age="21"
+Pow="D"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="FAN_BRA"
+[Lvl]
+Frm="966"
+Por="27"
+Def="154"
+Tec="461"
+Ata="648"
+Niv="567"

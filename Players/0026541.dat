@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Forani"
+Rol="DF"
+Pos="WB"
+Nac="1969"
+[Val]
+Rec="63"
+Day="13"
+Age="31"
+Pow="B"
+Fam="63"
+Les="0"
+Tra="2000"
+[2000]
+Sue="74000"
+Eqp="HAT_MAS"
+[Lvl]
+Frm="992"
+Por="25"
+Def="597"
+Tec="410"
+Ata="306"
+Niv="578"

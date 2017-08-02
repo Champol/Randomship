@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Monrad"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="194"
+Day="13"
+Age="21"
+Pow="B"
+Fam="194"
+Les="0"
+Tra="2000"
+[2000]
+Sue="279000"
+Eqp="FAN_BRA"
+[Lvl]
+Frm="984"
+Por="37"
+Def="858"
+Tec="499"
+Ata="188"
+Niv="682"

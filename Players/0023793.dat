@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Arslan"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="128"
+Day="13"
+Age="22"
+Pow="C"
+Fam="128"
+Les="0"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="144000"
+Eqp="FAN_UAG"
+[Lvl]
+Frm="976"
+Por="29"
+Def="464"
+Tec="800"
+Ata="107"
+Niv="628"

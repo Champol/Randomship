@@ -1,0 +1,22 @@
+[Inf]
+Nom="L. Garduno"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_MOR"
+[Lvl]
+Frm="983"
+Por="17"
+Def="162"
+Tec="218"
+Ata="555"
+Niv="410"

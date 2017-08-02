@@ -1,0 +1,22 @@
+[Inf]
+Nom="L. Mang"
+Rol="PT"
+Pos="GK"
+Nac="1981"
+[Val]
+Day="13"
+Age="19"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="HAT_SUP"
+[Lvl]
+Frm="971"
+Por="545"
+Def="244"
+Tec="238"
+Ata="24"
+Niv="435"

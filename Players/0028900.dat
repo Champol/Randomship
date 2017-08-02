@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Saitua"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="66"
+Day="13"
+Age="22"
+Pow="D"
+Fam="66"
+Les="0"
+Tra="2000"
+[2000]
+Sue="104000"
+Eqp="BKN_PQG"
+[Lvl]
+Frm="981"
+Por="5"
+Def="183"
+Tec="760"
+Ata="436"
+Niv="603"

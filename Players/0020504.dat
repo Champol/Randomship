@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Ricardini"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="57"
+Age="29"
+Pow="D"
+Fam="57"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="80000"
+Eqp="CUA_D-M"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="760"
+Def="217"
+Tec="299"
+Ata="27"
+Niv="583"

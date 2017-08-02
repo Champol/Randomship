@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Montes"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="252"
+Day="13"
+Age="26"
+Pow="C"
+Fam="252"
+Les="0"
+Tra="2000"
+[2000]
+Sue="233000"
+Eqp="FAN_ESG"
+[Lvl]
+Frm="979"
+Por="19"
+Def="736"
+Tec="470"
+Ata="233"
+Niv="666"

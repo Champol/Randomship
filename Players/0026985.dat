@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.I. Blanchet"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="306"
+Age="27"
+Pow="B"
+Fam="306"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="306000"
+Eqp="HAT_M4E"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="4"
+Def="234"
+Tec="780"
+Ata="458"
+Niv="690"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Montreal"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Rec="78"
+Day="13"
+Age="30"
+Pow="B"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="FAN_MUI"
+[Lvl]
+Frm="976"
+Por="49"
+Def="259"
+Tec="628"
+Ata="392"
+Niv="583"

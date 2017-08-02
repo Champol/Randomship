@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Krumdiek"
+Rol="MC"
+Pos="WM"
+Nac="1976"
+[Val]
+Rec="118"
+Day="13"
+Age="24"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="181000"
+Eqp="FAN_ANV"
+[Lvl]
+Frm="983"
+Por="48"
+Def="288"
+Tec="675"
+Ata="479"
+Niv="646"

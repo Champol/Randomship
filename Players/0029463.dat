@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Montiel"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="119"
+Day="13"
+Age="22"
+Pow="C"
+Fam="119"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="BKN_ZON"
+[Lvl]
+Frm="975"
+Por="29"
+Def="802"
+Tec="466"
+Ata="144"
+Niv="635"

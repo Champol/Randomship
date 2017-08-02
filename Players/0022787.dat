@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Iwakura"
+Rol="DL"
+Pos="WF"
+Nac="1975"
+[Val]
+Rec="345"
+Age="25"
+Pow="A"
+Fam="345"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="440000"
+Eqp="CUA_HVO"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="32"
+Def="312"
+Tec="364"
+Ata="860"
+Niv="722"

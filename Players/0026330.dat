@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Justo"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="152"
+Age="23"
+Pow="C"
+Fam="152"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="144000"
+Eqp="ACT_ROD"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="23"
+Def="442"
+Tec="806"
+Ata="146"
+Niv="628"

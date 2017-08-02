@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Toguchi"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="726"
+Day="13"
+Age="32"
+Pow="A"
+Fam="726"
+Les="0"
+Tra="2000"
+[2000]
+Sue="566000"
+Eqp="FAN_MOR"
+[Lvl]
+Frm="975"
+Por="19"
+Def="148"
+Tec="352"
+Ata="1036"
+Niv="745"

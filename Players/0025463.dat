@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Tisselli"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="136"
+Day="13"
+Age="26"
+Pow="C"
+Fam="136"
+Les="0"
+Tra="2000"
+[2000]
+Sue="130000"
+Eqp="FAN_TAR"
+[Lvl]
+Frm="965"
+Por="775"
+Def="368"
+Tec="266"
+Ata="5"
+Niv="620"

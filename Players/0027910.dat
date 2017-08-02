@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Berna"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="108"
+Age="22"
+Pow="D"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="134000"
+Eqp="AGE_NOS"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="25"
+Def="240"
+Tec="810"
+Ata="321"
+Niv="623"

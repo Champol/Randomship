@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Meriles"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="190"
+Age="30"
+Pow="A"
+Fam="190"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="FAN_HUF"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="2"
+Def="787"
+Tec="423"
+Ata="196"
+Niv="620"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Doney"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Rec="1"
+Day="13"
+Age="18"
+Pow="C"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_DAL"
+[Lvl]
+Frm="965"
+Por="10"
+Def="154"
+Tec="327"
+Ata="564"
+Niv="451"

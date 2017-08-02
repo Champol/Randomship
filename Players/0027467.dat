@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Reta"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="72"
+Age="20"
+Pow="B"
+Fam="72"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="90000"
+Eqp="HAT_OBJ"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="19"
+Def="761"
+Tec="394"
+Ata="209"
+Niv="591"

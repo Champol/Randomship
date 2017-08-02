@@ -1,0 +1,22 @@
+[Inf]
+Nom="H. Foster"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Day="13"
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="BKN_CIM"
+[Lvl]
+Frm="961"
+Por="7"
+Def="106"
+Tec="445"
+Ata="340"
+Niv="394"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Buck"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="73"
+Day="13"
+Age="26"
+Pow="C"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="FAN_M-T"
+[Lvl]
+Frm="959"
+Por="18"
+Def="256"
+Tec="743"
+Ata="348"
+Niv="594"

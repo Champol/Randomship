@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Parker"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="116"
+Age="29"
+Pow="D"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="82000"
+Eqp="CUA_MRR"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="35"
+Def="251"
+Tec="753"
+Ata="295"
+Niv="586"

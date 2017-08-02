@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Ode"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="AGE_NOS"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="31"
+Def="134"
+Tec="272"
+Ata="518"
+Niv="404"

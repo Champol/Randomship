@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Kowalski"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="47"
+Age="22"
+Pow="D"
+Fam="47"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="83000"
+Eqp="CUA_D-M"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="35"
+Def="161"
+Tec="428"
+Ata="738"
+Niv="586"

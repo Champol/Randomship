@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Pedro"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="347"
+Age="22"
+Pow="B"
+Fam="347"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="364000"
+Eqp="HAT_OBJ"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="924"
+Def="339"
+Tec="295"
+Ata="15"
+Niv="705"

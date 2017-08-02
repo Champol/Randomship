@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Aguirriano"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="HAT_V-N"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="0"
+Def="481"
+Tec="256"
+Ata="228"
+Niv="424"

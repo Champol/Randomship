@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Ōno"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="49"
+Age="29"
+Pow="C"
+Fam="49"
+Les="12"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="HAT_SCO"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="704"
+Def="228"
+Tec="324"
+Ata="49"
+Niv="555"

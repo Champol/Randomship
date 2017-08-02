@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Susini"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="11"
+Age="29"
+Pow="C"
+Fam="11"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="24000"
+Eqp="CUA_CEN"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="15"
+Def="70"
+Tec="375"
+Ata="634"
+Niv="501"

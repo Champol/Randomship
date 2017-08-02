@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Bobadilla"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="156"
+Age="26"
+Pow="D"
+Fam="156"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="160000"
+Eqp="ACT_YER"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="2"
+Def="812"
+Tec="420"
+Ata="208"
+Niv="636"

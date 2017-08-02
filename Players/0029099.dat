@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Pose"
+Rol="MC"
+Pos="DM"
+Nac="1969"
+[Val]
+Rec="223"
+Age="31"
+Pow="A"
+Fam="223"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="BKN_R-S"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="27"
+Def="399"
+Tec="858"
+Ata="192"
+Niv="654"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Valero"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="194"
+Age="29"
+Pow="C"
+Fam="194"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="154000"
+Eqp="CUA_AAI"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="4"
+Def="250"
+Tec="691"
+Ata="435"
+Niv="633"

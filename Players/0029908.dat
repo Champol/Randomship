@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Bell"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="100"
+Age="20"
+Pow="B"
+Fam="100"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="BKN_SUI"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="48"
+Def="819"
+Tec="386"
+Ata="127"
+Niv="619"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Cassiet"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="230"
+Age="22"
+Pow="C"
+Fam="230"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="217000"
+Eqp="CUA_CBR"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="43"
+Def="122"
+Tec="405"
+Ata="878"
+Niv="660"

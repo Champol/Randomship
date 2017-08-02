@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Kikuchi"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="558"
+Age="24"
+Pow="A"
+Fam="558"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="623000"
+Eqp="HAT_V-N"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="9"
+Def="1018"
+Tec="400"
+Ata="249"
+Niv="754"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Mellano"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="279"
+Day="13"
+Age="27"
+Pow="B"
+Fam="279"
+Les="0"
+Tra="2000"
+[2000]
+Sue="340000"
+Eqp="FAN_TAS"
+[Lvl]
+Frm="983"
+Por="926"
+Def="268"
+Tec="314"
+Ata="44"
+Niv="699"

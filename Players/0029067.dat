@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Camoranesi"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="174"
+Day="13"
+Age="23"
+Pow="C"
+Fam="174"
+Les="0"
+Tra="2000"
+[2000]
+Sue="231000"
+Eqp="BKN_OLI"
+[Lvl]
+Frm="972"
+Por="8"
+Def="754"
+Tec="395"
+Ata="296"
+Niv="667"

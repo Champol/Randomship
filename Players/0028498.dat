@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Donev"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="438"
+Age="30"
+Pow="C"
+Fam="438"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="292000"
+Eqp="AGE_CLF"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="19"
+Def="234"
+Tec="416"
+Ata="796"
+Niv="686"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Barbich"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="43"
+Day="13"
+Age="20"
+Pow="A"
+Fam="43"
+Les="0"
+Tra="2000"
+[2000]
+Sue="82000"
+Eqp="HAT_CRA"
+[Lvl]
+Frm="992"
+Por="25"
+Def="137"
+Tec="363"
+Ata="784"
+Niv="585"

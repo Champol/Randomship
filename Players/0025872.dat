@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Peñate"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="266"
+Age="31"
+Pow="D"
+Fam="266"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="150000"
+Eqp="ACT_THS"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="38"
+Def="796"
+Tec="445"
+Ata="117"
+Niv="631"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.C. Cursio"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="397"
+Age="27"
+Pow="A"
+Fam="397"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="440000"
+Eqp="AGE_CAN"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="34"
+Def="336"
+Tec="386"
+Ata="836"
+Niv="721"

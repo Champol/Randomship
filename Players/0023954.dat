@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Droust"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="346"
+Age="23"
+Pow="A"
+Fam="346"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="306000"
+Eqp="FAN_RAV"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="24"
+Def="768"
+Tec="399"
+Ata="363"
+Niv="690"

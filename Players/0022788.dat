@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Lepretre"
+Rol="DL"
+Pos="SS"
+Nac="1975"
+[Val]
+Rec="259"
+Age="25"
+Pow="B"
+Fam="259"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="254000"
+Eqp="CUA_HVO"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="6"
+Def="144"
+Tec="568"
+Ata="755"
+Niv="673"

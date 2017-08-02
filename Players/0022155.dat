@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Almendra"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="121"
+Age="26"
+Pow="D"
+Fam="121"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="95000"
+Eqp="CUA_CAR"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="21"
+Def="738"
+Tec="431"
+Ata="191"
+Niv="596"

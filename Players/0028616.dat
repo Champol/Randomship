@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Spector"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="417"
+Age="23"
+Pow="A"
+Fam="417"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="486000"
+Eqp="AGE_FAN"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="2"
+Def="244"
+Tec="482"
+Ata="935"
+Niv="731"

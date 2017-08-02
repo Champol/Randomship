@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Terrier"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="600"
+Age="26"
+Pow="A"
+Fam="600"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="530000"
+Eqp="HAT_EDP"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="36"
+Def="522"
+Tec="934"
+Ata="232"
+Niv="739"

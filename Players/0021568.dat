@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Lefeuvre"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="218"
+Age="23"
+Pow="A"
+Fam="218"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="306000"
+Eqp="CUA_CER"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="21"
+Def="139"
+Tec="656"
+Ata="714"
+Niv="690"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Neyman"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="51"
+Day="13"
+Age="22"
+Pow="C"
+Fam="51"
+Les="0"
+Tra="2000"
+[2000]
+Sue="71000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="980"
+Por="1"
+Def="646"
+Tec="360"
+Ata="267"
+Niv="575"

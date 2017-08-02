@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Sunsing"
+Rol="MC"
+Pos="AM"
+Nac="1980"
+[Val]
+Rec="110"
+Day="13"
+Age="20"
+Pow="B"
+Fam="110"
+Les="0"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="160000"
+Eqp="FAN_UAG"
+[Lvl]
+Frm="971"
+Por="40"
+Def="191"
+Tec="783"
+Ata="493"
+Niv="636"

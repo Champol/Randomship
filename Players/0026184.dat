@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Lederer"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="66"
+Age="30"
+Pow="D"
+Fam="66"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="56000"
+Eqp="ACT_ORB"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="3"
+Def="222"
+Tec="396"
+Ata="600"
+Niv="558"

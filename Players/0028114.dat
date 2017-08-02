@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Nigmatullin"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="40"
+Age="21"
+Pow="C"
+Fam="40"
+Les="7"
+Tra="2000"
+Day="13"
+[2000]
+Sue="69000"
+Eqp="AGE_RAM"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="15"
+Def="262"
+Tec="610"
+Ata="408"
+Niv="572"

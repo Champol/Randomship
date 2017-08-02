@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Oláh"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="177"
+Age="21"
+Pow="B"
+Fam="177"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="176000"
+Eqp="FAN_DUR"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="5"
+Def="730"
+Tec="371"
+Ata="318"
+Niv="645"

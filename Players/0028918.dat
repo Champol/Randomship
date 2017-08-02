@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Pliego"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="262"
+Day="13"
+Age="23"
+Pow="B"
+Fam="262"
+Les="0"
+Tra="2000"
+[2000]
+Sue="348000"
+Eqp="BKN_HAN"
+[Lvl]
+Frm="976"
+Por="2"
+Def="821"
+Tec="396"
+Ata="267"
+Niv="701"

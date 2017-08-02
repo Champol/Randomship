@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Marticorena"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="28"
+Day="13"
+Age="29"
+Pow="C"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="FAN_DIA"
+[Lvl]
+Frm="973"
+Por="17"
+Def="533"
+Tec="380"
+Ata="361"
+Niv="544"

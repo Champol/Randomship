@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Daitokuji"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="101"
+Day="13"
+Age="21"
+Pow="C"
+Fam="101"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="FAN_AZA"
+[Lvl]
+Frm="985"
+Por="35"
+Def="446"
+Tec="782"
+Ata="135"
+Niv="615"

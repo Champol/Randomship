@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.J. Long"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="426"
+Age="23"
+Pow="A"
+Fam="426"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="497000"
+Eqp="BKN_P-U"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="39"
+Def="883"
+Tec="605"
+Ata="233"
+Niv="733"

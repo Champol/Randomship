@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Cartier"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="262"
+Age="23"
+Pow="B"
+Fam="262"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="321000"
+Eqp="ACT_MUD"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="23"
+Def="321"
+Tec="794"
+Ata="399"
+Niv="694"

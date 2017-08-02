@@ -1,0 +1,23 @@
+[Inf]
+Nom="X. Mattarallo"
+Rol="DL"
+Pos="SS"
+Nac="1969"
+[Val]
+Rec="156"
+Day="13"
+Age="31"
+Pow="A"
+Fam="156"
+Les="0"
+Tra="2000"
+[2000]
+Sue="119000"
+Eqp="FAN_AZA"
+[Lvl]
+Frm="981"
+Por="40"
+Def="149"
+Tec="583"
+Ata="626"
+Niv="614"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="Y. Hatti"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="1"
+Age="18"
+Pow="C"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="HAT_OBW"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="21"
+Def="454"
+Tec="360"
+Ata="220"
+Niv="447"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Fonrouge"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="78"
+Day="13"
+Age="23"
+Pow="D"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="103000"
+Eqp="FAN_ARG"
+[Lvl]
+Frm="985"
+Por="40"
+Def="155"
+Tec="792"
+Ata="368"
+Niv="602"

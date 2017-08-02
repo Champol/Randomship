@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Latapy"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="166"
+Day="13"
+Age="26"
+Pow="C"
+Fam="166"
+Les="0"
+Tra="2000"
+[2000]
+Sue="199000"
+Eqp="FAN_MEZ"
+[Lvl]
+Frm="980"
+Por="8"
+Def="294"
+Tec="856"
+Ata="264"
+Niv="654"

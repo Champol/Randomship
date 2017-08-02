@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Filotrani"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="65"
+Day="13"
+Age="24"
+Pow="D"
+Fam="65"
+Les="0"
+Tra="2000"
+[2000]
+Sue="100000"
+Eqp="FAN_ROH"
+[Lvl]
+Frm="985"
+Por="32"
+Def="741"
+Tec="459"
+Ata="176"
+Niv="600"

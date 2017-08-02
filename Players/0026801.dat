@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Rodi"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="40"
+Day="13"
+Age="27"
+Pow="D"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="HAT_SUP"
+[Lvl]
+Frm="981"
+Por="41"
+Def="695"
+Tec="420"
+Ata="159"
+Niv="559"

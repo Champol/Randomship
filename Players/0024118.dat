@@ -1,0 +1,22 @@
+[Inf]
+Nom="R. Arancio"
+Rol="MC"
+Pos="CM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_AZI"
+[Lvl]
+Frm="986"
+Por="19"
+Def="197"
+Tec="493"
+Ata="255"
+Niv="401"

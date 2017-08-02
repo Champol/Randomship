@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Hardoy"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="57"
+Age="24"
+Pow="E"
+Fam="57"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="69000"
+Eqp="AGE_CON"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="3"
+Def="126"
+Tec="369"
+Ata="751"
+Niv="573"

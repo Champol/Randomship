@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Ramone"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="196"
+Age="26"
+Pow="C"
+Fam="196"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="166000"
+Eqp="HAT_MER"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="14"
+Def="723"
+Tec="376"
+Ata="292"
+Niv="638"

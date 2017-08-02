@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.A. Aste"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="72"
+Age="24"
+Pow="D"
+Fam="72"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="62000"
+Eqp="AGE_WKF"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="14"
+Def="119"
+Tec="404"
+Ata="718"
+Niv="564"

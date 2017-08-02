@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. O'Kelly"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="112"
+Day="13"
+Age="23"
+Pow="C"
+Fam="112"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="FAN_ILV"
+[Lvl]
+Frm="971"
+Por="39"
+Def="143"
+Tec="342"
+Ata="864"
+Niv="634"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Haage"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="106"
+Age="22"
+Pow="C"
+Fam="106"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="HAT_EFE"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="31"
+Def="673"
+Tec="368"
+Ata="318"
+Niv="612"

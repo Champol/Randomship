@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Camartino"
+Rol="MC"
+Pos="DM"
+Nac="1968"
+[Val]
+Rec="1"
+Age="32"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CUA_EYN"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="16"
+Def="208"
+Tec="444"
+Ata="138"
+Niv="350"

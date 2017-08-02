@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Aré"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="122"
+Age="22"
+Pow="C"
+Fam="122"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="CUA_TRE"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="786"
+Def="302"
+Tec="314"
+Ata="11"
+Niv="619"

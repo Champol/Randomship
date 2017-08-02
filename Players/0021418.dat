@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.J. Gualino"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="18"
+Age="27"
+Pow="E"
+Fam="18"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="29000"
+Eqp="CUA_MLD"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="34"
+Def="240"
+Tec="664"
+Ata="236"
+Niv="515"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Tissot"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="46"
+Day="13"
+Age="21"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="82000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="965"
+Por="46"
+Def="157"
+Tec="374"
+Ata="764"
+Niv="585"

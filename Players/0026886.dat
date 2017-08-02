@@ -1,0 +1,23 @@
+[Inf]
+Nom="X. Llama"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="279"
+Day="13"
+Age="26"
+Pow="C"
+Fam="279"
+Les="0"
+Tra="2000"
+[2000]
+Sue="321000"
+Eqp="HAT_ESP"
+[Lvl]
+Frm="974"
+Por="924"
+Def="293"
+Tec="262"
+Ata="42"
+Niv="694"

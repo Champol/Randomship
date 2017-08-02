@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Ereñú"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="94"
+Day="13"
+Age="26"
+Pow="D"
+Fam="94"
+Les="0"
+Tra="2000"
+[2000]
+Sue="111000"
+Eqp="FAN_DIA"
+[Lvl]
+Frm="988"
+Por="14"
+Def="785"
+Tec="420"
+Ata="116"
+Niv="608"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Bruneau"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="152"
+Age="23"
+Pow="C"
+Fam="152"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="207000"
+Eqp="AGE_RAM"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="33"
+Def="746"
+Tec="416"
+Ata="254"
+Niv="657"

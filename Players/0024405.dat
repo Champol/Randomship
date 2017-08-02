@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Cecilia"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="73"
+Day="13"
+Age="21"
+Pow="D"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="116000"
+Eqp="FAN_MRK"
+[Lvl]
+Frm="965"
+Por="8"
+Def="303"
+Tec="778"
+Ata="295"
+Niv="611"

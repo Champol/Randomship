@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Ricci"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="160"
+Day="13"
+Age="25"
+Pow="D"
+Fam="160"
+Les="0"
+Tra="2000"
+[2000]
+Sue="236000"
+Eqp="FAN_OSG"
+[Lvl]
+Frm="971"
+Por="27"
+Def="911"
+Tec="350"
+Ata="142"
+Niv="668"

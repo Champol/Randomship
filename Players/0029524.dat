@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Koziol"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="41"
+Day="13"
+Age="24"
+Pow="D"
+Fam="41"
+Les="0"
+Tra="2000"
+[2000]
+Sue="70000"
+Eqp="BKN_GPC"
+[Lvl]
+Frm="987"
+Por="735"
+Def="237"
+Tec="316"
+Ata="17"
+Niv="574"

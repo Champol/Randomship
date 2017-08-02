@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Puyó"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="28"
+Age="20"
+Pow="D"
+Fam="28"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="48000"
+Eqp="HAT_OBJ"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="13"
+Def="691"
+Tec="384"
+Ata="215"
+Niv="548"

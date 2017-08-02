@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Pieroni"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="330"
+Age="24"
+Pow="A"
+Fam="330"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="389000"
+Eqp="BKN_PEN"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="49"
+Def="544"
+Tec="886"
+Ata="145"
+Niv="711"

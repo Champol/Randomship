@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Crockett"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="79"
+Day="13"
+Age="22"
+Pow="D"
+Fam="79"
+Les="0"
+Tra="2000"
+[2000]
+Sue="114000"
+Eqp="FAN_CHI"
+[Lvl]
+Frm="982"
+Por="2"
+Def="274"
+Tec="810"
+Ata="219"
+Niv="610"

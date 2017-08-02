@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. Debuchy"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="108"
+Age="21"
+Pow="C"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="96000"
+Eqp="FAN_SLY"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="50"
+Def="401"
+Tec="764"
+Ata="204"
+Niv="597"

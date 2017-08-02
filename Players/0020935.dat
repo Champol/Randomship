@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Chol-Jin"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="1011"
+Age="23"
+Pow="B"
+Fam="1011"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="1126000"
+Eqp="CUA_CHU"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="14"
+Def="947"
+Tec="415"
+Ata="386"
+Niv="812"

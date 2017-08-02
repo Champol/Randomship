@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Langou"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="379"
+Day="13"
+Age="29"
+Pow="B"
+Fam="379"
+Les="0"
+Tra="2000"
+[2000]
+Sue="360000"
+Eqp="FAN_BRA"
+[Lvl]
+Frm="978"
+Por="28"
+Def="860"
+Tec="530"
+Ata="252"
+Niv="704"

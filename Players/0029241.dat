@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Carreón"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="352"
+Age="22"
+Pow="B"
+Fam="352"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="324000"
+Eqp="BKN_P-U"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="18"
+Def="794"
+Tec="422"
+Ata="280"
+Niv="695"

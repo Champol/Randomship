@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Mantel"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="45"
+Day="13"
+Age="21"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="HAT_SUP"
+[Lvl]
+Frm="975"
+Por="15"
+Def="322"
+Tec="719"
+Ata="347"
+Niv="584"

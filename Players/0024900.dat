@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Byrd"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="37"
+Day="13"
+Age="26"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="62000"
+Eqp="FAN_BRE"
+[Lvl]
+Frm="972"
+Por="33"
+Def="352"
+Tec="683"
+Ata="301"
+Niv="564"

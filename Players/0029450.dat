@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Dodd"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="40"
+Day="13"
+Age="21"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="BKN_ZON"
+[Lvl]
+Frm="982"
+Por="38"
+Def="421"
+Tec="718"
+Ata="108"
+Niv="568"

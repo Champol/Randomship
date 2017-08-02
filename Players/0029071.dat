@@ -1,0 +1,22 @@
+[Inf]
+Nom="B. Brugère"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="BKN_OLI"
+[Lvl]
+Frm="991"
+Por="25"
+Def="259"
+Tec="392"
+Ata="287"
+Niv="401"

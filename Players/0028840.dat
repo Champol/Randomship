@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Seindenberg"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="99"
+Age="28"
+Pow="C"
+Fam="99"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="95000"
+Eqp="BKN_DUP"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="37"
+Def="319"
+Tec="753"
+Ata="281"
+Niv="596"

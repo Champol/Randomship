@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Sartman"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="30"
+Day="13"
+Age="21"
+Pow="D"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="FAN_FLN"
+[Lvl]
+Frm="979"
+Por="16"
+Def="264"
+Tec="722"
+Ata="234"
+Niv="555"

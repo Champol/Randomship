@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Marks"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="40"
+Age="20"
+Pow="D"
+Fam="40"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="68000"
+Eqp="CUA_M-K"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="739"
+Def="278"
+Tec="266"
+Ata="26"
+Niv="572"

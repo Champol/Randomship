@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Cipolatti"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="294"
+Age="23"
+Pow="B"
+Fam="294"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="303000"
+Eqp="AGE_SAN"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="11"
+Def="180"
+Tec="591"
+Ata="759"
+Niv="689"

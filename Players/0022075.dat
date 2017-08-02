@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Unger"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="45"
+Age="30"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="CUA_SES"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="28"
+Def="616"
+Tec="388"
+Ata="193"
+Niv="556"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Solarte"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="574"
+Age="22"
+Pow="A"
+Fam="574"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="768000"
+Eqp="CUA_CBR"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="1050"
+Def="333"
+Tec="232"
+Ata="15"
+Niv="774"

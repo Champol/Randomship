@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Amero"
+Rol="MC"
+Pos="AM"
+Nac="1979"
+[Val]
+Rec="85"
+Day="13"
+Age="21"
+Pow="C"
+Fam="85"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="HAT_MAS"
+[Lvl]
+Frm="969"
+Por="34"
+Def="130"
+Tec="816"
+Ata="368"
+Niv="612"

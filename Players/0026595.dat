@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Zundueta"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="27"
+Age="30"
+Pow="D"
+Fam="27"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="30000"
+Eqp="HAT_EDP"
+PCal="0"
+[Lvl]
+Frm="995"
+Por="656"
+Def="234"
+Tec="260"
+Ata="50"
+Niv="518"

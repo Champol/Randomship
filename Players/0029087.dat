@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Hood"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="149"
+Day="13"
+Age="26"
+Pow="B"
+Fam="149"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="BKN_OLI"
+[Lvl]
+Frm="974"
+Por="3"
+Def="245"
+Tec="808"
+Ata="368"
+Niv="637"

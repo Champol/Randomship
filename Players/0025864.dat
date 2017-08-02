@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Galliano"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="242"
+Age="27"
+Pow="C"
+Fam="242"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="225000"
+Eqp="ACT_MUD"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="35"
+Def="378"
+Tec="373"
+Ata="731"
+Niv="664"

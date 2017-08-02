@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Mariátegui"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="139"
+Age="25"
+Pow="C"
+Fam="139"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="FAN_GRY"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="782"
+Def="354"
+Tec="271"
+Ata="35"
+Niv="620"

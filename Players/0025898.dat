@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Bárcenas"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="542"
+Age="26"
+Pow="B"
+Fam="542"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="714000"
+Eqp="ACT_AND"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="998"
+Def="362"
+Tec="328"
+Ata="14"
+Niv="767"

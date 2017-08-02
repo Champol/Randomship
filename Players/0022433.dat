@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Salli"
+Rol="MC"
+Pos="DM"
+Nac="1969"
+[Val]
+Rec="32"
+Day="13"
+Age="31"
+Pow="C"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="41000"
+Eqp="CUA_LAK"
+[Lvl]
+Frm="988"
+Por="22"
+Def="398"
+Tec="668"
+Ata="151"
+Niv="536"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Iwata"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="104"
+Age="29"
+Pow="C"
+Fam="104"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="101000"
+Eqp="CUA_NIK"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="41"
+Def="780"
+Tec="385"
+Ata="171"
+Niv="601"

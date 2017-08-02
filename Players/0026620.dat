@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Di Pilla"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="266"
+Age="26"
+Pow="B"
+Fam="266"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="183000"
+Eqp="HAT_EDP"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="4"
+Def="184"
+Tec="454"
+Ata="816"
+Niv="646"

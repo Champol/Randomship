@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Vilas"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="146"
+Age="23"
+Pow="D"
+Fam="146"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="168000"
+Eqp="CUA_CEC"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="37"
+Def="852"
+Tec="376"
+Ata="159"
+Niv="640"

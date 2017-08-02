@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.M. Lockwood"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="34"
+Day="13"
+Age="31"
+Pow="C"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="50000"
+Eqp="FAN_CHI"
+[Lvl]
+Frm="978"
+Por="8"
+Def="704"
+Tec="356"
+Ata="169"
+Niv="550"

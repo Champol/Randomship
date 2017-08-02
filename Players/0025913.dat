@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Llobet"
+Rol="MC"
+Pos="WM"
+Nac="1976"
+[Val]
+Rec="142"
+Age="24"
+Pow="E"
+Fam="142"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="164000"
+Eqp="ACT_AND"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="23"
+Def="309"
+Tec="716"
+Ata="371"
+Niv="638"

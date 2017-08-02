@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Hernández"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="501"
+Age="22"
+Pow="A"
+Fam="501"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="760000"
+Eqp="HAT_PEC"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="39"
+Def="231"
+Tec="521"
+Ata="887"
+Niv="773"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Colbert"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="94"
+Age="27"
+Pow="C"
+Fam="94"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="77000"
+Eqp="CUA_CHU"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="33"
+Def="126"
+Tec="330"
+Ata="774"
+Niv="581"

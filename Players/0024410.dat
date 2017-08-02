@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Lando"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="325"
+Day="13"
+Age="27"
+Pow="A"
+Fam="325"
+Les="0"
+Tra="2000"
+[2000]
+Sue="356000"
+Eqp="FAN_MRK"
+[Lvl]
+Frm="971"
+Por="29"
+Def="376"
+Tec="470"
+Ata="740"
+Niv="703"

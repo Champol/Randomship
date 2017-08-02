@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Braccelli"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Rec="65"
+Day="13"
+Age="32"
+Pow="B"
+Fam="65"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="HAT_ACH"
+[Lvl]
+Frm="993"
+Por="1"
+Def="277"
+Tec="720"
+Ata="222"
+Niv="556"

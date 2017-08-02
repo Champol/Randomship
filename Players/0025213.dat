@@ -1,0 +1,22 @@
+[Inf]
+Nom="B. Kurian"
+Rol="MC"
+Pos="DM"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FAN_ILV"
+[Lvl]
+Frm="986"
+Por="50"
+Def="366"
+Tec="513"
+Ata="35"
+Niv="423"

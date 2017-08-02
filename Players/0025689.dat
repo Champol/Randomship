@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Ricks"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="343"
+Age="25"
+Pow="C"
+Fam="343"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="412000"
+Eqp="ACT_GRA"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="24"
+Def="151"
+Tec="455"
+Ata="941"
+Niv="716"

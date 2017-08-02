@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Olazaguitía"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="300"
+Age="23"
+Pow="C"
+Fam="300"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="296000"
+Eqp="FAN_GRY"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="46"
+Def="950"
+Tec="324"
+Ata="191"
+Niv="687"

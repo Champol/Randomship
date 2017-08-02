@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Brnović"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="99"
+Age="23"
+Pow="C"
+Fam="99"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="92000"
+Eqp="AGE_CON"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="46"
+Def="141"
+Tec="354"
+Ata="790"
+Niv="594"

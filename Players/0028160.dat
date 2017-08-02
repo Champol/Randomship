@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Michelli"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="119"
+Age="21"
+Pow="C"
+Fam="119"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="137000"
+Eqp="AGE_SAN"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="814"
+Def="257"
+Tec="302"
+Ata="18"
+Niv="625"

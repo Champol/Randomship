@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Al-Shahrani"
+Rol="MC"
+Pos="CM"
+Nac="1975"
+[Val]
+Rec="94"
+Age="25"
+Pow="C"
+Fam="94"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="CUA_UAR"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="44"
+Def="365"
+Tec="791"
+Ata="222"
+Niv="617"

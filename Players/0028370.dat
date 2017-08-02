@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Nahhas"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="250"
+Age="26"
+Pow="B"
+Fam="250"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="260000"
+Eqp="AGE_CHR"
+PCal="0"
+[Lvl]
+Frm="962"
+Por="42"
+Def="906"
+Tec="394"
+Ata="165"
+Niv="676"

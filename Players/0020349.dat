@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Abeyta"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="2"
+Age="32"
+Pow="C"
+Fam="2"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="11000"
+Eqp="CUA_RRU"
+PCal="0"
+[Lvl]
+Frm="995"
+Por="19"
+Def="128"
+Tec="308"
+Ata="574"
+Niv="453"

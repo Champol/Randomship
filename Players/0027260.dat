@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Van Der Heyden"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="41"
+Day="13"
+Age="26"
+Pow="D"
+Fam="41"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="967"
+Por="28"
+Def="347"
+Tec="586"
+Ata="337"
+Niv="556"

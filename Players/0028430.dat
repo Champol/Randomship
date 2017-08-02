@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Tachie-Mensah"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="529"
+Age="26"
+Pow="C"
+Fam="529"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="344000"
+Eqp="AGE_M-N"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="9"
+Def="725"
+Tec="523"
+Ata="310"
+Niv="700"

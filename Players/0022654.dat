@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Siemsem"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="104"
+Age="26"
+Pow="C"
+Fam="104"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="141000"
+Eqp="CUA_CEN"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="20"
+Def="801"
+Tec="420"
+Ata="178"
+Niv="626"

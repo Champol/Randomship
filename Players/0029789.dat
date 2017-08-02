@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Cardani"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="84"
+Age="22"
+Pow="C"
+Fam="84"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="104000"
+Eqp="BKN_WAL"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="7"
+Def="764"
+Tec="444"
+Ata="111"
+Niv="602"

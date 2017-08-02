@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Leonarduzzi"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="71"
+Day="13"
+Age="26"
+Pow="D"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="FAN_M-T"
+[Lvl]
+Frm="991"
+Por="13"
+Def="254"
+Tec="650"
+Ata="400"
+Niv="594"

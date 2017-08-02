@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Ruza"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="54"
+Day="13"
+Age="27"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="76000"
+Eqp="BKN_HLK"
+[Lvl]
+Frm="992"
+Por="11"
+Def="189"
+Tec="526"
+Ata="597"
+Niv="580"

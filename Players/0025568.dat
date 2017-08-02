@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. Chiquiar"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="57"
+Age="27"
+Pow="D"
+Fam="57"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="72000"
+Eqp="ACT_CRE"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="27"
+Def="256"
+Tec="649"
+Ata="352"
+Niv="576"

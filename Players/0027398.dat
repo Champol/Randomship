@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Millape"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Age="17"
+Pow="C"
+Fam="0"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="HAT_ALQ"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="20"
+Def="103"
+Tec="286"
+Ata="559"
+Niv="428"

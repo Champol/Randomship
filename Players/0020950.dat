@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Rípoli"
+Rol="MC"
+Pos="AM"
+Nac="1981"
+[Val]
+Rec="15"
+Age="19"
+Pow="C"
+Fam="15"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="29000"
+Eqp="CUA_AAI"
+PCal="0"
+[Lvl]
+Frm="965"
+Por="3"
+Def="138"
+Tec="662"
+Ata="354"
+Niv="515"

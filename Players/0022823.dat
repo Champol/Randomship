@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Cámpora"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="21"
+Age="27"
+Pow="E"
+Fam="21"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="41000"
+Eqp="CUA_CUC"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="48"
+Def="694"
+Tec="341"
+Ata="182"
+Niv="536"

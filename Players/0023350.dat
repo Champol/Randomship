@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Payán"
+Rol="DF"
+Pos="WB"
+Nac="1981"
+[Val]
+Rec="19"
+Day="13"
+Age="19"
+Pow="B"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="37000"
+Eqp="FAN_MUI"
+[Lvl]
+Frm="985"
+Por="48"
+Def="576"
+Tec="341"
+Ata="273"
+Niv="529"

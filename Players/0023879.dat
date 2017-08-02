@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.E. Sagamas"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="490"
+Age="23"
+Pow="A"
+Fam="490"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="548000"
+Eqp="FAN_GRY"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="41"
+Def="309"
+Tec="754"
+Ata="603"
+Niv="742"

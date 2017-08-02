@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Yofu"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="13"
+Age="20"
+Pow="D"
+Fam="13"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="26000"
+Eqp="CUA_CAR"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="26"
+Def="649"
+Tec="352"
+Ata="106"
+Niv="506"

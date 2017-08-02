@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.A. Burgaleta"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="96"
+Age="27"
+Pow="C"
+Fam="96"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="92000"
+Eqp="HAT_EDP"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="15"
+Def="272"
+Tec="630"
+Ata="407"
+Niv="594"

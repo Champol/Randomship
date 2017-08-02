@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Errázuriz"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="246"
+Day="13"
+Age="23"
+Pow="B"
+Fam="246"
+Les="0"
+Tra="2000"
+[2000]
+Sue="239000"
+Eqp="FAN_TAS"
+[Lvl]
+Frm="996"
+Por="30"
+Def="254"
+Tec="492"
+Ata="716"
+Niv="669"

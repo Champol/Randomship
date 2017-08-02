@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Cornelius"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CUA_CND"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="17"
+Def="147"
+Tec="374"
+Ata="462"
+Niv="434"

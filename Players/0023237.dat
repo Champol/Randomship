@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Ituberria"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="88"
+Day="13"
+Age="26"
+Pow="C"
+Fam="88"
+Les="0"
+Tra="2000"
+[2000]
+Sue="104000"
+Eqp="FAN_OMA"
+[Lvl]
+Frm="976"
+Por="4"
+Def="735"
+Tec="489"
+Ata="159"
+Niv="603"

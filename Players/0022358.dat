@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Ibazeta"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="30"
+Day="13"
+Age="28"
+Pow="C"
+Fam="30"
+Les="1"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="43000"
+Eqp="CUA_OSE"
+[Lvl]
+Frm="979"
+Por="11"
+Def="208"
+Tec="719"
+Ata="226"
+Niv="540"

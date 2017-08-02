@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Hopper"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="163"
+Age="23"
+Pow="C"
+Fam="163"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="ACT_MUD"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="49"
+Def="453"
+Tec="826"
+Ata="196"
+Niv="654"

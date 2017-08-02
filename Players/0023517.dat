@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Varghese"
+Rol="PT"
+Pos="GK"
+Nac="1981"
+[Val]
+Rec="60"
+Age="19"
+Pow="A"
+Fam="60"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="95000"
+Eqp="FAN_CAL"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="813"
+Def="205"
+Tec="261"
+Ata="39"
+Niv="596"

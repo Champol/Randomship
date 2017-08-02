@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.T. Jamil"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="509"
+Age="24"
+Pow="C"
+Fam="509"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="548000"
+Eqp="HAT_M4E"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="21"
+Def="176"
+Tec="427"
+Ata="994"
+Niv="742"

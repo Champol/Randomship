@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Jaraba"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="188"
+Age="22"
+Pow="C"
+Fam="188"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="217000"
+Eqp="CUA_CEN"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="39"
+Def="868"
+Tec="437"
+Ata="143"
+Niv="661"

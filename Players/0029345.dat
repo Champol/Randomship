@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Echaurri"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="93"
+Day="13"
+Age="23"
+Pow="C"
+Fam="93"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="BKN_HLK"
+[Lvl]
+Frm="962"
+Por="4"
+Def="758"
+Tec="328"
+Ata="272"
+Niv="636"

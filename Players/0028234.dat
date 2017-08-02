@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Spahić"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="139"
+Age="23"
+Pow="B"
+Fam="139"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="AGE_ÑAP"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="8"
+Def="302"
+Tec="833"
+Ata="357"
+Niv="654"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Pezzini"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="84"
+Age="23"
+Pow="D"
+Fam="84"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="CUA_WAL"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="815"
+Def="243"
+Tec="252"
+Ata="50"
+Niv="612"

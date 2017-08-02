@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Chretien"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="174"
+Day="13"
+Age="30"
+Pow="C"
+Fam="174"
+Les="0"
+Tra="2000"
+[2000]
+Sue="174000"
+Eqp="FAN_HOR"
+[Lvl]
+Frm="977"
+Por="4"
+Def="145"
+Tec="369"
+Ata="861"
+Niv="643"

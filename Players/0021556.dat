@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.L. Legodi"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="116"
+Age="29"
+Pow="B"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="132000"
+Eqp="CUA_CER"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="13"
+Def="649"
+Tec="394"
+Ata="366"
+Niv="621"

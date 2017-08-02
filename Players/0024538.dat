@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Willemse"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="449"
+Day="13"
+Age="30"
+Pow="A"
+Fam="449"
+Les="0"
+Tra="2000"
+[2000]
+Sue="536000"
+Eqp="FAN_MEZ"
+[Lvl]
+Frm="984"
+Por="32"
+Def="790"
+Tec="456"
+Ata="428"
+Niv="740"

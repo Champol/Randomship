@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Mayor"
+Rol="MC"
+Pos="CM"
+Nac="1975"
+[Val]
+Rec="588"
+Day="13"
+Age="25"
+Pow="A"
+Fam="588"
+Les="0"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="663000"
+Eqp="FAN_UAG"
+[Lvl]
+Frm="971"
+Por="49"
+Def="334"
+Tec="992"
+Ata="331"
+Niv="760"

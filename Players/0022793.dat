@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Fenzel"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="436"
+Age="27"
+Pow="C"
+Fam="436"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="430000"
+Eqp="CUA_HVO"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="942"
+Def="286"
+Tec="334"
+Ata="7"
+Niv="720"

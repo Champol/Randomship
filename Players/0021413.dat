@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Carreto"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="4"
+Age="32"
+Pow="D"
+Fam="4"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="13000"
+Eqp="CUA_MLD"
+PCal="0"
+[Lvl]
+Frm="995"
+Por="2"
+Def="569"
+Tec="357"
+Ata="143"
+Niv="466"

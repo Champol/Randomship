@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.C. Keung"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="543"
+Age="29"
+Pow="C"
+Fam="543"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="430000"
+Eqp="AGE_MOR"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="16"
+Def="256"
+Tec="942"
+Ata="354"
+Niv="719"

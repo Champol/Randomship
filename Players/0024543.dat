@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Ferry"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="608"
+Day="13"
+Age="24"
+Pow="A"
+Fam="608"
+Les="0"
+Tra="2000"
+[2000]
+Sue="784000"
+Eqp="FAN_MEZ"
+[Lvl]
+Frm="974"
+Por="3"
+Def="843"
+Tec="539"
+Ata="318"
+Niv="776"

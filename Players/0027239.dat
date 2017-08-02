@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.M. Durao"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="113"
+Day="13"
+Age="32"
+Pow="B"
+Fam="113"
+Les="0"
+Tra="2000"
+[2000]
+Sue="128000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="986"
+Por="45"
+Def="669"
+Tec="372"
+Ata="351"
+Niv="619"

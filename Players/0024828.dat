@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Lasala"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="13"
+Day="13"
+Age="22"
+Pow="E"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="FAN_DOO"
+[Lvl]
+Frm="958"
+Por="24"
+Def="687"
+Tec="306"
+Ata="151"
+Niv="517"

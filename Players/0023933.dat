@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Villafañe"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="135"
+Age="25"
+Pow="C"
+Fam="135"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="113000"
+Eqp="FAN_RAV"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="42"
+Def="782"
+Tec="413"
+Ata="160"
+Niv="609"

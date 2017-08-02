@@ -1,0 +1,24 @@
+[Inf]
+Nom="A.G. Peña"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="150"
+Age="23"
+Pow="C"
+Fam="150"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="BKN_R-S"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="25"
+Def="291"
+Tec="819"
+Ata="268"
+Niv="629"

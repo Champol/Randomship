@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Pavlović"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Rec="452"
+Age="30"
+Pow="B"
+Fam="452"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="364000"
+Eqp="AGE_M-N"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="17"
+Def="325"
+Tec="709"
+Ata="554"
+Niv="704"

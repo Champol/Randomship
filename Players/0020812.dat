@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Halabi"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="325"
+Age="29"
+Pow="B"
+Fam="325"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="233000"
+Eqp="CUA_PUS"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="20"
+Def="342"
+Tec="722"
+Ata="420"
+Niv="668"

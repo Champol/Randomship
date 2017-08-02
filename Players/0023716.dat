@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.M. Grodås"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="570"
+Age="22"
+Pow="A"
+Fam="570"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="572000"
+Eqp="FAN_BAJ"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="10"
+Def="149"
+Tec="469"
+Ata="989"
+Niv="746"

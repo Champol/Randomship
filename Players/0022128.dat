@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Meyans"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="638"
+Age="28"
+Pow="B"
+Fam="638"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="519000"
+Eqp="CUA_CAR"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="986"
+Def="302"
+Tec="273"
+Ata="50"
+Niv="737"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Monteiro"
+Rol="MC"
+Pos="AM"
+Nac="1979"
+[Val]
+Rec="136"
+Age="21"
+Pow="C"
+Fam="136"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="128000"
+Eqp="FAN_BAJ"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="32"
+Def="188"
+Tec="816"
+Ata="373"
+Niv="619"

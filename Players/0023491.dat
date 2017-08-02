@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Peco"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="447"
+Age="23"
+Pow="A"
+Fam="447"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="475000"
+Eqp="FAN_CAL"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="941"
+Def="370"
+Tec="302"
+Ata="46"
+Niv="729"

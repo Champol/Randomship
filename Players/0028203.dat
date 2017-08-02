@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Coltorti"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="603"
+Age="23"
+Pow="A"
+Fam="603"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="752000"
+Eqp="AGE_WKF"
+PCal="0"
+[Lvl]
+Frm="997"
+Por="34"
+Def="413"
+Tec="1063"
+Ata="141"
+Niv="772"

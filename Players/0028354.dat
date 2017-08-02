@@ -1,0 +1,24 @@
+[Inf]
+Nom="A.G. Naspleda"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="24"
+Age="22"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="37000"
+Eqp="AGE_CAN"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="4"
+Def="146"
+Tec="442"
+Ata="637"
+Niv="530"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Locke"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="80"
+Day="13"
+Age="30"
+Pow="B"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="FAN_AVR"
+[Lvl]
+Frm="982"
+Por="19"
+Def="779"
+Tec="368"
+Ata="144"
+Niv="593"

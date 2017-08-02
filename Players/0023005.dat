@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Monchet"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="121"
+Age="31"
+Pow="B"
+Fam="121"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="134000"
+Eqp="CUA_ACH"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="20"
+Def="804"
+Tec="414"
+Ata="146"
+Niv="622"

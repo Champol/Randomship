@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Caldera"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="33"
+Day="13"
+Age="26"
+Pow="E"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="FAN_ANV"
+[Lvl]
+Frm="977"
+Por="18"
+Def="696"
+Tec="390"
+Ata="104"
+Niv="545"

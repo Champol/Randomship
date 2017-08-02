@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Cleveland"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="78"
+Day="13"
+Age="21"
+Pow="C"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="HAT_ACH"
+[Lvl]
+Frm="958"
+Por="777"
+Def="336"
+Tec="290"
+Ata="16"
+Niv="615"

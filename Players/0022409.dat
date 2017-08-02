@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Higa"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="127"
+Day="13"
+Age="22"
+Pow="A"
+Fam="127"
+Les="0"
+Tra="2000"
+[2000]
+Sue="172000"
+Eqp="CUA_ARD"
+[Lvl]
+Frm="976"
+Por="35"
+Def="166"
+Tec="442"
+Ata="822"
+Niv="642"

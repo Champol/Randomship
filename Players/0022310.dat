@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Alavedra"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="365"
+Age="27"
+Pow="C"
+Fam="365"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="266000"
+Eqp="CUA_MRR"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="4"
+Def="864"
+Tec="458"
+Ata="204"
+Niv="677"

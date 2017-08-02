@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Sallarés"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="43"
+Day="13"
+Age="30"
+Pow="C"
+Fam="43"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="BKN_NIO"
+[Lvl]
+Frm="978"
+Por="697"
+Def="310"
+Tec="246"
+Ata="21"
+Niv="559"

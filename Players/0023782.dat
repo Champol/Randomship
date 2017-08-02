@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.L. Raviolo"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="398"
+Day="13"
+Age="27"
+Pow="B"
+Fam="398"
+Les="0"
+Tra="2000"
+[2000]
+PCal="0"
+Sue="416000"
+Eqp="FAN_UAG"
+[Lvl]
+Frm="974"
+Por="909"
+Def="366"
+Tec="341"
+Ata="48"
+Niv="717"

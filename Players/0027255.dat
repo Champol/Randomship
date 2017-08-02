@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Casanovas"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="45"
+Day="13"
+Age="21"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="70000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="967"
+Por="13"
+Def="118"
+Tec="424"
+Ata="727"
+Niv="575"

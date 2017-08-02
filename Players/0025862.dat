@@ -1,0 +1,24 @@
+[Inf]
+Nom="A.G. Miyahira"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="2"
+Age="32"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="11000"
+Eqp="ACT_MUD"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="8"
+Def="149"
+Tec="221"
+Ata="624"
+Niv="456"

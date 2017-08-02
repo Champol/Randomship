@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Olid"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="B"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="FAN_AZI"
+[Lvl]
+Frm="979"
+Por="1"
+Def="632"
+Tec="270"
+Ata="132"
+Niv="464"

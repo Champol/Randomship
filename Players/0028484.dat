@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. De Zuázola"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="300"
+Age="29"
+Pow="C"
+Fam="300"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="AGE_CLF"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="37"
+Def="856"
+Tec="389"
+Ata="237"
+Niv="654"

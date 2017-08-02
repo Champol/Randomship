@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Dillard"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="289"
+Day="13"
+Age="27"
+Pow="C"
+Fam="289"
+Les="0"
+Tra="2000"
+[2000]
+Sue="272000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="989"
+Por="851"
+Def="366"
+Tec="335"
+Ata="29"
+Niv="680"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Vasconcellos"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="10"
+Age="32"
+Pow="C"
+Fam="10"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="21000"
+Eqp="CUA_UBV"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="31"
+Def="426"
+Tec="441"
+Ata="310"
+Niv="495"

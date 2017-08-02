@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Ahmad"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="308"
+Age="23"
+Pow="D"
+Fam="308"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="239000"
+Eqp="HAT_V-N"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="12"
+Def="747"
+Tec="406"
+Ata="322"
+Niv="669"

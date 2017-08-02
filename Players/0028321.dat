@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Bramante"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="78"
+Age="27"
+Pow="D"
+Fam="78"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="83000"
+Eqp="AGE_MEL"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="40"
+Def="400"
+Tec="742"
+Ata="184"
+Niv="586"

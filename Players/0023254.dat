@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Vidović"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="22"
+Day="13"
+Age="29"
+Pow="E"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="39000"
+Eqp="FAN_OMA"
+[Lvl]
+Frm="994"
+Por="21"
+Def="66"
+Tec="474"
+Ata="582"
+Niv="534"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Salli"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="16"
+Age="32"
+Pow="C"
+Fam="16"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="23000"
+Eqp="FAN_NAR"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="13"
+Def="552"
+Tec="252"
+Ata="317"
+Niv="498"

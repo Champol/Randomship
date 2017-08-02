@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Ciobanu"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="99"
+Day="13"
+Age="28"
+Pow="C"
+Fam="99"
+Les="0"
+Tra="2000"
+[2000]
+Sue="148000"
+Eqp="FAN_HGS"
+[Lvl]
+Frm="984"
+Por="822"
+Def="308"
+Tec="244"
+Ata="0"
+Niv="630"

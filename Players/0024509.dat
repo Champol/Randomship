@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Sabaté"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="26"
+Age="19"
+Pow="B"
+Fam="26"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="FAN_NUR"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="17"
+Def="740"
+Tec="348"
+Ata="127"
+Niv="556"

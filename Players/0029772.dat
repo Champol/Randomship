@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Barrenchea"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="24"
+Day="13"
+Age="23"
+Pow="E"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="BKN_GAS"
+[Lvl]
+Frm="971"
+Por="36"
+Def="186"
+Tec="581"
+Ata="430"
+Niv="544"

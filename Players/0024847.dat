@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Rimoldi"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Rec="1"
+Day="13"
+Age="17"
+Pow="B"
+Fam="1"
+Les="3"
+Tra="2000"
+[2000]
+Sue="11000"
+Eqp="FAN_DOO"
+[Lvl]
+Frm="983"
+Por="23"
+Def="85"
+Tec="261"
+Ata="633"
+Niv="456"

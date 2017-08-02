@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Jora"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="106"
+Age="29"
+Pow="D"
+Fam="106"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="113000"
+Eqp="HAT_TRV"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="41"
+Def="134"
+Tec="406"
+Ata="784"
+Niv="609"

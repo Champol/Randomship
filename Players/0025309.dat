@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Savolainen"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="270"
+Age="22"
+Pow="B"
+Fam="270"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="228000"
+Eqp="FAN_SLY"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="34"
+Def="108"
+Tec="392"
+Ata="896"
+Niv="665"

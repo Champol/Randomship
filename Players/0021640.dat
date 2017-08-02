@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Garicano"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="127"
+Age="23"
+Pow="D"
+Fam="127"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="172000"
+Eqp="CUA_CND"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="19"
+Def="677"
+Tec="436"
+Ata="327"
+Niv="642"

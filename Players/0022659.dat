@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Corsini"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="129"
+Age="22"
+Pow="B"
+Fam="129"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="172000"
+Eqp="CUA_CEN"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="41"
+Def="823"
+Tec="428"
+Ata="223"
+Niv="642"

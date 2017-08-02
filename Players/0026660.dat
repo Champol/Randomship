@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Maestra"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="345"
+Day="13"
+Age="23"
+Pow="B"
+Fam="345"
+Les="0"
+Tra="2000"
+[2000]
+Sue="450000"
+Eqp="HAT_ACH"
+[Lvl]
+Frm="966"
+Por="17"
+Def="968"
+Tec="422"
+Ata="163"
+Niv="724"

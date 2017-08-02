@@ -1,0 +1,23 @@
+[Inf]
+Nom="C.A. Kottman"
+Rol="MC"
+Pos="AM"
+Nac="1971"
+[Val]
+Rec="49"
+Day="13"
+Age="29"
+Pow="C"
+Fam="49"
+Les="0"
+Tra="2000"
+[2000]
+Sue="66000"
+Eqp="FAN_DOO"
+[Lvl]
+Frm="980"
+Por="21"
+Def="158"
+Tec="710"
+Ata="416"
+Niv="570"

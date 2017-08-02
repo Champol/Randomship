@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Booth"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="212"
+Day="13"
+Age="23"
+Pow="C"
+Fam="212"
+Les="0"
+Tra="2000"
+[2000]
+Sue="251000"
+Eqp="FAN_LTH"
+[Lvl]
+Frm="973"
+Por="32"
+Def="129"
+Tec="418"
+Ata="892"
+Niv="673"

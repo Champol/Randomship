@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Sneijder"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="229"
+Age="29"
+Pow="C"
+Fam="229"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="164000"
+Eqp="AGE_W-P"
+PCal="0"
+[Lvl]
+Frm="962"
+Por="43"
+Def="852"
+Tec="386"
+Ata="75"
+Niv="638"

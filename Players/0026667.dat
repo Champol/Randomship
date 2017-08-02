@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Blüthgen"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="295"
+Day="13"
+Age="26"
+Pow="C"
+Fam="295"
+Les="0"
+Tra="2000"
+[2000]
+Sue="260000"
+Eqp="HAT_ACH"
+[Lvl]
+Frm="978"
+Por="27"
+Def="140"
+Tec="888"
+Ata="426"
+Niv="676"

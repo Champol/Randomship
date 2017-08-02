@@ -1,0 +1,22 @@
+[Inf]
+Nom="W. De Toledo"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="HAT_ACH"
+[Lvl]
+Frm="986"
+Por="18"
+Def="496"
+Tec="300"
+Ata="81"
+Niv="387"

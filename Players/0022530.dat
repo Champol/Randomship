@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Juez"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="222"
+Age="32"
+Pow="B"
+Fam="222"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="231000"
+Eqp="CUA_EYN"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="30"
+Def="864"
+Tec="413"
+Ata="190"
+Niv="666"

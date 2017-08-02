@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Pantaleón"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="285"
+Day="13"
+Age="25"
+Pow="A"
+Fam="285"
+Les="0"
+Tra="2000"
+[2000]
+Sue="394000"
+Eqp="FAN_ARG"
+[Lvl]
+Frm="991"
+Por="34"
+Def="808"
+Tec="469"
+Ata="246"
+Niv="712"

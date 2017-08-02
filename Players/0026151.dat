@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Vogt"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="292"
+Age="26"
+Pow="B"
+Fam="292"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="254000"
+Eqp="ACT_V-M"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="46"
+Def="172"
+Tec="377"
+Ata="908"
+Niv="674"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Hermida"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="56"
+Day="13"
+Age="28"
+Pow="D"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="71000"
+Eqp="FAN_ANV"
+[Lvl]
+Frm="968"
+Por="45"
+Def="272"
+Tec="753"
+Ata="213"
+Niv="575"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Ibrahimović"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="134"
+Day="13"
+Age="23"
+Pow="B"
+Fam="134"
+Les="0"
+Tra="2000"
+[2000]
+Sue="220000"
+Eqp="CUA_ARD"
+[Lvl]
+Frm="966"
+Por="38"
+Def="400"
+Tec="877"
+Ata="172"
+Niv="663"

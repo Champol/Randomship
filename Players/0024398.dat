@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Orol"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="96"
+Day="13"
+Age="22"
+Pow="B"
+Fam="96"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="FAN_MRK"
+[Lvl]
+Frm="982"
+Por="7"
+Def="802"
+Tec="444"
+Ata="124"
+Niv="625"

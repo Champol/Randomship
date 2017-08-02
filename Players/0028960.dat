@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Spinelli"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="11"
+Day="13"
+Age="20"
+Pow="C"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="BKN_CPH"
+[Lvl]
+Frm="974"
+Por="37"
+Def="302"
+Tec="661"
+Ata="190"
+Niv="512"

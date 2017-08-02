@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Elexaga"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="401"
+Age="28"
+Pow="A"
+Fam="401"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="289000"
+Eqp="ACT_V-R"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="13"
+Def="182"
+Tec="588"
+Ata="816"
+Niv="685"

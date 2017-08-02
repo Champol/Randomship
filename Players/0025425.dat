@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. McClure"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="84"
+Day="13"
+Age="26"
+Pow="C"
+Fam="84"
+Les="0"
+Tra="2000"
+[2000]
+Sue="114000"
+Eqp="FAN_AVR"
+[Lvl]
+Frm="980"
+Por="48"
+Def="294"
+Tec="423"
+Ata="648"
+Niv="610"

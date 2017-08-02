@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Felman"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="15"
+Age="29"
+Pow="D"
+Fam="15"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="29000"
+Eqp="BKN_MOE"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="19"
+Def="636"
+Tec="398"
+Ata="122"
+Niv="514"

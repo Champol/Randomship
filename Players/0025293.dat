@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Tanoira"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="538"
+Age="26"
+Pow="A"
+Fam="538"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="440000"
+Eqp="FAN_SLY"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="4"
+Def="930"
+Tec="501"
+Ata="130"
+Niv="721"

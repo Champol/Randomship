@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Sabbadin"
+Rol="DL"
+Pos="WF"
+Nac="1975"
+[Val]
+Rec="437"
+Age="25"
+Pow="A"
+Fam="437"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="470000"
+Eqp="AGE_WKF"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="32"
+Def="271"
+Tec="620"
+Ata="732"
+Niv="728"

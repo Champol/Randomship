@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.C. Vilariño"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="688"
+Age="23"
+Pow="A"
+Fam="688"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="868000"
+Eqp="CUA_CAR"
+PCal="0"
+[Lvl]
+Frm="997"
+Por="20"
+Def="620"
+Tec="965"
+Ata="205"
+Niv="786"

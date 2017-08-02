@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Fries"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="209"
+Age="21"
+Pow="B"
+Fam="209"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="248000"
+Eqp="HAT_EFE"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="20"
+Def="346"
+Tec="918"
+Ata="187"
+Niv="672"

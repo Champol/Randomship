@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Giorgini"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="155"
+Age="29"
+Pow="C"
+Fam="155"
+Les="12"
+Tra="2000"
+Day="13"
+[2000]
+Sue="141000"
+Eqp="CUA_MOS"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="41"
+Def="124"
+Tec="372"
+Ata="836"
+Niv="626"

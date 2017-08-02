@@ -1,0 +1,23 @@
+[Inf]
+Nom="X. Háuregui"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="102"
+Day="13"
+Age="22"
+Pow="C"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="141000"
+Eqp="BKN_DSS"
+[Lvl]
+Frm="969"
+Por="19"
+Def="796"
+Tec="452"
+Ata="158"
+Niv="625"

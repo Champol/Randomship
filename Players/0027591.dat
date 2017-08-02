@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Vasseur"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="95"
+Age="20"
+Pow="B"
+Fam="95"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="114000"
+Eqp="HAT_CHU"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="1"
+Def="264"
+Tec="635"
+Ata="467"
+Niv="610"

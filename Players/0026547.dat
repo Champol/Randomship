@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Dussarrat"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="94"
+Day="13"
+Age="23"
+Pow="D"
+Fam="94"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="HAT_MAS"
+[Lvl]
+Frm="986"
+Por="3"
+Def="288"
+Tec="788"
+Ata="302"
+Niv="615"

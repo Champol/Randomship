@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.T. Yorke"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="5"
+Age="27"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="17000"
+Eqp="CUA_CND"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="38"
+Def="388"
+Tec="576"
+Ata="122"
+Niv="479"

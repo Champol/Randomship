@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Irvin"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="32"
+Age="21"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="47000"
+Eqp="ACT_MUD"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="21"
+Def="562"
+Tec="402"
+Ata="293"
+Niv="546"

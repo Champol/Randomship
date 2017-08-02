@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Franzini"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="201"
+Day="13"
+Age="26"
+Pow="E"
+Fam="201"
+Les="0"
+Tra="2000"
+[2000]
+Sue="225000"
+Eqp="HAT_ACH"
+[Lvl]
+Frm="980"
+Por="1"
+Def="878"
+Tec="398"
+Ata="182"
+Niv="664"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Calderón"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="130"
+Age="21"
+Pow="C"
+Fam="130"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="144000"
+Eqp="BKN_PEN"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="800"
+Def="328"
+Tec="313"
+Ata="4"
+Niv="629"

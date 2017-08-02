@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Porpora"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="199"
+Age="22"
+Pow="B"
+Fam="199"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="242000"
+Eqp="CUA_CEC"
+PCal="0"
+[Lvl]
+Frm="998"
+Por="32"
+Def="132"
+Tec="517"
+Ata="840"
+Niv="670"

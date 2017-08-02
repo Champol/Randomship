@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Florin"
+Rol="MC"
+Pos="AM"
+Nac="1979"
+[Val]
+Rec="90"
+Day="13"
+Age="21"
+Pow="C"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="146000"
+Eqp="FAN_LTH"
+[Lvl]
+Frm="970"
+Por="11"
+Def="205"
+Tec="783"
+Ata="466"
+Niv="629"

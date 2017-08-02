@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Gramajo"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="219"
+Day="13"
+Age="22"
+Pow="A"
+Fam="219"
+Les="0"
+Tra="2000"
+[2000]
+Sue="317000"
+Eqp="FAN_M-M"
+[Lvl]
+Frm="970"
+Por="923"
+Def="324"
+Tec="246"
+Ata="29"
+Niv="693"

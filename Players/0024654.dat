@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Neuville"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="73"
+Day="13"
+Age="22"
+Pow="C"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="108000"
+Eqp="FAN_ERE"
+[Lvl]
+Frm="989"
+Por="3"
+Def="636"
+Tec="430"
+Ata="294"
+Niv="606"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Antoliche"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="55"
+Age="22"
+Pow="D"
+Fam="55"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="81000"
+Eqp="CUA_CEN"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="46"
+Def="249"
+Tec="434"
+Ata="615"
+Niv="583"

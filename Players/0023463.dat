@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Komac"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="203"
+Age="22"
+Pow="C"
+Fam="203"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="248000"
+Eqp="FAN_GAL"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="908"
+Def="235"
+Tec="287"
+Ata="34"
+Niv="672"

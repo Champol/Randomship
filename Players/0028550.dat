@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.A. Villadiego"
+Rol="MC"
+Pos="WM"
+Nac="1975"
+[Val]
+Rec="753"
+Age="25"
+Pow="A"
+Fam="753"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="895000"
+Eqp="AGE_TAT"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="17"
+Def="263"
+Tec="966"
+Ata="403"
+Niv="789"

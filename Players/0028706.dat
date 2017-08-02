@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Peguero"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="144"
+Age="22"
+Pow="C"
+Fam="144"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="AGE_W-P"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="12"
+Def="284"
+Tec="447"
+Ata="659"
+Niv="620"

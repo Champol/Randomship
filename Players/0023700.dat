@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Lizona"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="304"
+Age="25"
+Pow="C"
+Fam="304"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="242000"
+Eqp="FAN_BAJ"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="4"
+Def="875"
+Tec="448"
+Ata="118"
+Niv="670"

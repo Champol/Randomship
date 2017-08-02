@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Vidaurrazaga"
+Rol="MC"
+Pos="AM"
+Nac="1980"
+[Val]
+Rec="94"
+Day="13"
+Age="20"
+Pow="B"
+Fam="94"
+Les="0"
+Tra="2000"
+[2000]
+Sue="107000"
+Eqp="FAN_ILV"
+[Lvl]
+Frm="990"
+Por="10"
+Def="114"
+Tec="792"
+Ata="404"
+Niv="605"

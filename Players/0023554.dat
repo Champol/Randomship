@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Hopff"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="123"
+Day="13"
+Age="23"
+Pow="C"
+Fam="123"
+Les="0"
+Tra="2000"
+[2000]
+Sue="154000"
+Eqp="FAN_ANV"
+[Lvl]
+Frm="979"
+Por="6"
+Def="814"
+Tec="432"
+Ata="153"
+Niv="633"

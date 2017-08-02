@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Cheboi"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="207"
+Day="13"
+Age="26"
+Pow="C"
+Fam="207"
+Les="0"
+Tra="2000"
+[2000]
+Sue="239000"
+Eqp="CUA_KCB"
+[Lvl]
+Frm="972"
+Por="14"
+Def="296"
+Tec="804"
+Ata="328"
+Niv="670"

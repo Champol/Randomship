@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Winder"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="23"
+Day="13"
+Age="29"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="41000"
+Eqp="BKN_DSS"
+[Lvl]
+Frm="984"
+Por="31"
+Def="137"
+Tec="480"
+Ata="562"
+Niv="536"

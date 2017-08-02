@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Chauvet"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="116"
+Day="13"
+Age="24"
+Pow="C"
+Fam="116"
+Les="0"
+Tra="2000"
+[2000]
+Sue="174000"
+Eqp="CUA_PSL"
+[Lvl]
+Frm="972"
+Por="35"
+Def="441"
+Tec="825"
+Ata="182"
+Niv="642"

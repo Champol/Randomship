@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Guyard"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="203"
+Day="13"
+Age="28"
+Pow="B"
+Fam="203"
+Les="0"
+Tra="2000"
+[2000]
+Sue="207000"
+Eqp="HAT_CRW"
+[Lvl]
+Frm="985"
+Por="1"
+Def="799"
+Tec="514"
+Ata="234"
+Niv="657"

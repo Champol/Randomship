@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Ribotta"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="62"
+Age="20"
+Pow="C"
+Fam="62"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="74000"
+Eqp="BKN_R-S"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="0"
+Def="102"
+Tec="438"
+Ata="737"
+Niv="578"

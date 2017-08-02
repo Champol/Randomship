@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Lomeli"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="276"
+Age="21"
+Pow="B"
+Fam="276"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="296000"
+Eqp="FAN_NAR"
+PCal="0"
+[Lvl]
+Frm="997"
+Por="846"
+Def="345"
+Tec="418"
+Ata="11"
+Niv="687"

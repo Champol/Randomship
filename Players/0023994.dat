@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Grimaldo"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="9"
+Day="13"
+Age="30"
+Pow="D"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="21000"
+Eqp="FAN_T-S"
+[Lvl]
+Frm="967"
+Por="12"
+Def="622"
+Tec="336"
+Ata="136"
+Niv="494"

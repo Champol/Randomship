@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Bunster"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="599"
+Age="30"
+Pow="B"
+Fam="599"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="356000"
+Eqp="ACT_THS"
+PCal="0"
+[Lvl]
+Frm="998"
+Por="1"
+Def="210"
+Tec="420"
+Ata="924"
+Niv="703"

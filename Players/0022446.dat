@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Nazr"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="CUA_LAK"
+[Lvl]
+Frm="991"
+Por="13"
+Def="181"
+Tec="464"
+Ata="204"
+Niv="372"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Ogata"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="134"
+Age="23"
+Pow="C"
+Fam="134"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="150000"
+Eqp="BKN_POI"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="14"
+Def="312"
+Tec="810"
+Ata="280"
+Niv="631"

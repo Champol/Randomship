@@ -1,0 +1,23 @@
+[Inf]
+Nom="Y. O'Donnell"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="40"
+Day="13"
+Age="20"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="BKN_GAS"
+[Lvl]
+Frm="969"
+Por="0"
+Def="641"
+Tec="363"
+Ata="244"
+Niv="569"

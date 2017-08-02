@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. De San"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="585"
+Age="25"
+Pow="B"
+Fam="585"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="497000"
+Eqp="ACT_ROD"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="958"
+Def="242"
+Tec="400"
+Ata="50"
+Niv="733"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Dalvué"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="242"
+Age="25"
+Pow="B"
+Fam="242"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="179000"
+Eqp="BKN_P-U"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="13"
+Def="176"
+Tec="494"
+Ata="798"
+Niv="645"

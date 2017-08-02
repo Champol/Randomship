@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Braga"
+Rol="MC"
+Pos="AM"
+Nac="1983"
+[Val]
+Rec="1"
+Age="17"
+Pow="A"
+Fam="1"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CUA_MLN"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="34"
+Def="131"
+Tec="550"
+Ata="361"
+Niv="447"

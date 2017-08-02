@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Michelon"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="169"
+Age="25"
+Pow="D"
+Fam="169"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="ACT_D-R"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="20"
+Def="856"
+Tec="412"
+Ata="126"
+Niv="650"
