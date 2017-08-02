@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Tabarcache"
+Rol="MC"
+Pos="WM"
+Nac="1983"
+[Val]
+Rec="1"
+Day="13"
+Age="17"
+Pow="B"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PES_ARI"
+[Lvl]
+Frm="984"
+Por="12"
+Def="130"
+Tec="566"
+Ata="237"
+Niv="447"

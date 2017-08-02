@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Avdiu"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="33"
+Day="13"
+Age="22"
+Pow="D"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="GAL_HOS"
+[Lvl]
+Frm="984"
+Por="0"
+Def="592"
+Tec="399"
+Ata="265"
+Niv="559"

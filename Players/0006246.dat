@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.H. Deshpande"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="91"
+Day="13"
+Age="20"
+Pow="B"
+Fam="91"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="GAL_VEG"
+[Lvl]
+Frm="972"
+Por="2"
+Def="808"
+Tec="378"
+Ata="179"
+Niv="615"

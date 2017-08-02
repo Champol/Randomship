@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Oyarvide"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="58"
+Day="13"
+Age="21"
+Pow="B"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="106000"
+Eqp="GAL_DAT"
+[Lvl]
+Frm="974"
+Por="18"
+Def="334"
+Tec="774"
+Ata="271"
+Niv="604"

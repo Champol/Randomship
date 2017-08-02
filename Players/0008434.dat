@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Bilbao"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="114"
+Age="26"
+Pow="B"
+Fam="114"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="154000"
+Eqp="PES_KAL"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="25"
+Def="174"
+Tec="520"
+Ata="766"
+Niv="633"

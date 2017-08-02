@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Nell"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="214"
+Day="13"
+Age="24"
+Pow="C"
+Fam="214"
+Les="0"
+Tra="2000"
+[2000]
+Sue="292000"
+Eqp="GAL_N-H"
+[Lvl]
+Frm="995"
+Por="20"
+Def="704"
+Tec="536"
+Ata="300"
+Niv="686"

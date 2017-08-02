@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Conen"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="2"
+Day="13"
+Age="20"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="17000"
+Eqp="GAL_61C"
+[Lvl]
+Frm="958"
+Por="9"
+Def="189"
+Tec="506"
+Ata="376"
+Niv="481"

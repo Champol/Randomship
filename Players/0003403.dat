@@ -1,0 +1,22 @@
+[Inf]
+Nom="B. Montarcé"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Day="13"
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_ANO"
+[Lvl]
+Frm="993"
+Por="4"
+Def="396"
+Tec="280"
+Ata="266"
+Niv="402"

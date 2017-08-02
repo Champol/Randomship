@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Bondar"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Rec="1"
+Day="13"
+Age="32"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_BND"
+[Lvl]
+Frm="980"
+Por="7"
+Def="224"
+Tec="434"
+Ata="150"
+Niv="352"

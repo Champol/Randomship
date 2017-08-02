@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Rojo"
+Rol="MC"
+Pos="AM"
+Nac="1969"
+[Val]
+Rec="596"
+Day="13"
+Age="31"
+Pow="A"
+Fam="596"
+Les="0"
+Tra="2000"
+[2000]
+Sue="536000"
+Eqp="PES_BOS"
+[Lvl]
+Frm="990"
+Por="17"
+Def="126"
+Tec="942"
+Ata="526"
+Niv="740"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Morgan"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="51"
+Day="13"
+Age="23"
+Pow="D"
+Fam="51"
+Les="0"
+Tra="2000"
+[2000]
+Sue="100000"
+Eqp="GAL_ILL"
+[Lvl]
+Frm="982"
+Por="37"
+Def="643"
+Tec="372"
+Ata="331"
+Niv="600"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Jurić"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="90"
+Day="13"
+Age="25"
+Pow="D"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="97000"
+Eqp="GAL_SOL"
+[Lvl]
+Frm="983"
+Por="28"
+Def="653"
+Tec="377"
+Ata="292"
+Niv="598"

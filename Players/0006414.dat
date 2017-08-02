@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Ravagnan"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="1"
+Day="13"
+Age="18"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="GAL_DEL"
+[Lvl]
+Frm="975"
+Por="4"
+Def="446"
+Tec="400"
+Ata="226"
+Niv="461"

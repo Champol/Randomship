@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Brea"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Rec="7"
+Age="18"
+Pow="C"
+Fam="7"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="28000"
+Eqp="SEN_BIT"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="2"
+Def="78"
+Tec="328"
+Ata="680"
+Niv="511"

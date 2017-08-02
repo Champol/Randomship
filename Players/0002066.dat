@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.D. Toescu"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Age="19"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_C-A"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="2"
+Def="576"
+Tec="259"
+Ata="163"
+Niv="438"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Serralunga"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="116"
+Day="13"
+Age="21"
+Pow="A"
+Fam="116"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="GAL_UTA"
+[Lvl]
+Frm="975"
+Por="49"
+Def="273"
+Tec="862"
+Ata="230"
+Niv="637"

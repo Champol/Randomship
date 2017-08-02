@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Rapp"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="97"
+Day="13"
+Age="26"
+Pow="D"
+Fam="97"
+Les="0"
+Tra="2000"
+[2000]
+Sue="107000"
+Eqp="GAL_DER"
+[Lvl]
+Frm="972"
+Por="30"
+Def="130"
+Tec="768"
+Ata="445"
+Niv="606"

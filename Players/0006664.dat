@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Ontiveros"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="46"
+Day="13"
+Age="24"
+Pow="E"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="70000"
+Eqp="GAL_ILL"
+[Lvl]
+Frm="977"
+Por="30"
+Def="194"
+Tec="415"
+Ata="636"
+Niv="574"

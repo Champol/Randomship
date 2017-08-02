@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Molas"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="89"
+Day="13"
+Age="22"
+Pow="B"
+Fam="89"
+Les="0"
+Tra="2000"
+[2000]
+Sue="144000"
+Eqp="GAL_SHI"
+[Lvl]
+Frm="969"
+Por="4"
+Def="658"
+Tec="442"
+Ata="330"
+Niv="628"

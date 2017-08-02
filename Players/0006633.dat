@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Ōno"
+Rol="DL"
+Pos="SS"
+Nac="1980"
+[Val]
+Rec="11"
+Day="13"
+Age="20"
+Pow="E"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="31000"
+Eqp="GAL_MNE"
+[Lvl]
+Frm="964"
+Por="49"
+Def="101"
+Tec="491"
+Ata="538"
+Niv="518"

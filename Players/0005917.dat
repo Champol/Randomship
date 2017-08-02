@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Radomski"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="124"
+Day="13"
+Age="23"
+Pow="C"
+Fam="124"
+Les="0"
+Tra="2000"
+[2000]
+Sue="199000"
+Eqp="GAL_MDR"
+[Lvl]
+Frm="977"
+Por="864"
+Def="306"
+Tec="238"
+Ata="24"
+Niv="654"

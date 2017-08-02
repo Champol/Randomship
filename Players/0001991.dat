@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Bevacqua"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="67"
+Age="22"
+Pow="D"
+Fam="67"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="80000"
+Eqp="SEN_BAD"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="19"
+Def="348"
+Tec="772"
+Ata="158"
+Niv="583"

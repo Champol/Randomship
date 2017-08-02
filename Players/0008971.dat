@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Pañeda"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="43"
+Age="20"
+Pow="D"
+Fam="43"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="80000"
+Eqp="PES_CHE"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="16"
+Def="659"
+Tec="352"
+Ata="270"
+Niv="583"

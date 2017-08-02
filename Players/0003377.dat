@@ -1,0 +1,22 @@
+[Inf]
+Nom="L. Láinez"
+Rol="MC"
+Pos="WM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_COM"
+[Lvl]
+Frm="970"
+Por="44"
+Def="228"
+Tec="420"
+Ata="253"
+Niv="389"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Benavente"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="5"
+Def="235"
+Tec="563"
+Ata="186"
+Niv="438"

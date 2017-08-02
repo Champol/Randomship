@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Archambault"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="1"
+Day="13"
+Age="20"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="GAL_LIV"
+[Lvl]
+Frm="977"
+Por="24"
+Def="488"
+Tec="348"
+Ata="212"
+Niv="466"

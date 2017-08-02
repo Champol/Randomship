@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Romito"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Rec="95"
+Age="32"
+Pow="C"
+Fam="95"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="97000"
+Eqp="SEN_DTH"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="35"
+Def="228"
+Tec="650"
+Ata="425"
+Niv="598"

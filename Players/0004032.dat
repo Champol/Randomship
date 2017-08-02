@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Agustin"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="35"
+Day="13"
+Age="23"
+Pow="D"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="GAL_KAM"
+[Lvl]
+Frm="961"
+Por="692"
+Def="311"
+Tec="299"
+Ata="6"
+Niv="559"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Irriberri"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="169"
+Age="23"
+Pow="C"
+Fam="169"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="289000"
+Eqp="PES_HAI"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="927"
+Def="280"
+Tec="220"
+Ata="50"
+Niv="685"

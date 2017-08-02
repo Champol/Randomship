@@ -1,0 +1,24 @@
+[Inf]
+Nom="V.M. Giner"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="107"
+Age="23"
+Pow="C"
+Fam="107"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="166000"
+Eqp="SEN_REN"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="47"
+Def="328"
+Tec="674"
+Ata="446"
+Niv="639"

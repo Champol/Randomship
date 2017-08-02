@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Di Biagio"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="24"
+Day="13"
+Age="22"
+Pow="E"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="44000"
+Eqp="GAL_IRI"
+[Lvl]
+Frm="975"
+Por="2"
+Def="696"
+Tec="345"
+Ata="213"
+Niv="541"

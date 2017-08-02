@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Iracheta"
+Rol="MC"
+Pos="DM"
+Nac="1968"
+[Val]
+Rec="30"
+Age="32"
+Pow="C"
+Fam="30"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="39000"
+Eqp="SEN_SFC"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="35"
+Def="342"
+Tec="693"
+Ata="127"
+Niv="533"

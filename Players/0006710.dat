@@ -1,0 +1,23 @@
+[Inf]
+Nom="Ñ. Zavalúa"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="10"
+Day="13"
+Age="20"
+Pow="D"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="GAL_JEN"
+[Lvl]
+Frm="977"
+Por="42"
+Def="650"
+Tec="379"
+Ata="135"
+Niv="515"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="Q. Cieza"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="308"
+Day="13"
+Age="29"
+Pow="C"
+Fam="308"
+Les="0"
+Tra="2000"
+[2000]
+Sue="269000"
+Eqp="PES_MAE"
+[Lvl]
+Frm="977"
+Por="16"
+Def="373"
+Tec="423"
+Ata="722"
+Niv="679"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Tarulli"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="39"
+Age="24"
+Pow="E"
+Fam="39"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="71000"
+Eqp="GAL_N-S"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="765"
+Def="210"
+Tec="256"
+Ata="16"
+Niv="576"

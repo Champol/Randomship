@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Winkler"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="108"
+Age="30"
+Pow="B"
+Fam="108"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="128000"
+Eqp="GAL_GEO"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="0"
+Def="90"
+Tec="379"
+Ata="822"
+Niv="619"

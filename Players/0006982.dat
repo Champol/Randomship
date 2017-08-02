@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Hernádez"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="157"
+Day="13"
+Age="24"
+Pow="D"
+Fam="157"
+Les="0"
+Tra="2000"
+[2000]
+Sue="202000"
+Eqp="GAL_SUB"
+[Lvl]
+Frm="990"
+Por="25"
+Def="185"
+Tec="598"
+Ata="680"
+Niv="654"

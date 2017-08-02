@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Solórzano"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="125"
+Day="13"
+Age="23"
+Pow="C"
+Fam="125"
+Les="0"
+Tra="2000"
+[2000]
+Sue="141000"
+Eqp="PES_VIC"
+[Lvl]
+Frm="980"
+Por="36"
+Def="138"
+Tec="556"
+Ata="678"
+Niv="626"

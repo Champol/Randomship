@@ -1,0 +1,23 @@
+[Inf]
+Nom="Q. Matteo"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="22"
+Day="13"
+Age="27"
+Pow="C"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="44000"
+Eqp="GAL_ATO"
+[Lvl]
+Frm="989"
+Por="8"
+Def="107"
+Tec="504"
+Ata="571"
+Niv="541"

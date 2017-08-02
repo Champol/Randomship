@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Anwar"
+Rol="MC"
+Pos="WM"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="15000"
+Eqp="GAL_SMY"
+[Lvl]
+Frm="971"
+Por="18"
+Def="176"
+Tec="490"
+Ata="393"
+Niv="472"

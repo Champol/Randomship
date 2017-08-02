@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.D. Guedes"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="192"
+Day="13"
+Age="20"
+Pow="A"
+Fam="192"
+Les="0"
+Tra="2000"
+[2000]
+Sue="242000"
+Eqp="GAL_FEL"
+[Lvl]
+Frm="985"
+Por="38"
+Def="773"
+Tec="402"
+Ata="263"
+Niv="670"

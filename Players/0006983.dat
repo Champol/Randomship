@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Zamudio"
+Rol="DL"
+Pos="SS"
+Nac="1968"
+[Val]
+Rec="11"
+Day="13"
+Age="32"
+Pow="C"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="GAL_SUB"
+[Lvl]
+Frm="978"
+Por="36"
+Def="161"
+Tec="338"
+Ata="614"
+Niv="505"

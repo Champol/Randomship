@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.F. Gentil"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="86"
+Age="21"
+Pow="C"
+Fam="86"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="137000"
+Eqp="SEN_JON"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="11"
+Def="156"
+Tec="372"
+Ata="838"
+Niv="624"

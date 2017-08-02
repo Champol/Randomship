@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Eppens"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="374"
+Day="13"
+Age="26"
+Pow="B"
+Fam="374"
+Les="0"
+Tra="2000"
+[2000]
+Sue="491000"
+Eqp="GAL_MUS"
+[Lvl]
+Frm="983"
+Por="17"
+Def="202"
+Tec="404"
+Ata="980"
+Niv="732"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Mugas"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="851"
+Day="13"
+Age="29"
+Pow="A"
+Fam="851"
+Les="0"
+Tra="2000"
+[2000]
+Sue="744000"
+Eqp="GAL_MYG"
+[Lvl]
+Frm="964"
+Por="34"
+Def="842"
+Tec="510"
+Ata="334"
+Niv="770"

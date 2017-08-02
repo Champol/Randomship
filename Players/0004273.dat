@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Jimeno"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="208"
+Day="13"
+Age="26"
+Pow="D"
+Fam="208"
+Les="0"
+Tra="2000"
+[2000]
+Sue="231000"
+Eqp="GAL_SYN"
+[Lvl]
+Frm="968"
+Por="8"
+Def="668"
+Tec="488"
+Ata="376"
+Niv="666"

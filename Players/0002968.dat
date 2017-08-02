@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Gerosa"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="17"
+Age="20"
+Pow="B"
+Fam="17"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="41000"
+Eqp="SEN_CRI"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="6"
+Def="682"
+Tec="396"
+Ata="128"
+Niv="537"

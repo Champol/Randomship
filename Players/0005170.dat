@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Dolarea"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="1"
+Day="13"
+Age="19"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="11000"
+Eqp="GAL_A-C"
+[Lvl]
+Frm="975"
+Por="25"
+Def="551"
+Tec="403"
+Ata="83"
+Niv="457"

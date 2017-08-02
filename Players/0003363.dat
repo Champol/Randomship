@@ -1,0 +1,22 @@
+[Inf]
+Nom="E. Rasch"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_ATO"
+[Lvl]
+Frm="971"
+Por="31"
+Def="425"
+Tec="360"
+Ata="236"
+Niv="434"

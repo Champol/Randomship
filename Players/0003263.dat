@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Pedicone"
+Rol="MC"
+Pos="CM"
+Nac="1981"
+[Val]
+Rec="2"
+Day="13"
+Age="19"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="14000"
+Eqp="GAL_SRK"
+[Lvl]
+Frm="984"
+Por="24"
+Def="211"
+Tec="615"
+Ata="217"
+Niv="471"

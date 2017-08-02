@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Salvarrey"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="49"
+Age="23"
+Pow="D"
+Fam="49"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="84000"
+Eqp="PES_CAP"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="31"
+Def="224"
+Tec="512"
+Ata="627"
+Niv="587"

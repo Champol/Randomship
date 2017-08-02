@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Kehoe"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="113"
+Age="24"
+Pow="C"
+Fam="113"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="128000"
+Eqp="PES_QAT"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="50"
+Def="773"
+Tec="477"
+Ata="120"
+Niv="619"

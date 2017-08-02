@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Ozamiz"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="158"
+Day="13"
+Age="25"
+Pow="C"
+Fam="158"
+Les="1"
+Tra="2000"
+[2000]
+Sue="228000"
+Eqp="GAL_OND"
+[Lvl]
+Frm="968"
+Por="23"
+Def="747"
+Tec="417"
+Ata="282"
+Niv="665"

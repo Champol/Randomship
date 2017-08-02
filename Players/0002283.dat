@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Iachetti"
+Rol="DL"
+Pos="CF"
+Nac="1969"
+[Val]
+Age="31"
+Pow="D"
+Fam="0"
+Les="19"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_DAN"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="32"
+Def="154"
+Tec="225"
+Ata="558"
+Niv="425"

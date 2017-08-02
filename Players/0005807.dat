@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Del Granado"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="47"
+Day="13"
+Age="28"
+Pow="D"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="67000"
+Eqp="GAL_DQA"
+[Lvl]
+Frm="983"
+Por="41"
+Def="749"
+Tec="357"
+Ata="146"
+Niv="571"

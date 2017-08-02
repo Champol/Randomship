@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Georgiou "
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="108"
+Age="23"
+Pow="B"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="142000"
+Eqp="PES_CAP"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="18"
+Def="452"
+Tec="792"
+Ata="173"
+Niv="627"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Santesso"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="122"
+Age="22"
+Pow="C"
+Fam="122"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="135000"
+Eqp="GAL_KAS"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="42"
+Def="790"
+Tec="462"
+Ata="114"
+Niv="623"

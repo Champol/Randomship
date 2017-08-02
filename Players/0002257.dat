@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Recalt"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="24"
+Age="20"
+Pow="D"
+Fam="24"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="49000"
+Eqp="SEN_CLO"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="23"
+Def="176"
+Tec="397"
+Ata="691"
+Niv="549"

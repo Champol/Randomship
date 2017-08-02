@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Lazzeri"
+Rol="DF"
+Pos="WB"
+Nac="1969"
+[Val]
+Rec="34"
+Day="13"
+Age="31"
+Pow="C"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="53000"
+Eqp="GAL_MDR"
+[Lvl]
+Frm="960"
+Por="24"
+Def="584"
+Tec="398"
+Ata="227"
+Niv="554"

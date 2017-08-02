@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Clement"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="123"
+Day="13"
+Age="23"
+Pow="C"
+Fam="123"
+Les="0"
+Tra="2000"
+[2000]
+Sue="212000"
+Eqp="GAL_DQA"
+[Lvl]
+Frm="985"
+Por="48"
+Def="348"
+Tec="850"
+Ata="262"
+Niv="659"

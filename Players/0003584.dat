@@ -1,0 +1,23 @@
+[Inf]
+Nom="M.A. Radziwill"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="15"
+Day="13"
+Age="29"
+Pow="D"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="GAL_VOR"
+[Lvl]
+Frm="972"
+Por="16"
+Def="201"
+Tec="573"
+Ata="347"
+Niv="516"

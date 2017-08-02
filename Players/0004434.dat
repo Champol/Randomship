@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Bertos"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="24"
+Day="13"
+Age="26"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="GAL_MRB"
+[Lvl]
+Frm="979"
+Por="14"
+Def="176"
+Tec="691"
+Ata="400"
+Niv="552"

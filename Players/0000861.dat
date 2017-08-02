@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Shakespear"
+Rol="DL"
+Pos="WF"
+Nac="1969"
+[Val]
+Rec="122"
+Age="31"
+Pow="A"
+Fam="122"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="107000"
+Eqp="SEN_S-D"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="8"
+Def="338"
+Tec="484"
+Ata="580"
+Niv="606"

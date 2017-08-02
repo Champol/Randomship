@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Lasala"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Age="18"
+Pow="D"
+Fam="0"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_FSH"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="24"
+Def="554"
+Tec="342"
+Ata="139"
+Niv="442"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Raschio"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="301"
+Day="13"
+Age="23"
+Pow="C"
+Fam="301"
+Les="0"
+Tra="2000"
+[2000]
+Sue="497000"
+Eqp="PES_JAG"
+[Lvl]
+Frm="978"
+Por="16"
+Def="172"
+Tec="596"
+Ata="834"
+Niv="733"

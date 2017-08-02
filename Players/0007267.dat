@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.I. Takei"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="32"
+Day="13"
+Age="20"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="GAL_ANS"
+[Lvl]
+Frm="976"
+Por="40"
+Def="280"
+Tec="601"
+Ata="380"
+Niv="563"

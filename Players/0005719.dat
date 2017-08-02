@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Baduna"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="47"
+Day="13"
+Age="27"
+Pow="D"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="58000"
+Eqp="GAL_HOR"
+[Lvl]
+Frm="986"
+Por="46"
+Def="648"
+Tec="520"
+Ata="134"
+Niv="561"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Gelderen"
+Rol="MC"
+Pos="AM"
+Nac="1980"
+[Val]
+Rec="38"
+Day="13"
+Age="20"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="56000"
+Eqp="GAL_DER"
+[Lvl]
+Frm="984"
+Por="31"
+Def="137"
+Tec="747"
+Ata="330"
+Niv="558"

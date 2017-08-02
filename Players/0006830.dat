@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. D'hondt"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="250"
+Day="13"
+Age="27"
+Pow="C"
+Fam="250"
+Les="0"
+Tra="2000"
+[2000]
+Sue="381000"
+Eqp="GAL_EUT"
+[Lvl]
+Frm="962"
+Por="19"
+Def="404"
+Tec="960"
+Ata="122"
+Niv="709"

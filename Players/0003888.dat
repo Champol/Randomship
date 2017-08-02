@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Lessa"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="261"
+Day="13"
+Age="27"
+Pow="A"
+Fam="261"
+Les="0"
+Tra="2000"
+[2000]
+Sue="340000"
+Eqp="GAL_ASP"
+[Lvl]
+Frm="977"
+Por="904"
+Def="336"
+Tec="305"
+Ata="42"
+Niv="699"

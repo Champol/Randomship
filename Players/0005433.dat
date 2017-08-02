@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Campino"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="95"
+Day="13"
+Age="23"
+Pow="D"
+Fam="95"
+Les="0"
+Tra="2000"
+[2000]
+Sue="107000"
+Eqp="GAL_ROD"
+[Lvl]
+Frm="964"
+Por="6"
+Def="704"
+Tec="362"
+Ata="227"
+Niv="605"

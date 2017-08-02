@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Balewa"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="19"
+Day="13"
+Age="29"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="38000"
+Eqp="GAL_COM"
+[Lvl]
+Frm="982"
+Por="5"
+Def="559"
+Tec="325"
+Ata="307"
+Niv="531"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Dié"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="35"
+Age="27"
+Pow="C"
+Fam="35"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="57000"
+Eqp="SEN_WIA"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="13"
+Def="738"
+Tec="341"
+Ata="142"
+Niv="559"

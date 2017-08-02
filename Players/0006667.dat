@@ -1,0 +1,22 @@
+[Inf]
+Nom="J. De Wit"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_ILL"
+[Lvl]
+Frm="990"
+Por="490"
+Def="195"
+Tec="185"
+Ata="47"
+Niv="380"

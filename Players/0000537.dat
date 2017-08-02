@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Espina"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="144"
+Age="27"
+Pow="C"
+Fam="144"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="162000"
+Eqp="SEN_KEB"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="26"
+Def="287"
+Tec="814"
+Ata="327"
+Niv="637"

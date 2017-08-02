@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Welsh"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="102"
+Age="25"
+Pow="B"
+Fam="102"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="GAL_N-S"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="48"
+Def="206"
+Tec="788"
+Ata="454"
+Niv="628"

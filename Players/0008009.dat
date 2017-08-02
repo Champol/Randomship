@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.M. Walovnik"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="351"
+Day="13"
+Age="23"
+Pow="B"
+Fam="351"
+Les="0"
+Tra="2000"
+[2000]
+Sue="445000"
+Eqp="PES_ROO"
+[Lvl]
+Frm="978"
+Por="14"
+Def="980"
+Tec="408"
+Ata="129"
+Niv="723"

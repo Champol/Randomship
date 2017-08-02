@@ -1,0 +1,22 @@
+[Inf]
+Nom="O. Kolašinac"
+Rol="DL"
+Pos="WF"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_LYS"
+[Lvl]
+Frm="977"
+Por="32"
+Def="193"
+Tec="241"
+Ata="433"
+Niv="384"

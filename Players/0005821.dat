@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Larroca"
+Rol="DL"
+Pos="SS"
+Nac="1980"
+[Val]
+Rec="7"
+Day="13"
+Age="20"
+Pow="E"
+Fam="7"
+Les="0"
+Tra="2000"
+[2000]
+Sue="27000"
+Eqp="GAL_DQA"
+[Lvl]
+Frm="974"
+Por="10"
+Def="154"
+Tec="441"
+Ata="555"
+Niv="509"

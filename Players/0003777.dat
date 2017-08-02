@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Muñecas"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="19"
+Day="13"
+Age="30"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="31000"
+Eqp="GAL_CIN"
+[Lvl]
+Frm="977"
+Por="36"
+Def="582"
+Tec="358"
+Ata="166"
+Niv="519"

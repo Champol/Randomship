@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Luro"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="73"
+Day="13"
+Age="23"
+Pow="C"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="103000"
+Eqp="GAL_MOR"
+[Lvl]
+Frm="983"
+Por="42"
+Def="309"
+Tec="624"
+Ata="430"
+Niv="602"

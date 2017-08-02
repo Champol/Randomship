@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Civit"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="41"
+Age="20"
+Pow="C"
+Fam="41"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="70000"
+Eqp="SEN_CLO"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="38"
+Def="769"
+Tec="341"
+Ata="138"
+Niv="574"

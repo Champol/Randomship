@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Basurco"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="7"
+Day="13"
+Age="21"
+Pow="E"
+Fam="7"
+Les="0"
+Tra="2000"
+[2000]
+Sue="24000"
+Eqp="GAL_MAL"
+[Lvl]
+Frm="974"
+Por="29"
+Def="304"
+Tec="379"
+Ata="494"
+Niv="503"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Vingitore"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="44"
+Day="13"
+Age="23"
+Pow="D"
+Fam="44"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="GAL_OND"
+[Lvl]
+Frm="978"
+Por="17"
+Def="290"
+Tec="754"
+Ata="261"
+Niv="583"

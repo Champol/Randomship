@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Fabbri"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="27"
+Age="27"
+Pow="D"
+Fam="27"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="SEN_ORG"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="5"
+Def="726"
+Tec="348"
+Ata="142"
+Niv="557"

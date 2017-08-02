@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Nosiglia"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="38"
+Age="27"
+Pow="E"
+Fam="38"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="47000"
+Eqp="SEN_EMP"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="41"
+Def="268"
+Tec="559"
+Ata="404"
+Niv="546"

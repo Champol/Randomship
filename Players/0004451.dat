@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Adot"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="41"
+Day="13"
+Age="23"
+Pow="E"
+Fam="41"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="GAL_OND"
+[Lvl]
+Frm="970"
+Por="24"
+Def="278"
+Tec="710"
+Ata="291"
+Niv="564"

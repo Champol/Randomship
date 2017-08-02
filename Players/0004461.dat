@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Briensc"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="127"
+Day="13"
+Age="22"
+Pow="B"
+Fam="127"
+Les="0"
+Tra="2000"
+[2000]
+Sue="212000"
+Eqp="GAL_OND"
+[Lvl]
+Frm="980"
+Por="45"
+Def="345"
+Tec="414"
+Ata="718"
+Niv="659"

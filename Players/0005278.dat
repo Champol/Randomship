@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Olate"
+Rol="MC"
+Pos="AM"
+Nac="1972"
+[Val]
+Rec="28"
+Day="13"
+Age="28"
+Pow="D"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="49000"
+Eqp="GAL_KON"
+[Lvl]
+Frm="962"
+Por="14"
+Def="111"
+Tec="695"
+Ata="404"
+Niv="549"

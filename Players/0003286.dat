@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Shigezawa"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="72"
+Day="13"
+Age="22"
+Pow="C"
+Fam="72"
+Les="0"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="GAL_IFN"
+[Lvl]
+Frm="991"
+Por="45"
+Def="648"
+Tec="429"
+Ata="346"
+Niv="624"

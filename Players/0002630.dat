@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Ascó"
+Rol="DL"
+Pos="CF"
+Nac="1981"
+[Val]
+Rec="4"
+Age="19"
+Pow="D"
+Fam="4"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="17000"
+Eqp="SEN_ORG"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="32"
+Def="131"
+Tec="378"
+Ata="593"
+Niv="482"

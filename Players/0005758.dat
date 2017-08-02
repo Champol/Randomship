@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Laudrup"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="123"
+Day="13"
+Age="23"
+Pow="D"
+Fam="123"
+Les="0"
+Tra="2000"
+[2000]
+Sue="188000"
+Eqp="GAL_61C"
+[Lvl]
+Frm="989"
+Por="35"
+Def="297"
+Tec="761"
+Ata="344"
+Niv="649"

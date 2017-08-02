@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Bogdanov"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="80"
+Age="22"
+Pow="C"
+Fam="80"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="110000"
+Eqp="GAL_GEO"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="40"
+Def="629"
+Tec="490"
+Ata="230"
+Niv="607"

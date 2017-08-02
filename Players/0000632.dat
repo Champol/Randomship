@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Silversmith"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="77"
+Age="22"
+Pow="D"
+Fam="77"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="113000"
+Eqp="SEN_J-T"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="28"
+Def="141"
+Tec="472"
+Ata="760"
+Niv="610"

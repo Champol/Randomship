@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Iso"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="95"
+Day="13"
+Age="23"
+Pow="C"
+Fam="95"
+Les="0"
+Tra="2000"
+[2000]
+Sue="128000"
+Eqp="GAL_NIS"
+[Lvl]
+Frm="987"
+Por="28"
+Def="808"
+Tec="384"
+Ata="210"
+Niv="619"

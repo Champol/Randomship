@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Novotný"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="161"
+Day="13"
+Age="26"
+Pow="C"
+Fam="161"
+Les="0"
+Tra="2000"
+[2000]
+Sue="266000"
+Eqp="GAL_KAL"
+[Lvl]
+Frm="975"
+Por="24"
+Def="294"
+Tec="457"
+Ata="737"
+Niv="678"

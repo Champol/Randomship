@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Panucci"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="140"
+Age="23"
+Pow="B"
+Fam="140"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="PES_ZAN"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="23"
+Def="391"
+Tec="853"
+Ata="197"
+Niv="650"

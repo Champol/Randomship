@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Donald"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="46"
+Day="13"
+Age="26"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="85000"
+Eqp="GAL_LYS"
+[Lvl]
+Frm="988"
+Por="42"
+Def="284"
+Tec="644"
+Ata="369"
+Niv="588"

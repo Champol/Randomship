@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. De Waal"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="21"
+Day="13"
+Age="20"
+Pow="D"
+Fam="21"
+Les="0"
+Tra="2000"
+[2000]
+Sue="49000"
+Eqp="GAL_MNE"
+[Lvl]
+Frm="969"
+Por="21"
+Def="705"
+Tec="398"
+Ata="103"
+Niv="549"

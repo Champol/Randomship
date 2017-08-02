@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Larroque"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="30"
+Day="13"
+Age="21"
+Pow="D"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="GAL_MEL"
+[Lvl]
+Frm="974"
+Por="23"
+Def="260"
+Tec="753"
+Ata="208"
+Niv="566"

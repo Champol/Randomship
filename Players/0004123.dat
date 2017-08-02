@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Artaza"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="96"
+Day="13"
+Age="30"
+Pow="C"
+Fam="96"
+Les="0"
+Tra="2000"
+[2000]
+Sue="125000"
+Eqp="GAL_MEL"
+[Lvl]
+Frm="979"
+Por="16"
+Def="637"
+Tec="469"
+Ata="250"
+Niv="617"

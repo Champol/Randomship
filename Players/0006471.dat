@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Greeff"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="6"
+Day="13"
+Age="30"
+Pow="D"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="15000"
+Eqp="GAL_COR"
+[Lvl]
+Frm="979"
+Por="36"
+Def="616"
+Tec="308"
+Ata="101"
+Niv="474"

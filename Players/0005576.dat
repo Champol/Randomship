@@ -1,0 +1,22 @@
+[Inf]
+Nom="C. Mossé"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_CRL"
+[Lvl]
+Frm="961"
+Por="32"
+Def="453"
+Tec="287"
+Ata="301"
+Niv="439"

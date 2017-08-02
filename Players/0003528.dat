@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Murata"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="65"
+Day="13"
+Age="23"
+Pow="D"
+Fam="65"
+Les="0"
+Tra="2000"
+[2000]
+Sue="110000"
+Eqp="GAL_BON"
+[Lvl]
+Frm="986"
+Por="49"
+Def="302"
+Tec="669"
+Ata="378"
+Niv="607"

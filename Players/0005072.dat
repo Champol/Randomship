@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Kanno"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Rec="10"
+Day="13"
+Age="18"
+Pow="B"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="GAL_ZOR"
+[Lvl]
+Frm="968"
+Por="710"
+Def="164"
+Tec="217"
+Ata="0"
+Niv="517"

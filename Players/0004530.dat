@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Pomar"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="90"
+Day="13"
+Age="29"
+Pow="C"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="96000"
+Eqp="GAL_FOM"
+[Lvl]
+Frm="975"
+Por="38"
+Def="640"
+Tec="360"
+Ata="329"
+Niv="597"

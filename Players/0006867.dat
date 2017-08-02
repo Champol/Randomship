@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Booker"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="32"
+Day="13"
+Age="22"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="59000"
+Eqp="GAL_HEL"
+[Lvl]
+Frm="976"
+Por="24"
+Def="267"
+Tec="415"
+Ata="588"
+Niv="562"

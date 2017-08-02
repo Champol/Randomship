@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Khalidi"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="207"
+Age="21"
+Pow="A"
+Fam="207"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="340000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="2"
+Def="137"
+Tec="599"
+Ata="778"
+Niv="699"

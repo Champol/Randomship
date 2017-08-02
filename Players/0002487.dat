@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Gilson"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="82"
+Age="29"
+Pow="C"
+Fam="82"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="91000"
+Eqp="SEN_ZOD"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="42"
+Def="162"
+Tec="435"
+Ata="738"
+Niv="593"

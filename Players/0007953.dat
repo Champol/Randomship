@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Sison"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="376"
+Day="13"
+Age="22"
+Pow="A"
+Fam="376"
+Les="0"
+Tra="2000"
+[2000]
+Sue="491000"
+Eqp="PES_VIC"
+[Lvl]
+Frm="975"
+Por="40"
+Def="860"
+Tec="416"
+Ata="280"
+Niv="732"

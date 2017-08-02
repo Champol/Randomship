@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Elano"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="52"
+Day="13"
+Age="25"
+Pow="B"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="82000"
+Eqp="GAL_PAL"
+[Lvl]
+Frm="975"
+Por="27"
+Def="749"
+Tec="390"
+Ata="176"
+Niv="585"

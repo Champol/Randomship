@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Yudi"
+Rol="DF"
+Pos="WB"
+Nac="1969"
+[Val]
+Rec="41"
+Age="31"
+Pow="A"
+Fam="41"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="61000"
+Eqp="SEN_BIN"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="30"
+Def="595"
+Tec="401"
+Ata="258"
+Niv="564"

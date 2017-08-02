@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Yip"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="29"
+Def="543"
+Tec="290"
+Ata="60"
+Niv="414"

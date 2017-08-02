@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Mogrovejo"
+Rol="MC"
+Pos="AM"
+Nac="1980"
+[Val]
+Rec="40"
+Age="20"
+Pow="B"
+Fam="40"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="65000"
+Eqp="PES_CAP"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="34"
+Def="188"
+Tec="737"
+Ata="364"
+Niv="568"

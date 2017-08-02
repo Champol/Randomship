@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Mussolini"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="9"
+Day="13"
+Age="24"
+Pow="E"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="GAL_VOR"
+[Lvl]
+Frm="977"
+Por="43"
+Def="85"
+Tec="287"
+Ata="686"
+Niv="504"

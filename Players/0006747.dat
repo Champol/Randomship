@@ -1,0 +1,22 @@
+[Inf]
+Nom="G. Isaacs"
+Rol="MC"
+Pos="DM"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_LOC"
+[Lvl]
+Frm="972"
+Por="40"
+Def="247"
+Tec="559"
+Ata="167"
+Niv="420"

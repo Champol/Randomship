@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Dutil"
+Rol="DF"
+Pos="WB"
+Nac="1969"
+[Val]
+Rec="129"
+Age="31"
+Pow="B"
+Fam="129"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="124000"
+Eqp="SEN_COL"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="49"
+Def="663"
+Tec="392"
+Ata="308"
+Niv="616"

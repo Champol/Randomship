@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.A. Cornejo"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="376"
+Day="13"
+Age="23"
+Pow="A"
+Fam="376"
+Les="0"
+Tra="2000"
+[2000]
+Sue="616000"
+Eqp="GAL_RIG"
+[Lvl]
+Frm="971"
+Por="28"
+Def="858"
+Tec="469"
+Ata="293"
+Niv="753"

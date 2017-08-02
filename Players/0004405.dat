@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Bannatyne"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="60"
+Day="13"
+Age="24"
+Pow="D"
+Fam="60"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="GAL_FLO"
+[Lvl]
+Frm="965"
+Por="46"
+Def="324"
+Tec="751"
+Ata="230"
+Niv="587"

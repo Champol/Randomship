@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Brizuela"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Day="13"
+Age="29"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_UTA"
+[Lvl]
+Frm="985"
+Por="6"
+Def="226"
+Tec="538"
+Ata="226"
+Niv="432"

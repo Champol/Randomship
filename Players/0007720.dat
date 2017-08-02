@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Frei"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="43"
+Age="24"
+Pow="E"
+Fam="43"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="60000"
+Eqp="PES_ZAN"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="33"
+Def="726"
+Tec="375"
+Ata="130"
+Niv="563"

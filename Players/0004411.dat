@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Sang-Yoon"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="2"
+Day="13"
+Age="32"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="GAL_MRB"
+[Lvl]
+Frm="977"
+Por="565"
+Def="222"
+Tec="285"
+Ata="41"
+Niv="459"

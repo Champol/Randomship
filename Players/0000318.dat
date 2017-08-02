@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Wiggins"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="351"
+Age="25"
+Pow="C"
+Fam="351"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="502000"
+Eqp="SEN_S-M"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="972"
+Def="243"
+Tec="348"
+Ata="22"
+Niv="734"

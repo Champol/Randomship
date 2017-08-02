@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Blažević"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="45"
+Day="13"
+Age="21"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="PES_LEO"
+[Lvl]
+Frm="978"
+Por="21"
+Def="308"
+Tec="763"
+Ata="151"
+Niv="566"

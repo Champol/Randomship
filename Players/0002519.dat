@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Amadeo"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="161"
+Age="28"
+Pow="C"
+Fam="161"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="SEN_CHC"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="12"
+Def="118"
+Tec="478"
+Ata="819"
+Niv="650"

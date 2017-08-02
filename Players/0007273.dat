@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. De Corral"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="132"
+Day="13"
+Age="23"
+Pow="C"
+Fam="132"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="GAL_ANS"
+[Lvl]
+Frm="966"
+Por="4"
+Def="312"
+Tec="416"
+Ata="686"
+Niv="635"

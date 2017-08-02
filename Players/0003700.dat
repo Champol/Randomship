@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Mcclain"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="285"
+Day="13"
+Age="24"
+Pow="A"
+Fam="285"
+Les="0"
+Tra="2000"
+[2000]
+Sue="385000"
+Eqp="GAL_BAR"
+[Lvl]
+Frm="971"
+Por="42"
+Def="264"
+Tec="929"
+Ata="357"
+Niv="710"

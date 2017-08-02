@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Reyna"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="18"
+Day="13"
+Age="20"
+Pow="C"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="GAL_SHI"
+[Lvl]
+Frm="971"
+Por="16"
+Def="570"
+Tec="384"
+Ata="246"
+Niv="537"

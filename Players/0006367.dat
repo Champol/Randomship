@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Llorente"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="303"
+Day="13"
+Age="23"
+Pow="B"
+Fam="303"
+Les="0"
+Tra="2000"
+[2000]
+Sue="368000"
+Eqp="GAL_DER"
+[Lvl]
+Frm="980"
+Por="3"
+Def="466"
+Tec="907"
+Ata="222"
+Niv="706"

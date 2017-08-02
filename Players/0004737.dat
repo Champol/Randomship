@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Tabard"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="2"
+Day="13"
+Age="30"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="GAL_LYO"
+[Lvl]
+Frm="977"
+Por="19"
+Def="584"
+Tec="322"
+Ata="82"
+Niv="459"

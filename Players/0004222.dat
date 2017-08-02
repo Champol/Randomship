@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Sanmiguel"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="21"
+Day="13"
+Age="29"
+Pow="D"
+Fam="21"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="GAL_BOG"
+[Lvl]
+Frm="979"
+Por="23"
+Def="290"
+Tec="656"
+Ata="289"
+Niv="535"

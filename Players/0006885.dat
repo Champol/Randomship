@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Del Peso"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="24"
+Day="13"
+Age="24"
+Pow="E"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="GAL_TAA"
+[Lvl]
+Frm="981"
+Por="33"
+Def="293"
+Tec="688"
+Ata="240"
+Niv="545"

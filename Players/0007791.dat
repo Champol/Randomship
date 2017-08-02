@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Lemon"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="234"
+Age="27"
+Pow="D"
+Fam="234"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="279000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="1001"
+Por="48"
+Def="368"
+Tec="853"
+Ata="342"
+Niv="682"

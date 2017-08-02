@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Figallo"
+Rol="MC"
+Pos="WM"
+Nac="1972"
+[Val]
+Rec="325"
+Age="28"
+Pow="B"
+Fam="325"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="348000"
+Eqp="SEN_EMP"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="28"
+Def="364"
+Tec="770"
+Ata="407"
+Niv="701"

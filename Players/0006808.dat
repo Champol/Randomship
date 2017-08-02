@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Bernier"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="39"
+Day="13"
+Age="27"
+Pow="E"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="GAL_SAL"
+[Lvl]
+Frm="995"
+Por="19"
+Def="206"
+Tec="481"
+Ata="579"
+Niv="569"

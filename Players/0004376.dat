@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Lakatos"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="142"
+Day="13"
+Age="26"
+Pow="D"
+Fam="142"
+Les="0"
+Tra="2000"
+[2000]
+Sue="192000"
+Eqp="GAL_VUL"
+[Lvl]
+Frm="979"
+Por="33"
+Def="844"
+Tec="420"
+Ata="168"
+Niv="652"

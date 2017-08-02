@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Lacaze"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="27"
+Day="13"
+Age="23"
+Pow="E"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="49000"
+Eqp="GAL_AUR"
+[Lvl]
+Frm="995"
+Por="702"
+Def="285"
+Tec="229"
+Ata="15"
+Niv="549"

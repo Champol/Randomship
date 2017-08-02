@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.A. De Ibarguren"
+Rol="DL"
+Pos="CF"
+Nac="1981"
+[Val]
+Rec="6"
+Day="13"
+Age="19"
+Pow="E"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="21000"
+Eqp="GAL_AHC"
+[Lvl]
+Frm="988"
+Por="17"
+Def="103"
+Tec="407"
+Ata="601"
+Niv="493"

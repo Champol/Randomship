@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Roodt"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="113"
+Age="26"
+Pow="C"
+Fam="113"
+Les="22"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="SEN_JNO"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="2"
+Def="677"
+Tec="416"
+Ata="246"
+Niv="617"

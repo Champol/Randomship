@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Larrondo"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="116"
+Age="22"
+Pow="C"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="139000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="31"
+Def="332"
+Tec="686"
+Ata="384"
+Niv="625"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Bešić"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="32"
+Day="13"
+Age="21"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="59000"
+Eqp="GAL_MRB"
+[Lvl]
+Frm="984"
+Por="28"
+Def="751"
+Tec="334"
+Ata="168"
+Niv="562"

@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Tur"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_CIN"
+[Lvl]
+Frm="969"
+Por="23"
+Def="503"
+Tec="294"
+Ata="149"
+Niv="401"

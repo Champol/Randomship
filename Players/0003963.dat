@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Woodard"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="23"
+Day="13"
+Age="23"
+Pow="E"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="GAL_LOT"
+[Lvl]
+Frm="990"
+Por="19"
+Def="241"
+Tec="711"
+Ata="243"
+Niv="544"

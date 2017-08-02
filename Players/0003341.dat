@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Sartres"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="44"
+Day="13"
+Age="23"
+Pow="D"
+Fam="44"
+Les="0"
+Tra="2000"
+[2000]
+Sue="70000"
+Eqp="GAL_ATO"
+[Lvl]
+Frm="976"
+Por="27"
+Def="757"
+Tec="343"
+Ata="145"
+Niv="574"

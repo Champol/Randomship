@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Trajkovski"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="19"
+Day="13"
+Age="19"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="GAL_OPH"
+[Lvl]
+Frm="986"
+Por="41"
+Def="207"
+Tec="624"
+Ata="316"
+Niv="535"

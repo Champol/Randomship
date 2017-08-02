@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Genly"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="5"
+Age="32"
+Pow="E"
+Fam="5"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="GAL_TAK"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="10"
+Def="389"
+Tec="223"
+Ata="152"
+Niv="318"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Sagastiberría"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="2"
+Day="13"
+Age="29"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="GAL_AUR"
+[Lvl]
+Frm="972"
+Por="41"
+Def="192"
+Tec="480"
+Ata="340"
+Niv="462"

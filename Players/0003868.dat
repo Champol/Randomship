@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Benson"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="33"
+Day="13"
+Age="32"
+Pow="C"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="GAL_SLN"
+[Lvl]
+Frm="972"
+Por="25"
+Def="685"
+Tec="404"
+Ata="144"
+Niv="551"

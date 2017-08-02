@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Voglino"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="5"
+Day="13"
+Age="20"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+[2000]
+Sue="20000"
+Eqp="GAL_SUL"
+[Lvl]
+Frm="976"
+Por="8"
+Def="310"
+Tec="643"
+Ata="147"
+Niv="492"

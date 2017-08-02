@@ -1,0 +1,24 @@
+[Inf]
+Nom="V.M. Madera"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="13"
+Age="22"
+Pow="E"
+Fam="13"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="34000"
+Eqp="PES_EHR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="19"
+Def="670"
+Tec="367"
+Ata="129"
+Niv="525"

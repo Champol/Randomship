@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.F. Tachikawa"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="54"
+Day="13"
+Age="21"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="110000"
+Eqp="GAL_DQA"
+[Lvl]
+Frm="976"
+Por="14"
+Def="310"
+Tec="385"
+Ata="664"
+Niv="607"

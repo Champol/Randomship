@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Mazzinghi"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="262"
+Day="13"
+Age="21"
+Pow="A"
+Fam="262"
+Les="0"
+Tra="2000"
+[2000]
+Sue="299000"
+Eqp="GAL_MYG"
+[Lvl]
+Frm="970"
+Por="21"
+Def="689"
+Tec="485"
+Ata="419"
+Niv="688"

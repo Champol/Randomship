@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Salvatori"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="55"
+Day="13"
+Age="30"
+Pow="C"
+Fam="55"
+Les="0"
+Tra="2000"
+[2000]
+Sue="88000"
+Eqp="GAL_RHA"
+[Lvl]
+Frm="966"
+Por="1"
+Def="625"
+Tec="430"
+Ata="251"
+Niv="589"

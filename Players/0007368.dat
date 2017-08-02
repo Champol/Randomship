@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Robinson"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="80"
+Day="13"
+Age="27"
+Pow="D"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="GAL_D-K"
+[Lvl]
+Frm="992"
+Por="776"
+Def="327"
+Tec="293"
+Ata="48"
+Niv="615"

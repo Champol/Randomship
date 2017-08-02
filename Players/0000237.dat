@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Provost"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="112"
+Age="21"
+Pow="B"
+Fam="112"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="183000"
+Eqp="SEN_DSK"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="47"
+Def="741"
+Tec="383"
+Ata="282"
+Niv="647"

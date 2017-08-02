@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Kupiz"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="172"
+Day="13"
+Age="27"
+Pow="B"
+Fam="172"
+Les="0"
+Tra="2000"
+[2000]
+Sue="209000"
+Eqp="GAL_PAL"
+[Lvl]
+Frm="973"
+Por="17"
+Def="865"
+Tec="442"
+Ata="68"
+Niv="658"

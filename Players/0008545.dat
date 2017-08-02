@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Luong"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="118"
+Day="13"
+Age="20"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="PES_LON"
+[Lvl]
+Frm="987"
+Por="8"
+Def="184"
+Tec="748"
+Ata="370"
+Niv="625"

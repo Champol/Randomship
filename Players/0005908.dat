@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Corbiere"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="63"
+Day="13"
+Age="29"
+Pow="C"
+Fam="63"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="GAL_SAR"
+[Lvl]
+Frm="987"
+Por="43"
+Def="274"
+Tec="388"
+Ata="630"
+Niv="582"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Jeong"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="40"
+Day="13"
+Age="23"
+Pow="D"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="GAL_G-A"
+[Lvl]
+Frm="983"
+Por="12"
+Def="268"
+Tec="443"
+Ata="602"
+Niv="583"

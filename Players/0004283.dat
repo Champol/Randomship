@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Franzini"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="157"
+Day="13"
+Age="26"
+Pow="C"
+Fam="157"
+Les="0"
+Tra="2000"
+[2000]
+Sue="185000"
+Eqp="GAL_SYN"
+[Lvl]
+Frm="974"
+Por="14"
+Def="145"
+Tec="585"
+Ata="686"
+Niv="648"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Dulcien"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="16"
+Day="13"
+Age="26"
+Pow="E"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="GAL_DAT"
+[Lvl]
+Frm="980"
+Por="1"
+Def="306"
+Tec="660"
+Ata="194"
+Niv="517"

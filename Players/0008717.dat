@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Saayman"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="108"
+Age="20"
+Pow="C"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="134000"
+Eqp="PES_APO"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="35"
+Def="190"
+Tec="840"
+Ata="280"
+Niv="623"

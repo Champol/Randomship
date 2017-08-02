@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Villain"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="72"
+Day="13"
+Age="23"
+Pow="E"
+Fam="72"
+Les="0"
+Tra="2000"
+[2000]
+Sue="104000"
+Eqp="GAL_SRK"
+[Lvl]
+Frm="979"
+Por="38"
+Def="672"
+Tec="416"
+Ata="222"
+Niv="603"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Carabetti"
+Rol="DL"
+Pos="SS"
+Nac="1982"
+[Val]
+Rec="13"
+Age="18"
+Pow="C"
+Fam="13"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="32000"
+Eqp="SEN_JON"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="12"
+Def="64"
+Tec="488"
+Ata="561"
+Niv="520"

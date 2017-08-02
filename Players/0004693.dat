@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Maderna"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="34"
+Day="13"
+Age="23"
+Pow="E"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="60000"
+Eqp="GAL_RHE"
+[Lvl]
+Frm="982"
+Por="24"
+Def="103"
+Tec="514"
+Ata="604"
+Niv="563"

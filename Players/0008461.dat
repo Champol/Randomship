@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Borella"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="73"
+Day="13"
+Age="22"
+Pow="C"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="PES_GEM"
+[Lvl]
+Frm="987"
+Por="28"
+Def="221"
+Tec="448"
+Ata="666"
+Niv="612"

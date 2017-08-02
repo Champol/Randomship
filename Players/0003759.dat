@@ -1,0 +1,23 @@
+[Inf]
+Nom="C.A. Marchena"
+Rol="MC"
+Pos="AM"
+Nac="1970"
+[Val]
+Rec="66"
+Day="13"
+Age="30"
+Pow="C"
+Fam="66"
+Les="0"
+Tra="2000"
+[2000]
+Sue="82000"
+Eqp="GAL_SUL"
+[Lvl]
+Frm="978"
+Por="47"
+Def="104"
+Tec="735"
+Ata="443"
+Niv="585"

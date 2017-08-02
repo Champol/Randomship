@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Totoro"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="61"
+Day="13"
+Age="24"
+Pow="D"
+Fam="61"
+Les="0"
+Tra="2000"
+[2000]
+Sue="96000"
+Eqp="GAL_HOR"
+[Lvl]
+Frm="976"
+Por="24"
+Def="138"
+Tec="459"
+Ata="746"
+Niv="597"

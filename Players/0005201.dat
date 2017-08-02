@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Rementería"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="23"
+Age="20"
+Pow="D"
+Fam="23"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="53000"
+Eqp="GAL_NEX"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="8"
+Def="590"
+Tec="408"
+Ata="240"
+Niv="554"

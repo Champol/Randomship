@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Doan"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="138"
+Age="24"
+Pow="C"
+Fam="138"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="166000"
+Eqp="SEN_ZOD"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="22"
+Def="203"
+Tec="370"
+Ata="847"
+Niv="639"

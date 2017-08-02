@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Mascaró"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="58"
+Day="13"
+Age="24"
+Pow="D"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="GAL_SMI"
+[Lvl]
+Frm="977"
+Por="738"
+Def="376"
+Tec="200"
+Ata="22"
+Niv="582"

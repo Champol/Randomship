@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Procházka"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="51"
+Day="13"
+Age="27"
+Pow="D"
+Fam="51"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="GAL_ANS"
+[Lvl]
+Frm="992"
+Por="9"
+Def="293"
+Tec="724"
+Ata="243"
+Niv="567"

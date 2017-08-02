@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Cores"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="40"
+Day="13"
+Age="20"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="74000"
+Eqp="GAL_DAT"
+[Lvl]
+Frm="989"
+Por="13"
+Def="378"
+Tec="767"
+Ata="108"
+Niv="578"

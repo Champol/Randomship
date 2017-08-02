@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Candia"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="206"
+Age="30"
+Pow="C"
+Fam="206"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="SEN_COL"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="37"
+Def="766"
+Tec="296"
+Ata="344"
+Niv="654"

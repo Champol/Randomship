@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Dauphin"
+Rol="MC"
+Pos="DM"
+Nac="1975"
+[Val]
+Rec="121"
+Day="13"
+Age="25"
+Pow="C"
+Fam="121"
+Les="0"
+Tra="2000"
+[2000]
+Sue="215000"
+Eqp="GAL_SCA"
+[Lvl]
+Frm="980"
+Por="28"
+Def="412"
+Tec="854"
+Ata="222"
+Niv="661"

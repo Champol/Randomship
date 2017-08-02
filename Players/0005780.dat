@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Matsuo"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="66"
+Day="13"
+Age="23"
+Pow="D"
+Fam="66"
+Les="0"
+Tra="2000"
+[2000]
+Sue="128000"
+Eqp="GAL_C-N"
+[Lvl]
+Frm="976"
+Por="48"
+Def="800"
+Tec="381"
+Ata="220"
+Niv="619"

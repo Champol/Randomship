@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Chirinos"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="89"
+Age="27"
+Pow="C"
+Fam="89"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="SEN_JON"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="42"
+Def="177"
+Tec="562"
+Ata="640"
+Niv="617"

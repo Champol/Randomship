@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Quan"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="223"
+Age="25"
+Pow="B"
+Fam="223"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="385000"
+Eqp="SEN_MEM"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="932"
+Def="281"
+Tec="332"
+Ata="32"
+Niv="710"

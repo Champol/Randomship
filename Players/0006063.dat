@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Buccho"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="128"
+Day="13"
+Age="26"
+Pow="D"
+Fam="128"
+Les="0"
+Tra="2000"
+[2000]
+Sue="150000"
+Eqp="GAL_KES"
+[Lvl]
+Frm="968"
+Por="842"
+Def="268"
+Tec="219"
+Ata="49"
+Niv="631"

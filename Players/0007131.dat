@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Tay"
+Rol="DL"
+Pos="WF"
+Nac="1981"
+[Val]
+Rec="2"
+Day="13"
+Age="19"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="GAL_SAY"
+[Lvl]
+Frm="992"
+Por="30"
+Def="286"
+Tec="312"
+Ata="474"
+Niv="461"

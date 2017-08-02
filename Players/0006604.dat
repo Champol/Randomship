@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Gyamfi"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="62"
+Day="13"
+Age="29"
+Pow="D"
+Fam="62"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="GAL_RUU"
+[Lvl]
+Frm="972"
+Por="41"
+Def="156"
+Tec="437"
+Ata="673"
+Niv="577"

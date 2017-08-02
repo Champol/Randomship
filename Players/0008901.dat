@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Burke"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="1"
+Age="32"
+Pow="D"
+Fam="1"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="11000"
+Eqp="PES_IOL"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="555"
+Def="282"
+Tec="194"
+Ata="17"
+Niv="453"

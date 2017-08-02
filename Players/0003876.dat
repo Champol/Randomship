@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Martell"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="26"
+Day="13"
+Age="27"
+Pow="E"
+Fam="26"
+Les="0"
+Tra="2000"
+[2000]
+Sue="44000"
+Eqp="GAL_SLN"
+[Lvl]
+Frm="984"
+Por="8"
+Def="396"
+Tec="668"
+Ata="163"
+Niv="541"

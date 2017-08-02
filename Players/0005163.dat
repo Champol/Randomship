@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Bergello"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="29"
+Day="13"
+Age="24"
+Pow="E"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="48000"
+Eqp="GAL_A-C"
+[Lvl]
+Frm="970"
+Por="683"
+Def="296"
+Tec="284"
+Ata="16"
+Niv="548"

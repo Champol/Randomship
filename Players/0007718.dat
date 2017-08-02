@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Eliçabe"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="191"
+Age="23"
+Pow="C"
+Fam="191"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="286000"
+Eqp="PES_ZAN"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="50"
+Def="782"
+Tec="444"
+Ata="239"
+Niv="684"

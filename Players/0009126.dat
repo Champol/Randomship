@@ -1,0 +1,22 @@
+[Inf]
+Nom="M. Sargent"
+Rol="DL"
+Pos="WF"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PES_COS"
+[Lvl]
+Frm="977"
+Por="25"
+Def="240"
+Tec="250"
+Ata="429"
+Niv="396"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Faison"
+Rol="MC"
+Pos="AM"
+Nac="1979"
+[Val]
+Rec="116"
+Age="21"
+Pow="B"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="135000"
+Eqp="PES_APO"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="18"
+Def="178"
+Tec="773"
+Ata="489"
+Niv="624"

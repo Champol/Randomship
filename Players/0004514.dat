@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Buffelli"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="34"
+Day="13"
+Age="23"
+Pow="D"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="76000"
+Eqp="GAL_WAN"
+[Lvl]
+Frm="979"
+Por="44"
+Def="428"
+Tec="723"
+Ata="166"
+Niv="580"

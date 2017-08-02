@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Lepe"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="309"
+Day="13"
+Age="24"
+Pow="C"
+Fam="309"
+Les="0"
+Tra="2000"
+[2000]
+Sue="356000"
+Eqp="PES_VIC"
+[Lvl]
+Frm="969"
+Por="932"
+Def="273"
+Tec="297"
+Ata="20"
+Niv="703"

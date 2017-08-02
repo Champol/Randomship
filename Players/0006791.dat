@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Aramayo"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="35"
+Day="13"
+Age="24"
+Pow="E"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="59000"
+Eqp="GAL_SAL"
+[Lvl]
+Frm="982"
+Por="16"
+Def="750"
+Tec="323"
+Ata="161"
+Niv="562"

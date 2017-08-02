@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Naik"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="62"
+Age="27"
+Pow="C"
+Fam="62"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="74000"
+Eqp="SEN_FRU"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="10"
+Def="735"
+Tec="366"
+Ata="222"
+Niv="578"

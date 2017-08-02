@@ -1,0 +1,22 @@
+[Inf]
+Nom="M. Legorraza"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_TUN"
+[Lvl]
+Frm="972"
+Por="38"
+Def="437"
+Tec="314"
+Ata="66"
+Niv="371"

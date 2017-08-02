@@ -1,0 +1,22 @@
+[Inf]
+Nom="J.E. Madani"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_KON"
+[Lvl]
+Frm="984"
+Por="512"
+Def="241"
+Tec="197"
+Ata="27"
+Niv="410"

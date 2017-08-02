@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Odemwingie"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="52"
+Day="13"
+Age="23"
+Pow="D"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="106000"
+Eqp="GAL_SRK"
+[Lvl]
+Frm="978"
+Por="15"
+Def="94"
+Tec="378"
+Ata="801"
+Niv="604"

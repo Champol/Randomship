@@ -1,0 +1,22 @@
+[Inf]
+Nom="R. Locó"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_SRK"
+[Lvl]
+Frm="991"
+Por="26"
+Def="137"
+Tec="558"
+Ata="282"
+Niv="430"

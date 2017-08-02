@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Arslan"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="21"
+Age="27"
+Pow="E"
+Fam="21"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="36000"
+Eqp="PES_GIB"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="26"
+Def="542"
+Tec="436"
+Ata="178"
+Niv="528"

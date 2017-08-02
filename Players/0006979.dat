@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Edílson"
+Rol="MC"
+Pos="AM"
+Nac="1976"
+[Val]
+Rec="83"
+Day="13"
+Age="24"
+Pow="E"
+Fam="83"
+Les="0"
+Tra="2000"
+[2000]
+Sue="141000"
+Eqp="GAL_SUB"
+[Lvl]
+Frm="978"
+Por="2"
+Def="147"
+Tec="785"
+Ata="473"
+Niv="626"

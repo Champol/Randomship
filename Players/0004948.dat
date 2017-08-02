@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Gelpi"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="149"
+Age="27"
+Pow="C"
+Fam="149"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="215000"
+Eqp="GAL_EOS"
+PCal="0"
+[Lvl]
+Frm="966"
+Por="44"
+Def="223"
+Tec="868"
+Ata="334"
+Niv="660"

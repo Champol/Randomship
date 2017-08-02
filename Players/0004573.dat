@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Gheisari"
+Rol="DL"
+Pos="SS"
+Nac="1975"
+[Val]
+Rec="114"
+Day="13"
+Age="25"
+Pow="D"
+Fam="114"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="GAL_MUS"
+[Lvl]
+Frm="981"
+Por="10"
+Def="168"
+Tec="558"
+Ata="644"
+Niv="612"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Vannoni"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="27"
+Day="13"
+Age="20"
+Pow="C"
+Fam="27"
+Les="12"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="GAL_ILL"
+[Lvl]
+Frm="967"
+Por="45"
+Def="692"
+Tec="413"
+Ata="186"
+Niv="557"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Iriondo"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="39"
+Day="13"
+Age="24"
+Pow="D"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="59000"
+Eqp="GAL_RYL"
+[Lvl]
+Frm="972"
+Por="32"
+Def="717"
+Tec="380"
+Ata="176"
+Niv="562"

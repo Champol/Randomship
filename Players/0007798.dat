@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Gispert"
+Rol="MC"
+Pos="AM"
+Nac="1980"
+[Val]
+Rec="23"
+Age="20"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="48000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="49"
+Def="145"
+Tec="718"
+Ata="362"
+Niv="548"

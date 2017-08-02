@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Treglia"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="250"
+Age="24"
+Pow="B"
+Fam="250"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="310000"
+Eqp="SEN_OTM"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="19"
+Def="725"
+Tec="513"
+Ata="311"
+Niv="691"

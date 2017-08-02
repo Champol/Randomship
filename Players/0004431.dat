@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Aussedat"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="112"
+Day="13"
+Age="22"
+Pow="D"
+Fam="112"
+Les="0"
+Tra="2000"
+[2000]
+Sue="166000"
+Eqp="GAL_MRB"
+[Lvl]
+Frm="962"
+Por="30"
+Def="190"
+Tec="413"
+Ata="830"
+Niv="640"

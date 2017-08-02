@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.T. Philippot"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="37"
+Day="13"
+Age="23"
+Pow="E"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="62000"
+Eqp="GAL_ASP"
+[Lvl]
+Frm="970"
+Por="10"
+Def="148"
+Tec="339"
+Ata="751"
+Niv="565"

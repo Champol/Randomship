@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Ibarguren"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="47"
+Age="27"
+Pow="E"
+Fam="47"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="61000"
+Eqp="PES_MEI"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="27"
+Def="708"
+Tec="424"
+Ata="114"
+Niv="564"

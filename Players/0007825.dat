@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Poindexter"
+Rol="DL"
+Pos="SS"
+Nac="1981"
+[Val]
+Age="19"
+Pow="E"
+Fam="0"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PES_LEN"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="37"
+Def="111"
+Tec="389"
+Ata="448"
+Niv="425"

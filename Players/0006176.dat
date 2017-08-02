@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Berdeja"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="106"
+Day="13"
+Age="23"
+Pow="D"
+Fam="106"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="GAL_AHC"
+[Lvl]
+Frm="981"
+Por="50"
+Def="663"
+Tec="476"
+Ata="287"
+Niv="635"

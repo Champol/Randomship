@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Esteve"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="71"
+Day="13"
+Age="21"
+Pow="C"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="119000"
+Eqp="GAL_HOR"
+[Lvl]
+Frm="970"
+Por="16"
+Def="732"
+Tec="320"
+Ata="246"
+Niv="613"

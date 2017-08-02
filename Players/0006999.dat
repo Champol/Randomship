@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Boglioni"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="34"
+Day="13"
+Age="30"
+Pow="C"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="GAL_LYS"
+[Lvl]
+Frm="991"
+Por="3"
+Def="604"
+Tec="375"
+Ata="226"
+Niv="557"

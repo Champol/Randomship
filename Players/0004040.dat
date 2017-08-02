@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Barrientos"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="298"
+Day="13"
+Age="23"
+Pow="A"
+Fam="298"
+Les="0"
+Tra="2000"
+[2000]
+Sue="385000"
+Eqp="GAL_KAM"
+[Lvl]
+Frm="964"
+Por="21"
+Def="837"
+Tec="362"
+Ata="320"
+Niv="710"

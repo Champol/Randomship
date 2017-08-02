@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Somoggi"
+Rol="MC"
+Pos="WM"
+Nac="1983"
+[Val]
+Age="17"
+Pow="E"
+Fam="0"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="GAL_SIW"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="41"
+Def="149"
+Tec="433"
+Ata="243"
+Niv="378"

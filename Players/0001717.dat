@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Huber"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="2"
+Age="20"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="15000"
+Eqp="SEN_FRU"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="19"
+Def="609"
+Tec="327"
+Ata="135"
+Niv="475"

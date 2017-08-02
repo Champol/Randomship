@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Santangelo"
+Rol="DF"
+Pos="WB"
+Nac="1981"
+[Val]
+Rec="12"
+Age="19"
+Pow="D"
+Fam="12"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="31000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="46"
+Def="527"
+Tec="377"
+Ata="288"
+Niv="518"

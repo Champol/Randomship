@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Costello"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="118"
+Day="13"
+Age="29"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="142000"
+Eqp="GAL_ROS"
+[Lvl]
+Frm="975"
+Por="43"
+Def="424"
+Tec="783"
+Ata="253"
+Niv="627"

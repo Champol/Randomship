@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Papadopoulos "
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="138"
+Day="13"
+Age="26"
+Pow="A"
+Fam="138"
+Les="0"
+Tra="2000"
+[2000]
+Sue="170000"
+Eqp="GAL_TAZ"
+[Lvl]
+Frm="974"
+Por="46"
+Def="618"
+Tec="540"
+Ata="316"
+Niv="641"

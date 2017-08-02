@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Sobrevilla"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="118"
+Age="24"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="170000"
+Eqp="SEN_EUR"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="8"
+Def="281"
+Tec="460"
+Ata="676"
+Niv="641"

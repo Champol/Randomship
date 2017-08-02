@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Lomax"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="122"
+Day="13"
+Age="24"
+Pow="C"
+Fam="122"
+Les="0"
+Tra="2000"
+[2000]
+Sue="176000"
+Eqp="GAL_IFN"
+[Lvl]
+Frm="989"
+Por="28"
+Def="678"
+Tec="434"
+Ata="332"
+Niv="643"

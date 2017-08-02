@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Oviglio"
+Rol="DL"
+Pos="SS"
+Nac="1981"
+[Val]
+Rec="12"
+Age="19"
+Pow="D"
+Fam="12"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="31000"
+Eqp="SEN_ACA"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="45"
+Def="144"
+Tec="437"
+Ata="583"
+Niv="519"

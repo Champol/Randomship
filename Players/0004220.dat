@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Meloni"
+Rol="MC"
+Pos="WM"
+Nac="1975"
+[Val]
+Rec="44"
+Day="13"
+Age="25"
+Pow="E"
+Fam="44"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="GAL_BOG"
+[Lvl]
+Frm="991"
+Por="4"
+Def="234"
+Tec="647"
+Ata="340"
+Niv="566"

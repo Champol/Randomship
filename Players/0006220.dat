@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Cisneros"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="155"
+Day="13"
+Age="23"
+Pow="C"
+Fam="155"
+Les="0"
+Tra="2000"
+[2000]
+Sue="233000"
+Eqp="GAL_MAN"
+[Lvl]
+Frm="979"
+Por="41"
+Def="394"
+Tec="882"
+Ata="196"
+Niv="667"

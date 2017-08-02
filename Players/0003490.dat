@@ -1,0 +1,22 @@
+[Inf]
+Nom="E. Pavessi"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_TAZ"
+[Lvl]
+Frm="980"
+Por="37"
+Def="524"
+Tec="278"
+Ata="137"
+Niv="408"

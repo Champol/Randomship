@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.L. Cantón"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="122"
+Day="13"
+Age="26"
+Pow="C"
+Fam="122"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="GAL_COR"
+[Lvl]
+Frm="972"
+Por="26"
+Def="324"
+Tec="811"
+Ata="239"
+Niv="625"

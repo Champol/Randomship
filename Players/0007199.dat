@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Azure"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="246"
+Day="13"
+Age="23"
+Pow="C"
+Fam="246"
+Les="0"
+Tra="2000"
+[2000]
+Sue="421000"
+Eqp="GAL_LIV"
+[Lvl]
+Frm="979"
+Por="36"
+Def="789"
+Tec="460"
+Ata="326"
+Niv="717"

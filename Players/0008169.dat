@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.C. Swan"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Rec="1"
+Day="13"
+Age="17"
+Pow="C"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PES_AQU"
+[Lvl]
+Frm="976"
+Por="33"
+Def="137"
+Tec="318"
+Ata="568"
+Niv="448"

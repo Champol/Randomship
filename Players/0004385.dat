@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Auyeung"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="90"
+Day="13"
+Age="23"
+Pow="D"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="172000"
+Eqp="GAL_FLO"
+[Lvl]
+Frm="972"
+Por="43"
+Def="871"
+Tec="346"
+Ata="166"
+Niv="642"

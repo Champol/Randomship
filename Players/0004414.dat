@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Rosembluth"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="84"
+Day="13"
+Age="28"
+Pow="C"
+Fam="84"
+Les="0"
+Tra="2000"
+[2000]
+Sue="134000"
+Eqp="GAL_MRB"
+[Lvl]
+Frm="994"
+Por="40"
+Def="815"
+Tec="402"
+Ata="90"
+Niv="622"

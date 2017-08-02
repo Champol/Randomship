@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Solís"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="102"
+Day="13"
+Age="20"
+Pow="A"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="144000"
+Eqp="PES_TAU"
+[Lvl]
+Frm="981"
+Por="15"
+Def="691"
+Tec="415"
+Ata="282"
+Niv="628"

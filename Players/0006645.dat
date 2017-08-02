@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.E. Perdomo"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="83"
+Day="13"
+Age="22"
+Pow="D"
+Fam="83"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="GAL_ILL"
+[Lvl]
+Frm="980"
+Por="13"
+Def="639"
+Tec="422"
+Ata="328"
+Niv="612"

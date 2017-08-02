@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Llull"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="33"
+Day="13"
+Age="20"
+Pow="C"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="62000"
+Eqp="GAL_DER"
+[Lvl]
+Frm="976"
+Por="15"
+Def="587"
+Tec="461"
+Ata="212"
+Niv="565"

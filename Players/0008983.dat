@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.E. De Trasmonte"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="251"
+Age="26"
+Pow="B"
+Fam="251"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="389000"
+Eqp="PES_CHE"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="47"
+Def="140"
+Tec="427"
+Ata="942"
+Niv="711"

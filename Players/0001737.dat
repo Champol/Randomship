@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Kuroi"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="171"
+Age="23"
+Pow="C"
+Fam="171"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="215000"
+Eqp="SEN_FRU"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="15"
+Def="112"
+Tec="576"
+Ata="731"
+Niv="659"

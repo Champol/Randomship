@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.E. Kirm"
+Rol="MC"
+Pos="AM"
+Nac="1979"
+[Val]
+Rec="4"
+Day="13"
+Age="21"
+Pow="E"
+Fam="4"
+Les="0"
+Tra="2000"
+[2000]
+Sue="17000"
+Eqp="GAL_SAL"
+[Lvl]
+Frm="968"
+Por="2"
+Def="156"
+Tec="623"
+Ata="299"
+Niv="480"

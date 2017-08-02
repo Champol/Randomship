@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Osman"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="227"
+Day="13"
+Age="23"
+Pow="B"
+Fam="227"
+Les="0"
+Tra="2000"
+[2000]
+Sue="317000"
+Eqp="GAL_LOT"
+[Lvl]
+Frm="989"
+Por="33"
+Def="811"
+Tec="397"
+Ata="265"
+Niv="692"

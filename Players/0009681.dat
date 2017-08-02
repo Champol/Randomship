@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Gayen"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="206"
+Day="13"
+Age="23"
+Pow="B"
+Fam="206"
+Les="0"
+Tra="2000"
+[2000]
+Sue="231000"
+Eqp="PES_MAE"
+[Lvl]
+Frm="986"
+Por="18"
+Def="212"
+Tec="561"
+Ata="735"
+Niv="666"

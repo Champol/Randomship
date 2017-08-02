@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Rovati"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="102"
+Day="13"
+Age="24"
+Pow="D"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="GAL_ANS"
+[Lvl]
+Frm="977"
+Por="11"
+Def="800"
+Tec="411"
+Ata="202"
+Niv="625"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Calero"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="116"
+Day="13"
+Age="24"
+Pow="C"
+Fam="116"
+Les="0"
+Tra="2000"
+[2000]
+Sue="174000"
+Eqp="GAL_MAN"
+[Lvl]
+Frm="965"
+Por="827"
+Def="281"
+Tec="319"
+Ata="13"
+Niv="643"

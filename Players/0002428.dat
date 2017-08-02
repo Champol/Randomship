@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Grimaldi"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="108"
+Age="23"
+Pow="C"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="106000"
+Eqp="SEN_NXI"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="6"
+Def="155"
+Tec="532"
+Ata="654"
+Niv="604"

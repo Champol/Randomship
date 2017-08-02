@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Gitard"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="32"
+Day="13"
+Age="29"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="GAL_MNE"
+[Lvl]
+Frm="980"
+Por="25"
+Def="400"
+Tec="691"
+Ata="76"
+Niv="544"

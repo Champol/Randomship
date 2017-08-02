@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Revel"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="1"
+Day="13"
+Age="18"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="11000"
+Eqp="GAL_BND"
+[Lvl]
+Frm="975"
+Por="35"
+Def="525"
+Tec="242"
+Ata="226"
+Niv="454"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Carrasquillo"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="107"
+Day="13"
+Age="26"
+Pow="C"
+Fam="107"
+Les="0"
+Tra="2000"
+[2000]
+Sue="152000"
+Eqp="GAL_MDR"
+[Lvl]
+Frm="967"
+Por="12"
+Def="828"
+Tec="402"
+Ata="170"
+Niv="633"

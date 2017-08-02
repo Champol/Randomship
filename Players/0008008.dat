@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.F. Bassart"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="374"
+Day="13"
+Age="24"
+Pow="B"
+Fam="374"
+Les="0"
+Tra="2000"
+[2000]
+Sue="610000"
+Eqp="PES_ROO"
+[Lvl]
+Frm="976"
+Por="12"
+Def="940"
+Tec="547"
+Ata="219"
+Niv="752"

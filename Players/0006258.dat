@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Slabber"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="665"
+Day="13"
+Age="23"
+Pow="B"
+Fam="665"
+Les="0"
+Tra="2000"
+[2000]
+Sue="961000"
+Eqp="GAL_VEG"
+[Lvl]
+Frm="980"
+Por="44"
+Def="336"
+Tec="433"
+Ata="930"
+Niv="796"

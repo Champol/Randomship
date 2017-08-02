@@ -1,0 +1,23 @@
+[Inf]
+Nom="M.A. Maltus"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="21"
+Day="13"
+Age="24"
+Pow="E"
+Fam="21"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="GAL_MOR"
+[Lvl]
+Frm="987"
+Por="684"
+Def="309"
+Tec="202"
+Ata="13"
+Niv="535"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Vinson"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="19"
+Age="30"
+Pow="D"
+Fam="19"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="37000"
+Eqp="SEN_DSK"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="49"
+Def="142"
+Tec="288"
+Ata="714"
+Niv="530"

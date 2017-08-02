@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Assou-Ekotto"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="58"
+Day="13"
+Age="30"
+Pow="C"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="GAL_DAT"
+[Lvl]
+Frm="987"
+Por="35"
+Def="218"
+Tec="312"
+Ata="686"
+Niv="577"

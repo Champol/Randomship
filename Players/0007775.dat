@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Ivy"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="55"
+Age="20"
+Pow="C"
+Fam="55"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="86000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="794"
+Def="286"
+Tec="174"
+Ata="9"
+Niv="589"

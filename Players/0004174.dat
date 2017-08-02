@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Hileman"
+Rol="DF"
+Pos="WB"
+Nac="1972"
+[Val]
+Rec="61"
+Day="13"
+Age="28"
+Pow="D"
+Fam="61"
+Les="2"
+Tra="2000"
+[2000]
+Sue="77000"
+Eqp="GAL_RAD"
+[Lvl]
+Frm="982"
+Por="12"
+Def="636"
+Tec="348"
+Ata="301"
+Niv="581"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Lahitte"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="16"
+Day="13"
+Age="29"
+Pow="D"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="29000"
+Eqp="GAL_IEG"
+[Lvl]
+Frm="988"
+Por="36"
+Def="604"
+Tec="426"
+Ata="182"
+Niv="515"

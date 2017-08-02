@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Matzen"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="33"
+Day="13"
+Age="20"
+Pow="C"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="PES_C-R"
+[Lvl]
+Frm="987"
+Por="15"
+Def="736"
+Tec="364"
+Ata="180"
+Niv="566"

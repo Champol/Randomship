@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. McKinnon"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="67"
+Day="13"
+Age="21"
+Pow="B"
+Fam="67"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="GAL_BOG"
+[Lvl]
+Frm="966"
+Por="19"
+Def="319"
+Tec="413"
+Ata="657"
+Niv="615"

@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Ujfaluši"
+Rol="MC"
+Pos="CM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_NIS"
+[Lvl]
+Frm="975"
+Por="20"
+Def="175"
+Tec="567"
+Ata="230"
+Niv="431"

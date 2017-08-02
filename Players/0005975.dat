@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Manuel"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="175"
+Day="13"
+Age="23"
+Pow="C"
+Fam="175"
+Les="0"
+Tra="2000"
+[2000]
+Sue="254000"
+Eqp="GAL_P-M"
+[Lvl]
+Frm="963"
+Por="866"
+Def="271"
+Tec="372"
+Ata="46"
+Niv="675"

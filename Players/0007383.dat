@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Riutort"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="107"
+Day="13"
+Age="24"
+Pow="C"
+Fam="107"
+Les="0"
+Tra="2000"
+[2000]
+Sue="166000"
+Eqp="GAL_D-K"
+[Lvl]
+Frm="987"
+Por="42"
+Def="403"
+Tec="841"
+Ata="165"
+Niv="639"

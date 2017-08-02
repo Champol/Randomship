@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Grosjean"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_MNE"
+[Lvl]
+Frm="985"
+Por="40"
+Def="107"
+Tec="461"
+Ata="387"
+Niv="385"

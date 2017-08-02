@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Bender"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="124"
+Day="13"
+Age="23"
+Pow="B"
+Fam="124"
+Les="0"
+Tra="2000"
+[2000]
+Sue="181000"
+Eqp="GAL_VUL"
+[Lvl]
+Frm="975"
+Por="43"
+Def="177"
+Tec="658"
+Ata="626"
+Niv="647"

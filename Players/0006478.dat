@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Viaud"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="237"
+Day="13"
+Age="29"
+Pow="C"
+Fam="237"
+Les="0"
+Tra="2000"
+[2000]
+Sue="166000"
+Eqp="GAL_COR"
+[Lvl]
+Frm="974"
+Por="34"
+Def="844"
+Tec="397"
+Ata="119"
+Niv="639"

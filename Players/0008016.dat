@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Kirkpatrick"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="136"
+Day="13"
+Age="24"
+Pow="C"
+Fam="136"
+Les="0"
+Tra="2000"
+[2000]
+Sue="154000"
+Eqp="PES_ROO"
+[Lvl]
+Frm="981"
+Por="41"
+Def="295"
+Tec="818"
+Ata="289"
+Niv="633"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Llacer"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="202"
+Day="13"
+Age="26"
+Pow="C"
+Fam="202"
+Les="0"
+Tra="2000"
+[2000]
+Sue="215000"
+Eqp="PES_LON"
+[Lvl]
+Frm="960"
+Por="14"
+Def="290"
+Tec="382"
+Ata="747"
+Niv="659"

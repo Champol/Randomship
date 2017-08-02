@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Sheriff"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="43"
+Day="13"
+Age="22"
+Pow="C"
+Fam="43"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="PES_AQU"
+[Lvl]
+Frm="989"
+Por="46"
+Def="620"
+Tec="439"
+Ata="225"
+Niv="582"

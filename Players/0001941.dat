@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Nxumalo"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="156"
+Age="21"
+Pow="B"
+Fam="156"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="254000"
+Eqp="SEN_F-C"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="27"
+Def="763"
+Tec="431"
+Ata="272"
+Niv="675"

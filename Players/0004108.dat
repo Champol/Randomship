@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Drake"
+Rol="MC"
+Pos="DM"
+Nac="1968"
+[Val]
+Rec="2"
+Day="13"
+Age="32"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="GAL_RHA"
+[Lvl]
+Frm="978"
+Por="41"
+Def="272"
+Tec="599"
+Ata="147"
+Niv="465"

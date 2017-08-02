@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Morello"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="26"
+Day="13"
+Age="25"
+Pow="D"
+Fam="26"
+Les="0"
+Tra="2000"
+[2000]
+Sue="50000"
+Eqp="GAL_ORS"
+[Lvl]
+Frm="964"
+Por="48"
+Def="679"
+Tec="422"
+Ata="163"
+Niv="550"

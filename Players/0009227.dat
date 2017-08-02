@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Capelle"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="26"
+Age="22"
+Pow="E"
+Fam="26"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="45000"
+Eqp="PES_MAR"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="32"
+Def="597"
+Tec="366"
+Ata="228"
+Niv="543"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Weideman"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="9"
+Day="13"
+Age="18"
+Pow="C"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="27000"
+Eqp="GAL_SRK"
+[Lvl]
+Frm="976"
+Por="44"
+Def="562"
+Tec="326"
+Ata="249"
+Niv="509"

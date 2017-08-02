@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.A. Amui"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="73"
+Day="13"
+Age="20"
+Pow="B"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="113000"
+Eqp="GAL_IFN"
+[Lvl]
+Frm="982"
+Por="43"
+Def="325"
+Tec="610"
+Ata="470"
+Niv="609"

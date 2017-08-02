@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Ibarreta"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="101"
+Age="22"
+Pow="B"
+Fam="101"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="135000"
+Eqp="SEN_TBB"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="9"
+Def="498"
+Tec="766"
+Ata="187"
+Niv="623"

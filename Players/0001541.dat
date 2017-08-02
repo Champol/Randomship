@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Keïta"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="15"
+Age="30"
+Pow="D"
+Fam="15"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="25000"
+Eqp="SEN_EMO"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="17"
+Def="644"
+Tec="355"
+Ata="112"
+Niv="505"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Sissener"
+Rol="MC"
+Pos="WM"
+Nac="1975"
+[Val]
+Rec="105"
+Day="13"
+Age="25"
+Pow="D"
+Fam="105"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="GAL_BAR"
+[Lvl]
+Frm="967"
+Por="12"
+Def="329"
+Tec="697"
+Ata="352"
+Niv="624"

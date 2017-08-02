@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Riojano"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="157"
+Day="13"
+Age="26"
+Pow="B"
+Fam="157"
+Les="0"
+Tra="2000"
+[2000]
+Sue="199000"
+Eqp="GAL_MAL"
+[Lvl]
+Frm="991"
+Por="821"
+Def="390"
+Tec="278"
+Ata="0"
+Niv="653"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Piquetto"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="15"
+Day="13"
+Age="19"
+Pow="D"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="GAL_HOR"
+[Lvl]
+Frm="973"
+Por="25"
+Def="255"
+Tec="550"
+Ata="386"
+Niv="527"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.H. Quarles"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="575"
+Day="13"
+Age="24"
+Pow="A"
+Fam="575"
+Les="0"
+Tra="2000"
+[2000]
+Sue="670000"
+Eqp="PES_LON"
+[Lvl]
+Frm="973"
+Por="13"
+Def="838"
+Tec="528"
+Ata="281"
+Niv="761"

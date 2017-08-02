@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.F. Van Der Sar"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="315"
+Age="29"
+Pow="B"
+Fam="315"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="317000"
+Eqp="SEN_DEL"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="13"
+Def="864"
+Tec="516"
+Ata="146"
+Niv="693"

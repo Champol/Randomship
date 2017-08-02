@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Dickson"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="298"
+Age="23"
+Pow="A"
+Fam="298"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="502000"
+Eqp="GAL_EOS"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="21"
+Def="468"
+Tec="965"
+Ata="129"
+Niv="734"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Rengifo"
+Rol="DL"
+Pos="SS"
+Nac="1972"
+[Val]
+Rec="202"
+Age="28"
+Pow="B"
+Fam="202"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="303000"
+Eqp="PES_MAR"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="19"
+Def="176"
+Tec="641"
+Ata="708"
+Niv="689"

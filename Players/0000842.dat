@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Lardies"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Age="17"
+Pow="D"
+Fam="0"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_S-D"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="488"
+Def="158"
+Tec="164"
+Ata="19"
+Niv="369"

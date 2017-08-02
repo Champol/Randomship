@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Puig"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="85"
+Day="13"
+Age="24"
+Pow="D"
+Fam="85"
+Les="0"
+Tra="2000"
+[2000]
+Sue="111000"
+Eqp="GAL_CON"
+[Lvl]
+Frm="976"
+Por="23"
+Def="769"
+Tec="427"
+Ata="184"
+Niv="608"

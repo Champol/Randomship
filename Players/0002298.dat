@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Gallegos"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="291"
+Age="27"
+Pow="B"
+Fam="291"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="332000"
+Eqp="SEN_SFC"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="32"
+Def="776"
+Tec="420"
+Ata="330"
+Niv="697"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Camblong"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="35"
+Day="13"
+Age="22"
+Pow="D"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="GAL_SAR"
+[Lvl]
+Frm="986"
+Por="740"
+Def="316"
+Tec="246"
+Ata="15"
+Niv="582"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Vastić"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="125"
+Day="13"
+Age="24"
+Pow="C"
+Fam="125"
+Les="0"
+Tra="2000"
+[2000]
+Sue="156000"
+Eqp="GAL_MUS"
+[Lvl]
+Frm="987"
+Por="34"
+Def="811"
+Tec="430"
+Ata="192"
+Niv="634"

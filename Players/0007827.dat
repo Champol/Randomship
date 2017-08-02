@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Dewa"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="39"
+Age="27"
+Pow="D"
+Fam="39"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="60000"
+Eqp="PES_LEN"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="24"
+Def="114"
+Tec="466"
+Ata="682"
+Niv="563"

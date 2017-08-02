@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Barrionuevo"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="222"
+Day="13"
+Age="26"
+Pow="B"
+Fam="222"
+Les="0"
+Tra="2000"
+[2000]
+Sue="336000"
+Eqp="GAL_TRD"
+[Lvl]
+Frm="968"
+Por="44"
+Def="882"
+Tec="523"
+Ata="108"
+Niv="698"

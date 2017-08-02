@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Boone"
+Rol="DL"
+Pos="WF"
+Nac="1981"
+[Val]
+Rec="56"
+Day="13"
+Age="19"
+Pow="A"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="PES_BOS"
+[Lvl]
+Frm="966"
+Por="40"
+Def="240"
+Tec="444"
+Ata="624"
+Niv="587"

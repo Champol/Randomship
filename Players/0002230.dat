@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Gardner"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="119"
+Age="24"
+Pow="C"
+Fam="119"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="SEN_D-S"
+PCal="0"
+[Lvl]
+Frm="966"
+Por="29"
+Def="720"
+Tec="386"
+Ata="252"
+Niv="629"

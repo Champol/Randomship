@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Yip"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="41"
+Day="13"
+Age="24"
+Pow="C"
+Fam="41"
+Les="0"
+Tra="2000"
+[2000]
+Sue="81000"
+Eqp="GAL_VUL"
+[Lvl]
+Frm="980"
+Por="763"
+Def="289"
+Tec="229"
+Ata="31"
+Niv="585"

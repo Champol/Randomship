@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. D'aran"
+Rol="DF"
+Pos="WB"
+Nac="1981"
+[Val]
+Rec="1"
+Day="13"
+Age="19"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="12000"
+Eqp="GAL_DQA"
+[Lvl]
+Frm="993"
+Por="6"
+Def="520"
+Tec="275"
+Ata="209"
+Niv="458"

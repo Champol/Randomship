@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.D. Arnaude"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="GAL_DAT"
+[Lvl]
+Frm="974"
+Por="15"
+Def="608"
+Tec="318"
+Ata="125"
+Niv="467"

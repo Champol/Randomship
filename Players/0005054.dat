@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Cappelli"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="27"
+Day="13"
+Age="23"
+Pow="D"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="GAL_ZOR"
+[Lvl]
+Frm="976"
+Por="2"
+Def="624"
+Tec="350"
+Ata="208"
+Niv="551"

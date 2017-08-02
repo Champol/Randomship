@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Blunt"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="106"
+Day="13"
+Age="29"
+Pow="D"
+Fam="106"
+Les="0"
+Tra="2000"
+[2000]
+Sue="110000"
+Eqp="PES_GEM"
+[Lvl]
+Frm="967"
+Por="777"
+Def="291"
+Tec="276"
+Ata="26"
+Niv="607"

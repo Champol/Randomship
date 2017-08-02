@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Okinaka"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="194"
+Day="13"
+Age="25"
+Pow="C"
+Fam="194"
+Les="0"
+Tra="2000"
+[2000]
+Sue="269000"
+Eqp="GAL_DAT"
+[Lvl]
+Frm="985"
+Por="880"
+Def="274"
+Tec="342"
+Ata="31"
+Niv="679"

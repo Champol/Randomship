@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Sardo"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PES_IOL"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="21"
+Def="429"
+Tec="300"
+Ata="163"
+Niv="396"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Olari"
+Rol="MC"
+Pos="DM"
+Nac="1970"
+[Val]
+Rec="71"
+Age="30"
+Pow="B"
+Fam="71"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="88000"
+Eqp="SEN_D-S"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="38"
+Def="468"
+Tec="728"
+Ata="112"
+Niv="590"

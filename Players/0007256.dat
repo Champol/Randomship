@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Saguier"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="194"
+Day="13"
+Age="27"
+Pow="C"
+Fam="194"
+Les="0"
+Tra="2000"
+[2000]
+Sue="209000"
+Eqp="GAL_ANS"
+[Lvl]
+Frm="972"
+Por="30"
+Def="868"
+Tec="430"
+Ata="94"
+Niv="658"

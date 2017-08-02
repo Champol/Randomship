@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Becchio"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="90"
+Day="13"
+Age="23"
+Pow="C"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="170000"
+Eqp="GAL_TRL"
+[Lvl]
+Frm="974"
+Por="25"
+Def="850"
+Tec="388"
+Ata="160"
+Niv="641"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Gheisari"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="83"
+Day="13"
+Age="22"
+Pow="D"
+Fam="83"
+Les="0"
+Tra="2000"
+[2000]
+Sue="103000"
+Eqp="GAL_YAV"
+[Lvl]
+Frm="980"
+Por="24"
+Def="636"
+Tec="428"
+Ata="290"
+Niv="602"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Schürrle"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="172"
+Day="13"
+Age="24"
+Pow="D"
+Fam="172"
+Les="0"
+Tra="2000"
+[2000]
+Sue="183000"
+Eqp="GAL_MYG"
+[Lvl]
+Frm="995"
+Por="822"
+Def="286"
+Tec="351"
+Ata="22"
+Niv="647"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Foley"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="44"
+Age="20"
+Pow="B"
+Fam="44"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="89000"
+Eqp="PES_VIR"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="47"
+Def="169"
+Tec="343"
+Ata="789"
+Niv="591"

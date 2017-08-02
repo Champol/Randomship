@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Colombo"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="188"
+Day="13"
+Age="26"
+Pow="B"
+Fam="188"
+Les="0"
+Tra="2000"
+[2000]
+Sue="233000"
+Eqp="GAL_SAY"
+[Lvl]
+Frm="980"
+Por="36"
+Def="850"
+Tec="455"
+Ata="197"
+Niv="667"

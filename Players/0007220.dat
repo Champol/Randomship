@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Le Gall"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="82"
+Day="13"
+Age="26"
+Pow="D"
+Fam="82"
+Les="0"
+Tra="2000"
+[2000]
+Sue="108000"
+Eqp="GAL_LIV"
+[Lvl]
+Frm="974"
+Por="778"
+Def="317"
+Tec="252"
+Ata="39"
+Niv="605"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Bierhoff"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="375"
+Day="13"
+Age="27"
+Pow="A"
+Fam="375"
+Les="0"
+Tra="2000"
+[2000]
+Sue="486000"
+Eqp="GAL_ASP"
+[Lvl]
+Frm="982"
+Por="12"
+Def="92"
+Tec="516"
+Ata="944"
+Niv="731"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Martelli"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="19"
+Day="13"
+Age="26"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="38000"
+Eqp="GAL_M-C"
+[Lvl]
+Frm="967"
+Por="21"
+Def="156"
+Tec="655"
+Ata="394"
+Niv="532"

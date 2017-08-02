@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Brumana"
+Rol="DF"
+Pos="WB"
+Nac="1972"
+[Val]
+Rec="23"
+Age="28"
+Pow="D"
+Fam="23"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="41000"
+Eqp="SEN_CHC"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="7"
+Def="542"
+Tec="370"
+Ata="325"
+Niv="536"

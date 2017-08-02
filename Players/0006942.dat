@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Lehner"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="37"
+Day="13"
+Age="23"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="GAL_MOR"
+[Lvl]
+Frm="980"
+Por="48"
+Def="718"
+Tec="461"
+Ata="152"
+Niv="582"

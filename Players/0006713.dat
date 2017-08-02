@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Barbará"
+Rol="MC"
+Pos="DM"
+Nac="1981"
+[Val]
+Rec="1"
+Day="13"
+Age="19"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="14000"
+Eqp="GAL_JEN"
+[Lvl]
+Frm="998"
+Por="25"
+Def="378"
+Tec="563"
+Ata="174"
+Niv="468"

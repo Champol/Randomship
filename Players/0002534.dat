@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Vizari"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="76"
+Age="24"
+Pow="D"
+Fam="76"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="89000"
+Eqp="SEN_EXI"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="39"
+Def="720"
+Tec="464"
+Ata="205"
+Niv="592"

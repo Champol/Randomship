@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Wigger"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="133"
+Age="22"
+Pow="C"
+Fam="133"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="162000"
+Eqp="GAL_DAG"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="29"
+Def="651"
+Tec="461"
+Ata="339"
+Niv="637"

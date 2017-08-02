@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Enciso"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Rec="30"
+Age="32"
+Pow="C"
+Fam="30"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="48000"
+Eqp="PES_CEL"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="19"
+Def="216"
+Tec="571"
+Ata="407"
+Niv="547"

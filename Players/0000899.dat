@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Sbrajavacia"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Rec="45"
+Age="32"
+Pow="B"
+Fam="45"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="42000"
+Eqp="SEN_WAV"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="38"
+Def="192"
+Tec="698"
+Ata="284"
+Niv="538"

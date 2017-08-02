@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Alduncín"
+Rol="MC"
+Pos="DM"
+Nac="1975"
+[Val]
+Rec="35"
+Day="13"
+Age="25"
+Pow="E"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="GAL_MOR"
+[Lvl]
+Frm="973"
+Por="41"
+Def="358"
+Tec="727"
+Ata="127"
+Niv="556"

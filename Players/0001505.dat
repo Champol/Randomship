@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Sutton"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="29"
+Age="30"
+Pow="D"
+Fam="29"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="51000"
+Eqp="SEN_NIB"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="22"
+Def="614"
+Tec="370"
+Ata="208"
+Niv="551"

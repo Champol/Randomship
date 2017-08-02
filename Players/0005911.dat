@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Cresseri"
+Rol="DL"
+Pos="WF"
+Nac="1980"
+[Val]
+Rec="5"
+Day="13"
+Age="20"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+[2000]
+Sue="19000"
+Eqp="GAL_SAR"
+[Lvl]
+Frm="991"
+Por="25"
+Def="205"
+Tec="366"
+Ata="522"
+Niv="487"

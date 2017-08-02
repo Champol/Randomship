@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Mandé"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="52"
+Day="13"
+Age="26"
+Pow="D"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="GAL_JED"
+[Lvl]
+Frm="983"
+Por="48"
+Def="349"
+Tec="728"
+Ata="276"
+Niv="587"

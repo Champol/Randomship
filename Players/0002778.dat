@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Landajo"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="108"
+Age="26"
+Pow="D"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="122000"
+Eqp="SEN_TST"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="36"
+Def="142"
+Tec="512"
+Ata="743"
+Niv="615"

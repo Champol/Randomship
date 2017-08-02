@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Mathet"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="10"
+Day="13"
+Age="22"
+Pow="E"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="27000"
+Eqp="GAL_SUL"
+[Lvl]
+Frm="979"
+Por="34"
+Def="560"
+Tec="346"
+Ata="220"
+Niv="510"

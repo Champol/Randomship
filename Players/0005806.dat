@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Didulica"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="61"
+Day="13"
+Age="23"
+Pow="C"
+Fam="61"
+Les="0"
+Tra="2000"
+[2000]
+Sue="91000"
+Eqp="GAL_DQA"
+[Lvl]
+Frm="987"
+Por="17"
+Def="630"
+Tec="382"
+Ata="324"
+Niv="592"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Benson"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="90"
+Day="13"
+Age="26"
+Pow="D"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="110000"
+Eqp="GAL_D-K"
+[Lvl]
+Frm="976"
+Por="784"
+Def="250"
+Tec="307"
+Ata="45"
+Niv="607"

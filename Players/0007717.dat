@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Catalina"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="12"
+Age="21"
+Pow="D"
+Fam="12"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="31000"
+Eqp="PES_ZAN"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="645"
+Def="190"
+Tec="362"
+Ata="28"
+Niv="519"

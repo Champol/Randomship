@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Begaye"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="241"
+Day="13"
+Age="26"
+Pow="C"
+Fam="241"
+Les="0"
+Tra="2000"
+[2000]
+Sue="292000"
+Eqp="GAL_UMB"
+[Lvl]
+Frm="973"
+Por="15"
+Def="284"
+Tec="908"
+Ata="270"
+Niv="686"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Arenas"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="211"
+Age="27"
+Pow="C"
+Fam="211"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="174000"
+Eqp="SEN_NXI"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="8"
+Def="307"
+Tec="674"
+Ata="444"
+Niv="642"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Moguillanes"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="47"
+Day="13"
+Age="23"
+Pow="C"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="70000"
+Eqp="GAL_SMU"
+[Lvl]
+Frm="980"
+Por="29"
+Def="233"
+Tec="398"
+Ata="632"
+Niv="574"

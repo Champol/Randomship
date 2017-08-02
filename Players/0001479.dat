@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Coconier"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="194"
+Age="20"
+Pow="B"
+Fam="194"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="296000"
+Eqp="SEN_EXC"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="7"
+Def="759"
+Tec="452"
+Ata="292"
+Niv="687"

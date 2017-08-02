@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Lacoste"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="29"
+Day="13"
+Age="20"
+Pow="D"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="52000"
+Eqp="GAL_DAR"
+[Lvl]
+Frm="982"
+Por="1"
+Def="158"
+Tec="329"
+Ata="739"
+Niv="553"

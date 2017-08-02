@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Cadiou"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Rec="34"
+Age="32"
+Pow="B"
+Fam="34"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="37000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="3"
+Def="208"
+Tec="592"
+Ata="343"
+Niv="530"

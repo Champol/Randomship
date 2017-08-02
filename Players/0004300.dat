@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Desantiago"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="56"
+Age="27"
+Pow="C"
+Fam="56"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="75000"
+Eqp="GAL_N-S"
+PCal="0"
+[Lvl]
+Frm="962"
+Por="39"
+Def="576"
+Tec="467"
+Ata="263"
+Niv="578"

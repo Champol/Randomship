@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Vuksanovich"
+Rol="MC"
+Pos="CM"
+Nac="1970"
+[Val]
+Rec="91"
+Day="13"
+Age="30"
+Pow="C"
+Fam="91"
+Les="0"
+Tra="2000"
+[2000]
+Sue="97000"
+Eqp="GAL_MDR"
+[Lvl]
+Frm="976"
+Por="9"
+Def="252"
+Tec="779"
+Ata="278"
+Niv="598"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Roccatagliata"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Age="32"
+Pow="D"
+Fam="0"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PES_FIN"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="17"
+Def="510"
+Tec="224"
+Ata="146"
+Niv="423"

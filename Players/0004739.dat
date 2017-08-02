@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Forani"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="40"
+Day="13"
+Age="24"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="GAL_LYO"
+[Lvl]
+Frm="984"
+Por="19"
+Def="440"
+Tec="704"
+Ata="212"
+Niv="577"

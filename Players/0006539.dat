@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Koutiak"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="252"
+Day="13"
+Age="21"
+Pow="B"
+Fam="252"
+Les="0"
+Tra="2000"
+[2000]
+Sue="257000"
+Eqp="GAL_MYG"
+[Lvl]
+Frm="983"
+Por="15"
+Def="420"
+Tec="842"
+Ata="300"
+Niv="675"

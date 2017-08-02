@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Shim"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="10"
+Age="32"
+Pow="C"
+Fam="10"
+Les="10"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="SEN_PQS"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="665"
+Def="146"
+Tec="179"
+Ata="16"
+Niv="488"

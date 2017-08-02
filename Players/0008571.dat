@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Raver"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="173"
+Day="13"
+Age="21"
+Pow="B"
+Fam="173"
+Les="0"
+Tra="2000"
+[2000]
+Sue="197000"
+Eqp="PES_C-R"
+[Lvl]
+Frm="986"
+Por="6"
+Def="400"
+Tec="872"
+Ata="132"
+Niv="653"

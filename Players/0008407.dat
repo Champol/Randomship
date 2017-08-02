@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Arnaldo"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="180"
+Age="24"
+Pow="C"
+Fam="180"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="236000"
+Eqp="PES_QAT"
+PCal="0"
+[Lvl]
+Frm="961"
+Por="46"
+Def="856"
+Tec="461"
+Ata="176"
+Niv="668"

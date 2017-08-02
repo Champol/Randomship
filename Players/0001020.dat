@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Mikkelsen"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="140"
+Age="26"
+Pow="C"
+Fam="140"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="162000"
+Eqp="SEN_DEL"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="44"
+Def="851"
+Tec="375"
+Ata="136"
+Niv="637"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Blackwell"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="130"
+Age="23"
+Pow="C"
+Fam="130"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="174000"
+Eqp="SEN_COL"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="36"
+Def="94"
+Tec="452"
+Ata="830"
+Niv="643"

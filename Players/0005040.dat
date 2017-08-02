@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Indaburu"
+Rol="DL"
+Pos="SS"
+Nac="1980"
+[Val]
+Rec="39"
+Day="13"
+Age="20"
+Pow="B"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="83000"
+Eqp="GAL_NIS"
+[Lvl]
+Frm="973"
+Por="39"
+Def="194"
+Tec="520"
+Ata="622"
+Niv="586"

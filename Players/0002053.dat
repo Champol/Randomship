@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Vicario"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="129"
+Age="25"
+Pow="C"
+Fam="129"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="SEN_WCR"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="38"
+Def="184"
+Tec="452"
+Ata="826"
+Niv="650"

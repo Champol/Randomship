@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Overmars"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="12"
+Age="21"
+Pow="D"
+Fam="12"
+Les="11"
+Tra="2000"
+Day="13"
+[2000]
+Sue="34000"
+Eqp="PES_FIN"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="5"
+Def="255"
+Tec="370"
+Ata="555"
+Niv="524"

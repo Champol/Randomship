@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Bedonie"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="242"
+Age="23"
+Pow="C"
+Fam="242"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="435000"
+Eqp="PES_NOR"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="0"
+Def="988"
+Tec="379"
+Ata="139"
+Niv="722"

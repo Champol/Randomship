@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Skinner"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="83"
+Day="13"
+Age="30"
+Pow="B"
+Fam="83"
+Les="0"
+Tra="2000"
+[2000]
+Sue="91000"
+Eqp="GAL_LIB"
+[Lvl]
+Frm="973"
+Por="3"
+Def="744"
+Tec="430"
+Ata="162"
+Niv="593"

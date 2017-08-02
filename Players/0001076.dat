@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Chong"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="40"
+Age="26"
+Pow="D"
+Fam="40"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="77000"
+Eqp="SEN_GAR"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="738"
+Def="249"
+Tec="308"
+Ata="40"
+Niv="582"

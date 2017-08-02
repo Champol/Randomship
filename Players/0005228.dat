@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Gaspar"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="140"
+Day="13"
+Age="25"
+Pow="C"
+Fam="140"
+Les="0"
+Tra="2000"
+[2000]
+Sue="172000"
+Eqp="GAL_ASK"
+[Lvl]
+Frm="975"
+Por="9"
+Def="858"
+Tec="372"
+Ata="171"
+Niv="642"

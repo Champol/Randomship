@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Ducrocq"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="34"
+Day="13"
+Age="30"
+Pow="B"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="47000"
+Eqp="GAL_TUN"
+[Lvl]
+Frm="980"
+Por="43"
+Def="546"
+Tec="432"
+Ata="264"
+Niv="546"

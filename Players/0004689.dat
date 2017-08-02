@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Ratliff"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="142"
+Day="13"
+Age="25"
+Pow="B"
+Fam="142"
+Les="0"
+Tra="2000"
+[2000]
+Sue="236000"
+Eqp="GAL_RHE"
+[Lvl]
+Frm="982"
+Por="42"
+Def="124"
+Tec="448"
+Ata="866"
+Niv="668"

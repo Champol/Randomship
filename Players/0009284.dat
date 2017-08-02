@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.F. Mesquida"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="2"
+Age="20"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="13000"
+Eqp="PES_MEI"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="49"
+Def="492"
+Tec="357"
+Ata="190"
+Niv="466"

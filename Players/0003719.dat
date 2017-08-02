@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.J. Háuregui"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="41"
+Day="13"
+Age="24"
+Pow="C"
+Fam="41"
+Les="0"
+Tra="2000"
+[2000]
+Sue="82000"
+Eqp="GAL_HAV"
+[Lvl]
+Frm="970"
+Por="37"
+Def="715"
+Tec="447"
+Ata="209"
+Niv="585"

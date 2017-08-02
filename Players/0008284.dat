@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Vernengo"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="270"
+Age="26"
+Pow="C"
+Fam="270"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="385000"
+Eqp="PES_GUA"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="23"
+Def="287"
+Tec="779"
+Ata="480"
+Niv="710"

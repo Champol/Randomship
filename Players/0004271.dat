@@ -1,0 +1,23 @@
+[Inf]
+Nom="Q. Etchevés"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="35"
+Day="13"
+Age="32"
+Pow="C"
+Fam="35"
+Les="2"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="GAL_SYN"
+[Lvl]
+Frm="985"
+Por="20"
+Def="660"
+Tec="285"
+Ata="219"
+Niv="552"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Lima"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="47"
+Day="13"
+Age="21"
+Pow="B"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="88000"
+Eqp="GAL_TRD"
+[Lvl]
+Frm="989"
+Por="35"
+Def="792"
+Tec="324"
+Ata="195"
+Niv="590"

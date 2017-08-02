@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Herisca"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="189"
+Age="28"
+Pow="C"
+Fam="189"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="239000"
+Eqp="GAL_EAR"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="34"
+Def="286"
+Tec="904"
+Ata="199"
+Niv="668"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Pilli"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="2"
+Age="32"
+Pow="D"
+Fam="2"
+Les="10"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_SWO"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="412"
+Def="173"
+Tec="204"
+Ata="44"
+Niv="339"

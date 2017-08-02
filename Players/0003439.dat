@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Cuello"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="4"
+Age="19"
+Pow="D"
+Fam="4"
+Les="15"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="GAL_EMP"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="5"
+Def="212"
+Tec="551"
+Ata="311"
+Niv="487"

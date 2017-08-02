@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Trucco"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="67"
+Day="13"
+Age="24"
+Pow="D"
+Fam="67"
+Les="0"
+Tra="2000"
+[2000]
+Sue="85000"
+Eqp="GAL_HOS"
+[Lvl]
+Frm="974"
+Por="7"
+Def="344"
+Tec="776"
+Ata="188"
+Niv="587"

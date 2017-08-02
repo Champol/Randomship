@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Goiri"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="297"
+Day="13"
+Age="26"
+Pow="A"
+Fam="297"
+Les="0"
+Tra="2000"
+[2000]
+Sue="572000"
+Eqp="GAL_VUL"
+[Lvl]
+Frm="975"
+Por="48"
+Def="935"
+Tec="558"
+Ata="196"
+Niv="746"

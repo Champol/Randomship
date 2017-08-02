@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Lilicrause"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="29"
+Day="13"
+Age="21"
+Pow="E"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="GAL_LIV"
+[Lvl]
+Frm="983"
+Por="17"
+Def="321"
+Tec="698"
+Ata="282"
+Niv="559"

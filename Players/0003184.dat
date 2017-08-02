@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Cullen"
+Rol="DL"
+Pos="WF"
+Nac="1983"
+[Val]
+Age="17"
+Pow="D"
+Fam="0"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_GMW"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="35"
+Def="196"
+Tec="342"
+Ata="437"
+Niv="428"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Sarricolea"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="320"
+Day="13"
+Age="26"
+Pow="C"
+Fam="320"
+Les="0"
+Tra="2000"
+[2000]
+Sue="470000"
+Eqp="GAL_ANA"
+[Lvl]
+Frm="967"
+Por="3"
+Def="319"
+Tec="812"
+Ata="451"
+Niv="728"

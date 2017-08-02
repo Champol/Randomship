@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Zenteno"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="102"
+Age="21"
+Pow="A"
+Fam="102"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="PES_MEI"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="12"
+Def="234"
+Tec="540"
+Ata="667"
+Niv="621"

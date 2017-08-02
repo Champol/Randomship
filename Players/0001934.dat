@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Ignacio"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_F-C"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="45"
+Def="142"
+Tec="302"
+Ata="532"
+Niv="422"

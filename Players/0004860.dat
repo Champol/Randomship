@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Polk"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="172"
+Day="13"
+Age="21"
+Pow="B"
+Fam="172"
+Les="0"
+Tra="2000"
+[2000]
+Sue="217000"
+Eqp="GAL_SOL"
+[Lvl]
+Frm="975"
+Por="26"
+Def="395"
+Tec="869"
+Ata="270"
+Niv="661"

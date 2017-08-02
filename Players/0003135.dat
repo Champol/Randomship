@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Dousset"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="32"
+Age="22"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="56000"
+Eqp="SEN_B-H"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="714"
+Def="312"
+Tec="231"
+Ata="4"
+Niv="558"

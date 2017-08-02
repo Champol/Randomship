@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Al-Sadiq"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="78"
+Age="22"
+Pow="D"
+Fam="78"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="104000"
+Eqp="SEN_S-B"
+PCal="0"
+[Lvl]
+Frm="995"
+Por="2"
+Def="679"
+Tec="394"
+Ata="223"
+Niv="603"

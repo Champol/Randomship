@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Urrutia"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="252"
+Age="23"
+Pow="A"
+Fam="252"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="460000"
+Eqp="PES_NOR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="38"
+Def="141"
+Tec="974"
+Ata="426"
+Niv="725"

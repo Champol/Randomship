@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Gumilla"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="11"
+Day="13"
+Age="32"
+Pow="B"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="GAL_COM"
+[Lvl]
+Frm="970"
+Por="21"
+Def="508"
+Tec="411"
+Ata="210"
+Niv="505"

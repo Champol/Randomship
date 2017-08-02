@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Maresca"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="395"
+Day="13"
+Age="30"
+Pow="C"
+Fam="395"
+Les="0"
+Tra="2000"
+[2000]
+Sue="328000"
+Eqp="GAL_COR"
+[Lvl]
+Frm="971"
+Por="926"
+Def="303"
+Tec="223"
+Ata="31"
+Niv="696"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A.G. Bacigaluppi"
+Rol="DL"
+Pos="SS"
+Nac="1975"
+[Val]
+Rec="181"
+Day="13"
+Age="25"
+Pow="C"
+Fam="181"
+Les="0"
+Tra="2000"
+[2000]
+Sue="217000"
+Eqp="GAL_GLY"
+[Lvl]
+Frm="968"
+Por="0"
+Def="158"
+Tec="624"
+Ata="682"
+Niv="661"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Achaga"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Rec="6"
+Day="13"
+Age="32"
+Pow="D"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="15000"
+Eqp="GAL_SIR"
+[Lvl]
+Frm="984"
+Por="45"
+Def="166"
+Tec="560"
+Ata="262"
+Niv="472"

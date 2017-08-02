@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Cabezas"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="45"
+Day="13"
+Age="22"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="GAL_DER"
+[Lvl]
+Frm="959"
+Por="714"
+Def="324"
+Tec="256"
+Ata="45"
+Niv="564"

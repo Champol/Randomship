@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Gagliolo"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="34"
+Age="22"
+Pow="C"
+Fam="34"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="75000"
+Eqp="SEN_CHE"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="726"
+Def="265"
+Tec="338"
+Ata="50"
+Niv="579"

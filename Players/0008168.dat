@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Giuri"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="106"
+Day="13"
+Age="22"
+Pow="C"
+Fam="106"
+Les="0"
+Tra="2000"
+[2000]
+Sue="156000"
+Eqp="PES_AQU"
+[Lvl]
+Frm="984"
+Por="14"
+Def="246"
+Tec="856"
+Ata="247"
+Niv="635"

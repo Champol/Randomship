@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Lerner"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="173"
+Age="23"
+Pow="B"
+Fam="173"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="248000"
+Eqp="SEN_CHF"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="3"
+Def="224"
+Tec="615"
+Ata="696"
+Niv="672"

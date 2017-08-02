@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Castagnola"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="230"
+Day="13"
+Age="30"
+Pow="B"
+Fam="230"
+Les="0"
+Tra="2000"
+[2000]
+Sue="242000"
+Eqp="GAL_ANO"
+[Lvl]
+Frm="980"
+Por="33"
+Def="138"
+Tec="368"
+Ata="910"
+Niv="670"

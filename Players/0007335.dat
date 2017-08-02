@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Billberg"
+Rol="MC"
+Pos="DM"
+Nac="1972"
+[Val]
+Rec="23"
+Day="13"
+Age="28"
+Pow="E"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="43000"
+Eqp="GAL_MAR"
+[Lvl]
+Frm="968"
+Por="45"
+Def="296"
+Tec="728"
+Ata="134"
+Niv="540"

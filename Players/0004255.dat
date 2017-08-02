@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.E. Hamdan"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="130"
+Day="13"
+Age="23"
+Pow="C"
+Fam="130"
+Les="0"
+Tra="2000"
+[2000]
+Sue="202000"
+Eqp="GAL_RYL"
+[Lvl]
+Frm="995"
+Por="15"
+Def="216"
+Tec="562"
+Ata="706"
+Niv="655"

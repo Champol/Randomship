@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Ogawa"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="561"
+Day="13"
+Age="27"
+Pow="B"
+Fam="561"
+Les="0"
+Tra="2000"
+[2000]
+Sue="610000"
+Eqp="GAL_ISS"
+[Lvl]
+Frm="983"
+Por="6"
+Def="1010"
+Tec="428"
+Ata="176"
+Niv="752"

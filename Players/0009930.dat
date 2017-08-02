@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Feng"
+Rol="MC"
+Pos="AM"
+Nac="1970"
+[Val]
+Rec="130"
+Day="13"
+Age="30"
+Pow="B"
+Fam="130"
+Les="0"
+Tra="2000"
+[2000]
+Sue="125000"
+Eqp="PES_PAS"
+[Lvl]
+Frm="969"
+Por="50"
+Def="222"
+Tec="808"
+Ata="360"
+Niv="617"

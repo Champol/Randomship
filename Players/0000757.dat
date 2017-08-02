@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Trezeguet"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Rec="1"
+Age="18"
+Pow="D"
+Fam="1"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="SEN_BBB"
+PCal="0"
+[Lvl]
+Frm="966"
+Por="578"
+Def="256"
+Tec="170"
+Ata="5"
+Niv="449"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Menga"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="9"
+Day="13"
+Age="20"
+Pow="D"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="24000"
+Eqp="GAL_BOG"
+[Lvl]
+Frm="982"
+Por="18"
+Def="562"
+Tec="337"
+Ata="215"
+Niv="502"

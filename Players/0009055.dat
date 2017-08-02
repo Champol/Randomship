@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Tudory"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="23"
+Age="20"
+Pow="C"
+Fam="23"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="45000"
+Eqp="PES_PUN"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="40"
+Def="594"
+Tec="360"
+Ata="256"
+Niv="543"

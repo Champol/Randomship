@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Zanotti"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="54"
+Day="13"
+Age="26"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="GAL_RHA"
+[Lvl]
+Frm="974"
+Por="26"
+Def="492"
+Tec="699"
+Ata="96"
+Niv="577"

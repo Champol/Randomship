@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Espósito"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="39"
+Day="13"
+Age="26"
+Pow="E"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="67000"
+Eqp="GAL_VOR"
+[Lvl]
+Frm="971"
+Por="20"
+Def="354"
+Tec="748"
+Ata="157"
+Niv="571"

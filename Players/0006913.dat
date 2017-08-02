@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Arburu"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="40"
+Day="13"
+Age="23"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="67000"
+Eqp="GAL_TOY"
+[Lvl]
+Frm="980"
+Por="25"
+Def="590"
+Tec="386"
+Ata="334"
+Niv="570"

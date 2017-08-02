@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Colding"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Rec="1"
+Day="13"
+Age="17"
+Pow="A"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="GAL_ANA"
+[Lvl]
+Frm="979"
+Por="44"
+Def="646"
+Tec="261"
+Ata="92"
+Niv="464"

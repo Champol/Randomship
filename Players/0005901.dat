@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.C. Dreshfel"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="58"
+Day="13"
+Age="26"
+Pow="D"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="GAL_SAR"
+[Lvl]
+Frm="983"
+Por="17"
+Def="324"
+Tec="758"
+Ata="240"
+Niv="592"

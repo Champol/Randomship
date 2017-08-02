@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Behety"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="45"
+Day="13"
+Age="31"
+Pow="C"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="GAL_ILL"
+[Lvl]
+Frm="986"
+Por="15"
+Def="666"
+Tec="476"
+Ata="142"
+Niv="559"

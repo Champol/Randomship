@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Vucasovich"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="317"
+Age="30"
+Pow="C"
+Fam="317"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="303000"
+Eqp="GAL_DAG"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="886"
+Def="358"
+Tec="272"
+Ata="2"
+Niv="689"

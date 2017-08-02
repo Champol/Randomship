@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Cremona"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="558"
+Day="13"
+Age="24"
+Pow="A"
+Fam="558"
+Les="0"
+Tra="2000"
+[2000]
+Sue="744000"
+Eqp="GAL_KES"
+[Lvl]
+Frm="980"
+Por="31"
+Def="1003"
+Tec="522"
+Ata="130"
+Niv="771"

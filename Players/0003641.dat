@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Riou"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="90"
+Day="13"
+Age="24"
+Pow="C"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="135000"
+Eqp="GAL_ISS"
+[Lvl]
+Frm="980"
+Por="18"
+Def="455"
+Tec="781"
+Ata="207"
+Niv="623"

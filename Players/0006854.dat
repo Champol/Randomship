@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Falconer"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="101"
+Day="13"
+Age="23"
+Pow="C"
+Fam="101"
+Les="0"
+Tra="2000"
+[2000]
+Sue="152000"
+Eqp="GAL_HEL"
+[Lvl]
+Frm="980"
+Por="50"
+Def="680"
+Tec="446"
+Ata="273"
+Niv="632"

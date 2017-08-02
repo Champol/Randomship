@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Isamit"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="32"
+Day="13"
+Age="25"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="53000"
+Eqp="GAL_CON"
+[Lvl]
+Frm="987"
+Por="44"
+Def="687"
+Tec="404"
+Ata="204"
+Niv="554"

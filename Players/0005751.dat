@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Matas"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="30"
+Day="13"
+Age="21"
+Pow="E"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="53000"
+Eqp="GAL_61C"
+[Lvl]
+Frm="983"
+Por="30"
+Def="721"
+Tec="379"
+Ata="129"
+Niv="554"

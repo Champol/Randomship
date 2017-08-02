@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Sarracán"
+Rol="PT"
+Pos="GK"
+Nac="1981"
+[Val]
+Rec="32"
+Day="13"
+Age="19"
+Pow="B"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="66000"
+Eqp="GAL_UMB"
+[Lvl]
+Frm="975"
+Por="737"
+Def="262"
+Tec="295"
+Ata="4"
+Niv="570"

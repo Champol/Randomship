@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Conner"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="34"
+Day="13"
+Age="27"
+Pow="E"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="GAL_CIL"
+[Lvl]
+Frm="984"
+Por="14"
+Def="250"
+Tec="715"
+Ata="272"
+Niv="557"

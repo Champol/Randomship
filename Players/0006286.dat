@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Fergusson"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="128"
+Day="13"
+Age="27"
+Pow="C"
+Fam="128"
+Les="0"
+Tra="2000"
+[2000]
+Sue="144000"
+Eqp="GAL_YAV"
+[Lvl]
+Frm="978"
+Por="8"
+Def="158"
+Tec="423"
+Ata="807"
+Niv="628"

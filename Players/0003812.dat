@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Limariño"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="26"
+Day="13"
+Age="23"
+Pow="E"
+Fam="26"
+Les="0"
+Tra="2000"
+[2000]
+Sue="52000"
+Eqp="GAL_CON"
+[Lvl]
+Frm="985"
+Por="33"
+Def="192"
+Tec="687"
+Ata="396"
+Niv="553"

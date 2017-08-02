@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Olavegoya"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="30"
+Day="13"
+Age="20"
+Pow="C"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="66000"
+Eqp="GAL_RIS"
+[Lvl]
+Frm="974"
+Por="755"
+Def="238"
+Tec="246"
+Ata="19"
+Niv="570"

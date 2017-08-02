@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Siquier"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="105"
+Day="13"
+Age="23"
+Pow="D"
+Fam="105"
+Les="0"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="PES_LEO"
+[Lvl]
+Frm="988"
+Por="7"
+Def="807"
+Tec="417"
+Ata="138"
+Niv="624"

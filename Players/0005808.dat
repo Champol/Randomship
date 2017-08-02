@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Hafeez"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="33"
+Day="13"
+Age="29"
+Pow="D"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="44000"
+Eqp="GAL_DQA"
+[Lvl]
+Frm="982"
+Por="7"
+Def="549"
+Tec="386"
+Ata="286"
+Niv="542"

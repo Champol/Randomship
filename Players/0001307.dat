@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Santonge"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="127"
+Age="23"
+Pow="C"
+Fam="127"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="217000"
+Eqp="SEN_G-W"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="848"
+Def="414"
+Tec="196"
+Ata="6"
+Niv="660"

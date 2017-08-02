@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Ibarreche"
+Rol="MC"
+Pos="CM"
+Nac="1975"
+[Val]
+Rec="197"
+Day="13"
+Age="25"
+Pow="D"
+Fam="197"
+Les="0"
+Tra="2000"
+[2000]
+Sue="286000"
+Eqp="GAL_ORS"
+[Lvl]
+Frm="975"
+Por="0"
+Def="328"
+Tec="872"
+Ata="337"
+Niv="685"

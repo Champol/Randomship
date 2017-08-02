@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Raya"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="123"
+Day="13"
+Age="23"
+Pow="C"
+Fam="123"
+Les="0"
+Tra="2000"
+[2000]
+Sue="135000"
+Eqp="GAL_RIG"
+[Lvl]
+Frm="991"
+Por="13"
+Def="368"
+Tec="784"
+Ata="276"
+Niv="624"

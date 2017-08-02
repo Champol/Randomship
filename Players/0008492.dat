@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Ganam"
+Rol="DL"
+Pos="WF"
+Nac="1981"
+[Val]
+Age="19"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PES_NOR"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="25"
+Def="222"
+Tec="279"
+Ata="468"
+Niv="432"

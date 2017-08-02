@@ -1,0 +1,24 @@
+[Inf]
+Nom="M.A. Norte"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="6"
+Age="32"
+Pow="C"
+Fam="6"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="20000"
+Eqp="SEN_SAN"
+PCal="0"
+[Lvl]
+Frm="959"
+Por="34"
+Def="96"
+Tec="298"
+Ata="650"
+Niv="490"

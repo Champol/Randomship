@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Koscielny"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="225"
+Age="22"
+Pow="C"
+Fam="225"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="313000"
+Eqp="PES_WEU"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="13"
+Def="354"
+Tec="952"
+Ata="145"
+Niv="692"

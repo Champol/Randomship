@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Usher"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="114"
+Age="25"
+Pow="D"
+Fam="114"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="SEN_NCK"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="19"
+Def="159"
+Tec="852"
+Ata="357"
+Niv="634"

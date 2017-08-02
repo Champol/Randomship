@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Menaut"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="632"
+Age="26"
+Pow="A"
+Fam="632"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="808000"
+Eqp="SEN_OTM"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="9"
+Def="172"
+Tec="635"
+Ata="883"
+Niv="779"

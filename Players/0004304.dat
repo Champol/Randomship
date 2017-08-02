@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Lütjohann"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Age="30"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="GAL_N-S"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="42"
+Def="182"
+Tec="446"
+Ata="274"
+Niv="412"

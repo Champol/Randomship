@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Fages"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="96"
+Day="13"
+Age="25"
+Pow="D"
+Fam="96"
+Les="0"
+Tra="2000"
+[2000]
+Sue="134000"
+Eqp="GAL_CIL"
+[Lvl]
+Frm="965"
+Por="25"
+Def="799"
+Tec="430"
+Ata="118"
+Niv="622"

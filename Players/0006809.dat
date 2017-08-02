@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Rabanal"
+Rol="DL"
+Pos="SS"
+Nac="1978"
+[Val]
+Rec="124"
+Day="13"
+Age="22"
+Pow="C"
+Fam="124"
+Les="0"
+Tra="2000"
+[2000]
+Sue="183000"
+Eqp="GAL_SAL"
+[Lvl]
+Frm="975"
+Por="1"
+Def="195"
+Tec="573"
+Ata="689"
+Niv="647"

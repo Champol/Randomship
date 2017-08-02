@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Dinator"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="80"
+Age="26"
+Pow="D"
+Fam="80"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="114000"
+Eqp="SEN_WIA"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="43"
+Def="338"
+Tec="764"
+Ata="292"
+Niv="611"

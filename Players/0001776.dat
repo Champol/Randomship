@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Cozinter"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="22"
+Age="32"
+Pow="C"
+Fam="22"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="30000"
+Eqp="SEN_HOU"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="32"
+Def="463"
+Tec="472"
+Ata="272"
+Niv="516"

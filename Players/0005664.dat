@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Castelo"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="172"
+Day="13"
+Age="23"
+Pow="C"
+Fam="172"
+Les="0"
+Tra="2000"
+[2000]
+Sue="266000"
+Eqp="GAL_SMY"
+[Lvl]
+Frm="974"
+Por="25"
+Def="888"
+Tec="438"
+Ata="158"
+Niv="679"

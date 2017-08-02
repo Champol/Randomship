@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Maestra"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="84"
+Age="29"
+Pow="C"
+Fam="84"
+Les="6"
+Tra="2000"
+Day="13"
+[2000]
+Sue="94000"
+Eqp="SEN_CRI"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="36"
+Def="639"
+Tec="430"
+Ata="227"
+Niv="595"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Visaguirre"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="24"
+Day="13"
+Age="27"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="41000"
+Eqp="GAL_RIS"
+[Lvl]
+Frm="988"
+Por="698"
+Def="237"
+Tec="240"
+Ata="33"
+Niv="536"

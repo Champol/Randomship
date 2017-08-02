@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Zanetti"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="196"
+Age="22"
+Pow="C"
+Fam="196"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="276000"
+Eqp="SEN_B-J"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="46"
+Def="893"
+Tec="444"
+Ata="127"
+Niv="681"

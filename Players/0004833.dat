@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Schinelli"
+Rol="MC"
+Pos="AM"
+Nac="1973"
+[Val]
+Rec="41"
+Day="13"
+Age="27"
+Pow="C"
+Fam="41"
+Les="0"
+Tra="2000"
+[2000]
+Sue="53000"
+Eqp="GAL_LIB"
+[Lvl]
+Frm="968"
+Por="16"
+Def="136"
+Tec="706"
+Ata="389"
+Niv="554"

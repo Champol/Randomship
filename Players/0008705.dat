@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Fonzalida"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="50"
+Age="21"
+Pow="C"
+Fam="50"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="85000"
+Eqp="PES_APO"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="25"
+Def="768"
+Tec="372"
+Ata="172"
+Niv="587"

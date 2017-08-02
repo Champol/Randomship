@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Fumagalli"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="14000"
+Eqp="GAL_ORS"
+[Lvl]
+Frm="967"
+Por="594"
+Def="298"
+Tec="182"
+Ata="44"
+Niv="470"

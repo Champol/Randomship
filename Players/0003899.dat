@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Basso"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="474"
+Day="13"
+Age="27"
+Pow="C"
+Fam="474"
+Les="0"
+Tra="2000"
+[2000]
+Sue="519000"
+Eqp="GAL_ASP"
+[Lvl]
+Frm="977"
+Por="3"
+Def="290"
+Tec="802"
+Ata="510"
+Niv="736"

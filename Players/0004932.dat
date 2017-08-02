@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Miguens"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="116"
+Age="29"
+Pow="C"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="128000"
+Eqp="GAL_EOS"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="794"
+Def="272"
+Tec="315"
+Ata="22"
+Niv="619"

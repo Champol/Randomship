@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Boutin"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="27"
+Day="13"
+Age="23"
+Pow="D"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="GAL_ORS"
+[Lvl]
+Frm="994"
+Por="43"
+Def="718"
+Tec="336"
+Ata="111"
+Niv="545"

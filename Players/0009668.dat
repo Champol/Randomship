@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Flowers"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="169"
+Day="13"
+Age="22"
+Pow="B"
+Fam="169"
+Les="0"
+Tra="2000"
+[2000]
+Sue="183000"
+Eqp="PES_MAE"
+[Lvl]
+Frm="976"
+Por="4"
+Def="825"
+Tec="464"
+Ata="138"
+Niv="646"

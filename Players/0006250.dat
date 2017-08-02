@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Costacurta"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Rec="11"
+Day="13"
+Age="32"
+Pow="D"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="19000"
+Eqp="GAL_VEG"
+[Lvl]
+Frm="982"
+Por="7"
+Def="190"
+Tec="596"
+Ata="355"
+Niv="488"

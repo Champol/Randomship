@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Roger"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="34"
+Day="13"
+Age="23"
+Pow="D"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="GAL_MAN"
+[Lvl]
+Frm="966"
+Por="39"
+Def="719"
+Tec="388"
+Ata="190"
+Niv="567"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Valdivieso"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="57"
+Day="13"
+Age="21"
+Pow="C"
+Fam="57"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="GAL_RAD"
+[Lvl]
+Frm="985"
+Por="5"
+Def="376"
+Tec="782"
+Ata="116"
+Niv="592"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Onogi"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="44"
+Age="20"
+Pow="C"
+Fam="44"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="92000"
+Eqp="PES_VIR"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="47"
+Def="238"
+Tec="712"
+Ata="316"
+Niv="594"

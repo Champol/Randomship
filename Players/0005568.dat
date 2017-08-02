@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Indartea"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="35"
+Day="13"
+Age="22"
+Pow="D"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="GAL_MLC"
+[Lvl]
+Frm="984"
+Por="30"
+Def="289"
+Tec="472"
+Ata="554"
+Niv="567"

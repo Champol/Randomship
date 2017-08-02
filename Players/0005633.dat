@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Atenas"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="84"
+Day="13"
+Age="24"
+Pow="E"
+Fam="84"
+Les="0"
+Tra="2000"
+[2000]
+Sue="120000"
+Eqp="GAL_SCA"
+[Lvl]
+Frm="975"
+Por="32"
+Def="713"
+Tec="340"
+Ata="263"
+Niv="614"

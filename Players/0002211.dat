@@ -1,0 +1,24 @@
+[Inf]
+Nom="V.M. Mbhele"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="151"
+Age="26"
+Pow="C"
+Fam="151"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="207000"
+Eqp="SEN_D-S"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="42"
+Def="696"
+Tec="489"
+Ata="262"
+Niv="657"

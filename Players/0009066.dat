@@ -1,0 +1,24 @@
+[Inf]
+Nom="V.H. Rasgado"
+Rol="MC"
+Pos="CM"
+Nac="1970"
+[Val]
+Rec="44"
+Age="30"
+Pow="C"
+Fam="44"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="PES_PUN"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="25"
+Def="254"
+Tec="709"
+Ata="276"
+Niv="555"

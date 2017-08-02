@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Sobremonte"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="47"
+Age="20"
+Pow="C"
+Fam="47"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="74000"
+Eqp="PES_NOR"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="10"
+Def="779"
+Tec="305"
+Ata="230"
+Niv="578"

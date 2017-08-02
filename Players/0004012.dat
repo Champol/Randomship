@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Tchangai"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="4"
+Age="29"
+Pow="D"
+Fam="4"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="13000"
+Eqp="GAL_ALD"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="14"
+Def="641"
+Tec="231"
+Ata="76"
+Niv="464"

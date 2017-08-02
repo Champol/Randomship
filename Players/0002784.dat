@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Colina"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="72"
+Age="22"
+Pow="C"
+Fam="72"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="77000"
+Eqp="SEN_TST"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="12"
+Def="395"
+Tec="742"
+Ata="183"
+Niv="582"

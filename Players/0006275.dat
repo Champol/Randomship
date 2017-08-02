@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Dellepiane"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="82"
+Day="13"
+Age="29"
+Pow="C"
+Fam="82"
+Les="0"
+Tra="2000"
+[2000]
+Sue="101000"
+Eqp="GAL_YAV"
+[Lvl]
+Frm="974"
+Por="20"
+Def="642"
+Tec="425"
+Ata="240"
+Niv="601"

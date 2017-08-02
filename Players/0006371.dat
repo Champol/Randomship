@@ -1,0 +1,23 @@
+[Inf]
+Nom="Y. Sutart"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="367"
+Day="13"
+Age="26"
+Pow="C"
+Fam="367"
+Les="0"
+Tra="2000"
+[2000]
+Sue="403000"
+Eqp="GAL_DER"
+[Lvl]
+Frm="978"
+Por="41"
+Def="310"
+Tec="466"
+Ata="778"
+Niv="713"

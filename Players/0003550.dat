@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Deng"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="200"
+Day="13"
+Age="24"
+Pow="C"
+Fam="200"
+Les="0"
+Tra="2000"
+[2000]
+Sue="303000"
+Eqp="GAL_RIS"
+[Lvl]
+Frm="980"
+Por="20"
+Def="334"
+Tec="907"
+Ata="264"
+Niv="689"

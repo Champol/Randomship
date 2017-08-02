@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Binder"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="67"
+Age="23"
+Pow="D"
+Fam="67"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="97000"
+Eqp="SEN_D-S"
+PCal="0"
+[Lvl]
+Frm="965"
+Por="769"
+Def="336"
+Tec="228"
+Ata="34"
+Niv="597"

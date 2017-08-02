@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Kimball"
+Rol="PT"
+Pos="GK"
+Nac="1969"
+[Val]
+Day="13"
+Age="31"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_CON"
+[Lvl]
+Frm="984"
+Por="516"
+Def="128"
+Tec="114"
+Ata="46"
+Niv="375"

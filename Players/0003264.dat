@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Bevans"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="50"
+Day="13"
+Age="23"
+Pow="D"
+Fam="50"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="GAL_SRK"
+[Lvl]
+Frm="987"
+Por="10"
+Def="135"
+Tec="756"
+Ata="365"
+Niv="576"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Antichan"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="55"
+Age="21"
+Pow="D"
+Fam="55"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="99000"
+Eqp="SEN_UTE"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="29"
+Def="246"
+Tec="763"
+Ata="347"
+Niv="599"

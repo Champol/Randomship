@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Gattas"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="27"
+Day="13"
+Age="29"
+Pow="D"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="50000"
+Eqp="GAL_RAD"
+[Lvl]
+Frm="990"
+Por="19"
+Def="246"
+Tec="383"
+Ata="588"
+Niv="550"

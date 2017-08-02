@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Agrawal"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="91"
+Day="13"
+Age="21"
+Pow="B"
+Fam="91"
+Les="0"
+Tra="2000"
+[2000]
+Sue="150000"
+Eqp="GAL_P-M"
+[Lvl]
+Frm="983"
+Por="39"
+Def="171"
+Tec="445"
+Ata="802"
+Niv="631"

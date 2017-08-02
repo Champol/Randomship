@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Cuesta"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="194"
+Day="13"
+Age="23"
+Pow="C"
+Fam="194"
+Les="0"
+Tra="2000"
+[2000]
+Sue="263000"
+Eqp="GAL_JED"
+[Lvl]
+Frm="968"
+Por="33"
+Def="691"
+Tec="431"
+Ata="450"
+Niv="677"

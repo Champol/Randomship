@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Barcelona"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="142"
+Age="29"
+Pow="C"
+Fam="142"
+Les="12"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="PES_HER"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="32"
+Def="334"
+Tec="388"
+Ata="692"
+Niv="635"

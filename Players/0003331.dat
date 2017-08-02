@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Remaggi"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="161"
+Day="13"
+Age="21"
+Pow="B"
+Fam="161"
+Les="0"
+Tra="2000"
+[2000]
+Sue="176000"
+Eqp="GAL_FEL"
+[Lvl]
+Frm="981"
+Por="31"
+Def="137"
+Tec="410"
+Ata="849"
+Niv="644"

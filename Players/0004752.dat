@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Chinchilla"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="1"
+Day="13"
+Age="32"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_LYO"
+[Lvl]
+Frm="974"
+Por="26"
+Def="185"
+Tec="236"
+Ata="434"
+Niv="353"

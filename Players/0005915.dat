@@ -1,0 +1,22 @@
+[Inf]
+Nom="J. Kimura"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_SAR"
+[Lvl]
+Frm="977"
+Por="8"
+Def="490"
+Tec="284"
+Ata="203"
+Niv="435"

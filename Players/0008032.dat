@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.H. Koide"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="219"
+Day="13"
+Age="23"
+Pow="C"
+Fam="219"
+Les="0"
+Tra="2000"
+[2000]
+Sue="321000"
+Eqp="PES_ROO"
+[Lvl]
+Frm="969"
+Por="40"
+Def="440"
+Tec="914"
+Ata="170"
+Niv="694"

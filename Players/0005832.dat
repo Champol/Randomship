@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Sarras"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="105"
+Day="13"
+Age="23"
+Pow="D"
+Fam="105"
+Les="0"
+Tra="2000"
+[2000]
+Sue="164000"
+Eqp="GAL_O-M"
+[Lvl]
+Frm="970"
+Por="864"
+Def="186"
+Tec="289"
+Ata="12"
+Niv="638"

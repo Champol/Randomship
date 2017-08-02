@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Laplane"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="84"
+Age="25"
+Pow="D"
+Fam="84"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="SEN_DON"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="4"
+Def="780"
+Tec="422"
+Ata="189"
+Niv="617"

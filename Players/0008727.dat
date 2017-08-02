@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Postigo"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="206"
+Age="23"
+Pow="C"
+Fam="206"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="242000"
+Eqp="PES_APO"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="35"
+Def="200"
+Tec="464"
+Ata="852"
+Niv="670"

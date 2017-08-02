@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Duval"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="23"
+Day="13"
+Age="32"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="PES_CRA"
+[Lvl]
+Frm="986"
+Por="10"
+Def="689"
+Tec="288"
+Ata="103"
+Niv="516"

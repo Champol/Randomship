@@ -1,0 +1,23 @@
+[Inf]
+Nom="A.G. Vugrinec"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="158"
+Day="13"
+Age="24"
+Pow="C"
+Fam="158"
+Les="0"
+Tra="2000"
+[2000]
+Sue="236000"
+Eqp="GAL_KES"
+[Lvl]
+Frm="987"
+Por="19"
+Def="163"
+Tec="566"
+Ata="740"
+Niv="668"

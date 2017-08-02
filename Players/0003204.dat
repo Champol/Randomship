@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Stephenson"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="141"
+Age="26"
+Pow="C"
+Fam="141"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="192000"
+Eqp="SEN_ATC"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="37"
+Def="407"
+Tec="849"
+Ata="192"
+Niv="651"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Fekete"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="512"
+Age="24"
+Pow="B"
+Fam="512"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="904000"
+Eqp="GAL_EOS"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="36"
+Def="360"
+Tec="520"
+Ata="860"
+Niv="790"

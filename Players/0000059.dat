@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Artayeta"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="45"
+Age="27"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="57000"
+Eqp="SEN_JON"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="735"
+Def="246"
+Tec="223"
+Ata="3"
+Niv="559"

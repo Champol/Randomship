@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Cormick"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="38"
+Day="13"
+Age="27"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="66000"
+Eqp="GAL_KON"
+[Lvl]
+Frm="978"
+Por="43"
+Def="648"
+Tec="362"
+Ata="204"
+Niv="570"

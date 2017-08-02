@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.T. Guller"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="5"
+Age="30"
+Pow="D"
+Fam="5"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="16000"
+Eqp="PES_AMF"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="47"
+Def="501"
+Tec="294"
+Ata="300"
+Niv="478"

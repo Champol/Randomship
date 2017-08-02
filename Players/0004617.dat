@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Piccio"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="149"
+Age="25"
+Pow="D"
+Fam="149"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="134000"
+Eqp="GAL_TER"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="20"
+Def="840"
+Tec="333"
+Ata="188"
+Niv="622"

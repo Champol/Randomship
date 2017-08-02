@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Dolberg"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="552"
+Age="23"
+Pow="A"
+Fam="552"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="784000"
+Eqp="SEN_TST"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="18"
+Def="141"
+Tec="718"
+Ata="822"
+Niv="776"

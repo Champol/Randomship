@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Louis"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="408"
+Age="27"
+Pow="C"
+Fam="408"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="416000"
+Eqp="GAL_DAG"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="32"
+Def="948"
+Tec="428"
+Ata="196"
+Niv="717"

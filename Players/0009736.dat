@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Rinaldini"
+Rol="DL"
+Pos="SS"
+Nac="1977"
+[Val]
+Rec="110"
+Day="13"
+Age="23"
+Pow="C"
+Fam="110"
+Les="0"
+Tra="2000"
+[2000]
+Sue="152000"
+Eqp="PES_TAU"
+[Lvl]
+Frm="980"
+Por="14"
+Def="170"
+Tec="582"
+Ata="664"
+Niv="632"

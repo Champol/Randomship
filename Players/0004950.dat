@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Panthou"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="29"
+Age="30"
+Pow="C"
+Fam="29"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="47000"
+Eqp="GAL_EOS"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="45"
+Def="169"
+Tec="427"
+Ata="586"
+Niv="546"

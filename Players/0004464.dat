@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Brande"
+Rol="MC"
+Pos="AM"
+Nac="1980"
+[Val]
+Rec="33"
+Day="13"
+Age="20"
+Pow="C"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="GAL_OND"
+[Lvl]
+Frm="966"
+Por="15"
+Def="106"
+Tec="773"
+Ata="305"
+Niv="564"

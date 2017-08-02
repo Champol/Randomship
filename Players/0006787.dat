@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Ellero"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="37"
+Day="13"
+Age="22"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="GAL_SAL"
+[Lvl]
+Frm="999"
+Por="750"
+Def="208"
+Tec="246"
+Ata="35"
+Niv="564"

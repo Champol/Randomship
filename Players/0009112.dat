@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Zisner"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="110"
+Day="13"
+Age="24"
+Pow="B"
+Fam="110"
+Les="0"
+Tra="2000"
+[2000]
+Sue="148000"
+Eqp="PES_COS"
+[Lvl]
+Frm="981"
+Por="10"
+Def="697"
+Tec="426"
+Ata="230"
+Niv="629"

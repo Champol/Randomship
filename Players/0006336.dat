@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Ruvolo"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="32"
+Day="13"
+Age="21"
+Pow="C"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="GAL_KAL"
+[Lvl]
+Frm="979"
+Por="45"
+Def="262"
+Tec="748"
+Ata="229"
+Niv="568"

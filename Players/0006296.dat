@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Mühlenkamp"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="24"
+Day="13"
+Age="20"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="49000"
+Eqp="GAL_PAL"
+[Lvl]
+Frm="978"
+Por="718"
+Def="270"
+Tec="231"
+Ata="14"
+Niv="550"

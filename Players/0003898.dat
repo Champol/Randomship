@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Manza"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="7"
+Day="13"
+Age="26"
+Pow="E"
+Fam="7"
+Les="1"
+Tra="2000"
+[2000]
+Sue="18000"
+Eqp="GAL_ASP"
+[Lvl]
+Frm="964"
+Por="44"
+Def="363"
+Tec="609"
+Ata="100"
+Niv="485"

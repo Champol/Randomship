@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Adebowale"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="29"
+Day="13"
+Age="22"
+Pow="E"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="53000"
+Eqp="GAL_MOR"
+[Lvl]
+Frm="978"
+Por="50"
+Def="144"
+Tec="387"
+Ata="705"
+Niv="554"

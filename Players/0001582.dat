@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Paulos"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="1"
+Age="19"
+Pow="E"
+Fam="1"
+Les="7"
+Tra="2000"
+Day="13"
+[2000]
+Sue="12000"
+Eqp="SEN_ESS"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="7"
+Def="224"
+Tec="494"
+Ata="326"
+Niv="462"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Trevor"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="72"
+Day="13"
+Age="24"
+Pow="C"
+Fam="72"
+Les="0"
+Tra="2000"
+[2000]
+Sue="100000"
+Eqp="GAL_ROS"
+[Lvl]
+Frm="976"
+Por="15"
+Def="386"
+Tec="796"
+Ata="84"
+Niv="600"

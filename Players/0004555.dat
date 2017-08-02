@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.F. Ouakili"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="168"
+Day="13"
+Age="25"
+Pow="C"
+Fam="168"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="GAL_MUS"
+[Lvl]
+Frm="977"
+Por="792"
+Def="324"
+Tec="358"
+Ata="39"
+Niv="637"

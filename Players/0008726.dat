@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Grundy"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="192"
+Age="26"
+Pow="A"
+Fam="192"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="217000"
+Eqp="PES_APO"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="32"
+Def="745"
+Tec="486"
+Ata="162"
+Niv="661"

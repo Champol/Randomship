@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Castellano"
+Rol="MC"
+Pos="AM"
+Nac="1970"
+[Val]
+Rec="23"
+Day="13"
+Age="30"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="38000"
+Eqp="GAL_RHA"
+[Lvl]
+Frm="991"
+Por="26"
+Def="96"
+Tec="684"
+Ata="355"
+Niv="532"

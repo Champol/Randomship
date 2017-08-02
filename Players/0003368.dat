@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Moya"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="43"
+Day="13"
+Age="21"
+Pow="D"
+Fam="43"
+Les="0"
+Tra="2000"
+[2000]
+Sue="89000"
+Eqp="GAL_COM"
+[Lvl]
+Frm="991"
+Por="8"
+Def="791"
+Tec="329"
+Ata="210"
+Niv="591"

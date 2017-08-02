@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Hemayakes"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="105"
+Age="23"
+Pow="C"
+Fam="105"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="119000"
+Eqp="PES_HAR"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="3"
+Def="778"
+Tec="406"
+Ata="237"
+Niv="614"

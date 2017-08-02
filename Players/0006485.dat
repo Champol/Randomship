@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Staven"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="41"
+Day="13"
+Age="23"
+Pow="E"
+Fam="41"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="GAL_COR"
+[Lvl]
+Frm="981"
+Por="50"
+Def="295"
+Tec="562"
+Ata="415"
+Niv="556"

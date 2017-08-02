@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Peralías"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="10"
+Age="20"
+Pow="D"
+Fam="10"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="30000"
+Eqp="SEN_GXI"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="2"
+Def="128"
+Tec="293"
+Ata="696"
+Niv="517"

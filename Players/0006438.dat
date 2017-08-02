@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Delfín"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="74"
+Day="13"
+Age="23"
+Pow="C"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="101000"
+Eqp="GAL_DEL"
+[Lvl]
+Frm="979"
+Por="772"
+Def="306"
+Tec="266"
+Ata="43"
+Niv="602"

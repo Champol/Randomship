@@ -1,0 +1,22 @@
+[Inf]
+Nom="T. Bong"
+Rol="MC"
+Pos="CM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PES_CRA"
+[Lvl]
+Frm="983"
+Por="3"
+Def="184"
+Tec="524"
+Ata="192"
+Niv="402"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Neumann"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="19"
+Day="13"
+Age="29"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="GAL_SIR"
+[Lvl]
+Frm="978"
+Por="21"
+Def="540"
+Tec="369"
+Ata="216"
+Niv="511"

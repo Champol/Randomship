@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Regazzoni"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="262"
+Age="26"
+Pow="C"
+Fam="262"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="292000"
+Eqp="GAL_EAR"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="32"
+Def="328"
+Tec="420"
+Ata="760"
+Niv="686"

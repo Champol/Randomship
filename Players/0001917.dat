@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. McKenzie"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="52"
+Age="21"
+Pow="C"
+Fam="52"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="92000"
+Eqp="SEN_F-C"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="756"
+Def="258"
+Tec="326"
+Ata="47"
+Niv="593"

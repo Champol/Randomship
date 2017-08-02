@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Monroe"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="171"
+Day="13"
+Age="30"
+Pow="B"
+Fam="171"
+Les="0"
+Tra="2000"
+[2000]
+Sue="132000"
+Eqp="GAL_MYG"
+[Lvl]
+Frm="973"
+Por="44"
+Def="780"
+Tec="412"
+Ata="268"
+Niv="621"

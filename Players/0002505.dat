@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Peris"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="15"
+Age="20"
+Pow="D"
+Fam="15"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="38000"
+Eqp="SEN_CHC"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="38"
+Def="556"
+Tec="372"
+Ata="269"
+Niv="531"

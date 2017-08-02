@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Urquieta"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="111"
+Age="23"
+Pow="D"
+Fam="111"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="SEN_KEB"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="40"
+Def="819"
+Tec="358"
+Ata="188"
+Niv="617"

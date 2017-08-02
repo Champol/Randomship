@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Broodryk"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="230"
+Day="13"
+Age="26"
+Pow="B"
+Fam="230"
+Les="0"
+Tra="2000"
+[2000]
+Sue="310000"
+Eqp="GAL_SHI"
+[Lvl]
+Frm="979"
+Por="11"
+Def="189"
+Tec="610"
+Ata="738"
+Niv="691"

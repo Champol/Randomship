@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Nasrallah"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="5"
+Day="13"
+Age="32"
+Pow="B"
+Fam="5"
+Les="0"
+Tra="2000"
+[2000]
+Sue="14000"
+Eqp="PES_PAS"
+[Lvl]
+Frm="972"
+Por="38"
+Def="128"
+Tec="302"
+Ata="598"
+Niv="468"

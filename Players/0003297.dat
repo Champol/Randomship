@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Kwok"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="175"
+Day="13"
+Age="26"
+Pow="C"
+Fam="175"
+Les="0"
+Tra="2000"
+[2000]
+Sue="197000"
+Eqp="GAL_IFN"
+[Lvl]
+Frm="962"
+Por="23"
+Def="139"
+Tec="453"
+Ata="840"
+Niv="654"

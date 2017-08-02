@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Becchio"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="15"
+Day="13"
+Age="32"
+Pow="C"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="27000"
+Eqp="GAL_UMB"
+[Lvl]
+Frm="969"
+Por="2"
+Def="449"
+Tec="413"
+Ata="375"
+Niv="509"

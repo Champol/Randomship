@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Van Buyten"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="15"
+Day="13"
+Age="27"
+Pow="E"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="GAL_N-H"
+[Lvl]
+Frm="972"
+Por="37"
+Def="134"
+Tec="322"
+Ata="666"
+Niv="512"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Vacaflor"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="46"
+Day="13"
+Age="22"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="GAL_VOR"
+[Lvl]
+Frm="968"
+Por="43"
+Def="688"
+Tec="316"
+Ata="289"
+Niv="594"

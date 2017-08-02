@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Haidong"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="11"
+Day="13"
+Age="24"
+Pow="E"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="31000"
+Eqp="GAL_SAL"
+[Lvl]
+Frm="984"
+Por="50"
+Def="94"
+Tec="331"
+Ata="685"
+Niv="519"

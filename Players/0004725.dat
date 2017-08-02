@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Majdan"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_TRD"
+[Lvl]
+Frm="979"
+Por="30"
+Def="471"
+Tec="310"
+Ata="154"
+Niv="390"

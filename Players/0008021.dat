@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Stedham"
+Rol="MC"
+Pos="AM"
+Nac="1969"
+[Val]
+Rec="17"
+Day="13"
+Age="31"
+Pow="C"
+Fam="17"
+Les="0"
+Tra="2000"
+[2000]
+Sue="29000"
+Eqp="PES_ROO"
+[Lvl]
+Frm="977"
+Por="36"
+Def="100"
+Tec="704"
+Ata="266"
+Niv="515"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Suñe"
+Rol="DL"
+Pos="SS"
+Nac="1972"
+[Val]
+Rec="15"
+Day="13"
+Age="28"
+Pow="D"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="31000"
+Eqp="GAL_SMU"
+[Lvl]
+Frm="962"
+Por="43"
+Def="115"
+Tec="411"
+Ata="596"
+Niv="519"

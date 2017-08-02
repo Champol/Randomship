@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Bragg"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="102"
+Day="13"
+Age="21"
+Pow="C"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="192000"
+Eqp="GAL_VUL"
+[Lvl]
+Frm="981"
+Por="43"
+Def="748"
+Tec="350"
+Ata="332"
+Niv="651"

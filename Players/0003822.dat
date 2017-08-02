@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Sharifi"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="56"
+Day="13"
+Age="21"
+Pow="D"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="97000"
+Eqp="GAL_CON"
+[Lvl]
+Frm="979"
+Por="36"
+Def="154"
+Tec="390"
+Ata="782"
+Niv="599"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Guerberoff"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="160"
+Age="27"
+Pow="D"
+Fam="160"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="144000"
+Eqp="GAL_TER"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="0"
+Def="415"
+Tec="812"
+Ata="154"
+Niv="628"

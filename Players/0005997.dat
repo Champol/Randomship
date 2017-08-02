@@ -1,0 +1,22 @@
+[Inf]
+Nom="C. Ofori"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_P-M"
+[Lvl]
+Frm="965"
+Por="6"
+Def="79"
+Tec="249"
+Ata="582"
+Niv="424"

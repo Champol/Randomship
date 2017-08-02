@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Bühner"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="89"
+Day="13"
+Age="27"
+Pow="C"
+Fam="89"
+Les="0"
+Tra="2000"
+[2000]
+Sue="130000"
+Eqp="PES_GEM"
+[Lvl]
+Frm="982"
+Por="1"
+Def="670"
+Tec="394"
+Ata="314"
+Niv="620"

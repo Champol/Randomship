@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Piffardi"
+Rol="DL"
+Pos="CF"
+Nac="1981"
+[Val]
+Rec="1"
+Day="13"
+Age="19"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="GAL_MDR"
+[Lvl]
+Frm="969"
+Por="37"
+Def="157"
+Tec="327"
+Ata="568"
+Niv="452"

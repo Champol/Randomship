@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Bryant"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Rec="54"
+Age="30"
+Pow="B"
+Fam="54"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="78000"
+Eqp="SEN_REN"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="24"
+Def="309"
+Tec="578"
+Ata="442"
+Niv="582"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Huaiquipán"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="303"
+Day="13"
+Age="23"
+Pow="C"
+Fam="303"
+Les="0"
+Tra="2000"
+[2000]
+Sue="336000"
+Eqp="GAL_SIR"
+[Lvl]
+Frm="986"
+Por="8"
+Def="197"
+Tec="438"
+Ata="908"
+Niv="697"

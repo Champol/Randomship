@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Joo"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="47"
+Day="13"
+Age="23"
+Pow="E"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="81000"
+Eqp="GAL_SYN"
+[Lvl]
+Frm="983"
+Por="31"
+Def="392"
+Tec="753"
+Ata="185"
+Niv="584"

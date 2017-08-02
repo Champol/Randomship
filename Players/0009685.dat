@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Sissa"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="121"
+Day="13"
+Age="23"
+Pow="C"
+Fam="121"
+Les="0"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="PES_MAE"
+[Lvl]
+Frm="973"
+Por="28"
+Def="514"
+Tec="758"
+Ata="182"
+Niv="624"

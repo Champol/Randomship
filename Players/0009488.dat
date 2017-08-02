@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Enriori"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="138"
+Age="27"
+Pow="C"
+Fam="138"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="PES_SAY"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="16"
+Def="778"
+Tec="448"
+Ata="156"
+Niv="618"

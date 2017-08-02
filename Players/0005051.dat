@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Mugas"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="132"
+Day="13"
+Age="27"
+Pow="C"
+Fam="132"
+Les="0"
+Tra="2000"
+[2000]
+Sue="164000"
+Eqp="GAL_ZOR"
+[Lvl]
+Frm="978"
+Por="8"
+Def="856"
+Tec="356"
+Ata="177"
+Niv="638"

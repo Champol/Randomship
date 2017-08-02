@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Jong-Woo"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="144"
+Age="22"
+Pow="C"
+Fam="144"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="239000"
+Eqp="SEN_D-S"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="7"
+Def="149"
+Tec="864"
+Ata="452"
+Niv="669"

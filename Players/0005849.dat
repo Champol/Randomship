@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Ransom"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="23"
+Day="13"
+Age="21"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="GAL_O-M"
+[Lvl]
+Frm="982"
+Por="25"
+Def="129"
+Tec="489"
+Ata="649"
+Niv="545"
