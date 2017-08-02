@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Fuchs"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="127"
+Age="30"
+Pow="C"
+Fam="127"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="120000"
+Eqp="PPV_V-C"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="7"
+Def="180"
+Tec="567"
+Ata="630"
+Niv="614"

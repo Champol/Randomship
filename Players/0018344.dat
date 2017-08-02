@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Potocki"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="85"
+Age="27"
+Pow="D"
+Fam="85"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="97000"
+Eqp="CMP_NIZ"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="48"
+Def="191"
+Tec="689"
+Ata="388"
+Niv="597"

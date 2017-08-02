@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Pacini"
+Rol="MC"
+Pos="AM"
+Nac="1969"
+[Val]
+Rec="18"
+Day="13"
+Age="31"
+Pow="C"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="FMG_ARD"
+[Lvl]
+Frm="976"
+Por="18"
+Def="130"
+Tec="640"
+Ata="373"
+Niv="516"

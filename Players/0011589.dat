@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Mandracha"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="102"
+Day="13"
+Age="26"
+Pow="D"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="170000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="968"
+Por="4"
+Def="406"
+Tec="836"
+Ata="176"
+Niv="641"

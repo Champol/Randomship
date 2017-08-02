@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.A. Manes"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="93"
+Age="22"
+Pow="C"
+Fam="93"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="CMP_MFU"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="799"
+Def="327"
+Tec="340"
+Ata="4"
+Niv="634"

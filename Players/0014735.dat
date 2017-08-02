@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Hamadani"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="1"
+Age="29"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PPV_ASO"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="552"
+Def="222"
+Tec="244"
+Ata="41"
+Niv="443"

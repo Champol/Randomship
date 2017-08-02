@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Tonetti"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="29"
+Day="13"
+Age="21"
+Pow="D"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="PPV_ROB"
+[Lvl]
+Frm="980"
+Por="768"
+Def="197"
+Tec="225"
+Ata="47"
+Niv="568"

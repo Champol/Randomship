@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Flaiani"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="35"
+Day="13"
+Age="21"
+Pow="C"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="62000"
+Eqp="FMG_TUL"
+[Lvl]
+Frm="985"
+Por="48"
+Def="672"
+Tec="466"
+Ata="230"
+Niv="565"

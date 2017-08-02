@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Isla"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="128"
+Age="29"
+Pow="C"
+Fam="128"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="122000"
+Eqp="CMP_LAT"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="50"
+Def="295"
+Tec="396"
+Ata="666"
+Niv="615"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Heeren"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="84"
+Day="13"
+Age="23"
+Pow="D"
+Fam="84"
+Les="0"
+Tra="2000"
+[2000]
+Sue="148000"
+Eqp="FMG_MET"
+[Lvl]
+Frm="970"
+Por="40"
+Def="276"
+Tec="497"
+Ata="644"
+Niv="631"

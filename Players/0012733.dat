@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Cello"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="183"
+Day="13"
+Age="24"
+Pow="B"
+Fam="183"
+Les="0"
+Tra="2000"
+[2000]
+Sue="245000"
+Eqp="FMG_G-A"
+[Lvl]
+Frm="990"
+Por="853"
+Def="312"
+Tec="334"
+Ata="6"
+Niv="672"

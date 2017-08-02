@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Ben-David"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="274"
+Age="26"
+Pow="C"
+Fam="274"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="394000"
+Eqp="CMP_GRE"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="45"
+Def="772"
+Tec="482"
+Ata="311"
+Niv="711"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Patil"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="56"
+Day="13"
+Age="28"
+Pow="C"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="89000"
+Eqp="FMG_COA"
+[Lvl]
+Frm="978"
+Por="33"
+Def="132"
+Tec="418"
+Ata="755"
+Niv="591"

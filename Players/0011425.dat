@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Kuroda"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="33"
+Day="13"
+Age="22"
+Pow="D"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="68000"
+Eqp="FMG_KAS"
+[Lvl]
+Frm="983"
+Por="770"
+Def="241"
+Tec="213"
+Ata="30"
+Niv="572"

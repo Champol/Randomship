@@ -1,0 +1,22 @@
+[Inf]
+Nom="M. De Elía"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_MAY"
+[Lvl]
+Frm="974"
+Por="2"
+Def="572"
+Tec="240"
+Ata="120"
+Niv="431"

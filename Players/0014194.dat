@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Echeverst"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Rec="114"
+Day="13"
+Age="32"
+Pow="B"
+Fam="114"
+Les="0"
+Tra="2000"
+[2000]
+Sue="122000"
+Eqp="PPV_BOR"
+[Lvl]
+Frm="964"
+Por="17"
+Def="354"
+Tec="647"
+Ata="382"
+Niv="615"

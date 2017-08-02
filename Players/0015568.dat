@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Lagrange"
+Rol="DL"
+Pos="CF"
+Nac="1979"
+[Val]
+Rec="22"
+Day="13"
+Age="21"
+Pow="D"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="45000"
+Eqp="PPV_OMR"
+[Lvl]
+Frm="977"
+Por="6"
+Def="170"
+Tec="313"
+Ata="724"
+Niv="543"

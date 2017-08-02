@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. McClure"
+Rol="DF"
+Pos="CB"
+Nac="1981"
+[Val]
+Rec="89"
+Age="19"
+Pow="A"
+Fam="89"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="124000"
+Eqp="FMG_CAM"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="45"
+Def="822"
+Tec="380"
+Ata="175"
+Niv="616"

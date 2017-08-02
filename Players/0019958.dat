@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Fevrier"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="23"
+Day="13"
+Age="28"
+Pow="E"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="CUA_UES"
+[Lvl]
+Frm="977"
+Por="36"
+Def="696"
+Tec="347"
+Ata="119"
+Niv="538"

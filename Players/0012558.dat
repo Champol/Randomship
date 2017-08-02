@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Canaveri"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="10"
+Day="13"
+Age="30"
+Pow="C"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="21000"
+Eqp="FMG_FET"
+[Lvl]
+Frm="978"
+Por="571"
+Def="384"
+Tec="270"
+Ata="28"
+Niv="494"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Gana"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="62"
+Day="13"
+Age="22"
+Pow="B"
+Fam="62"
+Les="0"
+Tra="2000"
+[2000]
+Sue="116000"
+Eqp="PPV_ROB"
+[Lvl]
+Frm="965"
+Por="39"
+Def="244"
+Tec="394"
+Ata="689"
+Niv="611"

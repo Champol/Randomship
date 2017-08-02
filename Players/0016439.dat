@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Kiernan"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="138"
+Age="27"
+Pow="C"
+Fam="138"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="142000"
+Eqp="CMP_SER"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="6"
+Def="354"
+Tec="475"
+Ata="612"
+Niv="627"

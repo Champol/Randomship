@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Jumaan"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="168"
+Day="13"
+Age="29"
+Pow="D"
+Fam="168"
+Les="0"
+Tra="2000"
+[2000]
+Sue="168000"
+Eqp="FMG_GOR"
+[Lvl]
+Frm="974"
+Por="822"
+Def="264"
+Tec="318"
+Ata="28"
+Niv="640"

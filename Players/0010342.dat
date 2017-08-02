@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Fanning"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="160"
+Age="23"
+Pow="B"
+Fam="160"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="233000"
+Eqp="PES_MLU"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="4"
+Def="349"
+Tec="684"
+Ata="486"
+Niv="667"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Claros"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="72"
+Age="21"
+Pow="C"
+Fam="72"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="132000"
+Eqp="CMP_REL"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="7"
+Def="840"
+Tec="340"
+Ata="158"
+Niv="621"

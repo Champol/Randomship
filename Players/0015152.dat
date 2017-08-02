@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Róvere"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="11"
+Day="13"
+Age="23"
+Pow="E"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="PPV_BOD"
+[Lvl]
+Frm="983"
+Por="46"
+Def="325"
+Tec="663"
+Ata="204"
+Niv="516"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Campagna"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="157"
+Age="20"
+Pow="A"
+Fam="157"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="223000"
+Eqp="CMP_BYW"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="44"
+Def="889"
+Tec="413"
+Ata="95"
+Niv="663"

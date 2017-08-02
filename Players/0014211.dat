@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.J. Olsuffiev"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="74"
+Day="13"
+Age="24"
+Pow="E"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="PPV_UDS"
+[Lvl]
+Frm="966"
+Por="776"
+Def="262"
+Tec="280"
+Ata="5"
+Niv="599"

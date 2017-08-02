@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Jahanbakhsh"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="1"
+Day="13"
+Age="32"
+Pow="C"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PPV_PON"
+[Lvl]
+Frm="969"
+Por="13"
+Def="559"
+Tec="321"
+Ata="81"
+Niv="440"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Estofán"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="106"
+Day="13"
+Age="25"
+Pow="C"
+Fam="106"
+Les="0"
+Tra="2000"
+[2000]
+Sue="164000"
+Eqp="FMG_LEE"
+[Lvl]
+Frm="974"
+Por="43"
+Def="823"
+Tec="440"
+Ata="117"
+Niv="638"

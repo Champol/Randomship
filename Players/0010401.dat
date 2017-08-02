@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Mourelle"
+Rol="MC"
+Pos="CM"
+Nac="1970"
+[Val]
+Rec="46"
+Day="13"
+Age="30"
+Pow="C"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="PES_PIS"
+[Lvl]
+Frm="989"
+Por="3"
+Def="227"
+Tec="717"
+Ata="253"
+Niv="552"

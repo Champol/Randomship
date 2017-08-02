@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Alayza"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="51"
+Age="29"
+Pow="C"
+Fam="51"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="72000"
+Eqp="CMP_VIT"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="40"
+Def="280"
+Tec="602"
+Ata="403"
+Niv="576"

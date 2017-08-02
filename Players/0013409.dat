@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Zárate"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="71"
+Day="13"
+Age="26"
+Pow="E"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="86000"
+Eqp="FMG_TOM"
+[Lvl]
+Frm="978"
+Por="8"
+Def="594"
+Tec="459"
+Ata="284"
+Niv="589"

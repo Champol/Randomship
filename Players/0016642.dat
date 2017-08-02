@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Myburgh"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="312"
+Age="29"
+Pow="B"
+Fam="312"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="257000"
+Eqp="CMP_L-V"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="0"
+Def="200"
+Tec="565"
+Ata="739"
+Niv="674"

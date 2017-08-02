@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Hurst"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="139"
+Day="13"
+Age="26"
+Pow="C"
+Fam="139"
+Les="0"
+Tra="2000"
+[2000]
+Sue="166000"
+Eqp="FMG_IMO"
+[Lvl]
+Frm="977"
+Por="14"
+Def="225"
+Tec="701"
+Ata="458"
+Niv="638"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Kearns"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="60"
+Day="13"
+Age="26"
+Pow="E"
+Fam="60"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="963"
+Por="42"
+Def="726"
+Tec="412"
+Ata="206"
+Niv="583"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Gregorio"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="141"
+Day="13"
+Age="23"
+Pow="C"
+Fam="141"
+Les="0"
+Tra="2000"
+[2000]
+Sue="170000"
+Eqp="FMG_POD"
+[Lvl]
+Frm="989"
+Por="25"
+Def="668"
+Tec="440"
+Ata="353"
+Niv="641"

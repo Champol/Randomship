@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Kali"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="191"
+Age="30"
+Pow="B"
+Fam="191"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="144000"
+Eqp="FMG_CHA"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="40"
+Def="178"
+Tec="384"
+Ata="824"
+Niv="629"

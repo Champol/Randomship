@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.E. Pintado"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="26"
+Day="13"
+Age="22"
+Pow="D"
+Fam="26"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="FMG_CHE"
+[Lvl]
+Frm="980"
+Por="7"
+Def="567"
+Tec="385"
+Ata="282"
+Niv="545"

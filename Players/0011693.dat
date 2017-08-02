@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Criscuoli"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="191"
+Day="13"
+Age="21"
+Pow="A"
+Fam="191"
+Les="0"
+Tra="2000"
+[2000]
+Sue="321000"
+Eqp="FMG_GOR"
+[Lvl]
+Frm="978"
+Por="33"
+Def="751"
+Tec="501"
+Ata="263"
+Niv="694"

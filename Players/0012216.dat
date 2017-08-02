@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Joya"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="38"
+Day="13"
+Age="23"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="FMG_CHE"
+[Lvl]
+Frm="973"
+Por="36"
+Def="614"
+Tec="424"
+Ata="199"
+Niv="566"

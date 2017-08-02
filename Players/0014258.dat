@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Paquien"
+Rol="MC"
+Pos="DM"
+Nac="1972"
+[Val]
+Rec="45"
+Day="13"
+Age="28"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="59000"
+Eqp="PPV_FIC"
+[Lvl]
+Frm="972"
+Por="27"
+Def="400"
+Tec="701"
+Ata="166"
+Niv="562"

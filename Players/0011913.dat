@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.H. Vogel"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="132"
+Day="13"
+Age="29"
+Pow="C"
+Fam="132"
+Les="0"
+Tra="2000"
+[2000]
+Sue="134000"
+Eqp="FMG_EPO"
+[Lvl]
+Frm="975"
+Por="42"
+Def="266"
+Tec="498"
+Ata="630"
+Niv="622"

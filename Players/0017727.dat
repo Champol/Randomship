@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Renard"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="125"
+Age="30"
+Pow="B"
+Fam="125"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="152000"
+Eqp="CMP_CSA"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="48"
+Def="656"
+Tec="430"
+Ata="326"
+Niv="632"

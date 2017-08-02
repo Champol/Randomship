@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Albarrán"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="110"
+Day="13"
+Age="29"
+Pow="B"
+Fam="110"
+Les="0"
+Tra="2000"
+[2000]
+Sue="119000"
+Eqp="FMG_FET"
+[Lvl]
+Frm="967"
+Por="19"
+Def="262"
+Tec="713"
+Ata="334"
+Niv="613"

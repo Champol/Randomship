@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Cissokho"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="26"
+Day="13"
+Age="26"
+Pow="D"
+Fam="26"
+Les="0"
+Tra="2000"
+[2000]
+Sue="45000"
+Eqp="FMG_HAV"
+[Lvl]
+Frm="976"
+Por="34"
+Def="158"
+Tec="676"
+Ata="392"
+Niv="543"

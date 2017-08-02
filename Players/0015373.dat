@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Bono"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="190"
+Age="27"
+Pow="C"
+Fam="190"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="185000"
+Eqp="PPV_UNI"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="872"
+Def="225"
+Tec="258"
+Ata="20"
+Niv="648"

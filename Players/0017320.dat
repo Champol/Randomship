@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Palombo"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="40"
+Age="20"
+Pow="B"
+Fam="40"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="78000"
+Eqp="CMP_PCC"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="49"
+Def="739"
+Tec="412"
+Ata="200"
+Niv="582"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Rodrígurez"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="290"
+Age="30"
+Pow="B"
+Fam="290"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="233000"
+Eqp="PPV_EBZ"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="38"
+Def="142"
+Tec="642"
+Ata="682"
+Niv="667"

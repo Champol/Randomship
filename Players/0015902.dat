@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Fumi"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="207"
+Day="13"
+Age="30"
+Pow="B"
+Fam="207"
+Les="0"
+Tra="2000"
+[2000]
+Sue="245000"
+Eqp="PPV_RUN"
+[Lvl]
+Frm="986"
+Por="12"
+Def="870"
+Tec="424"
+Ata="204"
+Niv="670"

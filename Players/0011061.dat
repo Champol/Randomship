@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Quintanilla"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="11"
+Day="13"
+Age="21"
+Pow="E"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="26000"
+Eqp="FMG_HAR"
+[Lvl]
+Frm="971"
+Por="29"
+Def="301"
+Tec="650"
+Ata="190"
+Niv="507"

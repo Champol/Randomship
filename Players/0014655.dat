@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Alcántar"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="129"
+Age="23"
+Pow="C"
+Fam="129"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="148000"
+Eqp="PPV_RAY"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="13"
+Def="818"
+Tec="408"
+Ata="160"
+Niv="630"

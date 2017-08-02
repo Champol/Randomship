@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Penov"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="15"
+Day="13"
+Age="21"
+Pow="E"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="34000"
+Eqp="FMG_VEL"
+[Lvl]
+Frm="964"
+Por="696"
+Def="198"
+Tec="231"
+Ata="44"
+Niv="524"

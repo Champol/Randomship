@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Carminatti"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="19"
+Day="13"
+Age="29"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="29000"
+Eqp="FMG_FET"
+[Lvl]
+Frm="980"
+Por="15"
+Def="668"
+Tec="316"
+Ata="161"
+Niv="514"

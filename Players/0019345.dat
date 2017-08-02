@@ -1,0 +1,24 @@
+[Inf]
+Nom="J.T. Bronemberg"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="150"
+Age="27"
+Pow="C"
+Fam="150"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="144000"
+Eqp="AZR_THE"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="806"
+Def="274"
+Tec="314"
+Ata="1"
+Niv="628"

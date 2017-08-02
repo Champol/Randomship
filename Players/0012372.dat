@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Mahmood"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="22"
+Day="13"
+Age="26"
+Pow="E"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="36000"
+Eqp="FMG_LAB"
+[Lvl]
+Frm="979"
+Por="6"
+Def="394"
+Tec="663"
+Ata="106"
+Niv="528"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Stimpfe"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="306"
+Age="27"
+Pow="C"
+Fam="306"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="317000"
+Eqp="CMP_MDR"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="45"
+Def="744"
+Tec="428"
+Ata="377"
+Niv="693"

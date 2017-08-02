@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Hajsafi"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="39"
+Day="13"
+Age="21"
+Pow="D"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="PPV_BOD"
+[Lvl]
+Frm="981"
+Por="35"
+Def="638"
+Tec="374"
+Ata="206"
+Niv="566"

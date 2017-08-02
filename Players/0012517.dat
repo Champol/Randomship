@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Dinh"
+Rol="MC"
+Pos="CM"
+Nac="1970"
+[Val]
+Rec="58"
+Day="13"
+Age="30"
+Pow="C"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="FMG_REQ"
+[Lvl]
+Frm="968"
+Por="48"
+Def="334"
+Tec="755"
+Ata="197"
+Niv="587"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.F. Chiappo"
+Rol="MC"
+Pos="AM"
+Nac="1976"
+[Val]
+Rec="139"
+Day="13"
+Age="24"
+Pow="C"
+Fam="139"
+Les="0"
+Tra="2000"
+[2000]
+Sue="199000"
+Eqp="FMG_G-P"
+[Lvl]
+Frm="983"
+Por="0"
+Def="216"
+Tec="874"
+Ata="360"
+Niv="654"

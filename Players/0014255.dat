@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Mazaguer"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="10"
+Day="13"
+Age="19"
+Pow="C"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="PPV_FIC"
+[Lvl]
+Frm="967"
+Por="23"
+Def="216"
+Tec="528"
+Ata="409"
+Niv="511"

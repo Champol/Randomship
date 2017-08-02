@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Rollins"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="66"
+Day="13"
+Age="23"
+Pow="D"
+Fam="66"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="FMG_TUL"
+[Lvl]
+Frm="975"
+Por="6"
+Def="735"
+Tec="454"
+Ata="152"
+Niv="592"

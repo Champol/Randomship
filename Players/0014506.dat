@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. London"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="191"
+Age="27"
+Pow="C"
+Fam="191"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="185000"
+Eqp="PPV_U-J"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="9"
+Def="810"
+Tec="510"
+Ata="78"
+Niv="647"

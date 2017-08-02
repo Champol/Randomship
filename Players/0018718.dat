@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Podts"
+Rol="MC"
+Pos="DM"
+Nac="1968"
+[Val]
+Rec="34"
+Age="32"
+Pow="C"
+Fam="34"
+Les="4"
+Tra="2000"
+Day="13"
+[2000]
+Sue="39000"
+Eqp="AZR_ILE"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="3"
+Def="256"
+Tec="718"
+Ata="187"
+Niv="533"

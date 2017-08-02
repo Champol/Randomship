@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Esteguy"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="9"
+Age="21"
+Pow="E"
+Fam="9"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="24000"
+Eqp="CMP_OXI"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="665"
+Def="230"
+Tec="193"
+Ata="44"
+Niv="502"

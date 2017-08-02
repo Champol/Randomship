@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Zarrabeitia"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="29"
+Age="32"
+Pow="B"
+Fam="29"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="43000"
+Eqp="PPV_SDL"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="41"
+Def="735"
+Tec="294"
+Ata="98"
+Niv="540"

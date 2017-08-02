@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Zaki"
+Rol="DL"
+Pos="SS"
+Nac="1975"
+[Val]
+Rec="136"
+Day="13"
+Age="25"
+Pow="C"
+Fam="136"
+Les="0"
+Tra="2000"
+[2000]
+Sue="152000"
+Eqp="PES_SCO"
+[Lvl]
+Frm="990"
+Por="23"
+Def="174"
+Tec="538"
+Ata="693"
+Niv="632"

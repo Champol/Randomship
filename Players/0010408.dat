@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Alberts"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="160"
+Day="13"
+Age="23"
+Pow="D"
+Fam="160"
+Les="0"
+Tra="2000"
+[2000]
+Sue="164000"
+Eqp="PES_PIS"
+[Lvl]
+Frm="977"
+Por="47"
+Def="316"
+Tec="342"
+Ata="738"
+Niv="638"

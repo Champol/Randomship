@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Latour"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="56"
+Day="13"
+Age="20"
+Pow="B"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="86000"
+Eqp="FMG_MAN"
+[Lvl]
+Frm="972"
+Por="1"
+Def="458"
+Tec="728"
+Ata="179"
+Niv="589"

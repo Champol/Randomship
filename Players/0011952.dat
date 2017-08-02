@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Oromí"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="32"
+Day="13"
+Age="26"
+Pow="D"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="FMG_CHH"
+[Lvl]
+Frm="973"
+Por="31"
+Def="736"
+Tec="352"
+Ata="173"
+Niv="565"

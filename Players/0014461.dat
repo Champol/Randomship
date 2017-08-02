@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Angueira"
+Rol="MC"
+Pos="CM"
+Nac="1970"
+[Val]
+Rec="37"
+Age="30"
+Pow="C"
+Fam="37"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="60000"
+Eqp="PPV_YER"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="21"
+Def="199"
+Tec="754"
+Ata="230"
+Niv="563"

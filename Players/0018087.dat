@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Legarri"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="71"
+Age="27"
+Pow="C"
+Fam="71"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="103000"
+Eqp="CMP_VIT"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="6"
+Def="181"
+Tec="440"
+Ata="750"
+Niv="602"

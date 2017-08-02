@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Miniagurria"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="13"
+Day="13"
+Age="26"
+Pow="E"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="27000"
+Eqp="FMG_VEL"
+[Lvl]
+Frm="995"
+Por="39"
+Def="636"
+Tec="380"
+Ata="122"
+Niv="509"

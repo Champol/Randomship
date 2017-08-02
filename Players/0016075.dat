@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Severino"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="105"
+Age="23"
+Pow="C"
+Fam="105"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="162000"
+Eqp="PPV_PAÑ"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="27"
+Def="728"
+Tec="370"
+Ata="297"
+Niv="637"

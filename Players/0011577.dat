@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Peña"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="28"
+Day="13"
+Age="31"
+Pow="B"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="969"
+Por="19"
+Def="676"
+Tec="368"
+Ata="167"
+Niv="534"

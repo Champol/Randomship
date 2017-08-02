@@ -1,0 +1,23 @@
+[Inf]
+Nom="C.A. Duclos"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="141"
+Day="13"
+Age="27"
+Pow="D"
+Fam="141"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="PPV_BOR"
+[Lvl]
+Frm="979"
+Por="17"
+Def="118"
+Tec="345"
+Ata="843"
+Niv="625"

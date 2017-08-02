@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Civit"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="136"
+Day="13"
+Age="22"
+Pow="C"
+Fam="136"
+Les="0"
+Tra="2000"
+[2000]
+Sue="223000"
+Eqp="FMG_BLA"
+[Lvl]
+Frm="986"
+Por="37"
+Def="260"
+Tec="883"
+Ata="280"
+Niv="663"

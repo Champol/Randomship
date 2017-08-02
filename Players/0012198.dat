@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Okada"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="43"
+Day="13"
+Age="22"
+Pow="D"
+Fam="43"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="FMG_QUA"
+[Lvl]
+Frm="977"
+Por="50"
+Def="187"
+Tec="728"
+Ata="377"
+Niv="568"

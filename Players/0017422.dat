@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Sargent"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="106"
+Age="27"
+Pow="C"
+Fam="106"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="CMP_LAT"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="19"
+Def="222"
+Tec="573"
+Ata="629"
+Niv="617"

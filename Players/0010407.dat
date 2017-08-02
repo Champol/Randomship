@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. De Jong"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="52"
+Day="13"
+Age="32"
+Pow="D"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="47000"
+Eqp="PES_PIS"
+[Lvl]
+Frm="980"
+Por="2"
+Def="32"
+Tec="314"
+Ata="740"
+Niv="546"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.I. Villamor"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="86"
+Day="13"
+Age="24"
+Pow="D"
+Fam="86"
+Les="0"
+Tra="2000"
+[2000]
+Sue="106000"
+Eqp="CUA_UES"
+[Lvl]
+Frm="990"
+Por="10"
+Def="121"
+Tec="267"
+Ata="854"
+Niv="604"

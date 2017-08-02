@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Mejía"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="23"
+Day="13"
+Age="20"
+Pow="C"
+Fam="23"
+Les="0"
+Tra="2000"
+[2000]
+Sue="39000"
+Eqp="PES_MAC"
+[Lvl]
+Frm="972"
+Por="37"
+Def="265"
+Tec="585"
+Ata="333"
+Niv="533"

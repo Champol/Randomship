@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Labarriere"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="51"
+Age="23"
+Pow="E"
+Fam="51"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="70000"
+Eqp="CMP_GRE"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="50"
+Def="96"
+Tec="379"
+Ata="757"
+Niv="574"

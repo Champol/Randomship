@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Ben Younes"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="199"
+Day="13"
+Age="26"
+Pow="B"
+Fam="199"
+Les="0"
+Tra="2000"
+[2000]
+Sue="245000"
+Eqp="FMG_TIL"
+[Lvl]
+Frm="981"
+Por="16"
+Def="435"
+Tec="878"
+Ata="156"
+Niv="671"

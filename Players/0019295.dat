@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Ochagavía"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="750"
+Age="26"
+Pow="C"
+Fam="750"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="610000"
+Eqp="AZR_DOA"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="21"
+Def="959"
+Tec="532"
+Ata="144"
+Niv="751"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Bhatia "
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="45"
+Day="13"
+Age="25"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="FMG_CAS"
+[Lvl]
+Frm="984"
+Por="735"
+Def="287"
+Tec="226"
+Ata="38"
+Niv="568"

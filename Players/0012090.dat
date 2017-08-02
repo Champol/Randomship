@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Verdi"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="80"
+Day="13"
+Age="26"
+Pow="C"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="110000"
+Eqp="FMG_KPF"
+[Lvl]
+Frm="971"
+Por="30"
+Def="655"
+Tec="374"
+Ata="330"
+Niv="607"

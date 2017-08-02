@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Rieper"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Rec="190"
+Age="30"
+Pow="B"
+Fam="190"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="137000"
+Eqp="CMP_TOC"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="17"
+Def="342"
+Tec="622"
+Ata="459"
+Niv="624"

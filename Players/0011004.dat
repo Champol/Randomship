@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.F. Riera"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Rec="4"
+Day="13"
+Age="18"
+Pow="C"
+Fam="4"
+Les="0"
+Tra="2000"
+[2000]
+Sue="18000"
+Eqp="FMG_CAT"
+[Lvl]
+Frm="995"
+Por="21"
+Def="183"
+Tec="656"
+Ata="190"
+Niv="485"

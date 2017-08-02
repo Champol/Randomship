@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Gooden"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="199"
+Day="13"
+Age="26"
+Pow="D"
+Fam="199"
+Les="0"
+Tra="2000"
+[2000]
+Sue="248000"
+Eqp="FMG_MAQ"
+[Lvl]
+Frm="972"
+Por="40"
+Def="221"
+Tec="892"
+Ata="302"
+Niv="672"

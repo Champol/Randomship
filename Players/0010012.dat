@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Chodkiewicz"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="581"
+Day="13"
+Age="26"
+Pow="B"
+Fam="581"
+Les="0"
+Tra="2000"
+[2000]
+Sue="706000"
+Eqp="PES_SCO"
+[Lvl]
+Frm="982"
+Por="8"
+Def="878"
+Tec="466"
+Ata="297"
+Niv="767"

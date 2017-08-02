@@ -1,0 +1,22 @@
+[Inf]
+Nom="G. Roos"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_GEI"
+[Lvl]
+Frm="976"
+Por="43"
+Def="489"
+Tec="197"
+Ata="182"
+Niv="407"

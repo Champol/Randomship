@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Hadid"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_MAN"
+[Lvl]
+Frm="984"
+Por="42"
+Def="521"
+Tec="339"
+Ata="150"
+Niv="428"

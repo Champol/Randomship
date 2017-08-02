@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Wong"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="132"
+Day="13"
+Age="24"
+Pow="D"
+Fam="132"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="FMG_GOR"
+[Lvl]
+Frm="976"
+Por="20"
+Def="664"
+Tec="440"
+Ata="333"
+Niv="637"

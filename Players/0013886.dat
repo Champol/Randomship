@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Pulido"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="39"
+Day="13"
+Age="29"
+Pow="D"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="FMG_TDM"
+[Lvl]
+Frm="976"
+Por="13"
+Def="56"
+Tec="511"
+Ata="614"
+Niv="567"

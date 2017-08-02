@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Suffi"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="21"
+Day="13"
+Age="27"
+Pow="D"
+Fam="21"
+Les="0"
+Tra="2000"
+[2000]
+Sue="39000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="975"
+Por="42"
+Def="702"
+Tec="342"
+Ata="99"
+Niv="534"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Gattuso"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="227"
+Day="13"
+Age="30"
+Pow="B"
+Fam="227"
+Les="0"
+Tra="2000"
+[2000]
+Sue="192000"
+Eqp="FMG_QUA"
+[Lvl]
+Frm="980"
+Por="47"
+Def="174"
+Tec="546"
+Ata="719"
+Niv="651"

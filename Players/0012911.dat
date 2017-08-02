@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Shawki"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="134"
+Day="13"
+Age="26"
+Pow="B"
+Fam="134"
+Les="0"
+Tra="2000"
+[2000]
+Sue="212000"
+Eqp="FMG_LIP"
+[Lvl]
+Frm="978"
+Por="35"
+Def="697"
+Tec="454"
+Ata="326"
+Niv="659"

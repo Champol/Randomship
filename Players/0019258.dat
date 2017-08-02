@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Manson"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="116"
+Age="26"
+Pow="D"
+Fam="116"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="128000"
+Eqp="AZR_YEK"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="764"
+Def="358"
+Tec="316"
+Ata="45"
+Niv="619"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Halloran"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="11"
+Age="30"
+Pow="D"
+Fam="11"
+Les="8"
+Tra="2000"
+Day="13"
+[2000]
+Sue="23000"
+Eqp="PES_TYH"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="29"
+Def="658"
+Tec="289"
+Ata="118"
+Niv="498"

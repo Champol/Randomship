@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Ballin"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="555"
+Age="24"
+Pow="B"
+Fam="555"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="513000"
+Eqp="CMP_CAN"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="12"
+Def="310"
+Tec="977"
+Ata="282"
+Niv="736"

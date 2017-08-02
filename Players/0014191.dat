@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Ilaurita"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PPV_BOR"
+[Lvl]
+Frm="971"
+Por="33"
+Def="494"
+Tec="258"
+Ata="185"
+Niv="428"

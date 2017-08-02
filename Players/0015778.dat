@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Fechino"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="47"
+Day="13"
+Age="20"
+Pow="B"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="PPV_BLO"
+[Lvl]
+Frm="971"
+Por="807"
+Def="194"
+Tec="231"
+Ata="13"
+Niv="592"

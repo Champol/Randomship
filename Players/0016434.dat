@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Ayad"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Rec="309"
+Age="30"
+Pow="B"
+Fam="309"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="279000"
+Eqp="CMP_SER"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="22"
+Def="216"
+Tec="358"
+Ata="916"
+Niv="682"

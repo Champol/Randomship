@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Sardo"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="134"
+Age="21"
+Pow="C"
+Fam="134"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="195000"
+Eqp="CMP_GAL"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="6"
+Def="233"
+Tec="488"
+Ata="708"
+Niv="651"

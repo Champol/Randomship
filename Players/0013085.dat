@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Collados"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="33"
+Day="13"
+Age="30"
+Pow="C"
+Fam="33"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="FMG_PAN"
+[Lvl]
+Frm="972"
+Por="19"
+Def="539"
+Tec="440"
+Ata="263"
+Niv="545"

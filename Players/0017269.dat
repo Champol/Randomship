@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Rached"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="325"
+Age="24"
+Pow="A"
+Fam="325"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="470000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="15"
+Def="319"
+Tec="969"
+Ata="258"
+Niv="728"

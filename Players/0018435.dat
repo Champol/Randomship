@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Digne"
+Rol="DL"
+Pos="WF"
+Nac="1977"
+[Val]
+Rec="88"
+Age="23"
+Pow="C"
+Fam="88"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="120000"
+Eqp="CMP_NTM"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="13"
+Def="278"
+Tec="452"
+Ata="642"
+Niv="613"

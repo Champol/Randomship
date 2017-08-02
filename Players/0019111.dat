@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Landry"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="116"
+Age="29"
+Pow="C"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="141000"
+Eqp="AZR_URU"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="22"
+Def="838"
+Tec="338"
+Ata="188"
+Niv="625"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Perramón"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="68"
+Age="22"
+Pow="D"
+Fam="68"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="111000"
+Eqp="CMP_ARN"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="9"
+Def="124"
+Tec="366"
+Ata="816"
+Niv="608"

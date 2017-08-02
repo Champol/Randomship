@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Al-Amuli"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="589"
+Age="26"
+Pow="B"
+Fam="589"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="590000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="16"
+Def="308"
+Tec="976"
+Ata="336"
+Niv="748"

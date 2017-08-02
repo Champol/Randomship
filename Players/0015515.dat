@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Bielli"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="58"
+Day="13"
+Age="23"
+Pow="D"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="103000"
+Eqp="PPV_NAM"
+[Lvl]
+Frm="978"
+Por="2"
+Def="786"
+Tec="404"
+Ata="103"
+Niv="602"

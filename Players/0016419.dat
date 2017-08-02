@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Trippel"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="379"
+Age="25"
+Pow="B"
+Fam="379"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="381000"
+Eqp="CMP_SER"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="35"
+Def="750"
+Tec="522"
+Ata="305"
+Niv="710"

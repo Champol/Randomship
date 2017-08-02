@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Suaznábar"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="40"
+Age="20"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="53000"
+Eqp="PES_PES"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="0"
+Def="116"
+Tec="388"
+Ata="711"
+Niv="554"

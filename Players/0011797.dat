@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Berazategui"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Day="13"
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_JAR"
+[Lvl]
+Frm="980"
+Por="2"
+Def="114"
+Tec="239"
+Ata="544"
+Niv="413"

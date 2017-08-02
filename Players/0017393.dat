@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Peretz"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="58"
+Age="24"
+Pow="D"
+Fam="58"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="81000"
+Eqp="CMP_GRE"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="47"
+Def="271"
+Tec="379"
+Ata="644"
+Niv="584"

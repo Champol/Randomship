@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Bonilla"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="57"
+Day="13"
+Age="20"
+Pow="C"
+Fam="57"
+Les="0"
+Tra="2000"
+[2000]
+Sue="106000"
+Eqp="FMG_COO"
+[Lvl]
+Frm="979"
+Por="27"
+Def="121"
+Tec="384"
+Ata="800"
+Niv="604"

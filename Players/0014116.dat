@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Reaves"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="24"
+Age="29"
+Pow="C"
+Fam="24"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="34000"
+Eqp="PPV_EDM"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="20"
+Def="157"
+Tec="357"
+Ata="665"
+Niv="525"

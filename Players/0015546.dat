@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Oteiza"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="99"
+Day="13"
+Age="23"
+Pow="D"
+Fam="99"
+Les="0"
+Tra="2000"
+[2000]
+Sue="128000"
+Eqp="PPV_OMR"
+[Lvl]
+Frm="964"
+Por="810"
+Def="271"
+Tec="259"
+Ata="33"
+Niv="619"

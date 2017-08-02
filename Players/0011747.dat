@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Guillemot"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="45"
+Day="13"
+Age="25"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="69000"
+Eqp="FMG_PRA"
+[Lvl]
+Frm="981"
+Por="736"
+Def="281"
+Tec="270"
+Ata="0"
+Niv="573"

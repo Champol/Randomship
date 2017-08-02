@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Simonek"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="65"
+Age="25"
+Pow="D"
+Fam="65"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="97000"
+Eqp="CMP_DEN"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="16"
+Def="606"
+Tec="445"
+Ata="308"
+Niv="598"

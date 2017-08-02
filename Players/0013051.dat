@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Albornoz"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="18"
+Day="13"
+Age="25"
+Pow="D"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="FMG_APP"
+[Lvl]
+Frm="983"
+Por="689"
+Def="255"
+Tec="259"
+Ata="47"
+Niv="538"

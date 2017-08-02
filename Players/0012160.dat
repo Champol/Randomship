@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Cousinet"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="387"
+Day="13"
+Age="24"
+Pow="B"
+Fam="387"
+Les="0"
+Tra="2000"
+[2000]
+Sue="475000"
+Eqp="FMG_B-L"
+[Lvl]
+Frm="991"
+Por="43"
+Def="777"
+Tec="454"
+Ata="408"
+Niv="729"

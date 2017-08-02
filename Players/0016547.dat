@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Fernando"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="39"
+Age="29"
+Pow="C"
+Fam="39"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="CMP_TGT"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="45"
+Def="322"
+Tec="742"
+Ata="125"
+Niv="556"

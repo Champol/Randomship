@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Sardou"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="74"
+Day="13"
+Age="23"
+Pow="D"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="110000"
+Eqp="FMG_CAT"
+[Lvl]
+Frm="994"
+Por="33"
+Def="294"
+Tec="652"
+Ata="417"
+Niv="608"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Ouk"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="196"
+Day="13"
+Age="23"
+Pow="C"
+Fam="196"
+Les="0"
+Tra="2000"
+[2000]
+Sue="306000"
+Eqp="FMG_CHE"
+[Lvl]
+Frm="975"
+Por="48"
+Def="538"
+Tec="862"
+Ata="116"
+Niv="690"

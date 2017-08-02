@@ -1,0 +1,22 @@
+[Inf]
+Nom="L.F. Gesualdo"
+Rol="MC"
+Pos="DM"
+Nac="1968"
+[Val]
+Day="13"
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_BRI"
+[Lvl]
+Frm="973"
+Por="15"
+Def="236"
+Tec="485"
+Ata="55"
+Niv="375"

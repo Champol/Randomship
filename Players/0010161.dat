@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Tesoriero"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="40"
+Day="13"
+Age="20"
+Pow="C"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="60000"
+Eqp="PES_CAR"
+[Lvl]
+Frm="983"
+Por="39"
+Def="634"
+Tec="393"
+Ata="190"
+Niv="563"

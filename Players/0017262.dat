@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Argerich"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="404"
+Age="31"
+Pow="A"
+Fam="404"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="348000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="18"
+Def="904"
+Tec="459"
+Ata="190"
+Niv="700"

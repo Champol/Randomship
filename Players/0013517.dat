@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Itada"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="18"
+Day="13"
+Age="32"
+Pow="C"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="34000"
+Eqp="FMG_MAN"
+[Lvl]
+Frm="986"
+Por="671"
+Def="203"
+Tec="270"
+Ata="36"
+Niv="524"

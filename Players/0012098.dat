@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Konsel"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="78"
+Day="13"
+Age="25"
+Pow="D"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="FMG_GEI"
+[Lvl]
+Frm="996"
+Por="5"
+Def="692"
+Tec="425"
+Ata="247"
+Niv="624"

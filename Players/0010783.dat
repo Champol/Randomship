@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Chiuki"
+Rol="DL"
+Pos="WF"
+Nac="1982"
+[Val]
+Rec="13"
+Day="13"
+Age="18"
+Pow="D"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="FMG_ANT"
+[Lvl]
+Frm="978"
+Por="27"
+Def="250"
+Tec="387"
+Ata="552"
+Niv="527"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Jimena"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="19"
+Age="20"
+Pow="D"
+Fam="19"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="34000"
+Eqp="CMP_BLU"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="38"
+Def="265"
+Tec="682"
+Ata="208"
+Niv="525"

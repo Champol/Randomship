@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.C. Olacoa"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="45"
+Day="13"
+Age="27"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="FMG_TIR"
+[Lvl]
+Frm="967"
+Por="16"
+Def="273"
+Tec="600"
+Ata="420"
+Niv="577"

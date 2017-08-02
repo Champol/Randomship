@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Brunetti"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="139"
+Day="13"
+Age="23"
+Pow="C"
+Fam="139"
+Les="0"
+Tra="2000"
+[2000]
+Sue="188000"
+Eqp="FMG_COO"
+[Lvl]
+Frm="967"
+Por="12"
+Def="882"
+Tec="337"
+Ata="184"
+Niv="649"

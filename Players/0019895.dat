@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Mariano"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Age="17"
+Pow="E"
+Fam="0"
+Les="7"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="AZR_INU"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="529"
+Def="162"
+Tec="252"
+Ata="18"
+Niv="411"

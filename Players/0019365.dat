@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Weidenfeller"
+Rol="DL"
+Pos="SS"
+Nac="1978"
+[Val]
+Rec="214"
+Age="22"
+Pow="B"
+Fam="214"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="321000"
+Eqp="AZR_THE"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="33"
+Def="142"
+Tec="575"
+Ata="788"
+Niv="694"

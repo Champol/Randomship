@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Vashchuk"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="166"
+Age="23"
+Pow="C"
+Fam="166"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="276000"
+Eqp="PES_SER"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="11"
+Def="278"
+Tec="748"
+Ata="460"
+Niv="682"

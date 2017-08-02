@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Bozán"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="233"
+Age="26"
+Pow="C"
+Fam="233"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="279000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="40"
+Def="463"
+Tec="866"
+Ata="238"
+Niv="682"

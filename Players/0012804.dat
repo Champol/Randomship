@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Magnelli"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="155"
+Day="13"
+Age="26"
+Pow="D"
+Fam="155"
+Les="0"
+Tra="2000"
+[2000]
+Sue="195000"
+Eqp="FMG_BRU"
+[Lvl]
+Frm="982"
+Por="0"
+Def="310"
+Tec="657"
+Ata="508"
+Niv="652"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Gazari"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="229"
+Age="31"
+Pow="A"
+Fam="229"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="228000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="992"
+Por="4"
+Def="850"
+Tec="466"
+Ata="149"
+Niv="666"

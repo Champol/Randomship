@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Enslin"
+Rol="MC"
+Pos="WM"
+Nac="1972"
+[Val]
+Rec="205"
+Day="13"
+Age="28"
+Pow="C"
+Fam="205"
+Les="0"
+Tra="2000"
+[2000]
+Sue="199000"
+Eqp="PES_SCO"
+[Lvl]
+Frm="970"
+Por="39"
+Def="264"
+Tec="711"
+Ata="448"
+Niv="654"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.F. Barainza"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="189"
+Age="26"
+Pow="C"
+Fam="189"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="254000"
+Eqp="PPV_TPC"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="29"
+Def="85"
+Tec="599"
+Ata="737"
+Niv="674"

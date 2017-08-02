@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Schaller"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="16"
+Age="29"
+Pow="C"
+Fam="16"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="27000"
+Eqp="CMP_DAR"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="621"
+Def="227"
+Tec="334"
+Ata="34"
+Niv="508"

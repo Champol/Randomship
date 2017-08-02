@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Harriot"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="86"
+Day="13"
+Age="24"
+Pow="D"
+Fam="86"
+Les="0"
+Tra="2000"
+[2000]
+Sue="132000"
+Eqp="FMG_GAM"
+[Lvl]
+Frm="970"
+Por="39"
+Def="797"
+Tec="434"
+Ata="154"
+Niv="621"

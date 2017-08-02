@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. March"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="76"
+Day="13"
+Age="25"
+Pow="D"
+Fam="76"
+Les="0"
+Tra="2000"
+[2000]
+Sue="120000"
+Eqp="PPV_BLO"
+[Lvl]
+Frm="977"
+Por="34"
+Def="687"
+Tec="393"
+Ata="258"
+Niv="614"

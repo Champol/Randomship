@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Al-Razi"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="140"
+Day="13"
+Age="23"
+Pow="C"
+Fam="140"
+Les="0"
+Tra="2000"
+[2000]
+Sue="172000"
+Eqp="FMG_BRI"
+[Lvl]
+Frm="980"
+Por="19"
+Def="795"
+Tec="493"
+Ata="170"
+Niv="642"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.J. Biernbak"
+Rol="DL"
+Pos="CF"
+Nac="1970"
+[Val]
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_DAR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="33"
+Def="110"
+Tec="240"
+Ata="554"
+Niv="418"

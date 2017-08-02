@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Larrarte"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="52"
+Day="13"
+Age="21"
+Pow="D"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="86000"
+Eqp="FMG_COA"
+[Lvl]
+Frm="972"
+Por="43"
+Def="130"
+Tec="513"
+Ata="651"
+Niv="589"

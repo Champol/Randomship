@@ -1,0 +1,24 @@
+[Inf]
+Nom="C.A. Kuzmanic"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="180"
+Age="21"
+Pow="B"
+Fam="180"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="197000"
+Eqp="PPV_EBZ"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="16"
+Def="262"
+Tec="828"
+Ata="384"
+Niv="653"

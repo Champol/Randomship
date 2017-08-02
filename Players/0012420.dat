@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Sallarés"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="255"
+Day="13"
+Age="25"
+Pow="C"
+Fam="255"
+Les="0"
+Tra="2000"
+[2000]
+Sue="321000"
+Eqp="FMG_HUS"
+[Lvl]
+Frm="976"
+Por="6"
+Def="892"
+Tec="466"
+Ata="168"
+Niv="694"

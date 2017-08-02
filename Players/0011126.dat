@@ -1,0 +1,22 @@
+[Inf]
+Nom="Z. Littlejohn"
+Rol="MC"
+Pos="CM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_C-W"
+[Lvl]
+Frm="996"
+Por="34"
+Def="215"
+Tec="501"
+Ata="150"
+Niv="385"

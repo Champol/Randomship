@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Ortoll"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="93"
+Day="13"
+Age="23"
+Pow="D"
+Fam="93"
+Les="0"
+Tra="2000"
+[2000]
+Sue="168000"
+Eqp="FMG_CHE"
+[Lvl]
+Frm="963"
+Por="18"
+Def="128"
+Tec="426"
+Ata="836"
+Niv="640"

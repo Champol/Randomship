@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Fili"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="229"
+Day="13"
+Age="26"
+Pow="C"
+Fam="229"
+Les="0"
+Tra="2000"
+[2000]
+Sue="263000"
+Eqp="FMG_HUA"
+[Lvl]
+Frm="973"
+Por="50"
+Def="739"
+Tec="390"
+Ata="390"
+Niv="678"

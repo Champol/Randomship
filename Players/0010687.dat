@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Boffano"
+Rol="MC"
+Pos="CM"
+Nac="1975"
+[Val]
+Rec="302"
+Day="13"
+Age="25"
+Pow="A"
+Fam="302"
+Les="8"
+Tra="2000"
+[2000]
+Sue="440000"
+Eqp="FMG_BRY"
+[Lvl]
+Frm="980"
+Por="23"
+Def="402"
+Tec="934"
+Ata="246"
+Niv="722"

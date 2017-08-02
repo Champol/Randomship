@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Stevinson"
+Rol="MC"
+Pos="CM"
+Nac="1979"
+[Val]
+Rec="52"
+Day="13"
+Age="21"
+Pow="C"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="95000"
+Eqp="CUA_UES"
+[Lvl]
+Frm="988"
+Por="16"
+Def="318"
+Tec="764"
+Ata="256"
+Niv="595"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Yarza"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="139"
+Day="13"
+Age="24"
+Pow="B"
+Fam="139"
+Les="0"
+Tra="2000"
+[2000]
+Sue="215000"
+Eqp="FMG_DAN"
+[Lvl]
+Frm="986"
+Por="1"
+Def="836"
+Tec="476"
+Ata="169"
+Niv="660"

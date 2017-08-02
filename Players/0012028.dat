@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Nigmatullin"
+Rol="DL"
+Pos="SS"
+Nac="1978"
+[Val]
+Rec="102"
+Day="13"
+Age="22"
+Pow="C"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="FMG_MAY"
+[Lvl]
+Frm="978"
+Por="2"
+Def="163"
+Tec="540"
+Ata="687"
+Niv="624"

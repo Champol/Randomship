@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Giorgini"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="54"
+Day="13"
+Age="28"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="FMG_X-K"
+[Lvl]
+Frm="977"
+Por="14"
+Def="685"
+Tec="464"
+Ata="204"
+Niv="577"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Botín"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="192"
+Day="13"
+Age="23"
+Pow="C"
+Fam="192"
+Les="0"
+Tra="2000"
+[2000]
+Sue="266000"
+Eqp="FMG_B-L"
+[Lvl]
+Frm="971"
+Por="880"
+Def="340"
+Tec="276"
+Ata="24"
+Niv="678"

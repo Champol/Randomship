@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.M. Argain"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="38"
+Day="13"
+Age="23"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="57000"
+Eqp="PPV_UDS"
+[Lvl]
+Frm="982"
+Por="46"
+Def="134"
+Tec="344"
+Ata="736"
+Niv="559"

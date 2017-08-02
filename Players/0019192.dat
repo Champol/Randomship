@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Scott"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="96"
+Age="20"
+Pow="C"
+Fam="96"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="AZR_FRO"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="16"
+Def="141"
+Tec="362"
+Ata="821"
+Niv="612"

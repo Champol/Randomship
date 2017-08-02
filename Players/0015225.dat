@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Lezano"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="427"
+Age="29"
+Pow="A"
+Fam="427"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="412000"
+Eqp="PPV_V-C"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="48"
+Def="792"
+Tec="464"
+Ata="302"
+Niv="716"

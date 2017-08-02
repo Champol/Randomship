@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Brage"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="30"
+Day="13"
+Age="22"
+Pow="E"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="PPV_ESP"
+[Lvl]
+Frm="982"
+Por="9"
+Def="604"
+Tec="354"
+Ata="277"
+Niv="557"

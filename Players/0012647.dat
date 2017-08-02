@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Apodaca"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="24"
+Day="13"
+Age="32"
+Pow="B"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="33000"
+Eqp="FMG_CAS"
+[Lvl]
+Frm="992"
+Por="657"
+Def="283"
+Tec="253"
+Ata="38"
+Niv="523"

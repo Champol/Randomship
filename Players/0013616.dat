@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.F. Faúndez"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="121"
+Day="13"
+Age="23"
+Pow="B"
+Fam="121"
+Les="0"
+Tra="2000"
+[2000]
+Sue="188000"
+Eqp="FMG_CSH"
+[Lvl]
+Frm="975"
+Por="1"
+Def="468"
+Tec="821"
+Ata="168"
+Niv="649"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Frontanilla"
+Rol="MC"
+Pos="WM"
+Nac="1976"
+[Val]
+Rec="185"
+Day="13"
+Age="24"
+Pow="C"
+Fam="185"
+Les="0"
+Tra="2000"
+[2000]
+Sue="248000"
+Eqp="FMG_TDM"
+[Lvl]
+Frm="986"
+Por="14"
+Def="377"
+Tec="709"
+Ata="431"
+Niv="672"

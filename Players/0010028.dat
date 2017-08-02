@@ -1,0 +1,22 @@
+[Inf]
+Nom="B. Etchart"
+Rol="DL"
+Pos="SS"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PES_SCO"
+[Lvl]
+Frm="968"
+Por="17"
+Def="175"
+Tec="345"
+Ata="496"
+Niv="439"

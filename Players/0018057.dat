@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Mandi"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="432"
+Age="23"
+Pow="A"
+Fam="432"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="376000"
+Eqp="CMP_ROJ"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="28"
+Def="254"
+Tec="912"
+Ata="412"
+Niv="708"

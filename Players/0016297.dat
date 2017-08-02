@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Koscina"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="2"
+Age="30"
+Pow="E"
+Fam="2"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_R-J"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="19"
+Def="228"
+Tec="244"
+Ata="338"
+Niv="345"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Prentice"
+Rol="MC"
+Pos="DM"
+Nac="1975"
+[Val]
+Rec="73"
+Day="13"
+Age="25"
+Pow="D"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="97000"
+Eqp="FMG_MIM"
+[Lvl]
+Frm="991"
+Por="13"
+Def="334"
+Tec="800"
+Ata="164"
+Niv="598"

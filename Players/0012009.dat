@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Parrot"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="13"
+Day="13"
+Age="32"
+Pow="C"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="23000"
+Eqp="FMG_MAY"
+[Lvl]
+Frm="973"
+Por="630"
+Def="255"
+Tec="213"
+Ata="5"
+Niv="500"

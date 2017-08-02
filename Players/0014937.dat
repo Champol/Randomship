@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Ibarbo"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="207"
+Age="25"
+Pow="C"
+Fam="207"
+Les="22"
+Tra="2000"
+Day="13"
+[2000]
+Sue="260000"
+Eqp="PPV_ENE"
+PCal="0"
+[Lvl]
+Frm="990"
+Por="918"
+Def="234"
+Tec="246"
+Ata="36"
+Niv="676"

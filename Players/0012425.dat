@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Rader"
+Rol="MC"
+Pos="DM"
+Nac="1979"
+[Val]
+Rec="18"
+Day="13"
+Age="21"
+Pow="E"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="37000"
+Eqp="FMG_HUS"
+[Lvl]
+Frm="985"
+Por="15"
+Def="315"
+Tec="706"
+Ata="133"
+Niv="530"

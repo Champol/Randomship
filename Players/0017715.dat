@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Rigal"
+Rol="DL"
+Pos="WF"
+Nac="1976"
+[Val]
+Rec="765"
+Age="24"
+Pow="B"
+Fam="765"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="1030000"
+Eqp="CMP_BFC"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="16"
+Def="330"
+Tec="458"
+Ata="931"
+Niv="803"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Lettiere"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="201"
+Day="13"
+Age="22"
+Pow="B"
+Fam="201"
+Les="0"
+Tra="2000"
+[2000]
+Sue="299000"
+Eqp="FMG_BRI"
+[Lvl]
+Frm="983"
+Por="14"
+Def="297"
+Tec="530"
+Ata="712"
+Niv="687"

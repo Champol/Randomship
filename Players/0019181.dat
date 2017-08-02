@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Kritzinger"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="469"
+Age="25"
+Pow="A"
+Fam="469"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="554000"
+Eqp="AZR_FRO"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="0"
+Def="162"
+Tec="956"
+Ata="512"
+Niv="743"

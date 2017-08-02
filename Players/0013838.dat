@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Nawar"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="56"
+Day="13"
+Age="29"
+Pow="C"
+Fam="56"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="FMG_LIM"
+[Lvl]
+Frm="981"
+Por="49"
+Def="653"
+Tec="356"
+Ata="198"
+Niv="569"

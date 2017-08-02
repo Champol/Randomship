@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Ishii"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="37"
+Age="25"
+Pow="E"
+Fam="37"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="54000"
+Eqp="CMP_TNJ"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="741"
+Def="222"
+Tec="216"
+Ata="32"
+Niv="555"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Wierna"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="85"
+Day="13"
+Age="24"
+Pow="E"
+Fam="85"
+Les="0"
+Tra="2000"
+[2000]
+Sue="156000"
+Eqp="FMG_PAN"
+[Lvl]
+Frm="971"
+Por="801"
+Def="331"
+Tec="316"
+Ata="27"
+Niv="634"

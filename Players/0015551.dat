@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Saldías"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="32"
+Day="13"
+Age="20"
+Pow="C"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="PPV_OMR"
+[Lvl]
+Frm="978"
+Por="43"
+Def="735"
+Tec="346"
+Ata="119"
+Niv="556"

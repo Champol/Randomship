@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Dae-Il"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="52"
+Day="13"
+Age="26"
+Pow="D"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="FMG_RAU"
+[Lvl]
+Frm="977"
+Por="42"
+Def="269"
+Tec="688"
+Ata="298"
+Niv="582"

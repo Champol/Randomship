@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Kagura"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="101"
+Age="21"
+Pow="C"
+Fam="101"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="139000"
+Eqp="PPV_PUC"
+PCal="0"
+[Lvl]
+Frm="961"
+Por="49"
+Def="702"
+Tec="394"
+Ata="262"
+Niv="625"

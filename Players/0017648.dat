@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Veselý"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="100"
+Age="22"
+Pow="C"
+Fam="100"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="154000"
+Eqp="CMP_DAR"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="18"
+Def="300"
+Tec="688"
+Ata="418"
+Niv="633"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Rieper"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="61"
+Day="13"
+Age="30"
+Pow="C"
+Fam="61"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="FMG_MET"
+[Lvl]
+Frm="977"
+Por="724"
+Def="283"
+Tec="338"
+Ata="15"
+Niv="583"

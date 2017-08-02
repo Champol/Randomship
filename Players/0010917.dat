@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Baccino"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="207"
+Day="13"
+Age="23"
+Pow="C"
+Fam="207"
+Les="0"
+Tra="2000"
+[2000]
+Sue="292000"
+Eqp="FMG_X-K"
+[Lvl]
+Frm="973"
+Por="24"
+Def="290"
+Tec="926"
+Ata="214"
+Niv="686"

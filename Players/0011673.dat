@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Stockard"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="127"
+Day="13"
+Age="23"
+Pow="D"
+Fam="127"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="FMG_MIZ"
+[Lvl]
+Frm="979"
+Por="42"
+Def="310"
+Tec="714"
+Ata="374"
+Niv="635"

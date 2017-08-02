@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Stevanović"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="38"
+Day="13"
+Age="23"
+Pow="E"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="FMG_TDM"
+[Lvl]
+Frm="975"
+Por="30"
+Def="679"
+Tec="280"
+Ata="252"
+Niv="566"

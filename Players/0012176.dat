@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Pawly"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="47"
+Day="13"
+Age="32"
+Pow="A"
+Fam="47"
+Les="0"
+Tra="2000"
+[2000]
+Sue="59000"
+Eqp="FMG_B-L"
+[Lvl]
+Frm="972"
+Por="25"
+Def="224"
+Tec="451"
+Ata="671"
+Niv="562"

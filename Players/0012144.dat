@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Llatser"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="65"
+Day="13"
+Age="23"
+Pow="C"
+Fam="65"
+Les="0"
+Tra="2000"
+[2000]
+Sue="101000"
+Eqp="FMG_VAS"
+[Lvl]
+Frm="987"
+Por="33"
+Def="249"
+Tec="318"
+Ata="802"
+Niv="602"

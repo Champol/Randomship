@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Sagardoy"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Rec="1"
+Day="13"
+Age="30"
+Pow="D"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_FDB"
+[Lvl]
+Frm="963"
+Por="23"
+Def="236"
+Tec="413"
+Ata="360"
+Niv="435"

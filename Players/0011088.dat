@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Josse"
+Rol="DF"
+Pos="WB"
+Nac="1981"
+[Val]
+Rec="7"
+Day="13"
+Age="19"
+Pow="D"
+Fam="7"
+Les="0"
+Tra="2000"
+[2000]
+Sue="25000"
+Eqp="FMG_COA"
+[Lvl]
+Frm="983"
+Por="32"
+Def="556"
+Tec="300"
+Ata="273"
+Niv="504"

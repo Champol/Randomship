@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Kung"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="21"
+Age="29"
+Pow="D"
+Fam="21"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="32000"
+Eqp="PPV_PUC"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="10"
+Def="335"
+Tec="683"
+Ata="88"
+Niv="521"

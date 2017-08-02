@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Calderwood"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Rec="9"
+Day="13"
+Age="18"
+Pow="B"
+Fam="9"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="FMG_JAR"
+[Lvl]
+Frm="987"
+Por="25"
+Def="224"
+Tec="684"
+Ata="232"
+Niv="518"

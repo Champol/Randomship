@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Korta"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="55"
+Age="27"
+Pow="D"
+Fam="55"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="74000"
+Eqp="CMP_CSA"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="37"
+Def="744"
+Tec="363"
+Ata="222"
+Niv="578"

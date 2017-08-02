@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Latella"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="100"
+Day="13"
+Age="24"
+Pow="D"
+Fam="100"
+Les="0"
+Tra="2000"
+[2000]
+Sue="119000"
+Eqp="FMG_IMO"
+[Lvl]
+Frm="964"
+Por="1"
+Def="302"
+Tec="777"
+Ata="299"
+Niv="612"

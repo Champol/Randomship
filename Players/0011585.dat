@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Kucka"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Rec="1"
+Day="13"
+Age="18"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="981"
+Por="47"
+Def="164"
+Tec="603"
+Ata="182"
+Niv="448"

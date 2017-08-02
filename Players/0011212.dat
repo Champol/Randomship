@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Loomis"
+Rol="MC"
+Pos="WM"
+Nac="1976"
+[Val]
+Rec="60"
+Day="13"
+Age="24"
+Pow="D"
+Fam="60"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="FMG_HAV"
+[Lvl]
+Frm="975"
+Por="45"
+Def="268"
+Tec="647"
+Ata="394"
+Niv="592"

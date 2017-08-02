@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Achilier"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="28"
+Day="13"
+Age="26"
+Pow="E"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="42000"
+Eqp="FMG_AWS"
+[Lvl]
+Frm="966"
+Por="696"
+Def="280"
+Tec="212"
+Ata="8"
+Niv="539"

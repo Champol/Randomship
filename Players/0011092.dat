@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Vande"
+Rol="MC"
+Pos="AM"
+Nac="1973"
+[Val]
+Rec="89"
+Day="13"
+Age="27"
+Pow="C"
+Fam="89"
+Les="0"
+Tra="2000"
+[2000]
+Sue="108000"
+Eqp="FMG_COA"
+[Lvl]
+Frm="986"
+Por="47"
+Def="182"
+Tec="770"
+Ata="416"
+Niv="606"

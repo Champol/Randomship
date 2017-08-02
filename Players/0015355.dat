@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Al-Shehri"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="135"
+Age="23"
+Pow="B"
+Fam="135"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="209000"
+Eqp="PPV_CDP"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="5"
+Def="394"
+Tec="823"
+Ata="306"
+Niv="658"

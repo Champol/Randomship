@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Hasanov"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="188"
+Day="13"
+Age="26"
+Pow="B"
+Fam="188"
+Les="0"
+Tra="2000"
+[2000]
+Sue="233000"
+Eqp="FMG_TUR"
+[Lvl]
+Frm="970"
+Por="1"
+Def="684"
+Tec="485"
+Ata="335"
+Niv="666"

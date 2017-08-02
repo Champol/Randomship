@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Furfuro"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="142"
+Day="13"
+Age="26"
+Pow="C"
+Fam="142"
+Les="0"
+Tra="2000"
+[2000]
+Sue="217000"
+Eqp="PPV_CRI"
+[Lvl]
+Frm="983"
+Por="2"
+Def="817"
+Tec="507"
+Ata="184"
+Niv="661"

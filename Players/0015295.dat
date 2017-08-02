@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. De Godoy"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="56"
+Age="22"
+Pow="D"
+Fam="56"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="84000"
+Eqp="PPV_NAR"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="3"
+Def="334"
+Tec="600"
+Ata="418"
+Niv="587"

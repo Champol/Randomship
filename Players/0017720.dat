@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Mallarino"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="54"
+Age="29"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="61000"
+Eqp="CMP_CSA"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="702"
+Def="249"
+Tec="325"
+Ata="48"
+Niv="564"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Leonor"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="74"
+Day="13"
+Age="27"
+Pow="D"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="FMG_LEE"
+[Lvl]
+Frm="995"
+Por="17"
+Def="401"
+Tec="751"
+Ata="184"
+Niv="594"

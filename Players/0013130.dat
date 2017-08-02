@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Ng"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="1"
+Day="13"
+Age="30"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_TUR"
+[Lvl]
+Frm="975"
+Por="9"
+Def="180"
+Tec="292"
+Ata="485"
+Niv="442"

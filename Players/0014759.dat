@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Lockwood"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="27"
+Age="22"
+Pow="D"
+Fam="27"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="46000"
+Eqp="PPV_ASO"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="13"
+Def="220"
+Tec="421"
+Ata="570"
+Niv="545"

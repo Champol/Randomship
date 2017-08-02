@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Mortensen"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="6"
+Day="13"
+Age="20"
+Pow="E"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="22000"
+Eqp="PPV_TER"
+[Lvl]
+Frm="981"
+Por="48"
+Def="666"
+Tec="308"
+Ata="107"
+Niv="497"

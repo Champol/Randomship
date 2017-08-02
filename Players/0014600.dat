@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Delfs"
+Rol="MC"
+Pos="AM"
+Nac="1970"
+[Val]
+Rec="30"
+Day="13"
+Age="30"
+Pow="C"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="PPV_ARR"
+[Lvl]
+Frm="992"
+Por="37"
+Def="64"
+Tec="711"
+Ata="390"
+Niv="551"

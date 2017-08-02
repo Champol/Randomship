@@ -1,0 +1,23 @@
+[Inf]
+Nom="A.G. Rodillo"
+Rol="MC"
+Pos="DM"
+Nac="1970"
+[Val]
+Age="30"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_ASB"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="12"
+Def="346"
+Tec="456"
+Ata="114"
+Niv="393"

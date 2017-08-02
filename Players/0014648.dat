@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Illescas"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="58"
+Age="20"
+Pow="B"
+Fam="58"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="97000"
+Eqp="PPV_RAY"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="752"
+Def="319"
+Tec="314"
+Ata="28"
+Niv="598"

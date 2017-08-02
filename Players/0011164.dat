@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Cly"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="6"
+Day="13"
+Age="24"
+Pow="E"
+Fam="6"
+Les="0"
+Tra="2000"
+[2000]
+Sue="21000"
+Eqp="FMG_PRO"
+[Lvl]
+Frm="972"
+Por="21"
+Def="281"
+Tec="612"
+Ata="258"
+Niv="493"

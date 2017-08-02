@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Monzó"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="389"
+Age="26"
+Pow="B"
+Fam="389"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="497000"
+Eqp="PES_SAI"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="35"
+Def="785"
+Tec="552"
+Ata="264"
+Niv="733"

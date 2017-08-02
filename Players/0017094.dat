@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Akintola"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="89"
+Age="20"
+Pow="B"
+Fam="89"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="139000"
+Eqp="CMP_REL"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="34"
+Def="425"
+Tec="820"
+Ata="116"
+Niv="625"

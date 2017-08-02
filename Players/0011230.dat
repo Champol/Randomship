@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. M'Bolhi"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="543"
+Day="13"
+Age="28"
+Pow="A"
+Fam="543"
+Les="0"
+Tra="2000"
+[2000]
+Sue="685000"
+Eqp="FMG_CHB"
+[Lvl]
+Frm="981"
+Por="43"
+Def="968"
+Tec="522"
+Ata="253"
+Niv="763"

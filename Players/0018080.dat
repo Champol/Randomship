@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Vicentini"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="65"
+Age="26"
+Pow="D"
+Fam="65"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="86000"
+Eqp="CMP_VIT"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="29"
+Def="366"
+Tec="774"
+Ata="124"
+Niv="590"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Valentín"
+Rol="MC"
+Pos="CM"
+Nac="1983"
+[Val]
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_DEN"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="15"
+Def="282"
+Tec="495"
+Ata="230"
+Niv="413"

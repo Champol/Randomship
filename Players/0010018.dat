@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Yuste"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="172"
+Day="13"
+Age="26"
+Pow="C"
+Fam="172"
+Les="0"
+Tra="2000"
+[2000]
+Sue="197000"
+Eqp="PES_SCO"
+[Lvl]
+Frm="967"
+Por="7"
+Def="318"
+Tec="698"
+Ata="436"
+Niv="653"

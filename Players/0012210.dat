@@ -1,0 +1,22 @@
+[Inf]
+Nom="A. Šuler"
+Rol="PT"
+Pos="GK"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_CHE"
+[Lvl]
+Frm="978"
+Por="585"
+Def="198"
+Tec="165"
+Ata="39"
+Niv="436"

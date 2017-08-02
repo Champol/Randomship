@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Raposo"
+Rol="DL"
+Pos="SS"
+Nac="1980"
+[Val]
+Rec="74"
+Age="20"
+Pow="C"
+Fam="74"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="132000"
+Eqp="CMP_BYW"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="26"
+Def="132"
+Tec="501"
+Ata="722"
+Niv="621"

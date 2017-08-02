@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Caffarena"
+Rol="MC"
+Pos="WM"
+Nac="1976"
+[Val]
+Rec="110"
+Day="13"
+Age="24"
+Pow="B"
+Fam="110"
+Les="0"
+Tra="2000"
+[2000]
+Sue="150000"
+Eqp="FMG_TEL"
+[Lvl]
+Frm="982"
+Por="24"
+Def="230"
+Tec="637"
+Ata="540"
+Niv="631"

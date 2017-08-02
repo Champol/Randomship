@@ -1,0 +1,22 @@
+[Inf]
+Nom="P. Dupont"
+Rol="DL"
+Pos="WF"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_QUA"
+[Lvl]
+Frm="990"
+Por="18"
+Def="226"
+Tec="320"
+Ata="436"
+Niv="424"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Lopet"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="62"
+Day="13"
+Age="27"
+Pow="D"
+Fam="62"
+Les="0"
+Tra="2000"
+[2000]
+Sue="83000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="984"
+Por="1"
+Def="302"
+Tec="355"
+Ata="644"
+Niv="586"

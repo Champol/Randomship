@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Malfaz"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="11"
+Day="13"
+Age="27"
+Pow="E"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="FMG_BLA"
+[Lvl]
+Frm="962"
+Por="49"
+Def="654"
+Tec="336"
+Ata="137"
+Niv="512"

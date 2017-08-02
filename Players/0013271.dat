@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Diarra"
+Rol="MC"
+Pos="AM"
+Nac="1979"
+[Val]
+Rec="44"
+Day="13"
+Age="21"
+Pow="C"
+Fam="44"
+Les="0"
+Tra="2000"
+[2000]
+Sue="74000"
+Eqp="FMG_SIR"
+[Lvl]
+Frm="974"
+Por="11"
+Def="143"
+Tec="774"
+Ata="348"
+Niv="577"

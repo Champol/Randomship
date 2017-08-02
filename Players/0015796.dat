@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Lieu"
+Rol="DL"
+Pos="WF"
+Nac="1975"
+[Val]
+Rec="113"
+Day="13"
+Age="25"
+Pow="C"
+Fam="113"
+Les="0"
+Tra="2000"
+[2000]
+Sue="128000"
+Eqp="PPV_BLO"
+[Lvl]
+Frm="978"
+Por="43"
+Def="189"
+Tec="341"
+Ata="752"
+Niv="619"

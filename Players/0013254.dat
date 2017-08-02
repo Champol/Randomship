@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Horteloup"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="44"
+Day="13"
+Age="28"
+Pow="D"
+Fam="44"
+Les="0"
+Tra="2000"
+[2000]
+Sue="63000"
+Eqp="FMG_SIR"
+[Lvl]
+Frm="973"
+Por="702"
+Def="293"
+Tec="307"
+Ata="5"
+Niv="565"

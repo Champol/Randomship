@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. De Vita"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="420"
+Age="26"
+Pow="C"
+Fam="420"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="465000"
+Eqp="CMP_MET"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="0"
+Def="282"
+Tec="428"
+Ata="841"
+Niv="727"

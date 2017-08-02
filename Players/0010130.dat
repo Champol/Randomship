@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Mudarra"
+Rol="DF"
+Pos="WB"
+Nac="1980"
+[Val]
+Rec="23"
+Age="20"
+Pow="D"
+Fam="23"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="41000"
+Eqp="PES_SER"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="44"
+Def="587"
+Tec="407"
+Ata="188"
+Niv="536"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Dunleavy"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="43"
+Age="22"
+Pow="D"
+Fam="43"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="67000"
+Eqp="PPV_RDH"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="0"
+Def="270"
+Tec="581"
+Ata="441"
+Niv="571"

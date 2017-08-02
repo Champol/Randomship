@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Branca"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="21"
+Day="13"
+Age="30"
+Pow="C"
+Fam="21"
+Les="0"
+Tra="2000"
+[2000]
+Sue="31000"
+Eqp="FMG_SVE"
+[Lvl]
+Frm="968"
+Por="25"
+Def="200"
+Tec="511"
+Ata="494"
+Niv="518"

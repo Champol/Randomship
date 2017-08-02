@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Aba"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="241"
+Age="25"
+Pow="C"
+Fam="241"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="313000"
+Eqp="AZR_NIP"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="13"
+Def="764"
+Tec="412"
+Ata="338"
+Niv="691"

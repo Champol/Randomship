@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Guedioura"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="67"
+Day="13"
+Age="22"
+Pow="C"
+Fam="67"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="979"
+Por="21"
+Def="122"
+Tec="766"
+Ata="468"
+Niv="612"

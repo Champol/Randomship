@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Coker"
+Rol="MC"
+Pos="CM"
+Nac="1981"
+[Val]
+Rec="19"
+Day="13"
+Age="19"
+Pow="B"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="FMG_CTJ"
+[Lvl]
+Frm="981"
+Por="35"
+Def="208"
+Tec="715"
+Ata="297"
+Niv="552"

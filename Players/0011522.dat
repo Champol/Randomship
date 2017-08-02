@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Gordo"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="222"
+Age="21"
+Pow="A"
+Fam="222"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="292000"
+Eqp="FMG_GRU"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="28"
+Def="779"
+Tec="426"
+Ata="285"
+Niv="686"

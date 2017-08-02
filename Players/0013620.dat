@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Abusaid"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="94"
+Day="13"
+Age="22"
+Pow="C"
+Fam="94"
+Les="0"
+Tra="2000"
+[2000]
+Sue="152000"
+Eqp="FMG_CSH"
+[Lvl]
+Frm="963"
+Por="16"
+Def="216"
+Tec="848"
+Ata="294"
+Niv="632"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.F. Blažević"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="178"
+Day="13"
+Age="26"
+Pow="C"
+Fam="178"
+Les="0"
+Tra="2000"
+[2000]
+Sue="212000"
+Eqp="FMG_ANA"
+[Lvl]
+Frm="982"
+Por="20"
+Def="142"
+Tec="563"
+Ata="727"
+Niv="659"

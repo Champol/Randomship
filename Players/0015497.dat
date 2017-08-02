@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Amat"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="10"
+Day="13"
+Age="32"
+Pow="C"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="20000"
+Eqp="PPV_NAM"
+[Lvl]
+Frm="969"
+Por="12"
+Def="607"
+Tec="189"
+Ata="234"
+Niv="490"

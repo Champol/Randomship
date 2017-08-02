@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. De Urbina"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="71"
+Day="13"
+Age="29"
+Pow="C"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="PES_MAC"
+[Lvl]
+Frm="971"
+Por="15"
+Def="469"
+Tec="708"
+Ata="156"
+Niv="587"

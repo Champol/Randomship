@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Nogales"
+Rol="MC"
+Pos="CM"
+Nac="1980"
+[Val]
+Rec="28"
+Age="20"
+Pow="C"
+Fam="28"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="63000"
+Eqp="PES_SUJ"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="18"
+Def="250"
+Tec="746"
+Ata="246"
+Niv="566"

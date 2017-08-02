@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Tauebnschlag"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="144"
+Day="13"
+Age="24"
+Pow="C"
+Fam="144"
+Les="0"
+Tra="2000"
+[2000]
+Sue="202000"
+Eqp="FMG_CHU"
+[Lvl]
+Frm="986"
+Por="15"
+Def="208"
+Tec="539"
+Ata="726"
+Niv="655"

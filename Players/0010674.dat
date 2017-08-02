@@ -1,0 +1,23 @@
+[Inf]
+Nom="M.A. Olarte"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="123"
+Day="13"
+Age="30"
+Pow="B"
+Fam="123"
+Les="0"
+Tra="2000"
+[2000]
+Sue="114000"
+Eqp="FMG_BRY"
+[Lvl]
+Frm="985"
+Por="772"
+Def="303"
+Tec="285"
+Ata="21"
+Niv="610"

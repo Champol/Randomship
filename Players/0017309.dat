@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Kirm"
+Rol="DL"
+Pos="CF"
+Nac="1982"
+[Val]
+Rec="1"
+Age="18"
+Pow="E"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="12000"
+Eqp="CMP_MGK"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="9"
+Def="99"
+Tec="276"
+Ata="620"
+Niv="459"

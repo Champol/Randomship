@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Marcchi"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="4"
+Age="18"
+Pow="B"
+Fam="4"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="15000"
+Eqp="AZR_FOO"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="48"
+Def="518"
+Tec="320"
+Ata="233"
+Niv="474"

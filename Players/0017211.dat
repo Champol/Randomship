@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Moraza"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="312"
+Age="27"
+Pow="A"
+Fam="312"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="430000"
+Eqp="CMP_MDR"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="12"
+Def="512"
+Tec="924"
+Ata="140"
+Niv="720"

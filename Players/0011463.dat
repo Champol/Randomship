@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Scarnati"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="102"
+Day="13"
+Age="26"
+Pow="D"
+Fam="102"
+Les="0"
+Tra="2000"
+[2000]
+Sue="135000"
+Eqp="FMG_ARA"
+[Lvl]
+Frm="976"
+Por="0"
+Def="669"
+Tec="430"
+Ata="284"
+Niv="623"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Flei"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="513"
+Age="23"
+Pow="A"
+Fam="513"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="851000"
+Eqp="CMP_PQA"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="50"
+Def="978"
+Tec="588"
+Ata="210"
+Niv="784"

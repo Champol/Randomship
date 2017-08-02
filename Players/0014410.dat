@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Menacho"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="19"
+Day="13"
+Age="26"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="38000"
+Eqp="PPV_PON"
+[Lvl]
+Frm="962"
+Por="33"
+Def="371"
+Tec="689"
+Ata="70"
+Niv="532"

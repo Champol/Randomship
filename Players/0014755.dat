@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Kirckhoefer"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="157"
+Age="24"
+Pow="C"
+Fam="157"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="251000"
+Eqp="PPV_ASO"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="23"
+Def="110"
+Tec="329"
+Ata="937"
+Niv="673"

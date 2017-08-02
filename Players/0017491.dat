@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Enterría"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="86"
+Age="21"
+Pow="A"
+Fam="86"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="154000"
+Eqp="CMP_BYW"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="33"
+Def="771"
+Tec="523"
+Ata="143"
+Niv="633"

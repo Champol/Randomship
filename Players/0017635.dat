@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Chapak"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_DAR"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="572"
+Def="223"
+Tec="160"
+Ata="20"
+Niv="437"

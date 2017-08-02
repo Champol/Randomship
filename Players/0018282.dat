@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Malizia"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="44"
+Age="27"
+Pow="D"
+Fam="44"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="72000"
+Eqp="CMP_DEN"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="5"
+Def="337"
+Tec="709"
+Ata="290"
+Niv="576"

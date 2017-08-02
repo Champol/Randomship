@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Róvere"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="89"
+Day="13"
+Age="22"
+Pow="C"
+Fam="89"
+Les="0"
+Tra="2000"
+[2000]
+Sue="164000"
+Eqp="PPV_BLO"
+[Lvl]
+Frm="972"
+Por="827"
+Def="330"
+Tec="250"
+Ata="48"
+Niv="638"

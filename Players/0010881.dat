@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.A. Sierralta"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="73"
+Day="13"
+Age="30"
+Pow="A"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="FMG_COO"
+[Lvl]
+Frm="967"
+Por="12"
+Def="638"
+Tec="431"
+Ata="219"
+Niv="592"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Balbín"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="257"
+Age="24"
+Pow="C"
+Fam="257"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="299000"
+Eqp="AZR_UFU"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="4"
+Def="118"
+Tec="709"
+Ata="667"
+Niv="687"

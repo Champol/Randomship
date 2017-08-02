@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Coyne"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="24"
+Day="13"
+Age="23"
+Pow="E"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="43000"
+Eqp="FMG_TUR"
+[Lvl]
+Frm="970"
+Por="32"
+Def="276"
+Tec="672"
+Ata="297"
+Niv="540"

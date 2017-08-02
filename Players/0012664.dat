@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Pin"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="85"
+Day="13"
+Age="29"
+Pow="A"
+Fam="85"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="FMG_CAS"
+[Lvl]
+Frm="975"
+Por="50"
+Def="210"
+Tec="415"
+Ata="778"
+Niv="612"

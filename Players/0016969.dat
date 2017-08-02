@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Montañés"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="412"
+Age="29"
+Pow="A"
+Fam="412"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="364000"
+Eqp="CMP_TOC"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="41"
+Def="852"
+Tec="550"
+Ata="258"
+Niv="705"

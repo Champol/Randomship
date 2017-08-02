@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Dindane"
+Rol="MC"
+Pos="WM"
+Nac="1973"
+[Val]
+Rec="118"
+Day="13"
+Age="27"
+Pow="C"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="148000"
+Eqp="FMG_HAR"
+[Lvl]
+Frm="979"
+Por="26"
+Def="350"
+Tec="677"
+Ata="388"
+Niv="630"

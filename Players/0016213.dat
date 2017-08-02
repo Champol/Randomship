@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Ojea"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="22"
+Day="13"
+Age="27"
+Pow="D"
+Fam="22"
+Les="0"
+Tra="2000"
+[2000]
+Sue="39000"
+Eqp="PPV_SOQ"
+[Lvl]
+Frm="992"
+Por="691"
+Def="252"
+Tec="226"
+Ata="12"
+Niv="533"

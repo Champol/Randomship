@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Chaneton"
+Rol="DL"
+Pos="WF"
+Nac="1972"
+[Val]
+Rec="94"
+Day="13"
+Age="28"
+Pow="D"
+Fam="94"
+Les="0"
+Tra="2000"
+[2000]
+Sue="124000"
+Eqp="FMG_MAN"
+[Lvl]
+Frm="974"
+Por="46"
+Def="210"
+Tec="455"
+Ata="665"
+Niv="616"

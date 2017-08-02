@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Muglia"
+Rol="DF"
+Pos="WB"
+Nac="1979"
+[Val]
+Rec="94"
+Day="13"
+Age="21"
+Pow="A"
+Fam="94"
+Les="0"
+Tra="2000"
+[2000]
+Sue="158000"
+Eqp="PPV_TER"
+[Lvl]
+Frm="980"
+Por="10"
+Def="689"
+Tec="481"
+Ata="222"
+Niv="635"

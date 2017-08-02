@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Fountain"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Rec="5"
+Day="13"
+Age="29"
+Pow="D"
+Fam="5"
+Les="0"
+Tra="2000"
+[2000]
+Sue="18000"
+Eqp="PPV_EUR"
+[Lvl]
+Frm="988"
+Por="4"
+Def="202"
+Tec="497"
+Ata="373"
+Niv="483"

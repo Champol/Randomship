@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Beas"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Rec="15"
+Day="13"
+Age="18"
+Pow="B"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="37000"
+Eqp="FMG_LAB"
+[Lvl]
+Frm="974"
+Por="676"
+Def="276"
+Tec="265"
+Ata="37"
+Niv="529"

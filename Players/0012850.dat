@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Panucci"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="119"
+Day="13"
+Age="32"
+Pow="A"
+Fam="119"
+Les="0"
+Tra="2000"
+[2000]
+Sue="141000"
+Eqp="FMG_TUL"
+[Lvl]
+Frm="984"
+Por="792"
+Def="300"
+Tec="306"
+Ata="18"
+Niv="626"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Demange"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="104"
+Age="23"
+Pow="D"
+Fam="104"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="CMP_MET"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="43"
+Def="135"
+Tec="307"
+Ata="852"
+Niv="618"

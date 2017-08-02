@@ -1,0 +1,24 @@
+[Inf]
+Nom="U. Saionji"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="294"
+Age="26"
+Pow="B"
+Fam="294"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="296000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="18"
+Def="258"
+Tec="728"
+Ata="520"
+Niv="686"

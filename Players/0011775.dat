@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Luro"
+Rol="PT"
+Pos="GK"
+Nac="1981"
+[Val]
+Rec="16"
+Day="13"
+Age="19"
+Pow="D"
+Fam="16"
+Les="0"
+Tra="2000"
+[2000]
+Sue="36000"
+Eqp="FMG_JAR"
+[Lvl]
+Frm="985"
+Por="690"
+Def="213"
+Tec="259"
+Ata="25"
+Niv="528"

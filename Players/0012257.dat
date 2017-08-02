@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Keo"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="167"
+Day="13"
+Age="22"
+Pow="A"
+Fam="167"
+Les="0"
+Tra="2000"
+[2000]
+Sue="263000"
+Eqp="FMG_AWS"
+[Lvl]
+Frm="971"
+Por="25"
+Def="298"
+Tec="892"
+Ata="280"
+Niv="677"

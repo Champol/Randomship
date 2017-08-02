@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Hasperg"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="74"
+Day="13"
+Age="28"
+Pow="C"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="117000"
+Eqp="PPV_FIC"
+[Lvl]
+Frm="967"
+Por="49"
+Def="262"
+Tec="822"
+Ata="198"
+Niv="612"

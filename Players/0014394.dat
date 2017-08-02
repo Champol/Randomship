@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Wolfe"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="155"
+Day="13"
+Age="24"
+Pow="A"
+Fam="155"
+Les="0"
+Tra="2000"
+[2000]
+Sue="248000"
+Eqp="PPV_PON"
+[Lvl]
+Frm="975"
+Por="19"
+Def="704"
+Tec="431"
+Ata="400"
+Niv="672"

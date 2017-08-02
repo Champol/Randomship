@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Smirnov"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="76"
+Day="13"
+Age="21"
+Pow="D"
+Fam="76"
+Les="0"
+Tra="2000"
+[2000]
+Sue="137000"
+Eqp="FMG_ZIG"
+[Lvl]
+Frm="981"
+Por="2"
+Def="799"
+Tec="442"
+Ata="120"
+Niv="625"

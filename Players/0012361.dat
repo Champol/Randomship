@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Fellaini"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="134"
+Day="13"
+Age="29"
+Pow="C"
+Fam="134"
+Les="0"
+Tra="2000"
+[2000]
+Sue="190000"
+Eqp="FMG_LAB"
+[Lvl]
+Frm="987"
+Por="11"
+Def="702"
+Tec="432"
+Ata="294"
+Niv="649"

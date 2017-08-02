@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Verduga"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="16000"
+Eqp="FMG_SBR"
+[Lvl]
+Frm="970"
+Por="610"
+Def="226"
+Tec="244"
+Ata="20"
+Niv="478"

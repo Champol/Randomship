@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Lou"
+Rol="MC"
+Pos="AM"
+Nac="1976"
+[Val]
+Rec="85"
+Age="24"
+Pow="C"
+Fam="85"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="113000"
+Eqp="PPV_EBZ"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="23"
+Def="116"
+Tec="778"
+Ata="436"
+Niv="609"

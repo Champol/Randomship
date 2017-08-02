@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Lefort"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="78"
+Age="20"
+Pow="A"
+Fam="78"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="127000"
+Eqp="CMP_BYW"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="42"
+Def="795"
+Tec="426"
+Ata="158"
+Niv="618"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Bassong"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="169"
+Day="13"
+Age="22"
+Pow="B"
+Fam="169"
+Les="0"
+Tra="2000"
+[2000]
+Sue="225000"
+Eqp="FMG_G-P"
+[Lvl]
+Frm="970"
+Por="24"
+Def="222"
+Tec="426"
+Ata="859"
+Niv="664"

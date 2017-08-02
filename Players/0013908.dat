@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Kiessner"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="124"
+Day="13"
+Age="26"
+Pow="C"
+Fam="124"
+Les="0"
+Tra="2000"
+[2000]
+Sue="188000"
+Eqp="FMG_SHA"
+[Lvl]
+Frm="965"
+Por="25"
+Def="330"
+Tec="822"
+Ata="326"
+Niv="649"

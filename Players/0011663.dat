@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Chano"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="38"
+Day="13"
+Age="30"
+Pow="D"
+Fam="38"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="FMG_MIZ"
+[Lvl]
+Frm="970"
+Por="42"
+Def="753"
+Tec="266"
+Ata="101"
+Niv="544"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Rioja"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="21"
+Age="20"
+Pow="D"
+Fam="21"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="48000"
+Eqp="CMP_R-J"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="36"
+Def="691"
+Tec="402"
+Ata="124"
+Niv="547"

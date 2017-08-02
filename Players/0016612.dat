@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Atonguía"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="386"
+Age="26"
+Pow="B"
+Fam="386"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="407000"
+Eqp="CMP_BLU"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="50"
+Def="203"
+Tec="428"
+Ata="943"
+Niv="715"

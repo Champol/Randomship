@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Hossain"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="72"
+Day="13"
+Age="22"
+Pow="C"
+Fam="72"
+Les="0"
+Tra="2000"
+[2000]
+Sue="132000"
+Eqp="FMG_BLA"
+[Lvl]
+Frm="971"
+Por="43"
+Def="370"
+Tec="828"
+Ata="160"
+Niv="621"

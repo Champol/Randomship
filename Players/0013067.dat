@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Fraschetti"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="14000"
+Eqp="FMG_APP"
+[Lvl]
+Frm="977"
+Por="24"
+Def="270"
+Tec="608"
+Ata="211"
+Niv="472"

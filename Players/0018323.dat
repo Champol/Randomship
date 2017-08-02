@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Seemann"
+Rol="DL"
+Pos="WF"
+Nac="1983"
+[Val]
+Age="17"
+Pow="E"
+Fam="0"
+Les="2"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_M-V"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="38"
+Def="215"
+Tec="301"
+Ata="369"
+Niv="372"

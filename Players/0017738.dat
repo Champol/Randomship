@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.F. Allemand"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="6"
+Age="19"
+Pow="D"
+Fam="6"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="23000"
+Eqp="CMP_CSA"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="4"
+Def="227"
+Tec="531"
+Ata="354"
+Niv="498"

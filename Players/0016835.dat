@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Farizzano"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="35"
+Age="22"
+Pow="D"
+Fam="35"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="71000"
+Eqp="CMP_GAL"
+PCal="0"
+[Lvl]
+Frm="966"
+Por="15"
+Def="378"
+Tec="712"
+Ata="244"
+Niv="574"

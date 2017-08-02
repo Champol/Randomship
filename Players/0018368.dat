@@ -1,0 +1,24 @@
+[Inf]
+Nom="Y. Appleyard"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="28"
+Age="22"
+Pow="E"
+Fam="28"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="50000"
+Eqp="CMP_JIR"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="5"
+Def="578"
+Tec="364"
+Ata="305"
+Niv="550"

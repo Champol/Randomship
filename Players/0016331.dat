@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Wittenstein"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="105"
+Age="27"
+Pow="C"
+Fam="105"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="CMP_ARN"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="41"
+Def="719"
+Tec="302"
+Ata="316"
+Niv="620"

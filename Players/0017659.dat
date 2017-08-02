@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Eizmendi"
+Rol="MC"
+Pos="WM"
+Nac="1981"
+[Val]
+Rec="2"
+Age="19"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="13000"
+Eqp="CMP_DAR"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="35"
+Def="263"
+Tec="492"
+Ata="313"
+Niv="467"

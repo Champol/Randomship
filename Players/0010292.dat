@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.L. Sells"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Age="17"
+Pow="B"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PES_MOR"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="0"
+Def="555"
+Tec="315"
+Ata="102"
+Niv="436"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Gambin"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="173"
+Day="13"
+Age="26"
+Pow="B"
+Fam="173"
+Les="0"
+Tra="2000"
+[2000]
+Sue="188000"
+Eqp="FMG_C-M"
+[Lvl]
+Frm="978"
+Por="38"
+Def="842"
+Tec="415"
+Ata="202"
+Niv="649"

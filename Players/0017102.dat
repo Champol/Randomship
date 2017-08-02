@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Herzog"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="17"
+Age="21"
+Pow="D"
+Fam="17"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="40000"
+Eqp="CMP_REL"
+PCal="0"
+[Lvl]
+Frm="1001"
+Por="1"
+Def="276"
+Tec="340"
+Ata="582"
+Niv="535"

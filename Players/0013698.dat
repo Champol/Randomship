@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Salvatti"
+Rol="DF"
+Pos="WB"
+Nac="1968"
+[Val]
+Rec="91"
+Day="13"
+Age="32"
+Pow="B"
+Fam="91"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="FMG_MUE"
+[Lvl]
+Frm="960"
+Por="18"
+Def="729"
+Tec="334"
+Ata="144"
+Niv="592"

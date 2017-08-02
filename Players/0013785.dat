@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Oda"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="24"
+Day="13"
+Age="26"
+Pow="D"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="FMG_HAL"
+[Lvl]
+Frm="983"
+Por="21"
+Def="670"
+Tec="380"
+Ata="106"
+Niv="527"

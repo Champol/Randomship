@@ -1,0 +1,23 @@
+[Inf]
+Nom="V.H. Siemsem"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="172"
+Day="13"
+Age="24"
+Pow="C"
+Fam="172"
+Les="0"
+Tra="2000"
+[2000]
+Sue="209000"
+Eqp="FMG_EDA"
+[Lvl]
+Frm="990"
+Por="34"
+Def="877"
+Tec="388"
+Ata="163"
+Niv="658"

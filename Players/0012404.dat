@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Ehrhorn"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="128"
+Day="13"
+Age="32"
+Pow="B"
+Fam="128"
+Les="0"
+Tra="2000"
+[2000]
+Sue="119000"
+Eqp="FMG_MAA"
+[Lvl]
+Frm="985"
+Por="40"
+Def="125"
+Tec="292"
+Ata="851"
+Niv="612"

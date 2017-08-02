@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. McCracken"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="116"
+Age="25"
+Pow="C"
+Fam="116"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="168000"
+Eqp="PPV_RAY"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="33"
+Def="277"
+Tec="476"
+Ata="780"
+Niv="640"

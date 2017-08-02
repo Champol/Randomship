@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.J. Nitta"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="72"
+Day="13"
+Age="24"
+Pow="C"
+Fam="72"
+Les="0"
+Tra="2000"
+[2000]
+Sue="106000"
+Eqp="FMG_COA"
+[Lvl]
+Frm="977"
+Por="21"
+Def="633"
+Tec="395"
+Ata="344"
+Niv="604"

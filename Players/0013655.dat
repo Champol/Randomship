@@ -1,0 +1,23 @@
+[Inf]
+Nom="B. Aziz"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="212"
+Day="13"
+Age="26"
+Pow="B"
+Fam="212"
+Les="0"
+Tra="2000"
+[2000]
+Sue="340000"
+Eqp="FMG_SAR"
+[Lvl]
+Frm="979"
+Por="36"
+Def="275"
+Tec="413"
+Ata="808"
+Niv="699"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Gilardino"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="82"
+Age="27"
+Pow="D"
+Fam="82"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="99000"
+Eqp="CMP_LAT"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="9"
+Def="758"
+Tec="433"
+Ata="142"
+Niv="599"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Pomareda"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="212"
+Day="13"
+Age="25"
+Pow="C"
+Fam="212"
+Les="0"
+Tra="2000"
+[2000]
+Sue="282000"
+Eqp="FMG_CTJ"
+[Lvl]
+Frm="980"
+Por="49"
+Def="178"
+Tec="865"
+Ata="485"
+Niv="683"

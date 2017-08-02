@@ -1,0 +1,22 @@
+[Inf]
+Nom="R. Baduna"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_ANA"
+[Lvl]
+Frm="974"
+Por="20"
+Def="529"
+Tec="317"
+Ata="99"
+Niv="418"

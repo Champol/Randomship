@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Gelvez"
+Rol="DL"
+Pos="SS"
+Nac="1969"
+[Val]
+Rec="100"
+Day="13"
+Age="31"
+Pow="B"
+Fam="100"
+Les="0"
+Tra="2000"
+[2000]
+Sue="135000"
+Eqp="FMG_SBR"
+[Lvl]
+Frm="975"
+Por="20"
+Def="198"
+Tec="554"
+Ata="659"
+Niv="623"

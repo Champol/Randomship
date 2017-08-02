@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Cuadra"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="57"
+Day="13"
+Age="30"
+Pow="C"
+Fam="57"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="FMG_PAR"
+[Lvl]
+Frm="999"
+Por="720"
+Def="260"
+Tec="337"
+Ata="36"
+Niv="576"

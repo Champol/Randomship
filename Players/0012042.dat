@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.T. Baleana"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="37"
+Day="13"
+Age="22"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="66000"
+Eqp="FMG_MIM"
+[Lvl]
+Frm="987"
+Por="7"
+Def="736"
+Tec="404"
+Ata="95"
+Niv="570"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Spahr"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="168"
+Day="13"
+Age="23"
+Pow="B"
+Fam="168"
+Les="0"
+Tra="2000"
+[2000]
+Sue="248000"
+Eqp="PPV_JOU"
+[Lvl]
+Frm="986"
+Por="857"
+Def="353"
+Tec="294"
+Ata="11"
+Niv="672"

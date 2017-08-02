@@ -1,0 +1,23 @@
+[Inf]
+Nom="M.A. Whitehead"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="28"
+Day="13"
+Age="20"
+Pow="C"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="58000"
+Eqp="FMG_EDA"
+[Lvl]
+Frm="964"
+Por="13"
+Def="137"
+Tec="366"
+Ata="741"
+Niv="562"

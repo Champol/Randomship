@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Menem"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="245"
+Day="13"
+Age="22"
+Pow="C"
+Fam="245"
+Les="0"
+Tra="2000"
+[2000]
+Sue="299000"
+Eqp="PES_PIS"
+[Lvl]
+Frm="986"
+Por="0"
+Def="450"
+Tec="891"
+Ata="192"
+Niv="688"

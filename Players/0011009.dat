@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Bigorra"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="73"
+Day="13"
+Age="23"
+Pow="C"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="101000"
+Eqp="FMG_CAT"
+[Lvl]
+Frm="967"
+Por="20"
+Def="416"
+Tec="770"
+Ata="154"
+Niv="601"

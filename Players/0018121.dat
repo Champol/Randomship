@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Niembro"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="217"
+Age="27"
+Pow="C"
+Fam="217"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="233000"
+Eqp="CMP_CAD"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="27"
+Def="154"
+Tec="427"
+Ata="871"
+Niv="667"

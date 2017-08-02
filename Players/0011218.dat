@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Scoltore"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="76"
+Day="13"
+Age="27"
+Pow="D"
+Fam="76"
+Les="0"
+Tra="2000"
+[2000]
+Sue="96000"
+Eqp="FMG_HAV"
+[Lvl]
+Frm="969"
+Por="44"
+Def="138"
+Tec="356"
+Ata="795"
+Niv="597"

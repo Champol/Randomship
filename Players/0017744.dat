@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Rosendo"
+Rol="DL"
+Pos="SS"
+Nac="1978"
+[Val]
+Rec="45"
+Age="22"
+Pow="D"
+Fam="45"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="73000"
+Eqp="CMP_CSA"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="17"
+Def="86"
+Tec="494"
+Ata="648"
+Niv="578"

@@ -1,0 +1,22 @@
+[Inf]
+Nom="I. Cuatrero"
+Rol="MC"
+Pos="WM"
+Nac="1970"
+[Val]
+Day="13"
+Age="30"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_APP"
+[Lvl]
+Frm="981"
+Por="49"
+Def="250"
+Tec="408"
+Ata="294"
+Niv="409"

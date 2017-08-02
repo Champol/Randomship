@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Cusi"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="196"
+Age="23"
+Pow="C"
+Fam="196"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="242000"
+Eqp="CMP_JIR"
+PCal="0"
+[Lvl]
+Frm="972"
+Por="7"
+Def="870"
+Tec="436"
+Ata="170"
+Niv="670"

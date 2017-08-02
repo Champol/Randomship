@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Dahbar"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="28"
+Day="13"
+Age="27"
+Pow="E"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="40000"
+Eqp="FMG_C-M"
+[Lvl]
+Frm="973"
+Por="7"
+Def="583"
+Tec="346"
+Ata="255"
+Niv="535"

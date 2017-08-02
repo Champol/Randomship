@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Charmaine"
+Rol="DL"
+Pos="SS"
+Nac="1973"
+[Val]
+Rec="76"
+Day="13"
+Age="27"
+Pow="D"
+Fam="76"
+Les="0"
+Tra="2000"
+[2000]
+Sue="81000"
+Eqp="FMG_KPF"
+[Lvl]
+Frm="989"
+Por="20"
+Def="171"
+Tec="534"
+Ata="608"
+Niv="584"

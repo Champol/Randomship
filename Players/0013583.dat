@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Seppilli"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="112"
+Day="13"
+Age="24"
+Pow="D"
+Fam="112"
+Les="0"
+Tra="2000"
+[2000]
+Sue="183000"
+Eqp="FMG_CTJ"
+[Lvl]
+Frm="975"
+Por="13"
+Def="823"
+Tec="451"
+Ata="186"
+Niv="647"

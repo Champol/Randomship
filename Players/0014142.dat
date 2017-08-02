@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Ruibal"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="19"
+Day="13"
+Age="29"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="34000"
+Eqp="PPV_SOC"
+[Lvl]
+Frm="976"
+Por="40"
+Def="239"
+Tec="666"
+Ata="238"
+Niv="523"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Lamar"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="223"
+Age="28"
+Pow="C"
+Fam="223"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="199000"
+Eqp="CMP_CAN"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="854"
+Def="234"
+Tec="324"
+Ata="15"
+Niv="654"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M.A. Weiss"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="123"
+Day="13"
+Age="27"
+Pow="D"
+Fam="123"
+Les="0"
+Tra="2000"
+[2000]
+Sue="139000"
+Eqp="FMG_SAR"
+[Lvl]
+Frm="973"
+Por="6"
+Def="813"
+Tec="410"
+Ata="148"
+Niv="625"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Cho"
+Rol="DL"
+Pos="SS"
+Nac="1978"
+[Val]
+Rec="40"
+Day="13"
+Age="22"
+Pow="E"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="FMG_ANT"
+[Lvl]
+Frm="984"
+Por="24"
+Def="176"
+Tec="487"
+Ata="637"
+Niv="577"

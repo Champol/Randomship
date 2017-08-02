@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Arzallus"
+Rol="DL"
+Pos="WF"
+Nac="1971"
+[Val]
+Rec="693"
+Age="29"
+Pow="B"
+Fam="693"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="834000"
+Eqp="CMP_N-M"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="12"
+Def="345"
+Tec="489"
+Ata="869"
+Niv="782"

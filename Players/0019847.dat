@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Bellucci"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="118"
+Age="27"
+Pow="D"
+Fam="118"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="117000"
+Eqp="AZR_LES"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="11"
+Def="636"
+Tec="420"
+Ata="330"
+Niv="612"

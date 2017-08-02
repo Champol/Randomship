@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. Leone"
+Rol="MC"
+Pos="CM"
+Nac="1975"
+[Val]
+Rec="63"
+Age="25"
+Pow="D"
+Fam="63"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="88000"
+Eqp="CMP_ADE"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="5"
+Def="265"
+Tec="763"
+Ata="276"
+Niv="589"

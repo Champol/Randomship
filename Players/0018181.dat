@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Komiya"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="183"
+Age="23"
+Pow="C"
+Fam="183"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="202000"
+Eqp="CMP_ABC"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="46"
+Def="892"
+Tec="364"
+Ata="108"
+Niv="655"

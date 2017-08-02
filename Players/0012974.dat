@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Edstrom"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="99"
+Day="13"
+Age="31"
+Pow="B"
+Fam="99"
+Les="0"
+Tra="2000"
+[2000]
+Sue="95000"
+Eqp="FMG_ZIG"
+[Lvl]
+Frm="971"
+Por="2"
+Def="756"
+Tec="405"
+Ata="176"
+Niv="596"

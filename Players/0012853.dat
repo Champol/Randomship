@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Diomède"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="58"
+Day="13"
+Age="29"
+Pow="C"
+Fam="58"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="FMG_TUL"
+[Lvl]
+Frm="975"
+Por="17"
+Def="594"
+Tec="367"
+Ata="322"
+Niv="568"

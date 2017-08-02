@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Baggi"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="15"
+Day="13"
+Age="27"
+Pow="D"
+Fam="15"
+Les="0"
+Tra="2000"
+[2000]
+Sue="30000"
+Eqp="PPV_TER"
+[Lvl]
+Frm="981"
+Por="47"
+Def="285"
+Tec="619"
+Ata="333"
+Niv="517"

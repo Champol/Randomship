@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Naim"
+Rol="MC"
+Pos="DM"
+Nac="1973"
+[Val]
+Rec="124"
+Age="27"
+Pow="C"
+Fam="124"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="174000"
+Eqp="CMP_JIR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="0"
+Def="392"
+Tec="856"
+Ata="87"
+Niv="644"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Rolheiser"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="119"
+Age="32"
+Pow="C"
+Fam="119"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="107000"
+Eqp="CMP_ATH"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="5"
+Def="823"
+Tec="312"
+Ata="138"
+Niv="605"

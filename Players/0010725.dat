@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Winkler"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="54"
+Day="13"
+Age="24"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+[2000]
+Sue="78000"
+Eqp="FMG_KAN"
+[Lvl]
+Frm="989"
+Por="39"
+Def="161"
+Tec="435"
+Ata="723"
+Niv="582"

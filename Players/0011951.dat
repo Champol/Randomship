@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Stoilov"
+Rol="PT"
+Pos="GK"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="18000"
+Eqp="FMG_CHH"
+[Lvl]
+Frm="968"
+Por="670"
+Def="153"
+Tec="193"
+Ata="13"
+Niv="484"

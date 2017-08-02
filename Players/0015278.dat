@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.F. Mendes"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="2"
+Day="13"
+Age="32"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="11000"
+Eqp="PPV_CRI"
+[Lvl]
+Frm="984"
+Por="2"
+Def="144"
+Tec="304"
+Ata="579"
+Niv="456"

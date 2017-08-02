@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Etcheverrigaray"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="17"
+Age="20"
+Pow="D"
+Fam="17"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="41000"
+Eqp="PPV_TPC"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="14"
+Def="89"
+Tec="359"
+Ata="701"
+Niv="536"

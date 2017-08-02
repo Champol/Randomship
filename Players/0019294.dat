@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Drayton"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Rec="1"
+Age="17"
+Pow="A"
+Fam="1"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="12000"
+Eqp="AZR_DOA"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="14"
+Def="512"
+Tec="287"
+Ata="233"
+Niv="459"

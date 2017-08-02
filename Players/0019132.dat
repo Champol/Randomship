@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Niidome"
+Rol="DL"
+Pos="CF"
+Nac="1975"
+[Val]
+Rec="300"
+Age="25"
+Pow="B"
+Fam="300"
+Les="3"
+Tra="2000"
+Day="13"
+[2000]
+Sue="421000"
+Eqp="AZR_MDM"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="25"
+Def="242"
+Tec="476"
+Ata="920"
+Niv="718"

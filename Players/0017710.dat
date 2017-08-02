@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Reynolds"
+Rol="DL"
+Pos="WF"
+Nac="1974"
+[Val]
+Rec="71"
+Age="26"
+Pow="B"
+Fam="71"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="81000"
+Eqp="CMP_BFC"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="39"
+Def="427"
+Tec="338"
+Ata="602"
+Niv="584"

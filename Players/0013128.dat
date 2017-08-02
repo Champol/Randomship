@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Pacchini"
+Rol="DL"
+Pos="CF"
+Nac="1977"
+[Val]
+Rec="26"
+Day="13"
+Age="23"
+Pow="E"
+Fam="26"
+Les="0"
+Tra="2000"
+[2000]
+Sue="54000"
+Eqp="FMG_TUR"
+[Lvl]
+Frm="960"
+Por="2"
+Def="162"
+Tec="363"
+Ata="714"
+Niv="555"

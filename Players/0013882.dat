@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Takenaka"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="18"
+Day="13"
+Age="21"
+Pow="D"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="36000"
+Eqp="FMG_TDM"
+[Lvl]
+Frm="985"
+Por="16"
+Def="268"
+Tec="373"
+Ata="552"
+Niv="528"

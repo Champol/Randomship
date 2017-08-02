@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Cremona"
+Rol="PT"
+Pos="GK"
+Nac="1979"
+[Val]
+Rec="18"
+Age="21"
+Pow="D"
+Fam="18"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="36000"
+Eqp="CMP_MDR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="695"
+Def="258"
+Tec="201"
+Ata="16"
+Niv="528"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Urashima"
+Rol="DL"
+Pos="CF"
+Nac="1981"
+[Val]
+Rec="37"
+Day="13"
+Age="19"
+Pow="B"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="61000"
+Eqp="FMG_TOM"
+[Lvl]
+Frm="984"
+Por="5"
+Def="174"
+Tec="350"
+Ata="742"
+Niv="564"

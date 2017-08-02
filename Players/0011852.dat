@@ -1,0 +1,23 @@
+[Inf]
+Nom="L.A. Rakuyama"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="2"
+Day="13"
+Age="30"
+Pow="E"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="11000"
+Eqp="FMG_POD"
+[Lvl]
+Frm="971"
+Por="35"
+Def="226"
+Tec="329"
+Ata="470"
+Niv="455"

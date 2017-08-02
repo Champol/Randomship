@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Encarnación"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="228"
+Age="29"
+Pow="A"
+Fam="228"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="190000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="21"
+Def="856"
+Tec="418"
+Ata="90"
+Niv="650"

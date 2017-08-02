@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Espina"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="207"
+Age="22"
+Pow="C"
+Fam="207"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="204000"
+Eqp="FMG_BUR"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="15"
+Def="196"
+Tec="399"
+Ata="868"
+Niv="656"

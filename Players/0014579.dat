@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Al Hamdan"
+Rol="DL"
+Pos="WF"
+Nac="1982"
+[Val]
+Rec="7"
+Age="18"
+Pow="C"
+Fam="7"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="21000"
+Eqp="PPV_MDP"
+PCal="0"
+[Lvl]
+Frm="964"
+Por="33"
+Def="265"
+Tec="304"
+Ata="546"
+Niv="495"

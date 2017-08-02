@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Vigliano"
+Rol="DL"
+Pos="SS"
+Nac="1978"
+[Val]
+Rec="10"
+Day="13"
+Age="22"
+Pow="E"
+Fam="10"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="FMG_JAR"
+[Lvl]
+Frm="981"
+Por="7"
+Def="119"
+Tec="413"
+Ata="588"
+Niv="512"

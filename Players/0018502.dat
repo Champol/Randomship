@@ -1,0 +1,24 @@
+[Lvl]
+Niv="443"
+Ata="235"
+Tec="592"
+Def="122"
+Por="8"
+Frm="979"
+[2000]
+PCal="0"
+Eqp="CMP_TRU"
+Sue="10000"
+[Val]
+Rec="1"
+Day="13"
+Tra="2000"
+Les="0"
+Fam="1"
+Pow="E"
+Age="30"
+[Inf]
+Nac="1970"
+Pos="AM"
+Rol="MC"
+Nom="T. Bob"

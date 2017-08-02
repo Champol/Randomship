@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Meneghini"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="30"
+Day="13"
+Age="24"
+Pow="E"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="FMG_CLN"
+[Lvl]
+Frm="968"
+Por="736"
+Def="265"
+Tec="250"
+Ata="38"
+Niv="567"

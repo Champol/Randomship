@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Amezcua"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="18"
+Day="13"
+Age="22"
+Pow="E"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="39000"
+Eqp="FMG_BLA"
+[Lvl]
+Frm="982"
+Por="21"
+Def="260"
+Tec="588"
+Ata="335"
+Niv="533"

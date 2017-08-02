@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Kalla"
+Rol="MC"
+Pos="WM"
+Nac="1976"
+[Val]
+Rec="340"
+Age="24"
+Pow="C"
+Fam="340"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="376000"
+Eqp="AZR_YIE"
+PCal="0"
+[Lvl]
+Frm="996"
+Por="36"
+Def="368"
+Tec="762"
+Ata="450"
+Niv="708"

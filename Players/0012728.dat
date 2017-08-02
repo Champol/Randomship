@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Rettori"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="101"
+Day="13"
+Age="26"
+Pow="D"
+Fam="101"
+Les="0"
+Tra="2000"
+[2000]
+Sue="142000"
+Eqp="FMG_PAR"
+[Lvl]
+Frm="983"
+Por="9"
+Def="256"
+Tec="804"
+Ata="338"
+Niv="628"

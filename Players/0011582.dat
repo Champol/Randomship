@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Goretta"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="12"
+Day="13"
+Age="32"
+Pow="B"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="28000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="978"
+Por="1"
+Def="669"
+Tec="324"
+Ata="100"
+Niv="512"

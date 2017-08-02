@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. De Bary"
+Rol="DF"
+Pos="CB"
+Nac="1969"
+[Val]
+Rec="122"
+Day="13"
+Age="31"
+Pow="B"
+Fam="122"
+Les="0"
+Tra="2000"
+[2000]
+Sue="134000"
+Eqp="PPV_SOC"
+[Lvl]
+Frm="980"
+Por="10"
+Def="820"
+Tec="364"
+Ata="192"
+Niv="622"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Vacher"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="132"
+Day="13"
+Age="23"
+Pow="D"
+Fam="132"
+Les="0"
+Tra="2000"
+[2000]
+Sue="181000"
+Eqp="FMG_ESR"
+[Lvl]
+Frm="967"
+Por="31"
+Def="143"
+Tec="838"
+Ata="437"
+Niv="646"

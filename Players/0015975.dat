@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Dumortier"
+Rol="DL"
+Pos="CF"
+Nac="1972"
+[Val]
+Rec="5"
+Age="28"
+Pow="E"
+Fam="5"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="17000"
+Eqp="PPV_TAR"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="32"
+Def="146"
+Tec="291"
+Ata="627"
+Niv="479"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Braafheid"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="146"
+Day="13"
+Age="24"
+Pow="C"
+Fam="146"
+Les="0"
+Tra="2000"
+[2000]
+Sue="179000"
+Eqp="FMG_GAM"
+[Lvl]
+Frm="973"
+Por="1"
+Def="670"
+Tec="490"
+Ata="283"
+Niv="645"

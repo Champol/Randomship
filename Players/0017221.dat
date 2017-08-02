@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Van Dyk"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="102"
+Age="22"
+Pow="D"
+Fam="102"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="130000"
+Eqp="CMP_MDR"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="8"
+Def="339"
+Tec="350"
+Ata="691"
+Niv="621"

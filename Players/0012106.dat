@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. De Esbobedo"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="101"
+Day="13"
+Age="23"
+Pow="C"
+Fam="101"
+Les="0"
+Tra="2000"
+[2000]
+Sue="174000"
+Eqp="FMG_GEI"
+[Lvl]
+Frm="980"
+Por="13"
+Def="306"
+Tec="713"
+Ata="402"
+Niv="643"

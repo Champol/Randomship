@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. O'Ryan"
+Rol="PT"
+Pos="GK"
+Nac="1973"
+[Val]
+Rec="45"
+Age="27"
+Pow="C"
+Fam="45"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="56000"
+Eqp="CMP_BES"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="685"
+Def="256"
+Tec="358"
+Ata="50"
+Niv="558"

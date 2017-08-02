@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Roa"
+Rol="MC"
+Pos="CM"
+Nac="1972"
+[Val]
+Rec="451"
+Day="13"
+Age="28"
+Pow="B"
+Fam="451"
+Les="0"
+Tra="2000"
+[2000]
+Sue="497000"
+Eqp="PES_CAR"
+[Lvl]
+Frm="963"
+Por="50"
+Def="352"
+Tec="938"
+Ata="349"
+Niv="734"

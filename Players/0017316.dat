@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Kuzmanic"
+Rol="PT"
+Pos="GK"
+Nac="1969"
+[Val]
+Rec="6"
+Age="31"
+Pow="D"
+Fam="6"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="16000"
+Eqp="CMP_PCC"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="601"
+Def="186"
+Tec="272"
+Ata="12"
+Niv="477"

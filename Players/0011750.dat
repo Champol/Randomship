@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Casella"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="78"
+Day="13"
+Age="22"
+Pow="B"
+Fam="78"
+Les="0"
+Tra="2000"
+[2000]
+Sue="156000"
+Eqp="FMG_PRA"
+[Lvl]
+Frm="975"
+Por="19"
+Def="844"
+Tec="372"
+Ata="194"
+Niv="634"

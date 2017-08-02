@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Mega"
+Rol="PT"
+Pos="GK"
+Nac="1972"
+[Val]
+Rec="90"
+Day="13"
+Age="28"
+Pow="D"
+Fam="90"
+Les="0"
+Tra="2000"
+[2000]
+Sue="120000"
+Eqp="PPV_BLI"
+[Lvl]
+Frm="991"
+Por="804"
+Def="257"
+Tec="254"
+Ata="26"
+Niv="613"

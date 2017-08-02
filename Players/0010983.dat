@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Denham"
+Rol="DL"
+Pos="CF"
+Nac="1981"
+[Val]
+Rec="30"
+Day="13"
+Age="19"
+Pow="B"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="FMG_DNB"
+[Lvl]
+Frm="988"
+Por="16"
+Def="122"
+Tec="363"
+Ata="751"
+Niv="569"

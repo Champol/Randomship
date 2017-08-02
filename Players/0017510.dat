@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Georgiev"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="77"
+Age="22"
+Pow="C"
+Fam="77"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="110000"
+Eqp="CMP_BYW"
+PCal="0"
+[Lvl]
+Frm="994"
+Por="14"
+Def="163"
+Tec="458"
+Ata="758"
+Niv="607"

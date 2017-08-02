@@ -1,0 +1,23 @@
+[Inf]
+Nom="I. Dugarry"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="94"
+Day="13"
+Age="29"
+Pow="C"
+Fam="94"
+Les="0"
+Tra="2000"
+[2000]
+Sue="108000"
+Eqp="FMG_VOR"
+[Lvl]
+Frm="980"
+Por="17"
+Def="205"
+Tec="398"
+Ata="774"
+Niv="606"

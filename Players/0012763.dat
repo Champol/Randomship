@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Komiya"
+Rol="PT"
+Pos="GK"
+Nac="1975"
+[Val]
+Rec="145"
+Day="13"
+Age="25"
+Pow="C"
+Fam="145"
+Les="0"
+Tra="2000"
+[2000]
+Sue="176000"
+Eqp="FMG_EDA"
+[Lvl]
+Frm="985"
+Por="813"
+Def="287"
+Tec="344"
+Ata="39"
+Niv="644"

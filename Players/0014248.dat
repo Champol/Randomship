@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Odemwingie"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="4"
+Day="13"
+Age="29"
+Pow="E"
+Fam="4"
+Les="0"
+Tra="2000"
+[2000]
+Sue="14000"
+Eqp="PPV_FIC"
+[Lvl]
+Frm="967"
+Por="30"
+Def="608"
+Tec="294"
+Ata="137"
+Niv="471"

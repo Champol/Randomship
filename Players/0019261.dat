@@ -1,0 +1,24 @@
+[Inf]
+Nom="O. De Astorga"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="526"
+Age="24"
+Pow="B"
+Fam="526"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="530000"
+Eqp="AZR_YEK"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="26"
+Def="873"
+Tec="384"
+Ata="310"
+Niv="739"

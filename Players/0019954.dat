@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Kramer"
+Rol="PT"
+Pos="GK"
+Nac="1977"
+[Val]
+Rec="110"
+Day="13"
+Age="23"
+Pow="B"
+Fam="110"
+Les="0"
+Tra="2000"
+[2000]
+Sue="152000"
+Eqp="CUA_UES"
+[Lvl]
+Frm="971"
+Por="833"
+Def="238"
+Tec="300"
+Ata="4"
+Niv="632"

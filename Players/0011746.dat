@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Barthelemy"
+Rol="PT"
+Pos="GK"
+Nac="1981"
+[Val]
+Rec="18"
+Day="13"
+Age="19"
+Pow="D"
+Fam="18"
+Les="0"
+Tra="2000"
+[2000]
+Sue="44000"
+Eqp="FMG_PRA"
+[Lvl]
+Frm="982"
+Por="742"
+Def="197"
+Tec="194"
+Ata="24"
+Niv="542"

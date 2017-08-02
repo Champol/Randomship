@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Hine"
+Rol="DL"
+Pos="WF"
+Nac="1970"
+[Val]
+Rec="13"
+Age="30"
+Pow="D"
+Fam="13"
+Les="5"
+Tra="2000"
+Day="13"
+[2000]
+Sue="27000"
+Eqp="AZR_OEY"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="20"
+Def="186"
+Tec="335"
+Ata="575"
+Niv="510"

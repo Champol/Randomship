@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Webster"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Rec="11"
+Day="13"
+Age="32"
+Pow="B"
+Fam="11"
+Les="0"
+Tra="2000"
+[2000]
+Sue="21000"
+Eqp="PPV_SOC"
+[Lvl]
+Frm="984"
+Por="29"
+Def="603"
+Tec="398"
+Ata="69"
+Niv="493"

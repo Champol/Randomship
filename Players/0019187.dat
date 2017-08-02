@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Osman"
+Rol="MC"
+Pos="WM"
+Nac="1980"
+[Val]
+Rec="47"
+Age="20"
+Pow="B"
+Fam="47"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="71000"
+Eqp="AZR_FRO"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="30"
+Def="327"
+Tec="618"
+Ata="360"
+Niv="575"

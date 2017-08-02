@@ -1,0 +1,24 @@
+[Inf]
+Nom="H. Chahla"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="54"
+Age="27"
+Pow="D"
+Fam="54"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="62000"
+Eqp="CMP_FNA"
+PCal="0"
+[Lvl]
+Frm="969"
+Por="29"
+Def="610"
+Tec="398"
+Ata="230"
+Niv="565"

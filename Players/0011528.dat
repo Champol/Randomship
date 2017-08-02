@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Bossut"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="259"
+Age="29"
+Pow="C"
+Fam="259"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="328000"
+Eqp="FMG_GRU"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="26"
+Def="508"
+Tec="882"
+Ata="96"
+Niv="696"

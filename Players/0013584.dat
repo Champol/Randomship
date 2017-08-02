@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Goicolea"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="19"
+Day="13"
+Age="23"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="37000"
+Eqp="FMG_CTJ"
+[Lvl]
+Frm="965"
+Por="39"
+Def="363"
+Tec="684"
+Ata="97"
+Niv="529"

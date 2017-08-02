@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Ghibhudo"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="66"
+Age="25"
+Pow="D"
+Fam="66"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="100000"
+Eqp="CMP_DEN"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="2"
+Def="620"
+Tec="457"
+Ata="264"
+Niv="600"

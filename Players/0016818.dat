@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Stein"
+Rol="MC"
+Pos="WM"
+Nac="1968"
+[Val]
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_MET"
+PCal="0"
+[Lvl]
+Frm="987"
+Por="48"
+Def="171"
+Tec="458"
+Ata="207"
+Niv="391"

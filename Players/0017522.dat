@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Sbarra"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Rec="4"
+Age="18"
+Pow="D"
+Fam="4"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="20000"
+Eqp="CMP_MFU"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="13"
+Def="618"
+Tec="360"
+Ata="116"
+Niv="490"

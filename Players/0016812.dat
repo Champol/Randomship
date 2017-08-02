@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Akinjide"
+Rol="DL"
+Pos="WF"
+Nac="1973"
+[Val]
+Rec="68"
+Age="27"
+Pow="D"
+Fam="68"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="91000"
+Eqp="CMP_MET"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="19"
+Def="356"
+Tec="359"
+Ata="632"
+Niv="593"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Daichi"
+Rol="MC"
+Pos="DM"
+Nac="1980"
+[Val]
+Rec="35"
+Day="13"
+Age="20"
+Pow="C"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="73000"
+Eqp="FMG_COA"
+[Lvl]
+Frm="981"
+Por="34"
+Def="409"
+Tec="727"
+Ata="186"
+Niv="577"

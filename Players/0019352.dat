@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Giancola"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="99"
+Age="24"
+Pow="C"
+Fam="99"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="101000"
+Eqp="AZR_THE"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="40"
+Def="785"
+Tec="372"
+Ata="186"
+Niv="601"

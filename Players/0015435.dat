@@ -1,0 +1,23 @@
+[Inf]
+Nom="N. Cofré"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="27"
+Day="13"
+Age="22"
+Pow="E"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="56000"
+Eqp="PPV_BLI"
+[Lvl]
+Frm="991"
+Por="31"
+Def="740"
+Tec="340"
+Ata="124"
+Niv="558"

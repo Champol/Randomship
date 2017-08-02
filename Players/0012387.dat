@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Patil"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="C"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="FMG_MAA"
+[Lvl]
+Frm="991"
+Por="31"
+Def="514"
+Tec="283"
+Ata="254"
+Niv="467"

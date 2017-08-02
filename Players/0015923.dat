@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Langston"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Age="32"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="PPV_PAT"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="526"
+Def="201"
+Tec="101"
+Ata="46"
+Niv="393"

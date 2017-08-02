@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Malpassi"
+Rol="MC"
+Pos="AM"
+Nac="1973"
+[Val]
+Rec="89"
+Day="13"
+Age="27"
+Pow="C"
+Fam="89"
+Les="0"
+Tra="2000"
+[2000]
+Sue="125000"
+Eqp="PPV_BOD"
+[Lvl]
+Frm="979"
+Por="29"
+Def="156"
+Tec="778"
+Ata="433"
+Niv="617"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="X. Southam"
+Rol="PT"
+Pos="GK"
+Nac="1974"
+[Val]
+Rec="119"
+Age="26"
+Pow="D"
+Fam="119"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="162000"
+Eqp="CMP_PQA"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="796"
+Def="336"
+Tec="328"
+Ata="10"
+Niv="637"

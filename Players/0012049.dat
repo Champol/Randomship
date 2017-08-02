@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Ridder"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="311"
+Day="13"
+Age="26"
+Pow="B"
+Fam="311"
+Les="0"
+Tra="2000"
+[2000]
+Sue="368000"
+Eqp="FMG_MIM"
+[Lvl]
+Frm="983"
+Por="47"
+Def="399"
+Tec="944"
+Ata="200"
+Niv="706"

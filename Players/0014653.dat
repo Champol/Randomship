@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Haque"
+Rol="DF"
+Pos="CB"
+Nac="1972"
+[Val]
+Rec="267"
+Age="28"
+Pow="B"
+Fam="267"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="245000"
+Eqp="PPV_RAY"
+PCal="0"
+[Lvl]
+Frm="968"
+Por="35"
+Def="854"
+Tec="494"
+Ata="103"
+Niv="671"

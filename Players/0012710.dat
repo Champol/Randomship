@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Rossignol"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="118"
+Day="13"
+Age="23"
+Pow="D"
+Fam="118"
+Les="0"
+Tra="2000"
+[2000]
+Sue="162000"
+Eqp="FMG_PAR"
+[Lvl]
+Frm="985"
+Por="32"
+Def="624"
+Tec="543"
+Ata="286"
+Niv="637"

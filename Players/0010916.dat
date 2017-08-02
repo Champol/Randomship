@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Etchebarne"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="63"
+Day="13"
+Age="27"
+Pow="E"
+Fam="63"
+Les="0"
+Tra="2000"
+[2000]
+Sue="99000"
+Eqp="FMG_X-K"
+[Lvl]
+Frm="986"
+Por="6"
+Def="300"
+Tec="742"
+Ata="323"
+Niv="599"

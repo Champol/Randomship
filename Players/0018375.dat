@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Lanterne"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="230"
+Age="26"
+Pow="C"
+Fam="230"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="260000"
+Eqp="CMP_JIR"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="45"
+Def="318"
+Tec="913"
+Ata="187"
+Niv="676"

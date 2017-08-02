@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Sao"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="32"
+Day="13"
+Age="24"
+Pow="E"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="62000"
+Eqp="PPV_SPO"
+[Lvl]
+Frm="981"
+Por="19"
+Def="712"
+Tec="399"
+Ata="182"
+Niv="565"

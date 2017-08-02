@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Varughese"
+Rol="MC"
+Pos="WM"
+Nac="1979"
+[Val]
+Rec="37"
+Day="13"
+Age="21"
+Pow="D"
+Fam="37"
+Les="0"
+Tra="2000"
+[2000]
+Sue="64000"
+Eqp="FMG_ANT"
+[Lvl]
+Frm="990"
+Por="29"
+Def="292"
+Tec="603"
+Ata="378"
+Niv="567"

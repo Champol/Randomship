@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Belheumeur"
+Rol="MC"
+Pos="DM"
+Nac="1970"
+[Val]
+Rec="224"
+Age="30"
+Pow="C"
+Fam="224"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="158000"
+Eqp="CMP_BFC"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="35"
+Def="354"
+Tec="867"
+Ata="68"
+Niv="635"

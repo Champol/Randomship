@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Nazir"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="21"
+Day="13"
+Age="29"
+Pow="D"
+Fam="21"
+Les="0"
+Tra="2000"
+[2000]
+Sue="34000"
+Eqp="FMG_STI"
+[Lvl]
+Frm="976"
+Por="46"
+Def="306"
+Tec="704"
+Ata="90"
+Niv="523"

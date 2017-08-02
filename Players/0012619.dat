@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Amparán"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="35"
+Day="13"
+Age="27"
+Pow="D"
+Fam="35"
+Les="0"
+Tra="2000"
+[2000]
+Sue="55000"
+Eqp="FMG_MAQ"
+[Lvl]
+Frm="962"
+Por="0"
+Def="594"
+Tec="389"
+Ata="252"
+Niv="557"

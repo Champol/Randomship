@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Malick"
+Rol="DL"
+Pos="WF"
+Nac="1978"
+[Val]
+Rec="15"
+Age="22"
+Pow="E"
+Fam="15"
+Les="7"
+Tra="2000"
+Day="13"
+[2000]
+Sue="33000"
+Eqp="CMP_M-V"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="32"
+Def="200"
+Tec="394"
+Ata="560"
+Niv="523"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="O. Al-Kandari"
+Rol="MC"
+Pos="AM"
+Nac="1969"
+[Val]
+Rec="13"
+Day="13"
+Age="31"
+Pow="A"
+Fam="13"
+Les="0"
+Tra="2000"
+[2000]
+Sue="27000"
+Eqp="FMG_SHA"
+[Lvl]
+Frm="981"
+Por="15"
+Def="104"
+Tec="657"
+Ata="350"
+Niv="510"

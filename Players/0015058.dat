@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Ashkenazi"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="361"
+Age="26"
+Pow="B"
+Fam="361"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="470000"
+Eqp="PPV_ETI"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="48"
+Def="950"
+Tec="474"
+Ata="155"
+Niv="728"

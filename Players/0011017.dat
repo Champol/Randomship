@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Almanza"
+Rol="DF"
+Pos="WB"
+Nac="1972"
+[Val]
+Rec="32"
+Day="13"
+Age="28"
+Pow="C"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="45000"
+Eqp="FMG_CAT"
+[Lvl]
+Frm="978"
+Por="10"
+Def="626"
+Tec="313"
+Ata="230"
+Niv="543"

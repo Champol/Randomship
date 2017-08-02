@@ -1,0 +1,23 @@
+[Inf]
+Nom="D. Mabasa"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="46"
+Day="13"
+Age="21"
+Pow="D"
+Fam="46"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="FMG_ANT"
+[Lvl]
+Frm="972"
+Por="38"
+Def="754"
+Tec="396"
+Ata="121"
+Niv="583"

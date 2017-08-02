@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Ashraf"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="107"
+Day="13"
+Age="23"
+Pow="D"
+Fam="107"
+Les="0"
+Tra="2000"
+[2000]
+Sue="181000"
+Eqp="FMG_REQ"
+[Lvl]
+Frm="983"
+Por="33"
+Def="288"
+Tec="851"
+Ata="262"
+Niv="646"

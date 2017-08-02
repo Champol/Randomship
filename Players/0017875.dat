@@ -1,0 +1,24 @@
+[Inf]
+Nom="K. Fazil"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="78"
+Age="23"
+Pow="D"
+Fam="78"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="110000"
+Eqp="CMP_RBR"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="32"
+Def="664"
+Tec="376"
+Ata="311"
+Niv="607"

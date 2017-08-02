@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Galli"
+Rol="DF"
+Pos="WB"
+Nac="1970"
+[Val]
+Rec="27"
+Day="13"
+Age="30"
+Pow="B"
+Fam="27"
+Les="0"
+Tra="2000"
+[2000]
+Sue="32000"
+Eqp="PES_MAC"
+[Lvl]
+Frm="980"
+Por="1"
+Def="540"
+Tec="384"
+Ata="226"
+Niv="521"

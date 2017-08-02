@@ -1,0 +1,24 @@
+[Inf]
+Nom="I. Camus"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="34"
+Age="22"
+Pow="E"
+Fam="34"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="60000"
+Eqp="PPV_E-F"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="48"
+Def="180"
+Tec="360"
+Ata="731"
+Niv="563"

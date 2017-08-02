@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Monnet"
+Rol="DL"
+Pos="WF"
+Nac="1968"
+[Val]
+Rec="57"
+Age="32"
+Pow="C"
+Fam="57"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="61000"
+Eqp="FMG_ROQ"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="23"
+Def="244"
+Tec="296"
+Ata="659"
+Niv="564"

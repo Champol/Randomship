@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Lugo"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="235"
+Day="13"
+Age="26"
+Pow="D"
+Fam="235"
+Les="0"
+Tra="2000"
+[2000]
+Sue="266000"
+Eqp="FMG_HER"
+[Lvl]
+Frm="975"
+Por="16"
+Def="844"
+Tec="518"
+Ata="142"
+Niv="678"

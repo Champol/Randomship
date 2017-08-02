@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Belloso"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="33"
+Age="30"
+Pow="C"
+Fam="33"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="36000"
+Eqp="CMP_BLU"
+PCal="0"
+[Lvl]
+Frm="991"
+Por="13"
+Def="149"
+Tec="414"
+Ata="607"
+Niv="528"

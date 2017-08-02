@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Rosen"
+Rol="MC"
+Pos="DM"
+Nac="1971"
+[Val]
+Rec="108"
+Age="29"
+Pow="C"
+Fam="108"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="142000"
+Eqp="PPV_ONI"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="36"
+Def="438"
+Tec="788"
+Ata="183"
+Niv="626"

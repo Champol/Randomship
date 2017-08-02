@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Dondiz"
+Rol="DL"
+Pos="SS"
+Nac="1974"
+[Val]
+Rec="52"
+Day="13"
+Age="26"
+Pow="D"
+Fam="52"
+Les="0"
+Tra="2000"
+[2000]
+Sue="86000"
+Eqp="FMG_X-K"
+[Lvl]
+Frm="978"
+Por="50"
+Def="128"
+Tec="466"
+Ata="680"
+Niv="589"

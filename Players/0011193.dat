@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Zavalo"
+Rol="MC"
+Pos="DM"
+Nac="1976"
+[Val]
+Rec="71"
+Day="13"
+Age="24"
+Pow="D"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="101000"
+Eqp="FMG_A-U"
+[Lvl]
+Frm="968"
+Por="18"
+Def="362"
+Tec="790"
+Ata="196"
+Niv="600"

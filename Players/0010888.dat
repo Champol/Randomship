@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Rousset"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="74"
+Day="13"
+Age="26"
+Pow="E"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="90000"
+Eqp="FMG_COO"
+[Lvl]
+Frm="970"
+Por="20"
+Def="159"
+Tec="768"
+Ata="368"
+Niv="592"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="T. Hatch"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="250"
+Age="24"
+Pow="D"
+Fam="250"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="292000"
+Eqp="CMP_NIZ"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="30"
+Def="752"
+Tec="476"
+Ata="264"
+Niv="686"

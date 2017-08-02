@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.F. Caroca"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="343"
+Age="23"
+Pow="B"
+Fam="343"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="389000"
+Eqp="PPV_U-J"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="32"
+Def="902"
+Tec="519"
+Ata="147"
+Niv="711"

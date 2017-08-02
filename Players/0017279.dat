@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Sarberry"
+Rol="DL"
+Pos="SS"
+Nac="1969"
+[Val]
+Rec="71"
+Age="31"
+Pow="B"
+Fam="71"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="61000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="14"
+Def="155"
+Tec="590"
+Ata="522"
+Niv="564"

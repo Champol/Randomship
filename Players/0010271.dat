@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Tondello"
+Rol="DF"
+Pos="WB"
+Nac="1977"
+[Val]
+Rec="130"
+Age="23"
+Pow="C"
+Fam="130"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="160000"
+Eqp="PES_MOR"
+PCal="0"
+[Lvl]
+Frm="970"
+Por="10"
+Def="640"
+Tec="504"
+Ata="294"
+Niv="636"

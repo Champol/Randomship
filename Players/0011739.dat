@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Couceiro"
+Rol="DL"
+Pos="CF"
+Nac="1971"
+[Val]
+Rec="34"
+Day="13"
+Age="29"
+Pow="C"
+Fam="34"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="FMG_M-F"
+[Lvl]
+Frm="973"
+Por="48"
+Def="91"
+Tec="364"
+Ata="705"
+Niv="545"

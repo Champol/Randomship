@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Manfredi"
+Rol="DL"
+Pos="SS"
+Nac="1982"
+[Val]
+Rec="2"
+Day="13"
+Age="18"
+Pow="D"
+Fam="2"
+Les="0"
+Tra="2000"
+[2000]
+Sue="13000"
+Eqp="FMG_GEI"
+[Lvl]
+Frm="964"
+Por="44"
+Def="106"
+Tec="408"
+Ata="522"
+Niv="468"

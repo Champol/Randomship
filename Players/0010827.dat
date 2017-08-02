@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Beom-Seok"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="6"
+Age="20"
+Pow="D"
+Fam="6"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="19000"
+Eqp="FMG_BUR"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="6"
+Def="606"
+Tec="367"
+Ata="168"
+Niv="489"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.D. Drouin"
+Rol="DF"
+Pos="WB"
+Nac="1973"
+[Val]
+Rec="214"
+Day="13"
+Age="27"
+Pow="C"
+Fam="214"
+Les="0"
+Tra="2000"
+[2000]
+Sue="279000"
+Eqp="FMG_MAY"
+[Lvl]
+Frm="972"
+Por="34"
+Def="784"
+Tec="408"
+Ata="259"
+Niv="682"

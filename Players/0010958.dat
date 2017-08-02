@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Colazo"
+Rol="DL"
+Pos="WF"
+Nac="1979"
+[Val]
+Rec="24"
+Day="13"
+Age="21"
+Pow="E"
+Fam="24"
+Les="0"
+Tra="2000"
+[2000]
+Sue="53000"
+Eqp="FMG_MET"
+[Lvl]
+Frm="972"
+Por="15"
+Def="242"
+Tec="352"
+Ata="620"
+Niv="554"

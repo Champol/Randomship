@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Jalil"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="66"
+Age="22"
+Pow="D"
+Fam="66"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="103000"
+Eqp="PPV_O-J"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="25"
+Def="728"
+Tec="346"
+Ata="170"
+Niv="602"

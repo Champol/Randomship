@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. Stabile"
+Rol="MC"
+Pos="CM"
+Nac="1971"
+[Val]
+Rec="19"
+Day="13"
+Age="29"
+Pow="E"
+Fam="19"
+Les="0"
+Tra="2000"
+[2000]
+Sue="33000"
+Eqp="FMG_EXM"
+[Lvl]
+Frm="986"
+Por="13"
+Def="228"
+Tec="660"
+Ata="266"
+Niv="522"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Zurdo"
+Rol="MC"
+Pos="DM"
+Nac="1974"
+[Val]
+Rec="185"
+Age="26"
+Pow="D"
+Fam="185"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="260000"
+Eqp="AZR_ELH"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="32"
+Def="415"
+Tec="890"
+Ata="164"
+Niv="676"

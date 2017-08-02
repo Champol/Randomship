@@ -1,0 +1,24 @@
+[Inf]
+Nom="V. Inclán"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="125"
+Age="22"
+Pow="C"
+Fam="125"
+Les="6"
+Tra="2000"
+Day="13"
+[2000]
+Sue="146000"
+Eqp="CMP_B-A"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="43"
+Def="122"
+Tec="826"
+Ata="410"
+Niv="628"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Dose"
+Rol="DL"
+Pos="SS"
+Nac="1970"
+[Val]
+Rec="40"
+Day="13"
+Age="30"
+Pow="D"
+Fam="40"
+Les="0"
+Tra="2000"
+[2000]
+Sue="48000"
+Eqp="FMG_MAA"
+[Lvl]
+Frm="964"
+Por="34"
+Def="96"
+Tec="458"
+Ata="617"
+Niv="548"

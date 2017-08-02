@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Pedroso"
+Rol="MC"
+Pos="AM"
+Nac="1977"
+[Val]
+Rec="116"
+Day="13"
+Age="23"
+Pow="B"
+Fam="116"
+Les="0"
+Tra="2000"
+[2000]
+Sue="160000"
+Eqp="PPV_CRI"
+[Lvl]
+Frm="980"
+Por="47"
+Def="204"
+Tec="834"
+Ata="388"
+Niv="636"

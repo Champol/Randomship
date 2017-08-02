@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Katz"
+Rol="MC"
+Pos="CM"
+Nac="1968"
+[Val]
+Rec="18"
+Age="32"
+Pow="B"
+Fam="18"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="32000"
+Eqp="PPV_ATH"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="24"
+Def="272"
+Tec="670"
+Ata="212"
+Niv="521"

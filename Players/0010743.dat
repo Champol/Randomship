@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Radich"
+Rol="MC"
+Pos="CM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_CLN"
+[Lvl]
+Frm="981"
+Por="26"
+Def="223"
+Tec="496"
+Ata="159"
+Niv="388"

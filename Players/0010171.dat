@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Bonito"
+Rol="DL"
+Pos="WF"
+Nac="1980"
+[Val]
+Rec="29"
+Day="13"
+Age="20"
+Pow="D"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="46000"
+Eqp="PES_CAR"
+[Lvl]
+Frm="985"
+Por="11"
+Def="275"
+Tec="381"
+Ata="578"
+Niv="545"

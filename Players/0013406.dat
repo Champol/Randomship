@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.F. Frattarolo"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="101"
+Day="13"
+Age="22"
+Pow="A"
+Fam="101"
+Les="0"
+Tra="2000"
+[2000]
+Sue="134000"
+Eqp="FMG_TOM"
+[Lvl]
+Frm="965"
+Por="2"
+Def="752"
+Tec="509"
+Ata="202"
+Niv="621"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.M. Mouriño"
+Rol="PT"
+Pos="GK"
+Nac="1978"
+[Val]
+Rec="151"
+Day="13"
+Age="22"
+Pow="C"
+Fam="151"
+Les="0"
+Tra="2000"
+[2000]
+Sue="225000"
+Eqp="FMG_QUA"
+[Lvl]
+Frm="980"
+Por="880"
+Def="263"
+Tec="285"
+Ata="17"
+Niv="664"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Fremont"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="104"
+Day="13"
+Age="30"
+Pow="C"
+Fam="104"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="PES_MAC"
+[Lvl]
+Frm="981"
+Por="770"
+Def="269"
+Tec="265"
+Ata="34"
+Niv="594"

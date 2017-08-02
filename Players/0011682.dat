@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Jendrišek"
+Rol="DL"
+Pos="SS"
+Nac="1969"
+[Val]
+Rec="205"
+Day="13"
+Age="31"
+Pow="B"
+Fam="205"
+Les="0"
+Tra="2000"
+[2000]
+Sue="179000"
+Eqp="FMG_MIZ"
+[Lvl]
+Frm="981"
+Por="16"
+Def="157"
+Tec="603"
+Ata="661"
+Niv="645"

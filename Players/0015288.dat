@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Albertelli"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="151"
+Age="23"
+Pow="C"
+Fam="151"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="209000"
+Eqp="PPV_NAR"
+PCal="0"
+[Lvl]
+Frm="971"
+Por="12"
+Def="834"
+Tec="484"
+Ata="126"
+Niv="658"

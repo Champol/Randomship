@@ -1,0 +1,23 @@
+[Inf]
+Nom="T. Femminini"
+Rol="DL"
+Pos="CF"
+Nac="1968"
+[Val]
+Rec="32"
+Day="13"
+Age="32"
+Pow="B"
+Fam="32"
+Les="0"
+Tra="2000"
+[2000]
+Sue="41000"
+Eqp="FMG_ANA"
+[Lvl]
+Frm="983"
+Por="6"
+Def="197"
+Tec="398"
+Ata="653"
+Niv="538"

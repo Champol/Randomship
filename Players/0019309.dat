@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Gourcuff"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="286"
+Age="22"
+Pow="B"
+Fam="286"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="251000"
+Eqp="AZR_DOA"
+PCal="0"
+[Lvl]
+Frm="993"
+Por="32"
+Def="137"
+Tec="461"
+Ata="866"
+Niv="673"

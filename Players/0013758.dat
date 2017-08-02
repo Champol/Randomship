@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.P. Bousquet"
+Rol="MC"
+Pos="AM"
+Nac="1974"
+[Val]
+Rec="245"
+Day="13"
+Age="26"
+Pow="B"
+Fam="245"
+Les="0"
+Tra="2000"
+[2000]
+Sue="276000"
+Eqp="FMG_G-P"
+[Lvl]
+Frm="975"
+Por="14"
+Def="153"
+Tec="896"
+Ata="418"
+Niv="681"

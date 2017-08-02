@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Gareca"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="86"
+Age="27"
+Pow="D"
+Fam="86"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="97000"
+Eqp="CMP_CFC"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="50"
+Def="778"
+Tec="382"
+Ata="124"
+Niv="598"

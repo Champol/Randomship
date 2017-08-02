@@ -1,0 +1,22 @@
+[Inf]
+Nom="M. Plenkovich"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_KAN"
+[Lvl]
+Frm="979"
+Por="46"
+Def="538"
+Tec="324"
+Ata="128"
+Niv="426"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="V. Rodney"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="716"
+Day="13"
+Age="29"
+Pow="A"
+Fam="716"
+Les="0"
+Tra="2000"
+[2000]
+Sue="737000"
+Eqp="FMG_BRY"
+[Lvl]
+Frm="983"
+Por="1038"
+Def="257"
+Tec="318"
+Ata="6"
+Niv="770"

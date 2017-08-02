@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Neethling"
+Rol="MC"
+Pos="DM"
+Nac="1977"
+[Val]
+Rec="239"
+Day="13"
+Age="23"
+Pow="C"
+Fam="239"
+Les="0"
+Tra="2000"
+[2000]
+Sue="324000"
+Eqp="PES_CAR"
+[Lvl]
+Frm="989"
+Por="37"
+Def="414"
+Tec="932"
+Ata="133"
+Niv="694"

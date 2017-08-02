@@ -1,0 +1,23 @@
+[Inf]
+Nom="F. Suazo"
+Rol="DF"
+Pos="WB"
+Nac="1976"
+[Val]
+Rec="72"
+Day="13"
+Age="24"
+Pow="D"
+Fam="72"
+Les="0"
+Tra="2000"
+[2000]
+Sue="84000"
+Eqp="FMG_B-L"
+[Lvl]
+Frm="972"
+Por="49"
+Def="649"
+Tec="384"
+Ata="236"
+Niv="586"

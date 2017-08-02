@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Batchelor"
+Rol="DL"
+Pos="CF"
+Nac="1973"
+[Val]
+Rec="325"
+Day="13"
+Age="27"
+Pow="B"
+Fam="325"
+Les="0"
+Tra="2000"
+[2000]
+Sue="389000"
+Eqp="FMG_CHE"
+[Lvl]
+Frm="974"
+Por="31"
+Def="190"
+Tec="491"
+Ata="908"
+Niv="711"

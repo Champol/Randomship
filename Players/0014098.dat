@@ -1,0 +1,24 @@
+[Inf]
+Nom="L. Granillo"
+Rol="DF"
+Pos="CB"
+Nac="1979"
+[Val]
+Rec="151"
+Age="21"
+Pow="C"
+Fam="151"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="257000"
+Eqp="PPV_EDM"
+PCal="0"
+[Lvl]
+Frm="984"
+Por="8"
+Def="878"
+Tec="434"
+Ata="177"
+Niv="675"

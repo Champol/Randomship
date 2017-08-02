@@ -1,0 +1,23 @@
+[Inf]
+Nom="X. Jūjō"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="80"
+Day="13"
+Age="29"
+Pow="C"
+Fam="80"
+Les="0"
+Tra="2000"
+[2000]
+Sue="95000"
+Eqp="FMG_PAN"
+[Lvl]
+Frm="966"
+Por="18"
+Def="767"
+Tec="392"
+Ata="154"
+Niv="596"

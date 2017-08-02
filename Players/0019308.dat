@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Andressen"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="728"
+Age="29"
+Pow="A"
+Fam="728"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="610000"
+Eqp="AZR_DOA"
+PCal="0"
+[Lvl]
+Frm="978"
+Por="50"
+Def="91"
+Tec="737"
+Ata="766"
+Niv="751"

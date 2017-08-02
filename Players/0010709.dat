@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Biocca"
+Rol="DF"
+Pos="WB"
+Nac="1974"
+[Val]
+Rec="74"
+Day="13"
+Age="26"
+Pow="E"
+Fam="74"
+Les="0"
+Tra="2000"
+[2000]
+Sue="91000"
+Eqp="FMG_KAN"
+[Lvl]
+Frm="972"
+Por="6"
+Def="641"
+Tec="402"
+Ata="248"
+Niv="593"

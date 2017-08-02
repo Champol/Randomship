@@ -1,0 +1,24 @@
+[Inf]
+Nom="Z. Riera"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="79"
+Age="20"
+Pow="C"
+Fam="79"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="100000"
+Eqp="CMP_B-C"
+PCal="0"
+[Lvl]
+Frm="983"
+Por="39"
+Def="90"
+Tec="429"
+Ata="775"
+Niv="600"

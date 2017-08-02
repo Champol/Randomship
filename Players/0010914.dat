@@ -1,0 +1,22 @@
+[Inf]
+Nom="C. Mignaquy"
+Rol="DF"
+Pos="WB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_X-K"
+[Lvl]
+Frm="983"
+Por="30"
+Def="492"
+Tec="254"
+Ata="231"
+Niv="436"

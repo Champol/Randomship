@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Spahić"
+Rol="DL"
+Pos="CF"
+Nac="1974"
+[Val]
+Rec="28"
+Day="13"
+Age="26"
+Pow="D"
+Fam="28"
+Les="0"
+Tra="2000"
+[2000]
+Sue="50000"
+Eqp="FMG_DNB"
+[Lvl]
+Frm="962"
+Por="9"
+Def="222"
+Tec="353"
+Ata="700"
+Niv="549"

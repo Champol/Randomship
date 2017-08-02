@@ -1,0 +1,23 @@
+[Inf]
+Nom="K. Kwan"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="233"
+Day="13"
+Age="29"
+Pow="C"
+Fam="233"
+Les="0"
+Tra="2000"
+[2000]
+Sue="352000"
+Eqp="PPV_SOC"
+[Lvl]
+Frm="981"
+Por="50"
+Def="778"
+Tec="492"
+Ata="228"
+Niv="702"

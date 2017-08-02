@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Wenjagolska"
+Rol="PT"
+Pos="GK"
+Nac="1968"
+[Val]
+Rec="17"
+Age="32"
+Pow="B"
+Fam="17"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="31000"
+Eqp="CMP_M-V"
+PCal="0"
+[Lvl]
+Frm="976"
+Por="669"
+Def="349"
+Tec="132"
+Ata="35"
+Niv="519"

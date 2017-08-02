@@ -1,0 +1,24 @@
+[Inf]
+Nom="P. Friera"
+Rol="DF"
+Pos="CB"
+Nac="1970"
+[Val]
+Rec="46"
+Age="30"
+Pow="B"
+Fam="46"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="68000"
+Eqp="PES_SAI"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="29"
+Def="733"
+Tec="382"
+Ata="166"
+Niv="572"

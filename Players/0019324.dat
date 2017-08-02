@@ -1,0 +1,24 @@
+[Inf]
+Nom="W. Monteros"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="57"
+Age="25"
+Pow="D"
+Fam="57"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="65000"
+Eqp="AZR_TGL"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="41"
+Def="608"
+Tec="433"
+Ata="207"
+Niv="569"

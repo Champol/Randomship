@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Aloe"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="122"
+Day="13"
+Age="25"
+Pow="D"
+Fam="122"
+Les="0"
+Tra="2000"
+[2000]
+Sue="168000"
+Eqp="FMG_LIM"
+[Lvl]
+Frm="992"
+Por="16"
+Def="819"
+Tec="455"
+Ata="130"
+Niv="640"

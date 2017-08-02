@@ -1,0 +1,24 @@
+[Inf]
+Nom="F. Greco"
+Rol="MC"
+Pos="AM"
+Nac="1978"
+[Val]
+Rec="24"
+Age="22"
+Pow="E"
+Fam="24"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="52000"
+Eqp="CMP_MFU"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="2"
+Def="60"
+Tec="712"
+Ata="394"
+Niv="553"

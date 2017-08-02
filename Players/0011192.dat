@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Balaban"
+Rol="PT"
+Pos="GK"
+Nac="1980"
+[Val]
+Rec="29"
+Day="13"
+Age="20"
+Pow="C"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="58000"
+Eqp="FMG_A-U"
+[Lvl]
+Frm="982"
+Por="718"
+Def="269"
+Tec="268"
+Ata="37"
+Niv="560"

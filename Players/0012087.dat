@@ -1,0 +1,23 @@
+[Inf]
+Nom="L. Gianotti"
+Rol="DL"
+Pos="SS"
+Nac="1971"
+[Val]
+Rec="71"
+Day="13"
+Age="29"
+Pow="B"
+Fam="71"
+Les="0"
+Tra="2000"
+[2000]
+Sue="80000"
+Eqp="FMG_KPF"
+[Lvl]
+Frm="983"
+Por="16"
+Def="202"
+Tec="518"
+Ata="615"
+Niv="583"

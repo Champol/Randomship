@@ -1,0 +1,23 @@
+[Inf]
+Nom="M. Labado"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="123"
+Day="13"
+Age="24"
+Pow="C"
+Fam="123"
+Les="0"
+Tra="2000"
+[2000]
+Sue="199000"
+Eqp="FMG_KAS"
+[Lvl]
+Frm="991"
+Por="46"
+Def="795"
+Tec="529"
+Ata="188"
+Niv="654"

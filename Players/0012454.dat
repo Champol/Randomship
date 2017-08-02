@@ -1,0 +1,23 @@
+[Inf]
+Nom="P. Houston"
+Rol="MC"
+Pos="DM"
+Nac="1978"
+[Val]
+Rec="30"
+Day="13"
+Age="22"
+Pow="D"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="65000"
+Eqp="FMG_RAU"
+[Lvl]
+Frm="972"
+Por="46"
+Def="536"
+Tec="658"
+Ata="154"
+Niv="569"

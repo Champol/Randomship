@@ -1,0 +1,24 @@
+[Inf]
+Nom="M. Houghton"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="155"
+Age="24"
+Pow="D"
+Fam="155"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="148000"
+Eqp="CMP_SER"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="35"
+Def="122"
+Tec="361"
+Ata="851"
+Niv="630"

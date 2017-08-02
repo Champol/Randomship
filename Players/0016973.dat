@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Parola"
+Rol="DF"
+Pos="CB"
+Nac="1977"
+[Val]
+Rec="322"
+Age="23"
+Pow="C"
+Fam="322"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="364000"
+Eqp="CMP_TOC"
+PCal="0"
+[Lvl]
+Frm="979"
+Por="31"
+Def="900"
+Tec="526"
+Ata="70"
+Niv="705"

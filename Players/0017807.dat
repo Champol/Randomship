@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Yi"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="41"
+Age="29"
+Pow="A"
+Fam="41"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="70000"
+Eqp="CMP_RDT"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="715"
+Def="282"
+Tec="315"
+Ata="12"
+Niv="574"

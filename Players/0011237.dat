@@ -1,0 +1,22 @@
+[Inf]
+Nom="J. Lo Duca"
+Rol="MC"
+Pos="CM"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_CHB"
+[Lvl]
+Frm="975"
+Por="47"
+Def="256"
+Tec="465"
+Ata="238"
+Niv="391"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="Q. Keene"
+Rol="DF"
+Pos="WB"
+Nac="1972"
+[Val]
+Rec="242"
+Age="28"
+Pow="C"
+Fam="242"
+Les="6"
+Tra="2000"
+Day="13"
+[2000]
+Sue="215000"
+Eqp="CMP_N-M"
+PCal="0"
+[Lvl]
+Frm="981"
+Por="7"
+Def="702"
+Tec="466"
+Ata="296"
+Niv="661"

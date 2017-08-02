@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Narvaja"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="124"
+Age="22"
+Pow="C"
+Fam="124"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="162000"
+Eqp="AZR_TIG"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="30"
+Def="840"
+Tec="416"
+Ata="130"
+Niv="637"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Wybert"
+Rol="MC"
+Pos="CM"
+Nac="1977"
+[Val]
+Rec="144"
+Day="13"
+Age="23"
+Pow="D"
+Fam="144"
+Les="0"
+Tra="2000"
+[2000]
+Sue="150000"
+Eqp="FMG_BRY"
+[Lvl]
+Frm="979"
+Por="47"
+Def="261"
+Tec="844"
+Ata="235"
+Niv="631"

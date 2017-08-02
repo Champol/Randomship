@@ -1,0 +1,24 @@
+[Inf]
+Nom="R. Cea"
+Rol="DF"
+Pos="WB"
+Nac="1971"
+[Val]
+Rec="224"
+Age="29"
+Pow="B"
+Fam="224"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="282000"
+Eqp="CMP_PDL"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="19"
+Def="720"
+Tec="528"
+Ata="250"
+Niv="682"

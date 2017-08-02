@@ -1,0 +1,24 @@
+[Inf]
+Nom="S. Magnin"
+Rol="DL"
+Pos="CF"
+Nac="1969"
+[Val]
+Rec="220"
+Age="31"
+Pow="B"
+Fam="220"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="168000"
+Eqp="FMG_COT"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="9"
+Def="169"
+Tec="452"
+Ata="810"
+Niv="640"

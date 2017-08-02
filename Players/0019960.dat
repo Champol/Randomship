@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Brusco"
+Rol="DF"
+Pos="CB"
+Nac="1976"
+[Val]
+Rec="29"
+Day="13"
+Age="24"
+Pow="E"
+Fam="29"
+Les="0"
+Tra="2000"
+[2000]
+Sue="48000"
+Eqp="CUA_UES"
+[Lvl]
+Frm="970"
+Por="35"
+Def="717"
+Tec="347"
+Ata="125"
+Niv="547"

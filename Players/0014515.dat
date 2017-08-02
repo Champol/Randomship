@@ -1,0 +1,24 @@
+[Inf]
+Nom="E. Plenkovich"
+Rol="MC"
+Pos="AM"
+Nac="1975"
+[Val]
+Rec="437"
+Age="25"
+Pow="B"
+Fam="437"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="430000"
+Eqp="PPV_U-J"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="43"
+Def="112"
+Tec="945"
+Ata="481"
+Niv="720"

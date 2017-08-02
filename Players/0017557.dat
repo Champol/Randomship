@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.M. Shijō"
+Rol="MC"
+Pos="CM"
+Nac="1982"
+[Val]
+Age="18"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="CMP_DFA"
+PCal="0"
+[Lvl]
+Frm="974"
+Por="44"
+Def="218"
+Tec="575"
+Ata="196"
+Niv="441"

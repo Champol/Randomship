@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Lobato"
+Rol="DF"
+Pos="WB"
+Nac="1975"
+[Val]
+Rec="199"
+Age="25"
+Pow="C"
+Fam="199"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="257000"
+Eqp="PPV_PUC"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="1"
+Def="741"
+Tec="434"
+Ata="310"
+Niv="675"

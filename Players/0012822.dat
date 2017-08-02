@@ -1,0 +1,23 @@
+[Inf]
+Nom="R. Sakai"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="145"
+Day="13"
+Age="25"
+Pow="C"
+Fam="145"
+Les="0"
+Tra="2000"
+[2000]
+Sue="148000"
+Eqp="FMG_IMO"
+[Lvl]
+Frm="981"
+Por="3"
+Def="844"
+Tec="360"
+Ata="160"
+Niv="629"

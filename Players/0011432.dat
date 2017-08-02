@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Ostwald"
+Rol="DF"
+Pos="CB"
+Nac="1968"
+[Val]
+Age="32"
+Pow="C"
+Fam="0"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="10000"
+Eqp="FMG_ROQ"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="48"
+Def="513"
+Tec="362"
+Ata="60"
+Niv="427"

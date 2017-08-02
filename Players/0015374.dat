@@ -1,0 +1,24 @@
+[Inf]
+Nom="C. Ashikaga"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="152"
+Age="22"
+Pow="C"
+Fam="152"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="195000"
+Eqp="PPV_UNI"
+PCal="0"
+[Lvl]
+Frm="975"
+Por="10"
+Def="846"
+Tec="455"
+Ata="90"
+Niv="651"

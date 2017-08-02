@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.I. Gazcón"
+Rol="DF"
+Pos="CB"
+Nac="1974"
+[Val]
+Rec="127"
+Day="13"
+Age="26"
+Pow="C"
+Fam="127"
+Les="0"
+Tra="2000"
+[2000]
+Sue="190000"
+Eqp="PPV_PON"
+[Lvl]
+Frm="990"
+Por="26"
+Def="853"
+Tec="381"
+Ata="220"
+Niv="650"

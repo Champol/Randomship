@@ -1,0 +1,23 @@
+[Inf]
+Nom="S. Chozas"
+Rol="MC"
+Pos="CM"
+Nac="1973"
+[Val]
+Rec="278"
+Day="13"
+Age="27"
+Pow="C"
+Fam="278"
+Les="0"
+Tra="2000"
+[2000]
+Sue="257000"
+Eqp="FMG_CHB"
+[Lvl]
+Frm="989"
+Por="42"
+Def="280"
+Tec="878"
+Ata="311"
+Niv="675"

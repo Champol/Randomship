@@ -1,0 +1,23 @@
+[Inf]
+Nom="Ñ. Maceira"
+Rol="DL"
+Pos="CF"
+Nac="1980"
+[Val]
+Rec="12"
+Day="13"
+Age="20"
+Pow="C"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="FMG_SBR"
+[Lvl]
+Frm="965"
+Por="21"
+Def="167"
+Tec="360"
+Ata="678"
+Niv="526"

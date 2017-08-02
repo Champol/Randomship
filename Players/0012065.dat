@@ -1,0 +1,23 @@
+[Inf]
+Nom="U. Kösler"
+Rol="PT"
+Pos="GK"
+Nac="1970"
+[Val]
+Rec="318"
+Day="13"
+Age="30"
+Pow="C"
+Fam="318"
+Les="0"
+Tra="2000"
+[2000]
+Sue="426000"
+Eqp="FMG_KPF"
+[Lvl]
+Frm="984"
+Por="975"
+Def="295"
+Tec="219"
+Ata="23"
+Niv="719"

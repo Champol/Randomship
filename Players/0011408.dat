@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Aurrecoechea"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="C"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_KAS"
+[Lvl]
+Frm="975"
+Por="10"
+Def="590"
+Tec="266"
+Ata="154"
+Niv="443"

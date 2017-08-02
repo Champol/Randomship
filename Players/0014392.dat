@@ -1,0 +1,23 @@
+[Inf]
+Nom="E. Thibault"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="12"
+Day="13"
+Age="18"
+Pow="B"
+Fam="12"
+Les="0"
+Tra="2000"
+[2000]
+Sue="35000"
+Eqp="PPV_PON"
+[Lvl]
+Frm="963"
+Por="31"
+Def="556"
+Tec="384"
+Ata="246"
+Niv="526"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Bullock"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="139"
+Day="13"
+Age="22"
+Pow="C"
+Fam="139"
+Les="0"
+Tra="2000"
+[2000]
+Sue="236000"
+Eqp="FMG_FET"
+[Lvl]
+Frm="981"
+Por="7"
+Def="305"
+Tec="846"
+Ata="358"
+Niv="668"

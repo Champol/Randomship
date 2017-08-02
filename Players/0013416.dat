@@ -1,0 +1,23 @@
+[Inf]
+Nom="G. McGraw"
+Rol="MC"
+Pos="WM"
+Nac="1974"
+[Val]
+Rec="413"
+Day="13"
+Age="26"
+Pow="A"
+Fam="413"
+Les="0"
+Tra="2000"
+[2000]
+Sue="566000"
+Eqp="FMG_TOM"
+[Lvl]
+Frm="972"
+Por="23"
+Def="416"
+Tec="796"
+Ata="460"
+Niv="745"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Hutchins"
+Rol="DF"
+Pos="CB"
+Nac="1971"
+[Val]
+Rec="328"
+Day="13"
+Age="29"
+Pow="A"
+Fam="328"
+Les="0"
+Tra="2000"
+[2000]
+Sue="486000"
+Eqp="FMG_RAU"
+[Lvl]
+Frm="962"
+Por="5"
+Def="960"
+Tec="439"
+Ata="212"
+Niv="731"

@@ -1,0 +1,22 @@
+[Inf]
+Nom="D. Nicoleti"
+Rol="DL"
+Pos="CF"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_REQ"
+[Lvl]
+Frm="985"
+Por="41"
+Def="65"
+Tec="288"
+Ata="550"
+Niv="417"

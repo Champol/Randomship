@@ -1,0 +1,23 @@
+[Inf]
+Nom="J.T. Bain"
+Rol="MC"
+Pos="CM"
+Nac="1974"
+[Val]
+Rec="45"
+Day="13"
+Age="26"
+Pow="C"
+Fam="45"
+Les="0"
+Tra="2000"
+[2000]
+Sue="76000"
+Eqp="FMG_HUS"
+[Lvl]
+Frm="977"
+Por="34"
+Def="312"
+Tec="742"
+Ata="237"
+Niv="580"

@@ -1,0 +1,22 @@
+[Inf]
+Nom="L. Geppel"
+Rol="MC"
+Pos="DM"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="E"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="PPV_JOU"
+[Lvl]
+Frm="981"
+Por="50"
+Def="338"
+Tec="508"
+Ata="108"
+Niv="415"

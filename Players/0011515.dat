@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Quenón"
+Rol="PT"
+Pos="GK"
+Nac="1976"
+[Val]
+Rec="251"
+Age="24"
+Pow="B"
+Fam="251"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="321000"
+Eqp="FMG_GRU"
+PCal="0"
+[Lvl]
+Frm="977"
+Por="915"
+Def="312"
+Tec="269"
+Ata="9"
+Niv="694"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="D. Chinchilla"
+Rol="DF"
+Pos="WB"
+Nac="1982"
+[Val]
+Rec="6"
+Age="18"
+Pow="C"
+Fam="6"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="18000"
+Eqp="FMG_BUR"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="24"
+Def="510"
+Tec="342"
+Ata="252"
+Niv="485"

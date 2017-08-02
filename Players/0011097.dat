@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Cacici"
+Rol="MC"
+Pos="CM"
+Nac="1976"
+[Val]
+Rec="51"
+Day="13"
+Age="24"
+Pow="C"
+Fam="51"
+Les="0"
+Tra="2000"
+[2000]
+Sue="70000"
+Eqp="FMG_COA"
+[Lvl]
+Frm="969"
+Por="22"
+Def="333"
+Tec="737"
+Ata="203"
+Niv="575"

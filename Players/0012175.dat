@@ -1,0 +1,23 @@
+[Inf]
+Nom="A. Leiva"
+Rol="DL"
+Pos="CF"
+Nac="1976"
+[Val]
+Rec="357"
+Day="13"
+Age="24"
+Pow="B"
+Fam="357"
+Les="0"
+Tra="2000"
+[2000]
+Sue="430000"
+Eqp="FMG_B-L"
+[Lvl]
+Frm="981"
+Por="37"
+Def="218"
+Tec="414"
+Ata="951"
+Niv="720"

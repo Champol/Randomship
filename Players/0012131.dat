@@ -1,0 +1,22 @@
+[Inf]
+Nom="R. Milito"
+Rol="DF"
+Pos="CB"
+Nac="1982"
+[Val]
+Day="13"
+Age="18"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_VAS"
+[Lvl]
+Frm="982"
+Por="31"
+Def="558"
+Tec="290"
+Ata="106"
+Niv="430"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="W. Hine"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="73"
+Day="13"
+Age="22"
+Pow="C"
+Fam="73"
+Les="0"
+Tra="2000"
+[2000]
+Sue="120000"
+Eqp="PPV_UDS"
+[Lvl]
+Frm="988"
+Por="16"
+Def="790"
+Tec="426"
+Ata="140"
+Niv="613"

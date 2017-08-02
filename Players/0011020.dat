@@ -1,0 +1,23 @@
+[Inf]
+Nom="C. Murayama"
+Rol="MC"
+Pos="CM"
+Nac="1978"
+[Val]
+Rec="67"
+Day="13"
+Age="22"
+Pow="B"
+Fam="67"
+Les="0"
+Tra="2000"
+[2000]
+Sue="92000"
+Eqp="FMG_CAT"
+[Lvl]
+Frm="986"
+Por="1"
+Def="241"
+Tec="766"
+Ata="317"
+Niv="594"

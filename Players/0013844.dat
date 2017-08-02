@@ -1,0 +1,23 @@
+[Inf]
+Nom="J. Bartierra"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="30"
+Day="13"
+Age="20"
+Pow="B"
+Fam="30"
+Les="0"
+Tra="2000"
+[2000]
+Sue="51000"
+Eqp="FMG_LIM"
+[Lvl]
+Frm="960"
+Por="34"
+Def="700"
+Tec="386"
+Ata="211"
+Niv="551"

@@ -1,0 +1,23 @@
+[Inf]
+Nom="H. Hudson"
+Rol="DL"
+Pos="SS"
+Nac="1979"
+[Val]
+Rec="39"
+Day="13"
+Age="21"
+Pow="C"
+Fam="39"
+Les="0"
+Tra="2000"
+[2000]
+Sue="74000"
+Eqp="FMG_HAR"
+[Lvl]
+Frm="980"
+Por="24"
+Def="144"
+Tec="560"
+Ata="587"
+Niv="578"

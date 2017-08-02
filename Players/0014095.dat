@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Sarricolea"
+Rol="PT"
+Pos="GK"
+Nac="1971"
+[Val]
+Rec="118"
+Age="29"
+Pow="B"
+Fam="118"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="110000"
+Eqp="PPV_EDM"
+PCal="0"
+[Lvl]
+Frm="965"
+Por="749"
+Def="292"
+Tec="346"
+Ata="33"
+Niv="607"

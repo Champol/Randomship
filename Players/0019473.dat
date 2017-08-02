@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Pastilana"
+Rol="MC"
+Pos="WM"
+Nac="1978"
+[Val]
+Rec="144"
+Age="22"
+Pow="C"
+Fam="144"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="195000"
+Eqp="AZR_JIF"
+PCal="0"
+[Lvl]
+Frm="985"
+Por="33"
+Def="318"
+Tec="714"
+Ata="414"
+Niv="652"

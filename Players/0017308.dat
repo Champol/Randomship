@@ -1,0 +1,24 @@
+[Inf]
+Nom="L.C. Upton"
+Rol="DL"
+Pos="SS"
+Nac="1976"
+[Val]
+Rec="111"
+Age="24"
+Pow="D"
+Fam="111"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="156000"
+Eqp="CMP_MGK"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="47"
+Def="220"
+Tec="587"
+Ata="645"
+Niv="634"

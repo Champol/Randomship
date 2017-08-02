@@ -1,0 +1,23 @@
+[Inf]
+Nom="Z. Stoch"
+Rol="DF"
+Pos="CB"
+Nac="1975"
+[Val]
+Rec="296"
+Day="13"
+Age="25"
+Pow="B"
+Fam="296"
+Les="0"
+Tra="2000"
+[2000]
+Sue="403000"
+Eqp="FMG_STI"
+[Lvl]
+Frm="986"
+Por="21"
+Def="910"
+Tec="474"
+Ata="231"
+Niv="714"

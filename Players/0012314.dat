@@ -1,0 +1,22 @@
+[Inf]
+Nom="F. Dantur"
+Rol="MC"
+Pos="WM"
+Nac="1971"
+[Val]
+Day="13"
+Age="29"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_ARD"
+[Lvl]
+Frm="977"
+Por="24"
+Def="316"
+Tec="404"
+Ata="295"
+Niv="424"

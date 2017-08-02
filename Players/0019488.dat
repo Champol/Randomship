@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Nishino"
+Rol="DL"
+Pos="CF"
+Nac="1978"
+[Val]
+Rec="119"
+Age="22"
+Pow="D"
+Fam="119"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="125000"
+Eqp="AZR_JIF"
+PCal="0"
+[Lvl]
+Frm="986"
+Por="24"
+Def="130"
+Tec="460"
+Ata="776"
+Niv="617"

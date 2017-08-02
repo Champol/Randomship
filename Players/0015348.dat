@@ -1,0 +1,24 @@
+[Inf]
+Nom="V.M. Covarrubias"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="203"
+Age="22"
+Pow="D"
+Fam="203"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="266000"
+Eqp="PPV_CDP"
+PCal="0"
+[Lvl]
+Frm="967"
+Por="9"
+Def="916"
+Tec="365"
+Ata="182"
+Niv="677"

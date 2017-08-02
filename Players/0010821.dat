@@ -1,0 +1,24 @@
+[Inf]
+Nom="B. Jardel"
+Rol="DF"
+Pos="WB"
+Nac="1978"
+[Val]
+Rec="471"
+Age="22"
+Pow="A"
+Fam="471"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="578000"
+Eqp="FMG_BUR"
+PCal="0"
+[Lvl]
+Frm="988"
+Por="9"
+Def="870"
+Tec="431"
+Ata="300"
+Niv="747"

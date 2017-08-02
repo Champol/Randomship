@@ -1,0 +1,24 @@
+[Inf]
+Nom="A. Struway"
+Rol="DF"
+Pos="CB"
+Nac="1978"
+[Val]
+Rec="301"
+Age="22"
+Pow="B"
+Fam="301"
+Les="1"
+Tra="2000"
+Day="13"
+[2000]
+Sue="348000"
+Eqp="CMP_L-V"
+PCal="0"
+[Lvl]
+Frm="982"
+Por="41"
+Def="939"
+Tec="398"
+Ata="210"
+Niv="701"

@@ -1,0 +1,22 @@
+[Inf]
+Nom="I. Solcá"
+Rol="DF"
+Pos="CB"
+Nac="1983"
+[Val]
+Day="13"
+Age="17"
+Pow="D"
+Fam="0"
+Les="0"
+Tra="2000"
+[2000]
+Sue="10000"
+Eqp="FMG_VAS"
+[Lvl]
+Frm="977"
+Por="48"
+Def="523"
+Tec="224"
+Ata="180"
+Niv="395"

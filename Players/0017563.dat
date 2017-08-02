@@ -1,0 +1,24 @@
+[Inf]
+Nom="J. Rolando"
+Rol="MC"
+Pos="WM"
+Nac="1977"
+[Val]
+Rec="61"
+Age="23"
+Pow="D"
+Fam="61"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="86000"
+Eqp="CMP_DFA"
+PCal="0"
+[Lvl]
+Frm="989"
+Por="39"
+Def="272"
+Tec="648"
+Ata="379"
+Niv="590"

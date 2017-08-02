@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Østenstad"
+Rol="DF"
+Pos="CB"
+Nac="1973"
+[Val]
+Rec="391"
+Age="27"
+Pow="A"
+Fam="391"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="376000"
+Eqp="CMP_PQA"
+PCal="0"
+[Lvl]
+Frm="973"
+Por="12"
+Def="878"
+Tec="542"
+Ata="187"
+Niv="708"

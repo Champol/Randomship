@@ -1,0 +1,24 @@
+[Inf]
+Nom="N. Özil"
+Rol="DL"
+Pos="WF"
+Nac="1975"
+[Val]
+Rec="68"
+Age="25"
+Pow="B"
+Fam="68"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="96000"
+Eqp="CMP_DEN"
+PCal="0"
+[Lvl]
+Frm="963"
+Por="43"
+Def="323"
+Tec="388"
+Ata="630"
+Niv="597"

@@ -1,0 +1,24 @@
+[Inf]
+Nom="G. Lanzi"
+Rol="DF"
+Pos="CB"
+Nac="1980"
+[Val]
+Rec="51"
+Age="20"
+Pow="C"
+Fam="51"
+Les="0"
+Tra="2000"
+Day="13"
+[2000]
+Sue="114000"
+Eqp="CMP_DFA"
+PCal="0"
+[Lvl]
+Frm="980"
+Por="42"
+Def="781"
+Tec="422"
+Ata="160"
+Niv="611"
