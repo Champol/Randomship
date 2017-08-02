@@ -1,0 +1,90 @@
+﻿Liga CMP
+CMP League
+2000
+0
+0
+96
+0
+48
+120
+D1220
+D3 CMP_LPC 8899 Los Pata'e Cumbia
+D3 CMP_R-J 7889 Real JIPD
+D2 CMP_PQA 4556 Parque Apoquindo
+D3 CMP_ARN 7889 Arnicastle United
+D3 CMP_ADE 7889 As de Espadas
+D2 CMP_WAS 5667 Wasabi F.C.
+D2 CMP_SER 5667 Serendipia F.C.
+D2 CMP_RAG 5667 Rage
+D1 CMP_PEG 2334 Plaza Eganjah F.C.
+D3 CMP_ASB 7889 Aston Birras
+D3 CMP_TGT 8899 The Guetto Team
+D2 CMP_A-B 5667 Angry Birds
+D2 CMP_BLU 4556 Bluetooth
+D1 CMP_L-V 3344 L.V. F.C.
+D1 CMP_ACF 2233 A.C. Frio
+D1 CMP_FNA 2233 Fnatic F.C.
+D2 CMP_NHC 4556 No Hay Cupos
+D2 CMP_BAL 4556 Baltichanchos F.C.
+D1 CMP_ARS 2334 Arsegol
+D2 CMP_MET 4556 Metalingus
+D3 CMP_GAL 7889 Galaxia Alba
+D3 CMP_PEN 7889 Dep. Peor Es Nada
+D2 CMP_TNJ 5667 Tortugas Ninja
+D3 CMP_LIN 7889 Linterna Verde
+D1 CMP_TIB 2334 Tiburón Blanco
+D1 CMP_TOC 2233 Tocomples F.C.
+D1 CMP_PEL 2334 Pelícanos F.C.
+D2 CMP_WIZ 4556 Wizards F.C.
+D2 CMP_PIT 4556 Pitbulls F.C.
+D2 CMP_REL 5667 Relámpago
+D1 CMP_B-J 3344 Black Jersey
+D2 CMP_N-M 4556 Naranja Mecánica
+D2 CMP_IBG 4556 I.B.G.F.
+D2 CMP_MDR 4556 Misioneros de Rengo
+D3 CMP_GOL 7889 Golden F.C.
+D1 CMP_B-C 2334 Benito Cala
+D3 CMP_MGK 8899 Magikarp F.C.
+D3 CMP_PCC 7889 C.D. Pan con Chancho
+D3 CMP_PDL 6677 Pie de Limón
+D3 CMP_GRE 7889 Greenboys
+D1 CMP_LAT 3344 Latinos F.C.
+D2 CMP_CRE 4556 Cremaster
+D2 CMP_PAC 4455 Pacífico F.C.
+D2 CMP_BYW 4556 Black & White
+D3 CMP_MFU 7889 My Friend United
+D3 CMP_DFA 7889 Deportes Fray Andrés
+D3 CMP_NIU 6677 Niupi F.C.
+D1 CMP_CAN 2233 C.D. Canallas
+D3 CMP_DAR 7889 Dardos Rojos
+D3 CMP_LSE 6677 Los Sin Estadio
+D1 CMP_BFC 3344 Los B.F.C.
+D2 CMP_CSA 5667 Chile Soccer Academy
+D2 CMP_GRY 5667 Gryphons
+D1 CMP_LPE 2334 Lucas Perdidas
+D3 CMP_RDT 7889 Redentorito
+D2 CMP_B-A 4455 Ballet Amarillo F.C.
+D2 CMP_RBR 4556 Red Bull Rovers
+D3 CMP_CFC 7889 Castolo F.C.
+D3 CMP_E-N 7889 Estrella Naciente
+D3 CMP_OXI 7889 Oxidados F.C.
+D2 CMP_JYB 5667 Jazz & Blues
+D2 CMP_CAS 4455 Casanovas
+D1 CMP_ROJ 2334 Rojos F.C.
+D3 CMP_VIT 7889 Vitamínicos F.C.
+D3 CMP_CAD 7889 C.A. Decadentes
+D2 CMP_BLE 5667 Blessing F.C.
+D2 CMP_ABC 4455 All Blacks City
+D1 CMP_BES 3344 Besimbre F.C.
+D3 CMP_RIP 8899 Rip F.C.
+D3 CMP_FIC 6677 Fica F.C.
+D3 CMP_DEN 8899 Donde el Nava
+D2 CMP_M-V 5667 Monos Verdes
+D2 CMP_NIZ 4455 Niza F.C.
+D3 CMP_JIR 6677 Jirafa
+D2 CMP_B-L 4455 Blue Lions
+D3 CMP_NTM 7889 Nottingham Miedo
+D2 CMP_ATH 4556 Atomhard United
+D3 CMP_TRU 7889 The Red United
+D2 CMP_SUB 5667 Submarino Amarillo
+D3 CMP_TOR 7889 Toros F.C.

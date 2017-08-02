@@ -1,0 +1,122 @@
+﻿Liga FMG
+Fromage League
+1600
+72
+12
+0
+0
+132
+0
+D1240
+D2 FMG_BRY 6677 Bryndza
+D2 FMG_KAN 6677 Kanterkaas
+D3 FMG_CLN 7889 Cooleeney
+D3 FMG_ANT 7889 Anthotiros
+D2 FMG_IDI 5566 Idiázabal
+D1 FMG_BUR 4455 Burgos
+D2 FMG_DAN 6677 Danablu
+D3 FMG_COO 7889 Coolea
+D3 FMG_X-K 7889 Xynomyzithra Kritis
+D3 FMG_MET 7889 Metsovone
+D3 FMG_DNB 7889 Danbo
+D3 FMG_CAT 7889 Catupiry
+D3 FMG_SBR 7889 Sbrinz
+D2 FMG_HAR 5667 Harzer
+D3 FMG_COA 7889 Coalho
+D3 FMG_C-W 7889 Cheez Whiz
+D2 FMG_PRO 5667 Provoleta
+D3 FMG_A-U 7889 Arzúa-Ulloa
+D3 FMG_HAV 7889 Havarti
+D1 FMG_CHB 3445 Chamboury
+D3 FMG_TEL 7889 Telemea
+D1 FMG_GOU 4455 Gouda
+D3 FMG_SVE 7889 Svecia
+D3 FMG_CHU 7889 Chubut
+D3 FMG_ANA 7889 Anari
+D3 FMG_KAS 7889 Kashkaval
+D1 FMG_ROQ 3344 Roquefort
+D3 FMG_ARA 7889 Aragackij Syr
+D2 FMG_PHI 5566 Philadelphia
+D1 FMG_GRU 3344 Gruyère
+D1 FMG_MAS 3445 Mascarpone
+D3 FMG_EXM 7889 Exmoor Blue
+D2 FMG_WEI 6677 Weisslacker
+D3 FMG_HER 7889 Herrgårdsost
+D3 FMG_MIZ 7889 Mizithra
+D2 FMG_GOR 5566 Gorbea
+D2 FMG_M-F 6677 Minas Frescal
+D3 FMG_PRA 7889 Prästost
+D3 FMG_JAR 7889 Jarlsberg
+D3 FMG_GAM 7889 Gamalost
+D3 FMG_POD 7889 B. Podhalańska
+D3 FMG_TIL 7889 Tilsit
+D2 FMG_EPO 6677 Epoisses
+D2 FMG_TIR 6677 Tiroler A.B.G.
+D3 FMG_CHH 7889 Chhurpi
+D2 FMG_COT 5667 Cottage
+D3 FMG_MAY 7889 Maytag
+D3 FMG_MIM 7889 Mimolette
+D2 FMG_KPF 5566 Kipfler
+D3 FMG_GEI 7889 Geitost
+D3 FMG_VAS 7889 Västerbotten
+D3 FMG_B-L 7889 Boeren-Leidse
+D2 FMG_QUA 5667 Quark
+D3 FMG_CHE 7889 Chhena
+D3 FMG_AWS 7889 Awshari
+D3 FMG_ADE 7889 Ädelost
+D3 FMG_ARD 7889 Ardrahan
+D1 FMG_CAM 3344 Camembert
+D3 FMG_LAB 7889 Labneh
+D2 FMG_MAA 6677 Maasdam
+D3 FMG_HUS 7889 Hushållsost
+D3 FMG_RAU 7889 Rauchkäse
+D2 FMG_STI 5667 Stilton
+D3 FMG_REQ 7889 Requesón
+D1 FMG_PRM 4455 Parmesano
+D2 FMG_FET 5667 Feta
+D3 FMG_VOR 7889 Vorarlberger A.B.
+D2 FMG_MAQ 6677 Maquée
+D3 FMG_CAS 7889 Castello Blue
+D2 FMG_C-M 6677 Casu Marzu
+D3 FMG_PAR 7889 Parenica
+D2 FMG_G-A 6677 Gailtaler Almkäse
+D2 FMG_EDA 5566 Edam
+D3 FMG_BRU 7889 Brusselse Kaas
+D3 FMG_IMO 7889 Imokilly Regato
+D3 FMG_TUL 7889 Tulum
+D1 FMG_EMM 4455 Emmenthal
+D3 FMG_LIP 7889 Liptauer
+D1 FMG_MOZ 4455 Mozzarella
+D3 FMG_ZIG 7889 Ziger
+D2 FMG_BRI 5667 Brie
+D1 FMG_INC 4455 Incanestrato
+D3 FMG_APP 7889 Appenzeller
+D3 FMG_PAN 7889 Panela
+D3 FMG_TUR 7889 Turrialba
+D1 FMG_OAX 3445 Oaxaca
+D2 FMG_GUB 6677 Gubbeen
+D3 FMG_FDB 7889 Fleuron de Bruges
+D1 FMG_FMG 3445 Le Fromage
+D3 FMG_SIR 7889 Sirene
+D2 FMG_LEE 6677 Leerdammer
+D3 FMG_ESR 7889 Esrom
+D1 FMG_CHD 3445 Cheddar
+D3 FMG_BLA 7889 Blanquet
+D2 FMG_TOM 6677 Tomme
+D1 FMG_REG 4455 Reggianito
+D3 FMG_VEL 7889 Velveeta
+D1 FMG_GGZ 3344 Gorgónzola
+D3 FMG_MAN 7889 Manouri
+D3 FMG_ROK 7889 Rokpol
+D3 FMG_CTJ 7889 Cotija
+D3 FMG_CSH 7889 Cashel Blue
+D3 FMG_SAR 7889 Sardo
+D3 FMG_LEY 7889 Leyden
+D3 FMG_MUE 7889 Muenster
+D2 FMG_CHA 5667 Chanco
+D2 FMG_G-P 5667 Grana Padano
+D2 FMG_HAL 5667 Halloumi
+D2 FMG_HUA 5566 Huamantanga
+D2 FMG_LIM 6677 Limburger
+D3 FMG_TDM 7889 Tête de Moine
+D2 FMG_SHA 6677 Shanklish

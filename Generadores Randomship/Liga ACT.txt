@@ -1,0 +1,42 @@
+﻿Liga ACT
+Actua League
+2800
+144
+136
+80
+150
+80
+87
+D1100
+D1 ACT_D-S 1223 Dark Stormers
+D2 ACT_CRE 4456 Crebatops
+D2 ACT_D-R 4566 Desert Runners
+D1 ACT_WHZ 1223 Wild Hazard
+D1 ACT_LER 1223 Lerathors
+D1 ACT_GRA 2334 Granidtz
+D1 ACT_SOO 1223 Sookbombs
+D1 ACT_LUM 2334 Lummers
+D2 ACT_P-C 4566 Permafrost Crackers
+D2 ACT_PRE 4456 Predators
+D2 ACT_J-S 4556 Jungle Strikers
+D2 ACT_MUD 4456 Muddlers
+D1 ACT_THS 1223 Thunder Shock
+D1 ACT_AND 1223 Andlaters
+D2 ACT_TRL 4456 Tranlaters
+D2 ACT_F-S 4556 Freezing Sparks
+D1 ACT_ZUF 2334 Zufflers
+D2 ACT_M-C 4566 Mountain Cliffers
+D1 ACT_V-R 1223 Vendaval Rage
+D1 ACT_PAR 1223 Partchuckers
+D1 ACT_T-V 1223 Tornado Vortex
+D1 ACT_V-M 1223 Vulcano Magma
+D1 ACT_ORB 2334 Orbixes
+D2 ACT_U-D 4566 Undercrust Damage
+D2 ACT_B-F 4556 Burning Flames
+D2 ACT_E-F 4566 Electric Fighters
+D2 ACT_O-F 4556 Ocean Fury
+D1 ACT_ROD 1223 Rodilasers
+D2 ACT_FRO 4456 Frodotesis
+D2 ACT_YER 4456 Yerbatombs
+D1 ACT_HER 2334 Heracross
+D2 ACT_W-S 4566 Waterfall Streamers

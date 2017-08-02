@@ -1,0 +1,90 @@
+﻿Liga FAN
+Fantasy League
+2600
+124
+96
+104
+116
+68
+92
+D1220
+D1 FAN_ISE 2334 Isengard
+D3 FAN_OMA 6789 Omaru
+D2 FAN_BER 3344 Beruna
+D2 FAN_EDO 5566 Edoras
+D1 FAN_ARC 2233 Archenland
+D3 FAN_MUI 6789 Muil
+D1 FAN_HOG 2334 Hogwarts
+D3 FAN_FLN 6789 Felinda
+D2 FAN_HOR 5566 Hornburg
+D1 FAN_GAL 2233 Galma
+D1 FAN_CAL 2233 Calormen
+D1 FAN_ERI 2334 Eriador
+D3 FAN_ANV 6789 Anvard
+D3 FAN_ROH 6789 Rohan
+D2 FAN_D-G 4455 Dol Guldur
+D2 FAN_DUR 3344 Durmstrang
+D2 FAN_CAS 4455 Castelobruxo
+D2 FAN_BAJ 4455 Bajotierra
+D3 FAN_THR 6789 Thranduil
+D2 FAN_MAH 4455 Mahoutokoro
+D2 FAN_UAG 4455 Uagadou
+D2 FAN_BSM 4455 Bism
+D1 FAN_C-P 1223 Cair Paravel
+D1 FAN_GRY 1223 Gryffindor
+D2 FAN_TAS 3344 Tashbaan
+D1 FAN_RAV 1223 Ravenclaw
+D1 FAN_HUF 1223 Hufflepuff
+D3 FAN_T-S 6789 The Shire
+D2 FAN_BEA 3344 Beauxbatons
+D3 FAN_GRI 6789 Gringotts
+D2 FAN_ESG 5566 Esgaroth
+D2 FAN_AZI 4455 Azim Balda
+D3 FAN_G-H 6789 Grey Havens
+D3 FAN_DIA 6789 Diagon Alley
+D2 FAN_AZA 5566 Azanulbizar
+D3 FAN_FEL 6789 Felimath
+D3 FAN_TEE 6789 Teebeth
+D3 FAN_D-R 6789 Deep Realm
+D3 FAN_ZAL 6789 Zalindreh
+D2 FAN_GOD 5566 Godric's Hollow
+D2 FAN_SOR 4455 Sorlois
+D2 FAN_MRK 5566 Mirkwood
+D3 FAN_ILK 6789 Ilkeen
+D3 FAN_HGS 6789 Hogsmeade
+D2 FAN_ARG 5566 Argonath
+D2 FAN_NUR 5566 Nurmengard
+D3 FAN_MEZ 6789 Mezreel
+D3 FAN_LOT 6789 Lothlórien
+D1 FAN_GON 2334 Gondor
+D2 FAN_FAN 5566 Fangorn
+D2 FAN_ERE 5566 Erebor
+D3 FAN_M-T 6789 Minas Tirith
+D3 FAN_DAL 6789 Dale
+D3 FAN_M-M 6789 Minas Morgul
+D3 FAN_LTW 6789 Little Whinging
+D3 FAN_HAR 6789 Harfang
+D3 FAN_DOO 6789 Doorn
+D3 FAN_CHA 6789 Charn
+D3 FAN_BRE 6789 Brenn
+D2 FAN_CLV 4455 Calavar
+D2 FAN_TEH 4455 Tehishbaan
+D2 FAN_ALA 4455 Alambil
+D2 FAN_MRI 5566 Moria
+D2 FAN_ETT 4455 Ettinsmoor
+D1 FAN_MOR 2334 Mordor
+D1 FAN_NAR 2233 Narnia
+D1 FAN_TEL 2233 Telmar
+D3 FAN_OSG 6789 Osgiliath
+D3 FAN_LTH 6789 Little Hangleton
+D2 FAN_ILV 4455 Ilvermorny
+D2 FAN_AZK 5566 Azkaban
+D3 FAN_B-L 6789 Bree Land
+D1 FAN_SLY 1223 Slytherin
+D3 FAN_CHI 6789 Chippingford
+D3 FAN_CAR 6789 Caradhras
+D2 FAN_SHE 4455 Shetland
+D3 FAN_AVR 6789 Avra
+D2 FAN_BRA 4455 Bramandin
+D2 FAN_TAR 4455 Tarva
+D1 FAN_TER 2233 Terebinthia

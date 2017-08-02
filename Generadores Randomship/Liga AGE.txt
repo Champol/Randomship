@@ -1,0 +1,42 @@
+﻿Liga AGE
+Agentum League
+3200
+96
+135
+150
+200
+78
+114
+D1100
+D1 AGE_MOR 2334 Morlido
+D2 AGE_BLO 4567 Blodcitas
+D2 AGE_NOS 4456 Noseskupa
+D2 AGE_ACH 4567 Achiente
+D1 AGE_DSF 1223 Desificio
+D2 AGE_ENG 4456 Engañación
+D2 AGE_CCW 4456 Chomi Chame Womch
+D1 AGE_DSJ 1122 Deseljú
+D1 AGE_P-P 1223 Pao-Pao
+D2 AGE_RAM 4567 Ramujo
+D2 AGE_ABO 4567 Abotizando
+D1 AGE_SAN 2344 Santiscloba
+D1 AGE_WKF 1223 Wai Kung Fai
+D2 AGE_ÑAP 4567 Ñapuchum
+D1 AGE_PEN 2334 Penuti
+D1 AGE_PIP 2334 Piperius
+D2 AGE_MEL 4567 Meliuto
+D1 AGE_CAN 2334 Cantunflas
+D1 AGE_CHR 1122 Charsito
+D2 AGE_DES 4567 Despucio
+D1 AGE_M-N 1223 Merde Nanjo
+D1 AGE_MEN 1223 Meneno
+D1 AGE_CLF 1122 Choy Lee Fut
+D2 AGE_JUL 4567 Julianinski
+D1 AGE_TAT 2344 Tatalines
+D2 AGE_POT 4567 Potota
+D2 AGE_FAN 4567 Fantupsi
+D2 AGE_NET 4567 Los Netes
+D2 AGE_OVO 4567 Ovolos
+D1 AGE_W-P 1122 Wanchi Panchi
+D1 AGE_CON 2344 Conete
+D2 AGE_POP 4567 Popón

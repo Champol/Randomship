@@ -1,0 +1,90 @@
+﻿Liga CHM
+Champol League
+4000
+180
+48
+57
+120
+264
+270
+D1220
+D2 CHM_KIP 3344 Kipeba Soccer
+D2 CHM_TAP 3344 Tapsi
+D1 CHM_ACQ 2233 Aconquelawe
+D2 CHM_TRA 4455 Trallarston
+D3 CHM_ZOT 6778 Zotys
+D3 CHM_SCO 6677 Scorpions
+D3 CHM_BES 7788 The Bests
+D2 CHM_P-C 5566 Pello Coneco
+D1 CHM_INF 1122 Infallestal
+D2 CHM_CUT 4455 Cuteta
+D3 CHM_LOG 6677 Logaritmo
+D1 CHM_CEL 1122 Celestali
+D2 CHM_C-V 5566 Colibri Verde
+D3 CHM_AUL 7788 Aulos
+D1 CHM_ESC 2233 Escalandrifa
+D3 CHM_TOP 7788 Topadaco
+D2 CHM_H-A 5566 Hiena Azul
+D2 CHM_VEN 3344 Venstripsu
+D3 CHM_A20 6778 Age 20
+D2 CHM_ANG 4455 Anglosajonia
+D1 CHM_CAL 1122 Deportivo Calán
+D2 CHM_ADI 3344 Adisfecho
+D2 CHM_IMB 3344 Imbididual
+D2 CHM_C-M 4455 Cero-Med
+D1 CHM_FAL 1223 Fallerston
+D1 CHM_L96 1122 Laplanta 96
+D3 CHM_ALP 7788 Alpha
+D2 CHM_CUM 4455 Cumbirencio
+D1 CHM_CHG 2233 Changui
+D3 CHM_GRA 6778 Graver
+D3 CHM_WOR 7788 The Worsts
+D2 CHM_SOC 4455 Socot
+D2 CHM_C-W 5566 City Warriors
+D2 CHM_AYU 5566 Ayuya
+D3 CHM_B-P 6677 Black Panters
+D1 CHM_CHM 1122 Champiñaca
+D3 CHM_ZEK 6677 Zekoz
+D2 CHM_MET 4455 Metalujo
+D2 CHM_CCH 4455 Cachijunto
+D3 CHM_GOT 6778 Gotic!s
+D2 CHM_CAT 3344 Catrafa
+D3 CHM_EAG 6677 Eagle
+D1 CHM_BON 2233 Boncinas
+D2 CHM_AGH 5566 Aghiba & Abajo
+D1 CHM_ALC 2233 Alchine
+D3 CHM_VAL 6778 Valots
+D3 CHM_KIL 6677 Killers
+D2 CHM_C15 3344 Cinque 15
+D2 CHM_RJN 3344 Rojos Norambuena
+D3 CHM_THB 6677 Thunderbolt
+D3 CHM_THU 6778 Thunde
+D3 CHM_FAN 6778 Fantasma
+D3 CHM_RAM 7788 Ramot
+D3 CHM_OCT 6677 Octoblast
+D2 CHM_P-R 5566 Pantera Roja
+D2 CHM_YUR 3344 Yuraresivo
+D3 CHM_TRI 6778 Tricks
+D1 CHM_REC 2233 Rechiev
+D2 CHM_ACG 3344 Acogoté
+D3 CHM_AIF 7788 Aifos
+D1 CHM_AUC 1122 Auchitapuca
+D3 CHM_DRI 6677 Drivers
+D3 CHM_PRU 6677 Prubación
+D3 CHM_ASI 6677 Asíntota
+D2 CHM_CHI 4455 Doña Chisia
+D3 CHM_DIL 6677 Dilemas
+D2 CHM_STR 4455 Star Chorenchen
+D3 CHM_SAK 7788 Sakuri
+D2 CHM_TUT 5566 Tuto Tete
+D3 CHM_RAT 6778 Rating
+D1 CHM_ALD 2233 Alderbac S.T.B.
+D2 CHM_SDG 3344 Sedegumbó
+D2 CHM_VDL 3344 Verdelitro
+D1 CHM_HHZ 1122 Haunted Hazards
+D3 CHM_SPE 6677 Speedyz
+D3 CHM_DEL 7788 Delacroix
+D1 CHM_TRO 2233 Tröest
+D2 CHM_M-B 3344 Mal Baster
+D3 CHM_WIT 6778 Witsz
+D2 CHM_C-B 5566 Cabra Blanca

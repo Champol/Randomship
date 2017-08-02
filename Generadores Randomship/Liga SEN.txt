@@ -1,0 +1,122 @@
+﻿Liga SEN
+Sensible League
+1000
+24
+18
+60
+0
+0
+0
+D1240
+D3 SEN_ODM 6778 Old Dear's Menu
+D2 SEN_90M 5566 90 Minutes XI
+D3 SEN_JON 6778 The Joneses
+D3 SEN_NSD 6778 Not So Dippy United
+D1 SEN_DTH 4455 Dull Things
+D2 SEN_WIA 5667 What I Am
+D2 SEN_VEG 5667 Vegetables
+D2 SEN_BIN 5667 Binary Athletic
+D3 SEN_DSK 7788 Disk Errors
+D3 SEN_RTH 6778 Random Things
+D2 SEN_S-M 6677 Select Magazine
+D3 SEN_TWI 8899 T.W.I.
+D2 SEN_B-F 6677 Bingo Forest
+D1 SEN_SLA 4556 The Slagheap
+D2 SEN_CYF 5566 Cyfa Babes
+D3 SEN_ELE 7889 Elements
+D3 SEN_FAR 8899 Farewell United
+D2 SEN_PIZ 5566 Pizza Toppings
+D2 SEN_KEB 5566 Kebab Shop
+D2 SEN_COL 5667 The Collectors
+D3 SEN_UTE 6677 Up The Eagles
+D3 SEN_J-T 6778 J Team
+D2 SEN_FES 6677 Festive City
+D3 SEN_SAN 8899 Sandwiches
+D1 SEN_ZOO 4455 Zoo Animals
+D2 SEN_BIB 5667 The Bible
+D3 SEN_BBB 8899 Baby Boomer
+D2 SEN_DOG 5566 Dog Wednesday
+D3 SEN_IPC 8899 In a Pencil Case
+D1 SEN_S-D 4455 Sixteen Dwarves
+D1 SEN_WAV 4556 Wave United
+D3 SEN_SWO 7889 Swos Deadlines
+D3 SEN_JNO 6778 Just Nipping Out
+D3 SEN_RUB 7788 Rubbish
+D3 SEN_MIN 6677 Minor Counties
+D3 SEN_DEL 6778 Delicatessanian
+D3 SEN_EUR 6677 European Cities
+D3 SEN_GAR 7889 Gareme's Family
+D2 SEN_SXI 5667 Sensible XI
+D2 SEN_OTF 5566 On the Farm
+D3 SEN_SAD 8899 The Sad Truth
+D2 SEN_WGE 5667 West Germany
+D3 SEN_SPI 7788 Spicerack
+D2 SEN_G-B 5667 Garden Birds
+D3 SEN_CHE 7889 Chelsea
+D2 SEN_G-W 5566 Great Wars
+D1 SEN_LIV 4556 Liverpool XI
+D3 SEN_CHF 7788 Chinese Food
+D2 SEN_PQS 6677 P's and Q's
+D3 SEN_RUA 6677 R.U.A. Coder
+D2 SEN_EXC 5667 Exclamations
+D3 SEN_NIB 7788 Nibbles
+D3 SEN_STH 6778 Sad Things
+D1 SEN_EMO 4556 Emotion Overkill
+D3 SEN_ESS 7889 Essex Boys
+D3 SEN_NTH 7889 Nasty Things
+D3 SEN_GXI 7889 Grasshopper XI
+D3 SEN_NAB 7788 Norwich And Ban
+D3 SEN_FLW 6778 Flower Power
+D3 SEN_FRU 7788 Fruit Town
+D3 SEN_SWE 7889 The Sweets
+D3 SEN_HOU 6778 Household United
+D1 SEN_PRO 4455 Professionals
+D3 SEN_CHS 6778 Cheeseboard
+D1 SEN_AUS 4455 Australia
+D2 SEN_BWU 5566 Bad Words United
+D2 SEN_F-C 6677 Flown Canaries
+D2 SEN_TES 5566 Testers United
+D1 SEN_BAD 4556 Bad Spellings
+D3 SEN_SEN 7788 Sensible Games
+D3 SEN_WCR 8899 World Currency
+D3 SEN_C-A 8899 Colour Albion
+D3 SEN_TBL 7788 True Blue
+D3 SEN_ACA 7788 A.C. Artisan
+D3 SEN_ANC 7889 Ancient Gods
+D3 SEN_TBB 6778 The Big Band
+D2 SEN_D-S 5667 Daily Star F.C.
+D3 SEN_CLO 6778 Clothes City
+D3 SEN_DAN 8899 Dance Craze
+D1 SEN_SFC 4556 Sensible F.C.
+D2 SEN_TOO 5667 Toolbox FC
+D2 SEN_S-B 5667 Scout Badges
+D3 SEN_REN 7889 Renegade
+D2 SEN_NXI 5667 Norwich XI
+D3 SEN_CHR 8899 Christmas City
+D1 SEN_ZOD 4455 Zodiac City
+D3 SEN_CHC 7889 Chelmsford City
+D2 SEN_EXI 5566 Enchanted XI
+D3 SEN_B-B 7889 Bobby Banyan F.C.
+D1 SEN_GFC 4556 G.F.C.
+D3 SEN_ORG 8899 Organs
+D1 SEN_OTM 4455 On The Milkfloat
+D3 SEN_OHB 7788 Oap Home Boys
+D2 SEN_NCK 5566 Nicknames Town
+D3 SEN_EMP 7788 Emperor City
+D1 SEN_TST 4556 The S Team
+D3 SEN_GMM 6677 Gamesmaster
+D3 SEN_B-J 7788 Bad Jokes
+D3 SEN_MEM 6677 Members Only
+D3 SEN_FSH 7788 Fish Athletic
+D2 SEN_NUM 5667 Numbers
+D3 SEN_ENG 8899 England
+D1 SEN_CRI 4455 Crisp Flavours
+D2 SEN_YWN 6677 Yawn City
+D3 SEN_CHT 7889 Cheap Thrills
+D3 SEN_UNI 6677 Unique
+D3 SEN_DON 8899 Donkey United
+D3 SEN_BIT 7889 Team Bits
+D3 SEN_B-H 8899 Bad Habits
+D3 SEN_GMW 6778 Gamesworld
+D2 SEN_ATC 5566 At the Chippy
+D3 SEN_ATL 6677 A is for Atlas

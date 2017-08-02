@@ -1,0 +1,122 @@
+﻿Liga PAT
+Patatonic League
+3800
+100
+208
+162
+111
+108
+147
+D1240
+D3 PAT_SNP 7899 San Puré
+D3 PAT_R-N 6678 Red Norland
+D3 PAT_ALM 6789 Almidón
+D3 PAT_PPL 6789 Potato Plate
+D1 PAT_TOB 2233 Toberósum
+D3 PAT_PMY 6789 Papa Mayo
+D3 PAT_PAT 6789 Patata
+D2 PAT_SVU 3455 Servestinos Unidos
+D3 PAT_MIL 6678 Milcao
+D2 PAT_PST 4556 Papudo Sartens
+D3 PAT_ELS 6789 El Salado
+D1 PAT_GSL 1122 Gran Solanina
+D3 PAT_CSC 6789 Cosechina
+D3 PAT_PTO 7899 Potato Town
+D3 PAT_BAT 6789 Batata
+D2 PAT_CAR 3455 Carbonada
+D2 PAT_CHK 3455 Charkikán
+D1 PAT_SEM 1122 Semillística
+D1 PAT_CAZ 1223 Cazuelínticia
+D3 PAT_REG 6678 Regadíos
+D3 PAT_AGA 6789 Agarrapapas
+D3 PAT_ATS 6678 Atlético Sartens
+D3 PAT_P-V 7899 Papa-Very
+D3 PAT_U-P 6678 Univ. Patatólica
+D1 PAT_PPH 1223 Paphervidos
+D3 PAT_ABO 6678 Abonil
+D3 PAT_SER 6678 Servicios
+D3 PAT_OLI 6789 Oliveira
+D2 PAT_BAR 4556 Barcel
+D3 PAT_FER 6789 Fermento
+D3 PAT_COR 6789 Corahila
+D3 PAT_CHÑ 6789 Chuño
+D3 PAT_QEC 6789 Qechua
+D2 PAT_EST 3345 Estofandra
+D3 PAT_DOR 6789 Dorada
+D3 PAT_DUQ 6789 Las Duquesas
+D3 PAT_LEC 7899 Leche
+D3 PAT_UNP 6789 Unión Paperas
+D3 PAT_TOR 6789 Tortillón
+D3 PAT_CML 7899 Comelandia
+D1 PAT_VEG 1122 Vegeteral
+D3 PAT_SPP 7899 San Papo
+D2 PAT_TUB 4566 Tuberculosis
+D3 PAT_LMP 6789 La Mia Papa
+D2 PAT_PPD 3456 Papadópulos
+D3 PAT_EVE 6678 Evercrisp
+D2 PAT_TBU 3455 Tubérculo Unido
+D2 PAT_KEN 4556 Kennebec
+D2 PAT_ASA 4556 Deportivo Asados
+D3 PAT_FLO 6789 Florencia
+D2 PAT_OLL 3456 Ollapresión
+D1 PAT_PAP 1122 Papudo F.C.
+D2 PAT_PRN 4566 Purén
+D2 PAT_MAG 4556 Magnoliofita
+D3 PAT_LCH 6789 Lechan
+D2 PAT_PAR 3455 Parrilladas F.C.
+D2 PAT_RVG 3456 Real Vegetal
+D3 PAT_SAL 6789 Salero
+D2 PAT_U-V 3455 U. Vitaminal
+D3 PAT_ENT 6678 Entrenudo
+D3 PAT_STP 6789 Santa Planta
+D2 PAT_PRG 4556 Papers Rangers
+D3 PAT_T-P 7899 The Planta
+D2 PAT_CUR 3455 Curanto
+D3 PAT_GNO 6678 Gnocci Legnam
+D1 PAT_COS 2233 Cosecharto
+D3 PAT_MLH 6789 Milhojas
+D3 PAT_MAR 6678 Marmita
+D3 PAT_K-J 6678 Kufri Jyoti
+D3 PAT_POL 6678 Polentos
+D3 PAT_ENS 6789 Ensalata
+D3 PAT_BOC 6789 Boca Duquesas
+D2 PAT_R-P 3345 Red Pontiac
+D2 PAT_HOJ 4566 Hojedal
+D3 PAT_MAY 7899 Mayoleza
+D3 PAT_M-P 6789 Marco Polo
+D1 PAT_CAS 2233 Cascarudos
+D3 PAT_KIN 6678 Kinder Sarten
+D3 PAT_TIK 6789 Tika
+D1 PAT_PUR 1223 Pureteros
+D1 PAT_SOL 1223 Solánum
+D3 PAT_LAY 6678 Lays
+D3 PAT_SNA 6789 Snack
+D3 PAT_MOM 6789 Mom's
+D2 PAT_CMS 4566 Comesal
+D2 PAT_RUS 4556 Russet Burbank
+D2 PAT_CUL 3345 Cultiverio
+D3 PAT_G-Y 6678 Golden Yukon
+D3 PAT_PSV 6678 Puerto Savia
+D3 PAT_FEC 6789 Fécula
+D3 PAT_P-L 7899 Papa Lota
+D2 PAT_AGR 3455 Agregado
+D1 PAT_PMP 2233 Pampapa
+D3 PAT_PTÑ 6678 Proteiñón
+D2 PAT_PPY 3345 Papanyelakis
+D3 PAT_PNA 7899 Purina
+D3 PAT_ELD 6789 El Dorado
+D1 PAT_CSU 1122 Cat Shit United
+D3 PAT_UNC 6678 Unión Cacerola
+D3 PAT_STF 6789 Santa Frita
+D2 PAT_CHP 3455 Chapalele
+D1 PAT_VDK 2233 Vodkartoffel
+D2 PAT_APO 4566 Apoléntico
+D2 PAT_FRI 4556 Fritilandia
+D1 PAT_PTG 2233 Patatagonia
+D2 PAT_RAI 3345 Raiznal
+D1 PAT_ACE 1122 Aceiteñor
+D2 PAT_ATH 4566 Atlético Huertedero
+D3 PAT_FOL 6678 Foliolo
+D2 PAT_ÑAM 3345 Ñam Ñam
+D3 PAT_UNE 6678 Unión Estambres
+D3 PAT_PGZ 6678 Puerto Guizo

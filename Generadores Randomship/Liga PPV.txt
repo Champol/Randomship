@@ -1,0 +1,90 @@
+﻿Liga PPV
+Papovic League
+1800
+144
+0
+156
+12
+18
+108
+D1220
+D3 PPV_VID 7889 Vid
+D3 PPV_SET 7889 Set
+D1 PPV_CLI 4455 Correos de Clinton
+D2 PPV_LAG 5667 Lagurm
+D2 PPV_M-C 5667 Monte Colón
+D2 PPV_CDC 5667 Canas de Chile
+D1 PPV_EDM 4455 Estreya de Marte
+D3 PPV_SOC 7889 Sock
+D1 PPV_TPC 3445 Tea Puca
+D3 PPV_BOR 7889 Bort
+D3 PPV_UDS 6778 Urea del Sur
+D3 PPV_FIC 7889 Fickens
+D3 PPV_P-F 6778 Papa Felis
+D3 PPV_ROB 7889 Robock
+D2 PPV_E-F 5667 Elicer Felis
+D2 PPV_LUN 5667 Lunes Francia
+D3 PPV_PON 7889 Pond
+D1 PPV_DIN 3344 Dínamo
+D3 PPV_YER 7889 Yerman
+D2 PPV_D-C 5667 Diagonal Cruces
+D1 PPV_U-J 3344 Uachi Jabón
+D1 PPV_TTÑ 3344 Titaña
+D1 PPV_MDP 4455 Mar de Pucaragua
+D3 PPV_ARR 7889 Arrot
+D3 PPV_BRA 7889 Braulyo
+D2 PPV_RAY 5667 Rayonstain
+D1 PPV_D-F 3445 Dina Flores
+D3 PPV_BUN 7889 Bun
+D2 PPV_ASO 5667 Asoñap
+D2 PPV_O-J 5667 Óliber Jesús
+D2 PPV_SDL 5667 Simon de Lacayo
+D2 PPV_CSS 5667 Calle Sin Salida
+D3 PPV_JOU 7889 Jout
+D2 PPV_ONI 5667 Onipse
+D2 PPV_ELE 5667 Elefak
+D3 PPV_ENE 7889 Enet
+D2 PPV_C-M 5667 Caci Muerto
+D2 PPV_GAB 5667 Gabón Estrellas
+D3 PPV_EUR 8899 Europa
+D2 PPV_ETI 5667 Etiqueta
+D2 PPV_FUG 5667 Fugarni
+D2 PPV_RDH 5667 Rei de Hungria
+D3 PPV_BOD 7889 Bodi
+D2 PPV_PUC 5667 Pucon U.C.
+D1 PPV_V-C 3344 Vóldimer Can
+D2 PPV_RDM 5667 Ratón de Malacia
+D3 PPV_CRI 7889 Criyeart
+D2 PPV_NAR 5667 Narovin
+D2 PPV_EFA 5667 Efaxil
+D1 PPV_CDP 4455 Co. de las Palmeras
+D1 PPV_UNI 3445 Unibrcidad de la U
+D2 PPV_RDD 5667 Rosas de Dinamarca
+D3 PPV_BLI 7889 Blinckear
+D1 PPV_BAQ 3445 Be Aquí
+D3 PPV_NAM 7889 Name
+D3 PPV_BRO 7889 Brock
+D3 PPV_OMR 8899 Omar
+D3 PPV_J-T 8899 José Tomás
+D3 PPV_ESP 6778 Esperansa
+D2 PPV_EBZ 5667 Elefictrabuuz
+D3 PPV_SAY 7889 Saybot
+D1 PPV_VDC 4455 Vent. de la Cascada
+D3 PPV_TER 7889 Terrabol
+D2 PPV_LAZ 5667 Lázamon
+D3 PPV_BLO 7889 Blonyak
+D2 PPV_ATH 5667 Atholnip Tog
+D1 PPV_LAN 3344 Lan Espacio
+D1 PPV_TAQ 3445 Taque Paña
+D3 PPV_RUN 7889 Runer
+D2 PPV_PAT 5667 Pato
+D2 PPV_TAR 5667 Tarrom
+D2 PPV_JUP 5667 Planeta Júpiter
+D2 PPV_A-G 5667 Alemania Gaspar
+D3 PPV_VDM 8899 Viña del Mar
+D2 PPV_PAÑ 5667 Pañopt
+D3 PPV_SPO 7889 Spot
+D2 PPV_MDI 5667 Mundo de Islas
+D1 PPV_TMQ 3445 Tea Manqui
+D3 PPV_TOC 6778 Tocame 439
+D3 PPV_SOQ 7889 Soquend

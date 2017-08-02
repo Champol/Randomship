@@ -1,0 +1,122 @@
+﻿Liga COM
+Comic League
+3600
+135
+141
+165
+132
+102
+150
+D1240
+D3 COM_XAG 6778 Xagus
+D3 COM_MIC 7899 Michote
+D1 COM_MUN 2233 Münchischis
+D3 COM_WAD 6778 Wadesdah
+D2 COM_MAC 5566 Macondo
+D2 COM_M-M 5566 Munga Munga
+D2 COM_WES 5566 Wesnoth
+D3 COM_MAK 6778 Makanoa
+D3 COM_DAL 7899 Dalton
+D2 COM_KHE 4455 Khemed
+D3 COM_TIS 6778 Tisroc
+D3 COM_N-O 7899 Nick Obre
+D1 COM_AKA 2233 Akarrú
+D3 COM_KXT 6778 Kar Xir Tarl
+D2 COM_CDS 4455 Cruz del Sur
+D3 COM_T17 7788 Team 17
+D2 COM_COR 5566 Corneria
+D3 COM_BAN 7788 Bands
+D2 COM_TRA 5566 Trapisonda
+D1 COM_KLW 1223 Klow United
+D2 COM_SHU 4455 Shutetsu
+D3 COM_GAN 6778 Ganon's Castle
+D1 COM_SYL 1223 Syldavia
+D3 COM_COC 7899 Cochanchos
+D3 COM_POR 6778 Porre
+D2 COM_CCH 5566 Cachupín
+D1 COM_BAR 1122 Barrabases
+D3 COM_OCE 7788 Ocean
+D1 COM_CEB 1223 Cebollitas
+D3 COM_SNT 6778 San Theodorus
+D2 COM_NAN 4455 Nankatsu S.C.
+D3 COM_HOB 7899 Hobbes
+D2 COM_SIC 3344 Sicalipto S.C.
+D3 COM_BAB 7788 Babes
+D2 COM_SIL 3344 Sporting Silurios
+D2 COM_R-M 4455 Real Mandril
+D3 COM_KAS 7899 Kassima
+D2 COM_PID 4455 Piduquen
+D3 COM_KAR 6778 Karaboudjan
+D2 COM_SHK 3344 Shere Khan
+D3 COM_MOU 6778 Moulinsart
+D3 COM_PEN 7899 Pencas
+D1 COM_PEL 1122 Pelotillehue F.C.
+D2 COM_GAL 5566 Galos
+D2 COM_QUI 3344 Quidditch
+D3 COM_ZER 6778 Zerlik
+D3 COM_BOR 6778 Borduria
+D3 COM_MED 6778 Medina
+D3 COM_FER 6778 Ferjus
+D3 COM_NAM 6778 Namekusei
+D1 COM_CON 2233 Conservia
+D1 COM_B-P 1223 Buenas Peras
+D3 COM_VER 6778 Verdines
+D1 COM_SHO 2233 Shohoku
+D3 COM_FLA 6778 Fláfil Cópir
+D2 COM_SUT 5566 F.C. Suterones
+D3 COM_KAK 6778 Kakariko Village
+D3 COM_KIL 6778 Kiltoch
+D3 COM_BGG 6778 Bagghar
+D3 COM_COM 7899 Cometosos
+D3 COM_MAR 7899 Marullo F.C.
+D2 COM_SHI 4455 Shimizu F.C.
+D2 COM_GUL 3344 Gulevandia
+D3 COM_GDV 6778 Guldov
+D3 COM_N-R 6778 Nuevo Rico
+D3 COM_MOW 7899 Mowgli
+D2 COM_K-K 5566 Kili Kilis
+D3 COM_ARN 6778 Arni
+D3 COM_L-L 7899 Lucky Luke
+D2 COM_ASL 3344 Aslan
+D2 COM_P-D 3344 Puchas Diego
+D2 COM_CAT 4455 F.C. Cataluña
+D3 COM_LEÑ 7899 Leñeros F.C.
+D3 COM_RDC 6778 Red Dog City
+D3 COM_EAS 6778 Eastdown
+D2 COM_OTT 4455 Ottokar
+D3 COM_FRI 7788 Friends
+D3 COM_BAG 7899 Baggera
+D1 COM_SAL 2233 Salsacia
+D3 COM_NAT 7899 Natres
+D3 COM_EPS 7788 Eps
+D2 COM_CHI 4455 Chiloinco
+D1 COM_CMP 1223 Cumpeo
+D3 COM_MIR 6778 Miraz
+D1 COM_G-G 2233 Gola Gola
+D3 COM_CPU 7788 Cpu
+D2 COM_DUM 5566 Dumbledore
+D3 COM_S-R 6778 São Rico
+D2 COM_VOL 3344 Voldemort
+D3 COM_PER 7899 Pertel
+D3 COM_TOR 6778 Torvic
+D1 COM_TIT 2233 Titirilquén
+D2 COM_ODA 4455 Ojo de Águila
+D2 COM_CHO 5566 Chocobo
+D2 COM_HYR 5566 Hyrule
+D3 COM_DOP 6778 Las Dópicos
+D3 COM_DOR 6778 Dorino
+D3 COM_L-W 6778 Lost Woods
+D1 COM_NIU 1122 Niupi
+D3 COM_TRU 6778 Truce
+D2 COM_OSB 4455 Os Brancos
+D3 COM_W-U 6778 Wildstone U.
+D3 COM_KAA 7899 Kaa
+D3 COM_MAB 6778 Mabure
+D3 COM_GOT 7899 Gotham City
+D3 COM_MOO 7788 Mooes
+D3 COM_CUC 6778 Cucufato F.C.
+D1 COM_SPR 1223 Springfield
+D3 COM_CHR 6778 Choras
+D3 COM_TER 6778 Termina
+D3 COM_SZO 6778 Szohôd
+D3 COM_BAL 7899 Baloo

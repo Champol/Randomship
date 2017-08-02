@@ -1,0 +1,122 @@
+﻿Liga PES
+Pro Evolution League
+1400
+54
+48
+30
+60
+30
+36
+D1240
+D2 PES_TAR 5566 Targueral
+D3 PES_CAT 6778 Cateravai
+D3 PES_AMF 6778 Almorfida
+D1 PES_SSD 4455 S.S. Divo
+D3 PES_HER 6778 Herismakhgia
+D2 PES_JAG 5566 The Jaguars
+D3 PES_TED 6778 Tedloghec
+D3 PES_ZAR 6778 Zarquagena
+D1 PES_GOL 4455 The Goliaths
+D1 PES_ESP 3445 C.A. Especialista
+D2 PES_ZAN 5566 Zangrhan
+D3 PES_BAM 6778 Bamgarrua
+D2 PES_HAR 5566 Harmanuci
+D3 PES_LEN 6778 Lengerblitz
+D3 PES_NIT 7899 A.C. Nitsaloskis
+D3 PES_QAX 6778 Qaxoqavoiy
+D3 PES_NEL 6778 Nelapoltsk
+D3 PES_SAR 7899 F.S.V. Sarmtonburg
+D1 PES_VIC 3445 A.S. Victoire
+D2 PES_CAP 5566 A.S. Capricorn
+D2 PES_ROO 5566 Rookie
+D3 PES_BIR 6778 Biraquachu
+D2 PES_LIB 5566 Libra F.C.
+D2 PES_SAG 5566 F.C. Sagittarius
+D3 PES_ODE 7899 F.K. Odersteich
+D2 PES_AQU 5566 A.C. Aquarius
+D3 PES_YAR 6778 Yaraydeccah
+D3 PES_FLE 7899 Fleuve Shimada
+D2 PES_CAN 5566 A.S. Cancer
+D3 PES_GUA 6778 Guarchomato
+D3 PES_NUE 6778 Nuerrujiyo
+D3 PES_EHR 7899 Ehrenhofstadt
+D1 PES_BRA 3445 Bravona
+D2 PES_QAT 5566 Qatorejan
+D3 PES_KAL 6778 Kalaquisong City
+D2 PES_GEM 5566 A.C. Gemini
+D3 PES_NOR 7899 F.C. Nortovka
+D3 PES_BUC 6778 Buchaneva
+D1 PES_LON 3445 Longuedez
+D1 PES_C-R 4455 Canuch Rawore
+D3 PES_TRU 7899 Trunecan
+D2 PES_CUN 5566 Cunturipa
+D3 PES_MRA 7899 Mrabspor
+D3 PES_JOR 7899 Jorudberg F.F.
+D2 PES_APO 5566 Aposenta
+D3 PES_NAK 6778 Nakhqachev
+D3 PES_WAR 7899 Waryamosuk
+D3 PES_THE 7899 Theeselvargen
+D3 PES_CRZ 7899 Carizupello
+D2 PES_ARI 5566 F.C. Aries
+D3 PES_IOL 7899 C.S. Iolceanicu
+D3 PES_SQU 7899 C.S. Squanoer
+D3 PES_KHR 6778 Kharimsharjah
+D3 PES_CHE 6778 Cheonsang Teayang
+D3 PES_RAL 7899 C.D. Raltonvegua
+D3 PES_GAN 7899 Ganzoraccio
+D2 PES_PUN 5566 Puntihuerva
+D3 PES_HUA 6778 Huangying Qingshun
+D2 PES_COS 5566 F.C. Cosmo 
+D2 PES_CER 5566 Cersipla Jakarta
+D2 PES_VIR 5566 A.S. Virgo
+D2 PES_GLI 5566 Gli Pelati
+D3 PES_MAR 6778 Marribohua
+D3 PES_HAI 6778 Haiphong Athletic
+D2 PES_MEI 5566 Meialua
+D3 PES_FIN 7899 Fineseeberg
+D3 PES_GHA 6778 Gharnetova
+D3 PES_ALM 6778 Almchendolf
+D2 PES_HIE 5566 Hientozario
+D3 PES_BLO 6778 Blookrows
+D3 PES_JOH 7899 Johachnaard V.V.
+D3 PES_SAY 6778 Sayramskal
+D2 PES_QUE 5566 Quertemoyo
+D3 PES_WON 7899 Wondengine Town
+D3 PES_KRU 6778 Krungthep United
+D1 PES_BOS 3445 Bosedez
+D1 PES_WEU 3344 WE United
+D1 PES_MAE 3445 A.C. Maestore
+D2 PES_LEO 5566 A.C. Leo
+D2 PES_TAU 5566 F.C. Taurus
+D3 PES_BHA 6778 Bharshapur
+D3 PES_HEZ 6778 Heztorrium
+D3 PES_QHA 6778 Qharitunbo
+D2 PES_MOU 5566 Mouqabaram
+D3 PES_CEL 7899 Celuvaris
+D2 PES_CRA 5566 Craquenho
+D1 PES_PAS 4455 Passers
+D2 PES_ARU 5566 Aruzutanque
+D2 PES_GIB 5566 Giberchampu
+D2 PES_SCO 5566 Scorpio F.C.
+D1 PES_MAG 3445 F.C. Magerio
+D3 PES_TYH 7899 Tyhuanzo
+D3 PES_C-S 7899 Cantlesir Spor
+D3 PES_SER 7899 Serignaluca
+D2 PES_CAR 5566 Carrinho
+D3 PES_MRK 7899 K.V.C. Meirkugaurt
+D1 PES_MOH 3445 A.S. Mohican
+D3 PES_HJO 7899 Hjorwesland B.K.
+D3 PES_MOR 6778 Moratyadi
+D1 PES_PES 3344 PES United
+D1 PES_MLU 3344 ML United
+D3 PES_FON 6778 Fontana City
+D2 PES_PIS 5566 Pisces F.C.
+D1 PES_MAC 3445 Maccingami F.C.
+D3 PES_SZE 7899 K.S. Szelawce
+D3 PES_QUA 7899 S.D. Quaztolla
+D3 PES_ALT 6778 Altiplano Bunan
+D3 PES_SAI 6778 Saintragler
+D3 PES_XAK 7899 Xakoulagos
+D3 PES_SUJ 6778 Sujung Bada
+D3 PES_KRI 6778 Kriedbach
+D3 PES_MRG 7899 Marguaparrena

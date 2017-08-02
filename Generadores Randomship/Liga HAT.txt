@@ -1,0 +1,58 @@
+﻿Liga HAT
+Hattrick League
+3000
+80
+100
+52
+198
+96
+76
+D1200
+D2 HAT_IMP 6677 Impotentes F.C.
+D1 HAT_HAU 2344 Haunteds
+D1 HAT_POR 1122 Portentores
+D2 HAT_MAS 5566 Masumasumpré
+D2 HAT_T-Z 5566 Team Zero
+D1 HAT_EDP 1233 Est. de la Plaza
+D1 HAT_CUR 1233 Curcuriches
+D2 HAT_ACH 6677 Achentotontununo
+D2 HAT_KAT 3455 Katrazka
+D2 HAT_COM 6677 Cometas
+D2 HAT_CAS 5566 Ctrl Alt Supr
+D2 HAT_KIR 7889 Kirguistán
+D2 HAT_SUP 6677 Supercampeones
+D2 HAT_TOM 3455 Los Tomates
+D2 HAT_FIA 5566 Fiascos
+D2 HAT_ESP 7889 Espartanos
+D1 HAT_FAR 2344 Farmacia F.C.
+D1 HAT_V-N 1233 Vespucio Norte F.C.
+D2 HAT_M4E 6677 Mapocho 4 Ever
+D1 HAT_TRV 2344 Travelo
+D2 HAT_U-H 7889 Unión Helvética
+D2 HAT_SCO 3455 Scoober S.C.
+D2 HAT_CAC 5566 Cachipanketo
+D1 HAT_LON 2344 Longiturrein
+D2 HAT_PAN 6677 Panaderos F.C.
+D2 HAT_CHA 3455 Los Chapulines
+D2 HAT_RES 3455 Resobrios
+D2 HAT_CRW 5566 La Crew
+D2 HAT_MUL 5566 Multra Ulti
+D2 HAT_PAM 7889 Pamoña
+D2 HAT_D-W 3455 Droko Wayne
+D2 HAT_MER 5566 Merómeno
+D2 HAT_ALQ 6677 Alcurnia
+D2 HAT_PEP 7889 Pepoto
+D1 HAT_OBW 1122 Old Batch Wolves
+D2 HAT_OBJ 3455 Obejotas
+D2 HAT_TEF 7889 Tefésero
+D1 HAT_ACM 2344 A.C. Morgoth
+D1 HAT_TAR 1233 Tarúpido
+D1 HAT_CHU 1122 Chuchunco Unido
+D1 HAT_NAN 2344 Los Nanys
+D1 HAT_EFE 2344 Efecé F.C.
+D2 HAT_ZEP 3455 Zeperepe
+D1 HAT_GAS 1233 Gasórnimplat
+D2 HAT_CRA 5566 Los Crá
+D2 HAT_ENF 7889 Les Enfant
+D1 HAT_INC 1122 Incalumbra
+D2 HAT_PEC 3455 Pechaca

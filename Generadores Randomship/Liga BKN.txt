@@ -1,0 +1,90 @@
+﻿Liga BKN
+Bakan League
+3400
+88
+72
+159
+60
+176
+152
+D1220
+D3 BKN_TIT 8899 Titanic
+D3 BKN_DSS 8899 Dessträncküchen
+D2 BKN_DUP 7788 Duplo
+D3 BKN_COP 8899 Copec
+D2 BKN_PQG 7788 Parangaquímilo G.
+D3 BKN_HAN 8899 Hanvisihózo
+D3 BKN_CPH 8899 Copenhague
+D3 BKN_CLF 8899 Calaf
+D2 BKN_ASG 4455 Asgaard
+D1 BKN_PRO 2334 Provito
+D2 BKN_OLI 6778 Olimpo
+D1 BKN_R-S 1122 Rudolf Steiner
+D2 BKN_FIL 5667 Filmes
+D3 BKN_RLX 8899 Relox
+D1 BKN_POI 3344 Pointier
+D2 BKN_ETI 4455 Etievan
+D1 BKN_P-U 3344 Plus Ultra
+D2 BKN_SYS 4455 Lego System
+D2 BKN_EFF 4455 Eagle Fly Free
+D3 BKN_HLK 8899 Halkól
+D1 BKN_FOR 2334 Fornax
+D3 BKN_CAP 8899 Capel
+D2 BKN_RAP 6778 Rapa Nui
+D2 BKN_ZON 7788 Zonzópodos
+D2 BKN_CIM 7788 Cimarra
+D2 BKN_FID 7788 Fidelkestein
+D3 BKN_GPC 8899 Greenpeace
+D2 BKN_PEN 5667 Penta
+D3 BKN_WEL 8899 Weleda
+D3 BKN_MOE 8899 Möeck
+D2 BKN_BIF 4455 Bifröst
+D3 BKN_TRO 8899 Tronia
+D1 BKN_RAV 3344 Ravensburguer
+D3 BKN_NIO 8899 Nioko
+D3 BKN_GAS 8899 Gaspeza
+D1 BKN_WAL 2233 Waldorf
+D1 BKN_CHE 2233 Chesterton
+D3 BKN_KER 8899 Kermesse
+D3 BKN_CAL 8899 Caloi
+D2 BKN_SUI 4455 Suizo
+D3 BKN_TEL 8899 C.D. Telmex
+D3 BKN_COM 8899 Compostela
+D2 BKN_PIÑ 5667 Piñarol
+D3 BKN_M-S 8899 Maui & Sons
+D2 BKN_PAR 6778 Paraiso
+D3 BKN_ATA 8899 Atari
+D3 BKN_VIC 8899 Victorinox
+D1 BKN_TOR 1122 Tornagaleones
+D2 BKN_COJ 5667 Dep. La Cojogruña
+D1 BKN_ZRT 3344 Zeta Reticuli
+D2 BKN_X-X 7788 Xiao Xiao
+D1 BKN_BAR 2334 Barsenal F.C.
+D2 BKN_ONC 5667 Once Caldos
+D3 BKN_M-P 8899 Monty Phytons
+D3 BKN_PVC 8899 P.V.C.
+D3 BKN_RRE 8899 Rresyvír
+D2 BKN_ZIP 5667 Ziper Flate
+D3 BKN_TAL 8899 Taldo
+D2 BKN_L-C 5667 Lider Cool
+D2 BKN_SHE 5667 Shelci
+D2 BKN_ELH 6778 El Hado
+D3 BKN_APL 8899 Aplaplac
+D2 BKN_GAL 5667 Galácticos
+D3 BKN_GOT 8899 Gotaskäen
+D1 BKN_AZU 2334 Azulizul
+D2 BKN_AMP 4455 Ampersand
+D3 BKN_CHX 8899 Cheixpir
+D1 BKN_KUL 2334 Kullkragen
+D3 BKN_VAQ 8899 Vaqtériha
+D3 BKN_MAT 8899 Matrix
+D2 BKN_NAZ 7788 C.D. Nazi
+D1 BKN_EXC 2233 Excálibur
+D1 BKN_AND 1122 Andrómeda
+D2 BKN_TUT 4455 C.D. Tutankamón
+D2 BKN_TEC 4455 Lego Technic
+D3 BKN_COR 8899 Corolla
+D2 BKN_MEG 7788 Mega Block
+D2 BKN_PIL 7788 Pilatos
+D2 BKN_FOC 5667 Foca Juliors
+D1 BKN_G-B 1122 Giordano Bruno
