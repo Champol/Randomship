@@ -10,11 +10,11 @@ Eqp="FAN_M-T"
 Sue="16000"
 [Val]
 Tra="2000"
-Les="0"
+Les="2"
 Fam="2"
 Pow="C"
 Age="18"
-Day="15"
+Day="20"
 Rec="2"
 [Inf]
 Nac="1982"

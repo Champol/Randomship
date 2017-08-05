@@ -1,7 +1,7 @@
 [Val]
 TCon="XXXXX"
 CCon="XXXXX"
-LCon="XXXXG"
+LCon="XXXGE"
 Day="14"
 [Col]
 Bor="176"
@@ -13,7 +13,7 @@ Gas="1125932"
 Ing="3118"
 Din="24776638"
 Sue="2470000"
-Par="692604"
+Par="662904"
 [1999]
 Fam="825"
 [Inf]
@@ -91,13 +91,14 @@ L28="2000\Liga COM\D3A\L28 (2).dat"
 L30="2000\Liga COM\D3A\L30 (5).dat"
 C1V="2000\Liga COM\CUP\C1V (43).dat"
 Niv="612"
-LPJ="1"
+LPJ="2"
 LPG="1"
-LPts="3"
-LGF="1"
-LGC="0"
+LPts="4"
+LGF="3"
+LGC="2"
 LDG="1"
 Pop="21"
+LPE="1"
 [Tra]
 Com="0"
 Ven="0"
@@ -109,3 +110,6 @@ Prm="563"
 [COM_W-U]
 PG="1"
 GF="1"
+[COM_LEÑ]
+PE="1"
+GF="2"

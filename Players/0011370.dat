@@ -10,11 +10,11 @@ Eqp="FMG_ANA"
 Sue="41000"
 [Val]
 Tra="2000"
-Les="0"
+Les="1"
 Fam="21"
 Pow="D"
 Age="21"
-Day="15"
+Day="20"
 Rec="21"
 [Inf]
 Nac="1979"
