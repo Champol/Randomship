@@ -1,10 +1,10 @@
 [Lvl]
 Niv="582"
-Ata="633"
+Ata="644"
 Tec="414"
 Def="238"
 Por="33"
-Frm="957"
+Frm="984"
 [2000]
 P02="2000\Liga CMP\D2B\L02 (1).dat"
 P01="2000\Liga CMP\D2B\L01 (5).dat"
@@ -23,10 +23,10 @@ Sue="78000"
 [Val]
 LPD="0"
 Rec="57"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="61"
+Fam="55"
 Pow="C"
 Age="20"
 [Inf]

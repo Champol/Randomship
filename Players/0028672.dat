@@ -1,7 +1,7 @@
 [Lvl]
 Niv="591"
 Ata="753"
-Tec="407"
+Tec="403"
 Def="168"
 Por="32"
 Frm="991"
@@ -11,10 +11,10 @@ Eqp="AGE_OVO"
 Sue="89000"
 [Val]
 Rec="83"
-Day="19"
+Day="27"
 Tra="2000"
-Les="14"
-Fam="83"
+Les="10"
+Fam="75"
 Pow="D"
 Age="27"
 [Inf]

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="584"
-Ata="485"
+Ata="480"
 Tec="705"
 Def="150"
 Por="30"
@@ -11,10 +11,10 @@ Eqp="COM_PEL"
 Sue="81000"
 [Val]
 Rec="146"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="146"
+Fam="132"
 Pow="C"
 Age="29"
 [Inf]

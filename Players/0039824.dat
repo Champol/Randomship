@@ -2,7 +2,7 @@
 Niv="598"
 Ata="202"
 Tec="392"
-Def="684"
+Def="682"
 Por="0"
 Frm="974"
 [2000]
@@ -11,10 +11,10 @@ Eqp="CHM_M-B"
 Sue="99000"
 [Val]
 Rec="84"
-Day="19"
+Day="27"
 Tra="2000"
-Les="14"
-Fam="84"
+Les="10"
+Fam="76"
 Pow="D"
 Age="26"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="528"
 Ata="164"
 Tec="348"
-Def="682"
+Def="688"
 Por="36"
 Frm="978"
 [2000]
@@ -11,10 +11,10 @@ Eqp="CHM_AYU"
 Sue="36000"
 [Val]
 Rec="16"
-Day="20"
+Day="27"
 Tra="2000"
-Les="3"
-Fam="16"
+Les="0"
+Fam="15"
 Pow="B"
 Age="18"
 [Inf]

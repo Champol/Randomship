@@ -1,6 +1,6 @@
 [Lvl]
 Niv="448"
-Ata="504"
+Ata="506"
 Tec="256"
 Def="234"
 Por="31"
@@ -11,7 +11,7 @@ Eqp="PAT_PTG"
 Sue="10000"
 [Val]
 Rec="1"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
 Fam="1"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="523"
-Ata="125"
+Ata="126"
 Tec="340"
 Def="684"
 Por="16"
@@ -11,10 +11,10 @@ Eqp="BKN_ZIP"
 Sue="33000"
 [Val]
 Rec="19"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="19"
+Fam="17"
 Pow="E"
 Age="23"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="504"
 Ata="198"
 Tec="323"
-Def="571"
+Def="569"
 Por="10"
 Frm="982"
 [2000]
@@ -11,10 +11,10 @@ Eqp="AZR_THE"
 Sue="25000"
 [Val]
 Rec="12"
-Day="19"
+Day="27"
 Tra="2000"
-Les="14"
-Fam="12"
+Les="10"
+Fam="11"
 Pow="E"
 Age="21"
 [Inf]

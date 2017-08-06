@@ -1,7 +1,7 @@
 [Lvl]
 Niv="517"
 Ata="291"
-Tec="696"
+Tec="693"
 Def="108"
 Por="47"
 Frm="963"
@@ -11,10 +11,10 @@ Eqp="BKN_ELH"
 Sue="30000"
 [Val]
 Rec="16"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="16"
+Fam="15"
 Pow="D"
 Age="27"
 [Inf]

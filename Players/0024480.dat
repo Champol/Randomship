@@ -1,7 +1,7 @@
 [Lvl]
 Niv="575"
 Ata="161"
-Tec="436"
+Tec="427"
 Def="708"
 Por="41"
 Frm="988"
@@ -10,11 +10,11 @@ Eqp="FAN_ARG"
 Sue="71000"
 [Val]
 Tra="2000"
-Les="6"
-Fam="65"
+Les="3"
+Fam="59"
 Pow="C"
 Age="30"
-Day="20"
+Day="27"
 Rec="65"
 [Inf]
 Nac="1970"

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="505"
 Ata="592"
-Tec="430"
+Tec="422"
 Def="129"
 Por="31"
 Frm="983"
@@ -11,10 +11,10 @@ Eqp="ACT_T-V"
 Sue="25000"
 [Val]
 Rec="16"
-Day="20"
+Day="27"
 Tra="2000"
-Les="18"
-Fam="16"
+Les="15"
+Fam="15"
 Pow="D"
 Age="30"
 [Inf]

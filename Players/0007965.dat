@@ -1,7 +1,7 @@
 [Lvl]
 Niv="589"
 Ata="385"
-Tec="597"
+Tec="596"
 Def="381"
 Por="30"
 Frm="981"
@@ -10,11 +10,11 @@ Eqp="PES_VIC"
 Sue="86000"
 [Val]
 Tra="2000"
-Les="4"
-Fam="105"
+Les="2"
+Fam="95"
 Pow="C"
 Age="28"
-Day="22"
+Day="27"
 Rec="105"
 [Inf]
 Nac="1972"

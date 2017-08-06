@@ -1,6 +1,6 @@
 [Lvl]
 Niv="464"
-Ata="496"
+Ata="495"
 Tec="402"
 Def="152"
 Por="36"
@@ -11,7 +11,7 @@ Eqp="AGE_RAM"
 Sue="13000"
 [Val]
 Rec="4"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
 Fam="4"

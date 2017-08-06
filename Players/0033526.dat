@@ -1,7 +1,7 @@
 [Lvl]
 Niv="434"
 Ata="46"
-Tec="154"
+Tec="165"
 Def="275"
 Por="552"
 Frm="985"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="COM_G-G"
 Sue="10000"
 [Val]
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
 Fam="0"

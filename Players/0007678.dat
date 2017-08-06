@@ -2,7 +2,7 @@
 Niv="541"
 Ata="689"
 Tec="368"
-Def="189"
+Def="194"
 Por="13"
 Frm="983"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PES_GOL"
 Sue="43000"
 [Val]
 Rec="24"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="24"
+Fam="22"
 Pow="D"
 Age="22"
 [Inf]

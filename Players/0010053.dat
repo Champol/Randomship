@@ -1,10 +1,10 @@
 [Lvl]
 Niv="521"
 Ata="174"
-Tec="674"
+Tec="682"
 Def="334"
 Por="25"
-Frm="970"
+Frm="964"
 [2000]
 P02="2000\Liga PES\D1A\L02 (3).dat"
 P01="2000\Liga PES\D1A\L01 (1).dat"
@@ -22,11 +22,11 @@ Eqp="PES_MAG"
 Sue="32000"
 [Val]
 LPD="0"
-Rec="12"
-Day="19"
+Rec="14"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="15"
+Fam="14"
 Pow="C"
 Age="19"
 [Inf]

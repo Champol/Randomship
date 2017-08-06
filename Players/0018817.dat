@@ -2,7 +2,7 @@
 Niv="520"
 Ata="534"
 Tec="424"
-Def="236"
+Def="242"
 Por="21"
 Frm="976"
 [2000]
@@ -11,10 +11,10 @@ Eqp="AZR_YOB"
 Sue="32000"
 [Val]
 Rec="12"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="12"
+Fam="11"
 Pow="C"
 Age="19"
 [Inf]

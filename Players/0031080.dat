@@ -1,7 +1,7 @@
 [Lvl]
 Niv="571"
 Ata="629"
-Tec="499"
+Tec="512"
 Def="98"
 Por="42"
 Frm="976"
@@ -11,10 +11,10 @@ Eqp="BKN_G-B"
 Sue="61000"
 [Val]
 Rec="38"
-Day="19"
+Day="27"
 Tra="2000"
-Les="11"
-Fam="38"
+Les="7"
+Fam="34"
 Pow="A"
 Age="18"
 [Inf]

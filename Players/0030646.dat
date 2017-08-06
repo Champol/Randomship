@@ -1,6 +1,6 @@
 [Lvl]
 Niv="578"
-Ata="758"
+Ata="764"
 Tec="383"
 Def="112"
 Por="20"
@@ -11,10 +11,10 @@ Eqp="BKN_AZU"
 Sue="73000"
 [Val]
 Rec="61"
-Day="19"
+Day="27"
 Tra="2000"
-Les="6"
-Fam="61"
+Les="2"
+Fam="55"
 Pow="C"
 Age="20"
 [Inf]

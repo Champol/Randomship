@@ -1,10 +1,10 @@
 [Lvl]
 Niv="640"
-Ata="434"
+Ata="438"
 Tec="704"
 Def="254"
 Por="47"
-Frm="973"
+Frm="977"
 [2000]
 P02="2000\Liga FAN\D2B\L02 (1).dat"
 P01="2000\Liga FAN\D2B\L01 (5).dat"
@@ -23,10 +23,10 @@ Sue="168000"
 [Val]
 LPD="0"
 Rec="197"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="211"
+Fam="191"
 Pow="C"
 Age="23"
 [Inf]

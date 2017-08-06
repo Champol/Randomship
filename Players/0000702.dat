@@ -2,7 +2,7 @@
 Niv="486"
 Ata="207"
 Tec="417"
-Def="484"
+Def="494"
 Por="50"
 Frm="977"
 [2000]
@@ -11,10 +11,10 @@ Eqp="SEN_ZOO"
 Sue="19000"
 [Val]
 Rec="6"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="6"
+Fam="5"
 Pow="C"
 Age="19"
 [Inf]

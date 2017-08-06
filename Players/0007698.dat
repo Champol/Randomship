@@ -1,10 +1,10 @@
 [Lvl]
 Niv="477"
-Ata="69"
+Ata="78"
 Tec="619"
 Def="344"
 Por="4"
-Frm="979"
+Frm="982"
 [2000]
 Eqp="PES_ESP"
 Sue="16000"
@@ -16,7 +16,7 @@ Les="0"
 Fam="4"
 Pow="A"
 Age="17"
-Day="19"
+Day="27"
 [Inf]
 Nac="1983"
 Pos="DM"

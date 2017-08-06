@@ -1,7 +1,7 @@
 [Lvl]
 Niv="543"
 Ata="228"
-Tec="702"
+Tec="709"
 Def="278"
 Por="14"
 Frm="985"
@@ -11,10 +11,10 @@ Eqp="FAN_HOG"
 Sue="46000"
 [Val]
 Rec="35"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="35"
+Fam="32"
 Pow="C"
 Age="20"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="438"
 Ata="174"
 Tec="546"
-Def="256"
+Def="251"
 Por="41"
 Frm="983"
 [2000]
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="FAN_AZK"
 Sue="10000"
 [Val]
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
 Fam="0"

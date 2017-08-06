@@ -2,7 +2,7 @@
 Niv="489"
 Ata="153"
 Tec="350"
-Def="606"
+Def="604"
 Por="20"
 Frm="970"
 [2000]
@@ -11,10 +11,10 @@ Eqp="CMP_RBR"
 Sue="19000"
 [Val]
 Rec="9"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="9"
+Fam="8"
 Pow="D"
 Age="30"
 [Inf]

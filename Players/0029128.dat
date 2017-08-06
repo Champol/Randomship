@@ -1,6 +1,6 @@
 [Lvl]
 Niv="515"
-Ata="323"
+Ata="315"
 Tec="670"
 Def="131"
 Por="2"
@@ -11,10 +11,10 @@ Eqp="BKN_FIL"
 Sue="29000"
 [Val]
 Rec="16"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="16"
+Fam="15"
 Pow="D"
 Age="31"
 [Inf]

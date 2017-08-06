@@ -1,6 +1,6 @@
 [Lvl]
 Niv="502"
-Ata="286"
+Ata="297"
 Tec="383"
 Def="507"
 Por="1"
@@ -11,10 +11,10 @@ Eqp="CHM_M-B"
 Sue="24000"
 [Val]
 Rec="9"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="9"
+Fam="8"
 Pow="D"
 Age="19"
 [Inf]

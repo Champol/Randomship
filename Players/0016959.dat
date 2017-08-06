@@ -1,7 +1,7 @@
 [Lvl]
 Niv="498"
 Ata="654"
-Tec="334"
+Tec="340"
 Def="112"
 Por="16"
 Frm="984"
@@ -11,10 +11,10 @@ Eqp="CMP_TIB"
 Sue="23000"
 [Val]
 Rec="9"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="9"
+Fam="8"
 Pow="B"
 Age="18"
 [Inf]

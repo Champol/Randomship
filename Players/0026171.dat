@@ -2,7 +2,7 @@
 Niv="639"
 Ata="382"
 Tec="756"
-Def="190"
+Def="188"
 Por="10"
 Frm="990"
 [2000]
@@ -11,10 +11,10 @@ Eqp="ACT_ORB"
 Sue="166000"
 [Val]
 Rec="241"
-Day="22"
+Day="27"
 Tra="2000"
-Les="6"
-Fam="241"
+Les="4"
+Fam="218"
 Pow="B"
 Age="30"
 [Inf]

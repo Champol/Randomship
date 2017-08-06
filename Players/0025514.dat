@@ -1,6 +1,6 @@
 [Lvl]
 Niv="562"
-Ata="628"
+Ata="638"
 Tec="477"
 Def="109"
 Por="35"
@@ -11,10 +11,10 @@ Eqp="FAN_TER"
 Sue="58000"
 [Val]
 Rec="34"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="34"
+Fam="31"
 Pow="A"
 Age="19"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="490"
-Ata="521"
+Ata="524"
 Tec="443"
 Def="154"
 Por="41"
-Frm="979"
+Frm="973"
 [2000]
 P02="2000\Liga AZR\D2A\L02 (8).dat"
 P01="2000\Liga AZR\D2A\L01 (6).dat"
@@ -22,11 +22,11 @@ Eqp="AZR_MDM"
 Sue="20000"
 [Val]
 LPD="0"
-Rec="5"
-Day="19"
+Rec="7"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="8"
+Fam="7"
 Pow="D"
 Age="19"
 [Inf]

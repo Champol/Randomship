@@ -2,7 +2,7 @@
 Niv="596"
 Ata="13"
 Tec="219"
-Def="308"
+Def="303"
 Por="777"
 Frm="982"
 [2000]
@@ -11,10 +11,10 @@ Eqp="AZR_MOB"
 Sue="100000"
 [Val]
 Rec="74"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="74"
+Fam="67"
 Pow="D"
 Age="29"
 [Inf]

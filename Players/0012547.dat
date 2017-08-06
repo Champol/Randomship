@@ -2,7 +2,7 @@
 Niv="570"
 Ata="238"
 Tec="748"
-Def="251"
+Def="254"
 Por="47"
 Frm="977"
 [2000]
@@ -11,10 +11,10 @@ Eqp="FMG_PRM"
 Sue="66000"
 [Val]
 Rec="51"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="51"
+Fam="46"
 Pow="E"
 Age="21"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
 Ata="153"
-Tec="268"
+Tec="277"
 Def="614"
 Por="31"
-Frm="989"
+Frm="986"
 [2000]
 Eqp="BKN_ASG"
 Sue="11000"
@@ -16,7 +16,7 @@ Les="0"
 Fam="1"
 Pow="B"
 Age="17"
-Day="19"
+Day="27"
 [Inf]
 Nac="1983"
 Pos="CB"

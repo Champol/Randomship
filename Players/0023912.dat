@@ -1,10 +1,10 @@
 [Lvl]
 Niv="489"
-Ata="330"
+Ata="345"
 Tec="524"
 Def="266"
 Por="24"
-Frm="999"
+Frm="984"
 [2000]
 Eqp="FAN_TAS"
 Sue="19000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="5"
 Pow="A"
 Age="17"
-Day="19"
+Day="27"
 [Inf]
 Nac="1983"
 Pos="WM"

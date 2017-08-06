@@ -2,7 +2,7 @@
 Niv="612"
 Ata="336"
 Tec="774"
-Def="266"
+Def="259"
 Por="1"
 Frm="993"
 [2000]
@@ -11,10 +11,10 @@ Eqp="SEN_WAV"
 Sue="117000"
 [Val]
 Rec="119"
-Day="19"
+Day="27"
 Tra="2000"
-Les="4"
-Fam="119"
+Les="0"
+Fam="108"
 Pow="C"
 Age="31"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="487"
 Ata="22"
 Tec="306"
-Def="229"
+Def="228"
 Por="592"
 Frm="991"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FAN_GOD"
 Sue="19000"
 [Val]
 Tra="2000"
-Les="3"
-Fam="7"
+Les="0"
+Fam="6"
 Pow="E"
 Age="27"
-Day="20"
+Day="27"
 Rec="7"
 [Inf]
 Nac="1973"

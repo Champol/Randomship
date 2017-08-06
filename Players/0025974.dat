@@ -1,10 +1,10 @@
 [Lvl]
 Niv="545"
-Ata="430"
+Ata="423"
 Tec="664"
 Def="163"
 Por="31"
-Frm="974"
+Frm="972"
 [2000]
 P02="2000\Liga ACT\D2A\L02 (7).dat"
 P01="2000\Liga ACT\D2A\L01 (3).dat"
@@ -22,11 +22,11 @@ Eqp="ACT_F-S"
 Sue="46000"
 [Val]
 LPD="0"
-Rec="38"
-Day="19"
+Rec="41"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="45"
+Fam="41"
 Pow="C"
 Age="30"
 [Inf]

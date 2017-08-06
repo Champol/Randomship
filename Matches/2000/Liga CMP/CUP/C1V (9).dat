@@ -1,3 +1,5 @@
+[Val]
+KV="1"
 [Inf]
 Def="2"
 Vis="CMP_RIP"
@@ -7,3 +9,4 @@ Div="CUP"
 Lig="Liga CMP"
 Tor="C"
 OK="0"
+TV="1"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="635"
-Ata="731"
+Ata="724"
 Tec="426"
 Def="180"
 Por="4"
@@ -11,10 +11,10 @@ Eqp="ACT_ZUF"
 Sue="166000"
 [Val]
 Rec="192"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="192"
+Fam="174"
 Pow="D"
 Age="29"
 [Inf]

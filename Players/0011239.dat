@@ -2,7 +2,7 @@
 Niv="542"
 Ata="102"
 Tec="700"
-Def="390"
+Def="397"
 Por="27"
 Frm="983"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FMG_CHB"
 Sue="44000"
 [Val]
 Tra="2000"
-Les="17"
-Fam="26"
+Les="13"
+Fam="24"
 Pow="C"
 Age="20"
-Day="19"
+Day="27"
 Rec="26"
 [Inf]
 Nac="1980"

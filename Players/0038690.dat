@@ -1,10 +1,10 @@
 [Lvl]
 Niv="594"
 Ata="178"
-Tec="485"
+Tec="494"
 Def="632"
 Por="25"
-Frm="971"
+Frm="983"
 [2000]
 P02="2000\Liga CHM\D2A\L02 (2).dat"
 P01="2000\Liga CHM\D2A\L01 (8).dat"
@@ -22,11 +22,11 @@ Eqp="CHM_CCH"
 Sue="92000"
 [Val]
 LPD="0"
-Rec="55"
-Day="19"
+Rec="58"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="64"
+Fam="58"
 Pow="C"
 Age="21"
 [Inf]

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="609"
 Ata="416"
-Tec="762"
+Tec="758"
 Def="266"
 Por="29"
 Frm="976"
@@ -11,10 +11,10 @@ Eqp="PAT_VEG"
 Sue="114000"
 [Val]
 Rec="153"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="153"
+Fam="139"
 Pow="B"
 Age="30"
 [Inf]

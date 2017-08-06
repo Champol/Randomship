@@ -2,7 +2,7 @@
 Niv="558"
 Ata="88"
 Tec="346"
-Def="746"
+Def="752"
 Por="27"
 Frm="983"
 [2000]
@@ -11,10 +11,10 @@ Eqp="BKN_SYS"
 Sue="57000"
 [Val]
 Rec="39"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="39"
+Fam="35"
 Pow="C"
 Age="19"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="572"
 Ata="244"
 Tec="392"
-Def="622"
+Def="634"
 Por="44"
 Frm="1000"
 [2000]
@@ -11,10 +11,10 @@ Eqp="HAT_FIA"
 Sue="63000"
 [Val]
 Rec="46"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="46"
+Fam="42"
 Pow="B"
 Age="19"
 [Inf]

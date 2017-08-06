@@ -1,6 +1,6 @@
 [Lvl]
 Niv="544"
-Ata="716"
+Ata="717"
 Tec="332"
 Def="147"
 Por="3"
@@ -11,10 +11,10 @@ Eqp="HAT_CAS"
 Sue="46000"
 [Val]
 Rec="30"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="30"
+Fam="27"
 Pow="E"
 Age="24"
 [Inf]

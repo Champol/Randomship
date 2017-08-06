@@ -1,6 +1,6 @@
 [Lvl]
 Niv="477"
-Ata="192"
+Ata="188"
 Tec="604"
 Def="276"
 Por="31"
@@ -11,10 +11,10 @@ Eqp="SEN_EMO"
 Sue="16000"
 [Val]
 Rec="6"
-Day="19"
+Day="27"
 Tra="2000"
 Les="0"
-Fam="6"
+Fam="5"
 Pow="D"
 Age="31"
 [Inf]
