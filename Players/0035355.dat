@@ -22,11 +22,11 @@ P02="2000\Liga PAT\D3D\L02 (2).dat"
 P03="2000\Liga PAT\D3D\L03 (6).dat"
 [Val]
 Tra="2000"
-Les="6"
+Les="4"
 Fam="97"
 Pow="B"
 Age="30"
-Day="27"
+Day="31"
 Rec="97"
 LPD="1"
 [Inf]

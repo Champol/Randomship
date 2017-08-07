@@ -22,11 +22,11 @@ P02="2000\Liga PES\D2B\L02 (3).dat"
 P03="2000\Liga PES\D2B\L03 (1).dat"
 [Val]
 Tra="2000"
-Les="5"
+Les="3"
 Fam="241"
 Pow="B"
 Age="27"
-Day="27"
+Day="31"
 Rec="248"
 LPD="0"
 [Inf]

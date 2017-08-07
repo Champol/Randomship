@@ -22,11 +22,11 @@ P02="2000\Liga GAL\D4D\L02 (3).dat"
 P03="2000\Liga GAL\D4D\L03 (7).dat"
 [Val]
 Tra="2000"
-Les="3"
+Les="1"
 Fam="170"
 Pow="C"
 Age="24"
-Day="27"
+Day="31"
 Rec="177"
 LPD="1"
 [Inf]
