@@ -2,7 +2,7 @@
 Niv="629"
 Ata="0"
 Tec="244"
-Def="311"
+Def="310"
 Por="820"
 Frm="980"
 [2000]
@@ -11,10 +11,10 @@ Eqp="HAT_POR"
 Sue="141000"
 [Val]
 Rec="127"
-Day="29"
+Day="41"
 Tra="2000"
 Les="0"
-Fam="115"
+Fam="105"
 Pow="D"
 Age="22"
 [Inf]

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="508"
-Ata="686"
+Ata="687"
 Tec="292"
 Def="130"
 Por="44"
@@ -11,10 +11,10 @@ Eqp="SEN_SLA"
 Sue="26000"
 [Val]
 Rec="12"
-Day="32"
+Day="41"
 Tra="2000"
-Les="4"
-Fam="11"
+Les="0"
+Fam="10"
 Pow="D"
 Age="19"
 [Inf]

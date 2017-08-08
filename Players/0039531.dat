@@ -1,10 +1,10 @@
 [Lvl]
 Niv="471"
 Ata="184"
-Tec="369"
+Tec="360"
 Def="482"
 Por="20"
-Frm="977"
+Frm="986"
 [2000]
 Eqp="CHM_SAK"
 Sue="14000"
@@ -16,7 +16,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="28"
-Day="31"
+Day="41"
 [Inf]
 Nac="1972"
 Pos="WB"

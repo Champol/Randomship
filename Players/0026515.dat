@@ -1,6 +1,6 @@
 [Lvl]
 Niv="577"
-Ata="180"
+Ata="182"
 Tec="327"
 Def="768"
 Por="50"
@@ -11,10 +11,10 @@ Eqp="HAT_POR"
 Sue="70000"
 [Val]
 Rec="84"
-Day="29"
+Day="41"
 Tra="2000"
 Les="0"
-Fam="76"
+Fam="69"
 Pow="D"
 Age="22"
 [Inf]

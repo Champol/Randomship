@@ -1,7 +1,7 @@
 [Lvl]
 Niv="467"
 Ata="356"
-Tec="498"
+Tec="513"
 Def="175"
 Por="30"
 Frm="986"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="CHM_CAL"
 Sue="11000"
 [Val]
-Day="32"
+Day="42"
 Tra="2000"
 Les="0"
 Fam="1"

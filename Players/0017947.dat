@@ -2,7 +2,7 @@
 Niv="291"
 Ata="300"
 Tec="269"
-Def="55"
+Def="38"
 Por="35"
 Frm="979"
 [2000]
@@ -11,10 +11,10 @@ Eqp="CMP_E-N"
 Sue="10000"
 [Val]
 Rec="15"
-Day="32"
+Day="41"
 Tra="2000"
-Les="10"
-Fam="14"
+Les="7"
+Fam="13"
 Pow="E"
 Age="32"
 [Inf]

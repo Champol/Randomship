@@ -1,7 +1,7 @@
 [Lvl]
 Niv="612"
 Ata="150"
-Tec="798"
+Tec="803"
 Def="400"
 Por="38"
 Frm="973"
@@ -25,10 +25,10 @@ P04="2000\Liga CMP\D2B\L04 (7).dat"
 [Val]
 LPD="1"
 Rec="76"
-Day="32"
+Day="41"
 Tra="2000"
-Les="17"
-Fam="77"
+Les="36"
+Fam="70"
 Pow="B"
 Age="21"
 [Inf]

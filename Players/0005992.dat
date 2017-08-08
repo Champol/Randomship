@@ -1,10 +1,10 @@
 [Lvl]
 Niv="405"
 Ata="168"
-Tec="526"
+Tec="518"
 Def="178"
 Por="16"
-Frm="983"
+Frm="975"
 [2000]
 Eqp="GAL_P-M"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="31"
+Day="41"
 [Inf]
 Nac="1969"
 Pos="CM"

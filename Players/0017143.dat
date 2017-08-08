@@ -2,7 +2,7 @@
 Niv="610"
 Ata="129"
 Tec="511"
-Def="745"
+Def="756"
 Por="4"
 Frm="980"
 [2000]
@@ -25,10 +25,10 @@ P04="2000\Liga CMP\D2A\L04 (6).dat"
 [Val]
 LPD="0"
 Rec="83"
-Day="30"
+Day="41"
 Tra="2000"
-Les="6"
-Fam="85"
+Les="2"
+Fam="77"
 Pow="A"
 Age="20"
 [Inf]

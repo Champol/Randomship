@@ -1,7 +1,7 @@
 [Lvl]
 Niv="644"
 Ata="712"
-Tec="548"
+Tec="544"
 Def="127"
 Por="1"
 Frm="986"
@@ -11,10 +11,10 @@ Eqp="CHM_FAL"
 Sue="185000"
 [Val]
 Rec="219"
-Day="32"
+Day="41"
 Tra="2000"
-Les="5"
-Fam="199"
+Les="1"
+Fam="181"
 Pow="C"
 Age="25"
 [Inf]

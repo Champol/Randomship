@@ -2,7 +2,7 @@
 Niv="748"
 Ata="462"
 Tec="834"
-Def="322"
+Def="318"
 Por="17"
 Frm="971"
 [2000]
@@ -25,10 +25,10 @@ P04="2000\Liga COM\D1A\L04 (6).dat"
 [Val]
 LPD="1"
 Rec="726"
-Day="32"
+Day="41"
 Tra="2000"
-Les="4"
-Fam="740"
+Les="1"
+Fam="673"
 Pow="A"
 Age="30"
 [Inf]

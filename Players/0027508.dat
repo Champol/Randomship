@@ -1,10 +1,10 @@
 [Lvl]
 Niv="499"
 Ata="140"
-Tec="640"
+Tec="636"
 Def="306"
 Por="28"
-Frm="967"
+Frm="969"
 [2000]
 P02="2000\Liga HAT\D2B\L03 (2).dat"
 P01="2000\Liga HAT\D2B\L02 (2).dat"
@@ -22,11 +22,11 @@ Sue="23000"
 [Val]
 LPD="1"
 Tra="2000"
-Les="0"
-Fam="16"
+Les="1"
+Fam="15"
 Pow="D"
 Age="30"
-Day="29"
+Day="41"
 Rec="16"
 [Inf]
 Nac="1970"

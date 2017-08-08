@@ -1,6 +1,6 @@
 [Lvl]
 Niv="566"
-Ata="619"
+Ata="613"
 Tec="344"
 Def="261"
 Por="1"
@@ -23,10 +23,10 @@ P02="2000\Liga PES\D3A\L03 (1).dat"
 [Val]
 LPD="0"
 Rec="39"
-Day="31"
+Day="41"
 Tra="2000"
-Les="9"
-Fam="37"
+Les="6"
+Fam="34"
 Pow="C"
 Age="29"
 [Inf]

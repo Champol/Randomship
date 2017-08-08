@@ -1,7 +1,7 @@
 [Lvl]
 Niv="647"
 Ata="418"
-Tec="706"
+Tec="700"
 Def="316"
 Por="42"
 Frm="955"
@@ -22,11 +22,11 @@ P02="2000\Liga FAN\D2B\L02 (4).dat"
 P03="2000\Liga FAN\D2B\L03 (1).dat"
 [Val]
 Tra="2000"
-Les="12"
-Fam="168"
+Les="8"
+Fam="153"
 Pow="C"
 Age="27"
-Day="29"
+Day="41"
 Rec="168"
 LPD="1"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="489"
 Ata="49"
-Tec="280"
+Tec="287"
 Def="217"
 Por="622"
-Frm="984"
+Frm="969"
 [2000]
 Eqp="FMG_TUR"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="5"
 Pow="D"
 Age="19"
-Day="31"
+Day="41"
 Rec="5"
 [Inf]
 Nac="1981"

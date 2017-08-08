@@ -2,7 +2,7 @@
 Niv="507"
 Ata="231"
 Tec="382"
-Def="535"
+Def="544"
 Por="25"
 Frm="985"
 [2000]
@@ -11,10 +11,10 @@ Eqp="CHM_ALC"
 Sue="26000"
 [Val]
 Rec="10"
-Day="32"
+Day="41"
 Tra="2000"
-Les="4"
-Fam="9"
+Les="0"
+Fam="8"
 Pow="B"
 Age="18"
 [Inf]
