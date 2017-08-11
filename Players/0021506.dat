@@ -1,5 +1,5 @@
 [Lvl]
-Niv="768"
+Niv="767"
 Ata="525"
 Tec="982"
 Def="199"
@@ -24,9 +24,9 @@ P02="2000\Liga CUA\D1A\L03 (8).dat"
 P04="2000\Liga CUA\D1A\L05 (2).dat"
 P05="2000\Liga CUA\D1A\L06 (7).dat"
 [Val]
-Day="41"
+Day="45"
 Tra="2000"
-Les="2"
+Les="1"
 Fam="826"
 Pow="A"
 Age="24"

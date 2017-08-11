@@ -1,5 +1,5 @@
 [Lvl]
-Niv="599"
+Niv="596"
 Ata="299"
 Tec="482"
 Def="586"
@@ -10,9 +10,9 @@ PCal="0"
 Eqp="PPV_V-C"
 Sue="99000"
 [Val]
-Day="41"
+Day="45"
 Tra="2000"
-Les="6"
+Les="4"
 Fam="71"
 Pow="C"
 Age="25"

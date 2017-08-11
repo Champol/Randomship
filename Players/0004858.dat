@@ -10,11 +10,11 @@ Eqp="GAL_SOL"
 Sue="39000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="20"
 Pow="C"
 Age="21"
-Day="41"
+Day="45"
 Rec="24"
 [Inf]
 Nac="1979"

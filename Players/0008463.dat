@@ -10,11 +10,11 @@ Eqp="PES_GEM"
 Sue="24000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="11"
 Pow="D"
 Age="30"
-Day="41"
+Day="45"
 Rec="13"
 [Inf]
 Nac="1970"

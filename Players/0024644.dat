@@ -10,11 +10,11 @@ Eqp="FAN_FAN"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="3"
+Les="1"
 Fam="0"
 Pow="D"
 Age="31"
-Day="41"
+Day="45"
 [Inf]
 Nac="1969"
 Pos="CF"
