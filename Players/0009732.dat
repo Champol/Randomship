@@ -10,11 +10,11 @@ Eqp="PES_TAU"
 Sue="25000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="7"
 Pow="D"
 Age="18"
-Day="45"
+Day="49"
 Rec="9"
 [Inf]
 Nac="1982"

@@ -8,13 +8,14 @@ Frm="979"
 [2000]
 Eqp="CHM_SPE"
 Sue="51000"
+PCal="0"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="33"
 Pow="E"
 Age="30"
-Day="45"
+Day="49"
 Rec="40"
 [Inf]
 Nac="1970"

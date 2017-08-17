@@ -25,11 +25,11 @@ P02="2000\Liga FAN\D2B\L02 (4).dat"
 P03="2000\Liga FAN\D2B\L03 (7).dat"
 [Val]
 Tra="2000"
-Les="6"
+Les="4"
 Fam="135"
 Pow="B"
 Age="21"
-Day="45"
+Day="49"
 Rec="135"
 LPD="0"
 [Inf]

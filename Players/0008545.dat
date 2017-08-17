@@ -26,11 +26,11 @@ P03="2000\Liga PES\D1A\L03 (2).dat"
 P07="2000\Liga PES\D1A\L07 (6).dat"
 [Val]
 Tra="2000"
-Les="3"
+Les="1"
 Fam="135"
 Pow="C"
 Age="20"
-Day="45"
+Day="49"
 Rec="129"
 LPD="2"
 [Inf]

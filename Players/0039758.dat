@@ -4,7 +4,7 @@ Rol="PT"
 Pos="GK"
 Nac="1970"
 [Val]
-Day="45"
+Day="49"
 Age="30"
 Pow="E"
 Fam="0"
@@ -13,6 +13,7 @@ Tra="2000"
 [2000]
 Sue="10000"
 Eqp="CHM_SPE"
+PCal="0"
 [Lvl]
 Frm="980"
 Por="444"
