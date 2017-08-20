@@ -1,10 +1,10 @@
 [Lvl]
-Niv="622"
+Niv="619"
 Ata="760"
-Tec="484"
+Tec="480"
 Def="188"
 Por="28"
-Frm="987"
+Frm="1000"
 [2000]
 P01="2000\Liga PAT\CUP\C2I (13).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="135000"
 [Val]
 CPD="0"
 Rec="181"
-Day="49"
+Day="57"
 Tra="2000"
 Les="0"
-Fam="149"
+Fam="133"
 Pow="B"
 Age="29"
 [Inf]

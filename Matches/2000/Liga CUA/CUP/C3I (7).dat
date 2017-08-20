@@ -1,3 +1,5 @@
+[Val]
+KV="1"
 [Inf]
 Inv="1"
 Def="0"
@@ -8,3 +10,4 @@ Div="CUP"
 Lig="Liga CUA"
 Tor="C"
 OK="0"
+TV="1"

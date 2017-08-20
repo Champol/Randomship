@@ -1,10 +1,10 @@
 [Lvl]
 Niv="537"
-Ata="675"
+Ata="681"
 Tec="415"
 Def="176"
 Por="25"
-Frm="984"
+Frm="990"
 [2000]
 PCal="0"
 Eqp="AGE_NET"
@@ -22,11 +22,11 @@ P01="2000\Liga AGE\D2A\L05 (2).dat"
 P02="2000\Liga AGE\D2A\L06 (3).dat"
 [Val]
 Rec="26"
-Day="47"
+Day="57"
 Tra="2000"
-Les="0"
-Fam="24"
-Pow="C"
+Les="22"
+Fam="21"
+Pow="B"
 Age="20"
 LPD="0"
 [Inf]

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="490"
 Ata="188"
-Tec="623"
+Tec="634"
 Def="344"
 Por="3"
 Frm="978"
@@ -11,10 +11,10 @@ Eqp="PES_KRU"
 Sue="20000"
 [Val]
 Rec="5"
-Day="47"
+Day="58"
 Tra="2000"
-Les="0"
-Fam="5"
+Les="7"
+Fam="4"
 Pow="D"
 Age="19"
 [Inf]

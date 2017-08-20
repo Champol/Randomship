@@ -2,7 +2,7 @@
 Niv="570"
 Ata="133"
 Tec="392"
-Def="722"
+Def="716"
 Por="7"
 Frm="976"
 [2000]
@@ -11,10 +11,10 @@ Eqp="AZR_FOS"
 Sue="67000"
 [Val]
 Rec="61"
-Day="48"
+Day="57"
 Tra="2000"
 Les="0"
-Fam="50"
+Fam="45"
 Pow="D"
 Age="28"
 [Inf]

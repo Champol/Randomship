@@ -1,10 +1,10 @@
 [Lvl]
 Niv="595"
-Ata="760"
+Ata="754"
 Tec="419"
 Def="110"
 Por="6"
-Frm="998"
+Frm="982"
 [2000]
 Eqp="HAT_PEP"
 Sue="94000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="67"
+Fam="60"
 Pow="D"
 Age="25"
-Day="49"
+Day="57"
 Rec="82"
 [Inf]
 Nac="1975"

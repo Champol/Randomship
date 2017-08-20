@@ -8,3 +8,5 @@ Rnd="L29"
 Loc="CHM_CEL"
 Vis="CHM_CAL"
 Def="0"
+[Val]
+KV="0"

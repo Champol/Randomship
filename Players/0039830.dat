@@ -1,7 +1,7 @@
 [Lvl]
 Niv="633"
 Ata="290"
-Tec="842"
+Tec="848"
 Def="263"
 Por="19"
 Frm="970"
@@ -27,10 +27,10 @@ P05="2000\Liga CHM\D2A\L05 (1).dat"
 [Val]
 LPD="0"
 Rec="125"
-Day="49"
+Day="57"
 Tra="2000"
-Les="9"
-Fam="133"
+Les="5"
+Fam="119"
 Pow="B"
 Age="20"
 [Inf]
