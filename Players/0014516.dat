@@ -1,10 +1,10 @@
 [Lvl]
-Niv="605"
+Niv="597"
 Ata="228"
 Tec="750"
 Def="387"
 Por="6"
-Frm="964"
+Frm="968"
 [2000]
 PCal="594"
 Eqp="PPV_U-J"
@@ -32,7 +32,7 @@ CMJ="0"
 P04="2000\Liga PPV\CUP\C2I (24).dat"
 P05="2000\Liga PPV\D1A\L08 (5).dat"
 [Val]
-Day="57"
+Day="63"
 Tra="2000"
 Les="0"
 Fam="75"

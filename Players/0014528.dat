@@ -1,10 +1,10 @@
 [Lvl]
-Niv="588"
+Niv="596"
 Ata="643"
 Tec="406"
 Def="272"
 Por="44"
-Frm="979"
+Frm="983"
 [2000]
 P02="2000\Liga PPV\D1A\L05 (7).dat"
 P01="2000\Liga PPV\D1A\L04 (7).dat"
@@ -22,7 +22,7 @@ Eqp="PPV_U-J"
 Sue="84000"
 [Val]
 LPD="0"
-Day="57"
+Day="63"
 Tra="2000"
 Les="0"
 Fam="40"

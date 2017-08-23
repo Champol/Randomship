@@ -10,11 +10,11 @@ Eqp="PES_MAE"
 Sue="15000"
 [Val]
 Tra="2000"
-Les="1"
+Les="0"
 Fam="4"
 Pow="C"
 Age="31"
-Day="60"
+Day="63"
 Rec="7"
 [Inf]
 Nac="1969"

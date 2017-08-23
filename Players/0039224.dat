@@ -1,10 +1,10 @@
 [Lvl]
-Niv="498"
+Niv="522"
 Ata="343"
 Tec="566"
 Def="252"
 Por="6"
-Frm="993"
+Frm="999"
 [2000]
 Eqp="CHM_TRI"
 Sue="23000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="18"
-Day="57"
+Day="63"
 Rec="6"
 [Inf]
 Nac="1982"

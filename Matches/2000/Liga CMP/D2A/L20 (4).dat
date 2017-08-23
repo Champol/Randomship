@@ -1,9 +1,11 @@
+[Val]
+KV="1"
 [Inf]
-Def="0"
-Vis="CMP_CAS"
-Loc="CMP_N-M"
-Rnd="L20"
-Div="D2A"
-Lig="Liga CMP"
-Tor="L"
 OK="0"
+Tor="L"
+Lig="Liga CMP"
+Div="D2A"
+Rnd="L20"
+Loc="CMP_N-M"
+Vis="CMP_CAS"
+Def="0"
