@@ -1,5 +1,5 @@
 [Lvl]
-Niv="599"
+Niv="586"
 Ata="702"
 Tec="362"
 Def="149"
@@ -37,9 +37,9 @@ P06="2000\Liga SEN\D2A\L06 (5).dat"
 [Val]
 LPD="0"
 Rec="85"
-Day="63"
+Day="67"
 Tra="2000"
-Les="2"
+Les="0"
 Fam="69"
 Pow="C"
 Age="30"

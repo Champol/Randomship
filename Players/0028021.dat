@@ -1,5 +1,5 @@
 [Lvl]
-Niv="435"
+Niv="460"
 Ata="137"
 Tec="355"
 Def="502"
@@ -10,9 +10,9 @@ PCal="0"
 Eqp="AGE_CCW"
 Sue="10000"
 [Val]
-Day="64"
+Day="67"
 Tra="2000"
-Les="1"
+Les="0"
 Fam="0"
 Pow="A"
 Age="17"

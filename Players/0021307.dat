@@ -1,5 +1,5 @@
 [Lvl]
-Niv="570"
+Niv="560"
 Ata="627"
 Tec="461"
 Def="160"
@@ -31,9 +31,9 @@ P02="2000\Liga CUA\CUP\C3I (14).dat"
 [Val]
 LPD="0"
 Rec="56"
-Day="64"
+Day="67"
 Tra="2000"
-Les="1"
+Les="0"
 Fam="43"
 Pow="C"
 Age="29"

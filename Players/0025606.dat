@@ -1,5 +1,5 @@
 [Lvl]
-Niv="713"
+Niv="704"
 Ata="329"
 Tec="555"
 Def="708"
@@ -38,9 +38,9 @@ P06="2000\Liga ACT\D2A\L08 (6).dat"
 P07="2000\Liga ACT\D2A\L09 (3).dat"
 [Val]
 CPD="0"
-Day="64"
+Day="67"
 Tra="2000"
-Les="5"
+Les="4"
 Fam="367"
 Pow="C"
 Age="26"

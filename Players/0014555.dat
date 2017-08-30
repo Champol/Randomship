@@ -1,5 +1,5 @@
 [Lvl]
-Niv="436"
+Niv="456"
 Ata="357"
 Tec="557"
 Def="150"
@@ -10,9 +10,9 @@ PCal="0"
 Eqp="PPV_TTÑ"
 Sue="10000"
 [Val]
-Day="64"
+Day="67"
 Tra="2000"
-Les="1"
+Les="0"
 Fam="0"
 Pow="B"
 Age="17"

@@ -1,5 +1,5 @@
 [Lvl]
-Niv="602"
+Niv="601"
 Ata="39"
 Tec="245"
 Def="257"
@@ -10,9 +10,9 @@ PCal="0"
 Eqp="CHM_ALD"
 Sue="100000"
 [Val]
-Day="64"
+Day="67"
 Tra="2000"
-Les="1"
+Les="0"
 Fam="65"
 Pow="C"
 Age="22"

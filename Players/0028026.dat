@@ -1,5 +1,5 @@
 [Lvl]
-Niv="535"
+Niv="551"
 Ata="62"
 Tec="696"
 Def="423"
@@ -11,9 +11,9 @@ Eqp="AGE_CCW"
 Sue="41000"
 [Val]
 Rec="21"
-Day="64"
+Day="67"
 Tra="2000"
-Les="4"
+Les="3"
 Fam="15"
 Pow="B"
 Age="19"
