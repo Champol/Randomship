@@ -1,10 +1,10 @@
 [Lvl]
 Niv="398"
 Ata="374"
-Tec="350"
+Tec="333"
 Def="150"
 Por="38"
-Frm="992"
+Frm="967"
 [2000]
 Eqp="FAN_OSG"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="SS"

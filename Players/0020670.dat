@@ -1,10 +1,10 @@
 [Lvl]
 Niv="517"
 Ata="573"
-Tec="382"
+Tec="388"
 Def="194"
 Por="16"
-Frm="987"
+Frm="985"
 [2000]
 P01="2000\Liga CUA\D3A\L07 (4).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="30000"
 [Val]
 LPD="0"
 Rec="12"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="9"
+Fam="8"
 Pow="D"
 Age="20"
 [Inf]

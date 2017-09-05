@@ -1,10 +1,10 @@
 [Lvl]
 Niv="468"
-Ata="575"
+Ata="566"
 Tec="329"
 Def="159"
 Por="35"
-Frm="971"
+Frm="978"
 [2000]
 Eqp="BKN_HLK"
 Sue="13000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="28"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1972"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="419"
-Ata="485"
+Ata="497"
 Tec="355"
 Def="140"
 Por="21"
-Frm="975"
+Frm="983"
 [2000]
 Eqp="FMG_DAN"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="B"
 Age="17"
-Day="67"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WF"

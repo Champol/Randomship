@@ -1,10 +1,10 @@
 [Lvl]
 Niv="468"
-Ata="587"
+Ata="586"
 Tec="294"
 Def="128"
 Por="38"
-Frm="980"
+Frm="971"
 [2000]
 Eqp="PES_PAS"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="32"
-Day="67"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1968"

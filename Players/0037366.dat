@@ -1,6 +1,6 @@
 [Lvl]
 Niv="626"
-Ata="362"
+Ata="360"
 Tec="744"
 Def="356"
 Por="48"
@@ -11,10 +11,10 @@ Eqp="PAT_PTG"
 Sue="141000"
 [Val]
 Rec="158"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="116"
+Les="0"
+Fam="104"
 Pow="B"
 Age="30"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="392"
-Ata="264"
+Ata="254"
 Tec="483"
 Def="134"
 Por="50"
-Frm="980"
+Frm="973"
 [2000]
 Eqp="PPV_CRI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="AM"

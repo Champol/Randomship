@@ -1,10 +1,10 @@
 [Lvl]
 Niv="402"
-Ata="429"
+Ata="416"
 Tec="322"
 Def="55"
 Por="48"
-Frm="984"
+Frm="986"
 [2000]
 Eqp="GAL_BND"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="SS"

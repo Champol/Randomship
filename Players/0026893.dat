@@ -1,10 +1,10 @@
 [Lvl]
 Niv="468"
 Ata="151"
-Tec="320"
+Tec="310"
 Def="574"
 Por="11"
-Frm="965"
+Frm="979"
 [2000]
 Eqp="HAT_ESP"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="27"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1973"

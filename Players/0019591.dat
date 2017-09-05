@@ -1,7 +1,7 @@
 [Lvl]
 Niv="531"
 Ata="272"
-Tec="694"
+Tec="695"
 Def="230"
 Por="36"
 Frm="979"
@@ -11,10 +11,10 @@ Eqp="AZR_FOO"
 Sue="38000"
 [Val]
 Rec="22"
-Day="67"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="16"
+Fam="14"
 Pow="D"
 Age="19"
 [Inf]

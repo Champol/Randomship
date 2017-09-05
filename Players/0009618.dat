@@ -1,10 +1,10 @@
 [Lvl]
 Niv="392"
 Ata="172"
-Tec="564"
+Tec="570"
 Def="155"
 Por="24"
-Frm="976"
+Frm="992"
 [2000]
 Eqp="PES_BOS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CM"

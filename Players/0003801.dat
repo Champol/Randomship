@@ -1,10 +1,10 @@
 [Lvl]
 Niv="375"
 Ata="46"
-Tec="100"
+Tec="90"
 Def="120"
 Por="506"
-Frm="964"
+Frm="978"
 [2000]
 Eqp="GAL_CON"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="GK"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="439"
-Ata="564"
+Ata="555"
 Tec="282"
 Def="90"
 Por="24"
-Frm="979"
+Frm="969"
 [2000]
 Eqp="FAN_LTW"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="CF"

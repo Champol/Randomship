@@ -1,10 +1,10 @@
 [Lvl]
 Niv="353"
 Ata="150"
-Tec="249"
+Tec="234"
 Def="356"
 Por="9"
-Frm="981"
+Frm="996"
 [2000]
 Eqp="HAT_PEP"
 Sue="10000"
@@ -16,7 +16,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="32"
-Day="67"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="WB"

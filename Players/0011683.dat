@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
-Ata="514"
+Ata="513"
 Tec="300"
 Def="278"
 Por="47"
-Frm="978"
+Frm="984"
 [2000]
 Eqp="FMG_MIZ"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="28"
-Day="67"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1972"

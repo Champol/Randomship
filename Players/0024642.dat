@@ -1,10 +1,10 @@
 [Lvl]
 Niv="420"
-Ata="610"
+Ata="623"
 Tec="250"
 Def="88"
 Por="22"
-Frm="989"
+Frm="976"
 [2000]
 Eqp="FAN_FAN"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="B"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CF"

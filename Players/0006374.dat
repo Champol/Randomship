@@ -1,10 +1,10 @@
 [Lvl]
 Niv="496"
-Ata="661"
+Ata="669"
 Tec="378"
 Def="115"
 Por="3"
-Frm="980"
+Frm="978"
 [2000]
 Eqp="GAL_DER"
 Sue="22000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="19"
-Day="67"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1981"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="446"
 Ata="20"
-Tec="196"
+Tec="204"
 Def="186"
 Por="604"
-Frm="975"
+Frm="988"
 [2000]
 PCal="0"
 Eqp="SEN_TBL"
@@ -30,7 +30,7 @@ LMJ="0"
 P02="2000\Liga SEN\D3C\L08 (1).dat"
 P03="2000\Liga SEN\CUP\C2V (31).dat"
 [Val]
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="2"

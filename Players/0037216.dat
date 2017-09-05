@@ -1,10 +1,10 @@
 [Lvl]
 Niv="462"
 Ata="222"
-Tec="302"
+Tec="292"
 Def="470"
 Por="5"
-Frm="987"
+Frm="977"
 [2000]
 Eqp="PAT_STF"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="30"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1970"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="475"
 Ata="131"
-Tec="641"
+Tec="646"
 Def="302"
 Por="29"
-Frm="965"
+Frm="970"
 [2000]
 Eqp="CUA_ARD"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1981"

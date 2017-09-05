@@ -1,10 +1,10 @@
 [Lvl]
 Niv="387"
 Ata="148"
-Tec="308"
+Tec="304"
 Def="445"
 Por="34"
-Frm="990"
+Frm="988"
 [2000]
 Eqp="FAN_CLV"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="67"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="CB"

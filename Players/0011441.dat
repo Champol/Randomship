@@ -1,6 +1,6 @@
 [Lvl]
 Niv="624"
-Ata="189"
+Ata="191"
 Tec="832"
 Def="352"
 Por="32"
@@ -30,10 +30,10 @@ P09="2000\Liga FMG\D1A\L12 (2).dat"
 [Val]
 LPD="2"
 Rec="111"
-Day="68"
+Day="71"
 Tra="2000"
-Les="21"
-Fam="97"
+Les="20"
+Fam="87"
 Pow="D"
 Age="23"
 [Inf]

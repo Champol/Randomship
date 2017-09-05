@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
 Ata="272"
-Tec="574"
+Tec="566"
 Def="154"
 Por="50"
-Frm="977"
+Frm="989"
 [2000]
 Eqp="GAL_IEG"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1970"

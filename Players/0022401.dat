@@ -1,10 +1,10 @@
 [Lvl]
 Niv="527"
-Ata="345"
+Ata="347"
 Tec="575"
 Def="257"
 Por="12"
-Frm="985"
+Frm="978"
 [2000]
 P02="2000\Liga CUA\D3C\L12 (5).dat"
 Eqp="CUA_ARD"
@@ -22,10 +22,10 @@ P01="2000\Liga CUA\D3C\L09 (5).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="12"
+Fam="11"
 Pow="E"
 Age="23"
-Day="65"
+Day="71"
 Rec="15"
 LPD="0"
 [Inf]

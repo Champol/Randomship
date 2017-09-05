@@ -1,6 +1,6 @@
 [Lvl]
 Niv="537"
-Ata="691"
+Ata="698"
 Tec="351"
 Def="205"
 Por="32"
@@ -11,10 +11,10 @@ Eqp="PES_FON"
 Sue="41000"
 [Val]
 Rec="16"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="13"
+Les="0"
+Fam="12"
 Pow="E"
 Age="22"
 [Inf]

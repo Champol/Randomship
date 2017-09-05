@@ -1,10 +1,10 @@
 [Lvl]
 Niv="422"
 Ata="190"
-Tec="302"
+Tec="314"
 Def="484"
 Por="5"
-Frm="981"
+Frm="982"
 [2000]
 Eqp="FAN_ERE"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WB"

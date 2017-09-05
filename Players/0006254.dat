@@ -1,10 +1,10 @@
 [Lvl]
 Niv="380"
 Ata="334"
-Tec="414"
+Tec="404"
 Def="120"
 Por="16"
-Frm="987"
+Frm="975"
 [2000]
 Eqp="GAL_VEG"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="67"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="AM"

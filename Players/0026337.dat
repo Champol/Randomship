@@ -1,7 +1,7 @@
 [Lvl]
 Niv="610"
 Ata="112"
-Tec="373"
+Tec="368"
 Def="778"
 Por="0"
 Frm="966"
@@ -29,10 +29,10 @@ P08="2000\Liga ACT\D2A\L08 (1).dat"
 [Val]
 LPD="1"
 Rec="142"
-Day="67"
+Day="71"
 Tra="2000"
-Les="6"
-Fam="133"
+Les="4"
+Fam="119"
 Pow="B"
 Age="30"
 [Inf]

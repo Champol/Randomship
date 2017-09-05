@@ -1,10 +1,10 @@
 [Lvl]
 Niv="418"
 Ata="281"
-Tec="535"
+Tec="527"
 Def="93"
 Por="41"
-Frm="981"
+Frm="988"
 [2000]
 PCal="0"
 Eqp="PES_BRA"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="AM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="389"
-Ata="489"
+Ata="480"
 Tec="250"
 Def="71"
 Por="10"
-Frm="971"
+Frm="983"
 [2000]
 Eqp="CUA_PSL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="CF"

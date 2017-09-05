@@ -1,10 +1,10 @@
 [Lvl]
 Niv="475"
-Ata="282"
+Ata="292"
 Tec="626"
 Def="213"
 Por="22"
-Frm="986"
+Frm="982"
 [2000]
 P02="2000\Liga FMG\D3C\L07 (5).dat"
 Eqp="FMG_HER"
@@ -25,7 +25,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="18"
-Day="65"
+Day="71"
 Rec="4"
 LPD="1"
 [Inf]

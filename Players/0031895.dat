@@ -1,10 +1,10 @@
 [Lvl]
 Niv="418"
-Ata="536"
+Ata="532"
 Tec="213"
 Def="170"
 Por="8"
-Frm="988"
+Frm="970"
 [2000]
 Eqp="COM_OCE"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="CF"

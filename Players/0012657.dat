@@ -1,10 +1,10 @@
 [Lvl]
 Niv="351"
 Ata="51"
-Tec="487"
+Tec="478"
 Def="86"
 Por="35"
-Frm="986"
+Frm="965"
 [2000]
 Eqp="FMG_CAS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="32"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1968"

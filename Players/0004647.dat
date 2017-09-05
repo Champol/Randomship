@@ -1,10 +1,10 @@
 [Lvl]
 Niv="480"
 Ata="188"
-Tec="332"
+Tec="323"
 Def="579"
 Por="0"
-Frm="965"
+Frm="985"
 [2000]
 Eqp="GAL_GLY"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="28"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1972"

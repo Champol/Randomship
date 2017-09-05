@@ -2,7 +2,7 @@
 Niv="738"
 Ata="326"
 Tec="984"
-Def="255"
+Def="248"
 Por="2"
 Frm="957"
 [2000]
@@ -27,10 +27,10 @@ P05="2000\Liga AZR\D1A\L06 (5).dat"
 [Val]
 LPD="0"
 Rec="642"
-Day="67"
+Day="71"
 Tra="2000"
-Les="12"
-Fam="556"
+Les="10"
+Fam="498"
 Pow="B"
 Age="29"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="452"
 Ata="557"
-Tec="291"
+Tec="287"
 Def="164"
 Por="4"
-Frm="984"
+Frm="974"
 [2000]
 Eqp="CHM_DEL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1969"

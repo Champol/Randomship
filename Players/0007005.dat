@@ -1,10 +1,10 @@
 [Lvl]
 Niv="461"
 Ata="326"
-Tec="615"
+Tec="617"
 Def="80"
 Por="36"
-Frm="973"
+Frm="975"
 [2000]
 Eqp="GAL_LYS"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="19"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1981"

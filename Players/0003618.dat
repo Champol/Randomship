@@ -1,6 +1,6 @@
 [Lvl]
 Niv="592"
-Ata="745"
+Ata="741"
 Tec="434"
 Def="133"
 Por="27"
@@ -10,11 +10,11 @@ Eqp="GAL_ANA"
 Sue="90000"
 [Val]
 Tra="2000"
-Les="8"
-Fam="50"
+Les="6"
+Fam="45"
 Pow="D"
 Age="23"
-Day="67"
+Day="71"
 Rec="68"
 [Inf]
 Nac="1977"

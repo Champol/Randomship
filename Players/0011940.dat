@@ -1,10 +1,10 @@
 [Lvl]
 Niv="429"
-Ata="518"
+Ata="529"
 Tec="251"
 Def="176"
 Por="12"
-Frm="963"
+Frm="965"
 [2000]
 Eqp="FMG_TIR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="18"
-Day="67"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="WF"

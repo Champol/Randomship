@@ -1,10 +1,10 @@
 [Lvl]
 Niv="476"
-Ata="618"
+Ata="622"
 Tec="358"
 Def="140"
 Por="47"
-Frm="980"
+Frm="977"
 [2000]
 Eqp="FMG_TDM"
 Sue="16000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="536"
-Ata="309"
+Ata="321"
 Tec="739"
 Def="148"
 Por="42"
-Frm="981"
+Frm="970"
 [2000]
 Eqp="HAT_MAS"
 Sue="41000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="17"
+Fam="15"
 Pow="B"
 Age="19"
-Day="67"
+Day="71"
 Rec="23"
 [Inf]
 Nac="1981"

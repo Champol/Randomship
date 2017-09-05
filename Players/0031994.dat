@@ -1,10 +1,10 @@
 [Lvl]
 Niv="459"
 Ata="221"
-Tec="302"
+Tec="311"
 Def="508"
 Por="2"
-Frm="977"
+Frm="968"
 [2000]
 Eqp="COM_HOB"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1981"

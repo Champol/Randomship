@@ -1,10 +1,10 @@
 [Lvl]
 Niv="362"
 Ata="346"
-Tec="188"
+Tec="181"
 Def="289"
 Por="38"
-Frm="997"
+Frm="994"
 [2000]
 Eqp="FAN_AZA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1968"

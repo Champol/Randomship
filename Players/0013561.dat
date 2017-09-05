@@ -1,10 +1,10 @@
 [Lvl]
 Niv="519"
 Ata="291"
-Tec="609"
+Tec="604"
 Def="170"
 Por="11"
-Frm="989"
+Frm="980"
 [2000]
 Eqp="FMG_ROK"
 Sue="31000"
@@ -22,10 +22,10 @@ P02="2000\Liga FMG\D3A\L05 (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="15"
+Fam="13"
 Pow="C"
 Age="32"
-Day="65"
+Day="71"
 Rec="21"
 LPD="0"
 [Inf]

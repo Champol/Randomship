@@ -2,7 +2,7 @@
 Niv="374"
 Ata="98"
 Tec="329"
-Def="416"
+Def="404"
 Por="6"
 Frm="987"
 [2000]
@@ -11,11 +11,11 @@ Eqp="GAL_RYL"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="67"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="CB"

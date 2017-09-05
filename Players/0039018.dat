@@ -1,10 +1,10 @@
 [Lvl]
 Niv="467"
 Ata="130"
-Tec="593"
+Tec="600"
 Def="327"
 Por="49"
-Frm="982"
+Frm="970"
 [2000]
 P02="2000\Liga CHM\D3B\L06 (1).dat"
 LMJ="0"
@@ -35,7 +35,7 @@ P06="2000\Liga CHM\D3B\L11 (7).dat"
 [Val]
 LPD="0"
 Rec="2"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="2"

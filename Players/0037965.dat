@@ -2,7 +2,7 @@
 Niv="506"
 Ata="187"
 Tec="278"
-Def="576"
+Def="574"
 Por="0"
 Frm="970"
 [2000]
@@ -10,11 +10,11 @@ Eqp="CHM_AUL"
 Sue="26000"
 [Val]
 Tra="2000"
-Les="15"
-Fam="12"
+Les="12"
+Fam="11"
 Pow="E"
 Age="29"
-Day="65"
+Day="71"
 Rec="15"
 [Inf]
 Nac="1971"

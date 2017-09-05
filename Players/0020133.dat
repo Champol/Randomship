@@ -2,7 +2,7 @@
 Niv="426"
 Ata="256"
 Tec="340"
-Def="426"
+Def="430"
 Por="42"
 Frm="988"
 [2000]
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="CUA_CON"
 Sue="10000"
 [Val]
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="0"

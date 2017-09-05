@@ -2,7 +2,7 @@
 Niv="599"
 Ata="162"
 Tec="772"
-Def="364"
+Def="355"
 Por="40"
 Frm="992"
 [2000]
@@ -24,11 +24,11 @@ P03="2000\Liga FAN\D2B\L04 (8).dat"
 P05="2000\Liga FAN\D2B\L09 (4).dat"
 [Val]
 Tra="2000"
-Les="6"
-Fam="86"
+Les="4"
+Fam="77"
 Pow="C"
 Age="30"
-Day="67"
+Day="71"
 Rec="110"
 LPD="0"
 [Inf]

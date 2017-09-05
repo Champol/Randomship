@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
 Ata="111"
-Tec="623"
+Tec="630"
 Def="278"
 Por="24"
-Frm="969"
+Frm="988"
 [2000]
 Eqp="COM_BOR"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="B"
 Age="17"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1983"

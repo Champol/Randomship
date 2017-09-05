@@ -1,7 +1,7 @@
 [Lvl]
 Niv="512"
 Ata="171"
-Tec="680"
+Tec="683"
 Def="252"
 Por="11"
 Frm="977"
@@ -11,10 +11,10 @@ Eqp="CUA_ULI"
 Sue="28000"
 [Val]
 Rec="12"
-Day="66"
+Day="71"
 Tra="2000"
-Les="9"
-Fam="9"
+Les="7"
+Fam="8"
 Pow="E"
 Age="21"
 [Inf]

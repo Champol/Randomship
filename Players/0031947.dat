@@ -1,6 +1,6 @@
 [Lvl]
 Niv="587"
-Ata="342"
+Ata="343"
 Tec="693"
 Def="277"
 Por="37"
@@ -33,11 +33,11 @@ P05="2000\Liga COM\D3C\L08 (6).dat"
 [Val]
 LPD="0"
 Tra="2000"
-Les="3"
-Fam="64"
+Les="1"
+Fam="57"
 Pow="C"
 Age="20"
-Day="67"
+Day="71"
 Rec="64"
 CPD="0"
 [Inf]

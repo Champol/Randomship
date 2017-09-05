@@ -1,6 +1,6 @@
 [Lvl]
 Niv="496"
-Ata="508"
+Ata="509"
 Tec="322"
 Def="296"
 Por="25"
@@ -11,10 +11,10 @@ Eqp="CUA_MEQ"
 Sue="22000"
 [Val]
 Rec="11"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="8"
+Fam="7"
 Pow="D"
 Age="27"
 [Inf]

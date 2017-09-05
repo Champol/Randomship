@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
 Ata="6"
-Tec="170"
+Tec="166"
 Def="276"
 Por="557"
-Frm="973"
+Frm="980"
 [2000]
 Eqp="GAL_SMY"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="31"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1969"

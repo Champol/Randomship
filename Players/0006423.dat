@@ -1,10 +1,10 @@
 [Lvl]
 Niv="431"
 Ata="263"
-Tec="602"
+Tec="606"
 Def="95"
 Por="43"
-Frm="980"
+Frm="975"
 [2000]
 Eqp="GAL_DEL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="AM"

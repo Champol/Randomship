@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
 Ata="278"
-Tec="592"
+Tec="584"
 Def="214"
 Por="44"
-Frm="980"
+Frm="986"
 [2000]
 Eqp="PAT_DUQ"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="30"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1970"

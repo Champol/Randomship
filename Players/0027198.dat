@@ -1,6 +1,6 @@
 [Lvl]
 Niv="714"
-Ata="722"
+Ata="729"
 Tec="591"
 Def="293"
 Por="38"
@@ -45,11 +45,11 @@ P16="2000\Liga HAT\CUP\C3V (13).dat"
 [Val]
 CPD="1"
 LPD="2"
-Rec="381"
-Day="68"
+Rec="415"
+Day="71"
 Tra="2000"
-Les="2"
-Fam="464"
+Les="1"
+Fam="415"
 Pow="B"
 Age="23"
 [Inf]

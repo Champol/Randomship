@@ -1,10 +1,10 @@
 [Lvl]
 Niv="414"
-Ata="532"
+Ata="530"
 Tec="246"
 Def="155"
 Por="37"
-Frm="981"
+Frm="974"
 [2000]
 Eqp="CUA_ANU"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="29"
-Day="65"
+Day="71"
 [Inf]
 Nac="1971"
 Pos="CF"

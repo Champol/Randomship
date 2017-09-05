@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
-Ata="245"
+Ata="256"
 Tec="258"
 Def="508"
 Por="9"
-Frm="985"
+Frm="991"
 [2000]
 Eqp="COM_L-W"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="WB"

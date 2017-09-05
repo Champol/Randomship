@@ -1,10 +1,10 @@
 [Lvl]
 Niv="431"
 Ata="82"
-Tec="567"
+Tec="576"
 Def="360"
 Por="49"
-Frm="969"
+Frm="974"
 [2000]
 Eqp="COM_KAS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="DM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="490"
 Ata="210"
-Tec="353"
+Tec="358"
 Def="536"
 Por="49"
-Frm="983"
+Frm="989"
 [2000]
 P03="2000\Liga CUA\D3A\L12 (3).dat"
 PCal="0"
@@ -31,7 +31,7 @@ CMJ="0"
 P02="2000\Liga CUA\CUP\C1V (16).dat"
 [Val]
 Rec="6"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="4"

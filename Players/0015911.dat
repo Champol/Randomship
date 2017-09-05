@@ -1,10 +1,10 @@
 [Lvl]
 Niv="487"
 Ata="332"
-Tec="594"
+Tec="590"
 Def="180"
 Por="27"
-Frm="983"
+Frm="969"
 [2000]
 PCal="0"
 Eqp="PPV_RUN"
@@ -12,10 +12,10 @@ Sue="19000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="6"
+Fam="5"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 Rec="9"
 [Inf]
 Nac="1969"

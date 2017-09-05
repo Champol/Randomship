@@ -1,10 +1,10 @@
 [Lvl]
 Niv="437"
 Ata="101"
-Tec="622"
+Tec="634"
 Def="238"
 Por="41"
-Frm="973"
+Frm="991"
 [2000]
 Eqp="FAN_DOO"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="DM"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="345"
-Ata="394"
+Ata="386"
 Tec="180"
 Def="144"
 Por="27"
@@ -10,11 +10,11 @@ Eqp="GAL_TRL"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="3"
+Les="1"
 Fam="1"
 Pow="E"
 Age="31"
-Day="66"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1969"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="398"
 Ata="214"
-Tec="213"
+Tec="204"
 Def="432"
 Por="3"
-Frm="969"
+Frm="979"
 [2000]
 Eqp="FAN_CAR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="WB"

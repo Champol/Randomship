@@ -1,10 +1,10 @@
 [Lvl]
 Niv="468"
-Ata="612"
+Ata="621"
 Tec="356"
 Def="108"
 Por="8"
-Frm="988"
+Frm="971"
 [2000]
 Eqp="GAL_PAL"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1981"

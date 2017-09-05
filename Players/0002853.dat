@@ -2,7 +2,7 @@
 Niv="509"
 Ata="289"
 Tec="304"
-Def="576"
+Def="584"
 Por="36"
 Frm="975"
 [2000]
@@ -11,10 +11,10 @@ Eqp="SEN_MEM"
 Sue="27000"
 [Val]
 Rec="9"
-Day="65"
+Day="71"
 Tra="2000"
-Les="15"
-Fam="6"
+Les="12"
+Fam="5"
 Pow="C"
 Age="19"
 [Inf]

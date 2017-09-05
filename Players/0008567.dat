@@ -1,10 +1,10 @@
 [Lvl]
 Niv="394"
 Ata="280"
-Tec="445"
+Tec="434"
 Def="182"
 Por="17"
-Frm="980"
+Frm="982"
 [2000]
 Eqp="PES_C-R"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="67"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="AM"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="630"
-Ata="487"
+Ata="483"
 Tec="776"
 Def="173"
 Por="25"
@@ -22,10 +22,10 @@ Sue="148000"
 [Val]
 LPD="0"
 Rec="129"
-Day="67"
+Day="71"
 Tra="2000"
-Les="3"
-Fam="97"
+Les="1"
+Fam="87"
 Pow="C"
 Age="27"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="496"
 Ata="162"
 Tec="306"
-Def="628"
+Def="622"
 Por="46"
 Frm="988"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PPV_RDH"
 Sue="22000"
 [Val]
 Rec="11"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="8"
+Les="0"
+Fam="7"
 Pow="D"
 Age="30"
 [Inf]

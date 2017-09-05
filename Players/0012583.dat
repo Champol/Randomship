@@ -1,10 +1,10 @@
 [Lvl]
 Niv="501"
-Ata="323"
+Ata="332"
 Tec="658"
 Def="240"
 Por="8"
-Frm="990"
+Frm="983"
 [2000]
 Eqp="FMG_FET"
 Sue="24000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="A"
 Age="18"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1982"

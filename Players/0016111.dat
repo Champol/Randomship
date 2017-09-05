@@ -1,10 +1,10 @@
 [Lvl]
 Niv="406"
 Ata="282"
-Tec="456"
+Tec="446"
 Def="220"
 Por="49"
-Frm="967"
+Frm="985"
 [2000]
 Eqp="PPV_SPO"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="29"
-Day="65"
+Day="71"
 [Inf]
 Nac="1971"
 Pos="CM"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="510"
-Ata="81"
+Ata="84"
 Tec="272"
 Def="708"
 Por="10"
@@ -42,11 +42,11 @@ P04="2000\Liga FAN\CUP\C1I (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="18"
+Fam="16"
 Pow="E"
 Age="20"
-Day="65"
-Rec="13"
+Day="71"
+Rec="16"
 LPD="0"
 CPD="1"
 [Inf]

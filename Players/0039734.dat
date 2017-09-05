@@ -1,10 +1,10 @@
 [Lvl]
 Niv="488"
 Ata="132"
-Tec="353"
+Tec="354"
 Def="624"
 Por="20"
-Frm="996"
+Frm="971"
 [2000]
 PCal="0"
 Eqp="CHM_SPE"
@@ -15,7 +15,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="20"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1980"

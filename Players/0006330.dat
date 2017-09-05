@@ -1,10 +1,10 @@
 [Lvl]
 Niv="318"
-Ata="146"
+Ata="140"
 Tec="263"
 Def="276"
 Por="19"
-Frm="978"
+Frm="973"
 [2000]
 Eqp="GAL_KAL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1969"

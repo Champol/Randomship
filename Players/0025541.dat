@@ -1,6 +1,6 @@
 [Lvl]
 Niv="599"
-Ata="729"
+Ata="724"
 Tec="488"
 Def="152"
 Por="43"
@@ -11,10 +11,10 @@ Eqp="ACT_D-S"
 Sue="132000"
 [Val]
 Rec="228"
-Day="67"
+Day="71"
 Tra="2000"
-Les="9"
-Fam="168"
+Les="7"
+Fam="150"
 Pow="C"
 Age="32"
 [Inf]

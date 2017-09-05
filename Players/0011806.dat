@@ -1,10 +1,10 @@
 [Lvl]
 Niv="448"
 Ata="26"
-Tec="266"
+Tec="258"
 Def="178"
 Por="544"
-Frm="974"
+Frm="976"
 [2000]
 P02="2000\Liga FMG\D3D\L06 (3).dat"
 Eqp="FMG_GAM"
@@ -25,7 +25,7 @@ Les="0"
 Fam="3"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 Rec="3"
 LPD="0"
 [Inf]

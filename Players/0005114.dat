@@ -1,10 +1,10 @@
 [Lvl]
 Niv="449"
-Ata="160"
+Ata="151"
 Tec="230"
 Def="560"
 Por="19"
-Frm="967"
+Frm="980"
 [2000]
 Eqp="GAL_WEN"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1970"

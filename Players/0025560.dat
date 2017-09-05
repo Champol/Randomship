@@ -2,7 +2,7 @@
 Niv="684"
 Ata="347"
 Tec="463"
-Def="716"
+Def="711"
 Por="45"
 Frm="954"
 [2000]
@@ -26,10 +26,10 @@ P05="2000\Liga ACT\D2A\L05 (2).dat"
 [Val]
 LPD="0"
 Rec="267"
-Day="67"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="233"
+Les="2"
+Fam="209"
 Pow="B"
 Age="24"
 [Inf]

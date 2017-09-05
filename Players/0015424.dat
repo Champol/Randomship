@@ -1,6 +1,6 @@
 [Lvl]
 Niv="552"
-Ata="612"
+Ata="619"
 Tec="476"
 Def="139"
 Por="3"
@@ -11,10 +11,10 @@ Eqp="PPV_RDD"
 Sue="51000"
 [Val]
 Rec="32"
-Day="66"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="23"
+Les="2"
+Fam="21"
 Pow="E"
 Age="22"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="496"
 Ata="69"
-Tec="444"
+Tec="456"
 Def="634"
 Por="38"
-Frm="988"
+Frm="979"
 [2000]
 Eqp="PES_CAR"
 Sue="22000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="18"
-Day="67"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1982"

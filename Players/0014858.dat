@@ -1,10 +1,10 @@
 [Lvl]
 Niv="456"
-Ata="205"
+Ata="206"
 Tec="358"
 Def="482"
 Por="18"
-Frm="984"
+Frm="974"
 [2000]
 Eqp="PPV_JOU"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

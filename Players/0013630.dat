@@ -1,10 +1,10 @@
 [Lvl]
 Niv="363"
-Ata="488"
+Ata="500"
 Tec="228"
 Def="148"
 Por="15"
-Frm="991"
+Frm="986"
 [2000]
 Eqp="FMG_CSH"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CF"

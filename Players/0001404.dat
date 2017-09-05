@@ -2,7 +2,7 @@
 Niv="559"
 Ata="144"
 Tec="721"
-Def="329"
+Def="323"
 Por="31"
 Frm="991"
 [2000]
@@ -11,10 +11,10 @@ Eqp="SEN_PQS"
 Sue="57000"
 [Val]
 Rec="43"
-Day="65"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="31"
+Les="1"
+Fam="28"
 Pow="D"
 Age="28"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="425"
 Ata="260"
-Tec="575"
+Tec="578"
 Def="142"
 Por="33"
-Frm="984"
+Frm="969"
 [2000]
 Eqp="COM_OCE"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="AM"

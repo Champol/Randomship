@@ -1,7 +1,7 @@
 [Lvl]
 Niv="548"
 Ata="261"
-Tec="324"
+Tec="318"
 Def="600"
 Por="6"
 Frm="976"
@@ -11,10 +11,10 @@ Eqp="CMP_B-J"
 Sue="48000"
 [Val]
 Rec="34"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="25"
+Les="0"
+Fam="22"
 Pow="C"
 Age="31"
 [Inf]

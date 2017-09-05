@@ -1,6 +1,6 @@
 [Lvl]
 Niv="544"
-Ata="145"
+Ata="152"
 Tec="381"
 Def="726"
 Por="13"
@@ -11,10 +11,10 @@ Eqp="ACT_THS"
 Sue="46000"
 [Val]
 Rec="34"
-Day="67"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="25"
+Les="2"
+Fam="22"
 Pow="A"
 Age="18"
 [Inf]

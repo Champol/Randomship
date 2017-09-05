@@ -1,10 +1,10 @@
 [Lvl]
 Niv="456"
-Ata="186"
+Ata="194"
 Tec="378"
 Def="473"
 Por="34"
-Frm="977"
+Frm="986"
 [2000]
 Eqp="FAN_HAR"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="19"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1981"

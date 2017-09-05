@@ -1,10 +1,10 @@
 [Lvl]
 Niv="494"
-Ata="183"
+Ata="187"
 Tec="671"
 Def="246"
 Por="48"
-Frm="984"
+Frm="979"
 [2000]
 Eqp="GAL_ROS"
 Sue="21000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="430"
 Ata="489"
-Tec="335"
+Tec="347"
 Def="154"
 Por="22"
-Frm="978"
+Frm="973"
 [2000]
 Eqp="PPV_BLO"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WF"

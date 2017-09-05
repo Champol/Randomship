@@ -1,10 +1,10 @@
 [Lvl]
 Niv="440"
 Ata="110"
-Tec="579"
+Tec="588"
 Def="288"
 Por="30"
-Frm="979"
+Frm="970"
 [2000]
 Eqp="FMG_HUS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="DM"

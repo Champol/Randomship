@@ -2,7 +2,7 @@
 Niv="568"
 Ata="227"
 Tec="254"
-Def="671"
+Def="665"
 Por="30"
 Frm="967"
 [2000]
@@ -36,11 +36,11 @@ P07="2000\Liga GAL\CUP\C3V (9).dat"
 [Val]
 LPD="0"
 Tra="2000"
-Les="1"
-Fam="43"
+Les="0"
+Fam="39"
 Pow="D"
 Age="28"
-Day="68"
+Day="71"
 Rec="50"
 CPD="0"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="555"
 Ata="221"
 Tec="724"
-Def="283"
+Def="285"
 Por="18"
 Frm="984"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PAT_KEN"
 Sue="54000"
 [Val]
 Rec="33"
-Day="67"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="24"
+Fam="21"
 Pow="E"
 Age="21"
 [Inf]

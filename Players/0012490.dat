@@ -1,10 +1,10 @@
 [Lvl]
 Niv="374"
-Ata="480"
+Ata="467"
 Tec="210"
 Def="185"
 Por="15"
-Frm="969"
+Frm="976"
 [2000]
 Eqp="FMG_STI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="CF"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="389"
 Ata="236"
-Tec="488"
+Tec="478"
 Def="73"
 Por="38"
-Frm="982"
+Frm="976"
 [2000]
 Eqp="FAN_GOD"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="AM"

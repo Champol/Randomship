@@ -1,7 +1,7 @@
 [Lvl]
 Niv="539"
 Ata="604"
-Tec="326"
+Tec="330"
 Def="266"
 Por="42"
 Frm="975"
@@ -11,10 +11,10 @@ Eqp="PES_KAL"
 Sue="42000"
 [Val]
 Rec="23"
-Day="66"
+Day="71"
 Tra="2000"
-Les="3"
-Fam="17"
+Les="1"
+Fam="15"
 Pow="E"
 Age="23"
 [Inf]

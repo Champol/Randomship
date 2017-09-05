@@ -2,7 +2,7 @@
 Niv="473"
 Ata="87"
 Tec="648"
-Def="322"
+Def="324"
 Por="18"
 Frm="976"
 [2000]
@@ -10,11 +10,11 @@ Eqp="PES_VIC"
 Sue="15000"
 [Val]
 Tra="2000"
-Les="4"
+Les="3"
 Fam="4"
 Pow="D"
 Age="18"
-Day="68"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1982"

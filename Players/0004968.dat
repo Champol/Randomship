@@ -1,10 +1,10 @@
 [Lvl]
 Niv="477"
 Ata="115"
-Tec="389"
+Tec="399"
 Def="620"
 Por="19"
-Frm="961"
+Frm="980"
 [2000]
 P08="2000\Liga GAL\D3A\L12 (3).dat"
 P07="2000\Liga GAL\D3A\L11 (3).dat"
@@ -40,8 +40,8 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="65"
-Rec="2"
+Day="71"
+Rec="4"
 CPD="0"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="429"
 Ata="10"
-Tec="217"
+Tec="226"
 Def="241"
 Por="557"
-Frm="971"
+Frm="961"
 [2000]
 P01="2000\Liga CUA\D3D\L12 (3).dat"
 NoPar="1"
@@ -21,12 +21,13 @@ Eqp="CUA_CEI"
 Sue="10000"
 [Val]
 LPD="0"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="1"
 Pow="E"
 Age="18"
+Rec="1"
 [Inf]
 Nac="1982"
 Pos="GK"

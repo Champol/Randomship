@@ -1,10 +1,10 @@
 [Lvl]
 Niv="477"
-Ata="562"
+Ata="572"
 Tec="418"
 Def="73"
 Por="50"
-Frm="988"
+Frm="986"
 [2000]
 Eqp="FMG_KAS"
 Sue="16000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1982"

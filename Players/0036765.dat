@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
-Ata="426"
+Ata="434"
 Tec="470"
 Def="170"
 Por="35"
-Frm="975"
+Frm="986"
 [2000]
 Eqp="PAT_MOM"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="SS"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="475"
-Ata="259"
+Ata="247"
 Tec="389"
 Def="438"
 Por="33"
-Frm="986"
+Frm="994"
 [2000]
 Eqp="PPV_OMR"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1969"

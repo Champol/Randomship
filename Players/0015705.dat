@@ -1,10 +1,10 @@
 [Lvl]
 Niv="624"
 Ata="352"
-Tec="776"
+Tec="772"
 Def="302"
 Por="40"
-Frm="971"
+Frm="982"
 [2000]
 P04="2000\Liga PPV\D1A\L08 (2).dat"
 P02="2000\Liga PPV\D1A\L06 (1).dat"
@@ -27,10 +27,10 @@ P06="2000\Liga PPV\D1A\L11 (7).dat"
 [Val]
 LPD="0"
 Rec="99"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="93"
+Fam="83"
 Pow="B"
 Age="26"
 [Inf]

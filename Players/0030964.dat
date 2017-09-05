@@ -1,10 +1,10 @@
 [Lvl]
 Niv="441"
 Ata="598"
-Tec="261"
+Tec="271"
 Def="157"
 Por="50"
-Frm="989"
+Frm="977"
 [2000]
 Eqp="BKN_COR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CF"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="529"
 Ata="262"
-Tec="692"
+Tec="685"
 Def="138"
 Por="32"
-Frm="974"
+Frm="973"
 [2000]
 Eqp="PAT_FOL"
 Sue="37000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="20"
+Fam="18"
 Pow="C"
 Age="32"
-Day="68"
+Day="71"
 Rec="27"
 [Inf]
 Nac="1968"

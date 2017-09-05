@@ -1,10 +1,10 @@
 [Lvl]
 Niv="473"
-Ata="640"
+Ata="654"
 Tec="270"
 Def="219"
 Por="0"
-Frm="974"
+Frm="972"
 [2000]
 Eqp="GAL_SMU"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1982"

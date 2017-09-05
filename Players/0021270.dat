@@ -1,10 +1,10 @@
 [Lvl]
 Niv="512"
-Ata="290"
+Ata="286"
 Tec="668"
 Def="72"
 Por="8"
-Frm="976"
+Frm="975"
 [2000]
 Eqp="CUA_APA"
 Sue="28000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="D"
 Age="30"
-Day="65"
+Day="71"
 Rec="17"
 [Inf]
 Nac="1970"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="447"
 Ata="370"
-Tec="511"
+Tec="500"
 Def="179"
 Por="37"
-Frm="976"
+Frm="980"
 [2000]
 PCal="0"
 Eqp="PAT_FER"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="32"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1968"

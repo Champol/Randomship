@@ -2,7 +2,7 @@
 Niv="543"
 Ata="152"
 Tec="335"
-Def="701"
+Def="693"
 Por="7"
 Frm="978"
 [2000]
@@ -11,10 +11,10 @@ Eqp="FMG_CHA"
 Sue="45000"
 [Val]
 Rec="39"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="29"
+Les="0"
+Fam="26"
 Pow="E"
 Age="26"
 [Inf]

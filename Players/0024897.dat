@@ -1,10 +1,10 @@
 [Lvl]
 Niv="373"
-Ata="188"
+Ata="182"
 Tec="406"
 Def="228"
 Por="31"
-Frm="977"
+Frm="986"
 [2000]
 Eqp="FAN_BRE"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="WM"

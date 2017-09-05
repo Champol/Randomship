@@ -1,7 +1,7 @@
 [Lvl]
 Niv="409"
 Ata="170"
-Tec="277"
+Tec="271"
 Def="432"
 Por="6"
 Frm="972"
@@ -10,11 +10,11 @@ Eqp="BKN_TAL"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="1"
+Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="WB"

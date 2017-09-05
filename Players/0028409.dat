@@ -1,10 +1,10 @@
 [Lvl]
 Niv="555"
 Ata="366"
-Tec="740"
+Tec="748"
 Def="154"
 Por="28"
-Frm="970"
+Frm="967"
 [2000]
 P07="2000\Liga AGE\D2A\L12 (3).dat"
 P06="2000\Liga AGE\D2A\L11 (3).dat"
@@ -27,11 +27,11 @@ Eqp="AGE_DES"
 Sue="53000"
 [Val]
 LPD="1"
-Rec="33"
-Day="67"
+Rec="34"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="38"
+Fam="34"
 Pow="C"
 Age="19"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="444"
-Ata="196"
+Ata="186"
 Tec="542"
 Def="220"
 Por="31"
-Frm="977"
+Frm="971"
 [2000]
 Eqp="FMG_DNB"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="30"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1970"

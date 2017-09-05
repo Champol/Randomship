@@ -1,10 +1,10 @@
 [Lvl]
 Niv="387"
 Ata="24"
-Tec="103"
+Tec="93"
 Def="227"
 Por="491"
-Frm="976"
+Frm="991"
 [2000]
 Eqp="FMG_MAY"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="GK"

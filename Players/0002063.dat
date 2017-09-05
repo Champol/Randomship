@@ -1,10 +1,10 @@
 [Lvl]
 Niv="470"
 Ata="165"
-Tec="291"
+Tec="296"
 Def="621"
 Por="48"
-Frm="975"
+Frm="970"
 [2000]
 PCal="0"
 Eqp="SEN_C-A"
@@ -20,8 +20,8 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga SEN\D3C\L11 (6).dat"
 [Val]
-Rec="2"
-Day="65"
+Rec="3"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="3"

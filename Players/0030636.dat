@@ -1,6 +1,6 @@
 [Lvl]
 Niv="704"
-Ata="394"
+Ata="390"
 Tec="940"
 Def="163"
 Por="6"
@@ -45,11 +45,11 @@ P16="2000\Liga BKN\CUP\C3V (2).dat"
 [Val]
 CPD="1"
 LPD="2"
-Rec="385"
-Day="68"
+Rec="409"
+Day="71"
 Tra="2000"
-Les="2"
-Fam="457"
+Les="1"
+Fam="409"
 Pow="B"
 Age="26"
 [Inf]

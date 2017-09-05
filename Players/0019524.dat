@@ -1,7 +1,7 @@
 [Lvl]
 Niv="508"
 Ata="285"
-Tec="359"
+Tec="363"
 Def="547"
 Por="16"
 Frm="975"
@@ -11,10 +11,10 @@ Eqp="AZR_AVU"
 Sue="27000"
 [Val]
 Rec="10"
-Day="65"
+Day="71"
 Tra="2000"
-Les="7"
-Fam="7"
+Les="4"
+Fam="6"
 Pow="C"
 Age="18"
 [Inf]

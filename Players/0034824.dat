@@ -1,6 +1,6 @@
 [Lvl]
 Niv="577"
-Ata="770"
+Ata="782"
 Tec="394"
 Def="109"
 Por="20"
@@ -24,10 +24,10 @@ P03="2000\Liga PAT\D2A\L11 (6).dat"
 [Val]
 LPD="0"
 Rec="54"
-Day="67"
+Day="71"
 Tra="2000"
-Les="17"
-Fam="44"
+Les="15"
+Fam="39"
 Pow="B"
 Age="19"
 [Inf]

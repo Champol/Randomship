@@ -1,6 +1,6 @@
 [Lvl]
 Niv="463"
-Ata="276"
+Ata="267"
 Tec="538"
 Def="133"
 Por="25"
@@ -11,11 +11,11 @@ Eqp="PAT_PNA"
 Sue="13000"
 [Val]
 Tra="2000"
-Les="5"
+Les="2"
 Fam="2"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1969"

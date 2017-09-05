@@ -1,10 +1,10 @@
 [Lvl]
 Niv="458"
-Ata="198"
+Ata="210"
 Tec="615"
 Def="188"
 Por="30"
-Frm="979"
+Frm="987"
 [2000]
 Eqp="FMG_POD"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

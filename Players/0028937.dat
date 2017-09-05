@@ -1,10 +1,10 @@
 [Lvl]
 Niv="440"
-Ata="494"
+Ata="486"
 Tec="212"
 Def="229"
 Por="30"
-Frm="973"
+Frm="967"
 [2000]
 Eqp="BKN_HAN"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1970"

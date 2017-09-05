@@ -1,10 +1,10 @@
 [Lvl]
 Niv="473"
-Ata="156"
+Ata="148"
 Tec="280"
 Def="528"
 Por="12"
-Frm="984"
+Frm="992"
 [2000]
 Eqp="PES_LON"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="31"
-Day="67"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1969"

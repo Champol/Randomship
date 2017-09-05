@@ -1,10 +1,10 @@
 [Lvl]
 Niv="445"
 Ata="239"
-Tec="539"
+Tec="524"
 Def="177"
 Por="3"
-Frm="960"
+Frm="962"
 [2000]
 Eqp="FAN_AZA"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="CM"

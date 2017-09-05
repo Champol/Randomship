@@ -1,10 +1,10 @@
 [Lvl]
 Niv="523"
 Ata="379"
-Tec="661"
+Tec="666"
 Def="123"
 Por="9"
-Frm="982"
+Frm="983"
 [2000]
 P02="2000\Liga GAL\D4D\L06 (8).dat"
 Eqp="GAL_SAL"
@@ -22,10 +22,10 @@ P01="2000\Liga GAL\D4D\L02 (6).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="E"
 Age="24"
-Day="65"
+Day="71"
 Rec="17"
 LPD="0"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="457"
 Ata="427"
-Tec="465"
+Tec="475"
 Def="164"
 Por="2"
-Frm="969"
+Frm="981"
 [2000]
 P01="2000\Liga FAN\D2A\L12 (1).dat"
 NoPar="1"
@@ -25,7 +25,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

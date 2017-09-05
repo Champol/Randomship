@@ -1,10 +1,10 @@
 [Lvl]
 Niv="469"
-Ata="178"
+Ata="183"
 Tec="387"
 Def="587"
 Por="32"
-Frm="970"
+Frm="976"
 [2000]
 Eqp="GAL_ANA"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="20"
-Day="67"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1980"

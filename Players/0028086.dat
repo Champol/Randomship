@@ -1,10 +1,10 @@
 [Lvl]
 Niv="535"
 Ata="122"
-Tec="714"
+Tec="726"
 Def="354"
 Por="21"
-Frm="982"
+Frm="985"
 [2000]
 P01="2000\Liga AGE\D1A\L08 (1).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="40000"
 [Val]
 LPD="0"
 Rec="23"
-Day="67"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="18"
+Fam="16"
 Pow="C"
 Age="19"
 [Inf]

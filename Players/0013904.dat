@@ -1,10 +1,10 @@
 [Lvl]
 Niv="388"
-Ata="208"
+Ata="196"
 Tec="504"
 Def="90"
 Por="23"
-Frm="980"
+Frm="990"
 [2000]
 Eqp="FMG_SHA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="AM"

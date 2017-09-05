@@ -1,10 +1,10 @@
 [Lvl]
 Niv="472"
 Ata="4"
-Tec="308"
+Tec="322"
 Def="201"
 Por="608"
-Frm="970"
+Frm="982"
 [2000]
 P04="2000\Liga GAL\D4D\L10 (1).dat"
 P02="2000\Liga GAL\D4D\L04 (7).dat"
@@ -27,8 +27,8 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="65"
-Rec="3"
+Day="71"
+Rec="4"
 LPD="1"
 [Inf]
 Nac="1982"

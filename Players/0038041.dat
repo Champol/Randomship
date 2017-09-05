@@ -1,10 +1,10 @@
 [Lvl]
 Niv="477"
-Ata="506"
+Ata="499"
 Tec="396"
 Def="143"
 Por="48"
-Frm="980"
+Frm="978"
 [2000]
 PCal="0"
 Eqp="CHM_TOP"
@@ -15,7 +15,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="31"
-Day="68"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1969"

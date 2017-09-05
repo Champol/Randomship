@@ -1,10 +1,10 @@
 [Lvl]
 Niv="405"
-Ata="474"
+Ata="465"
 Tec="304"
 Def="129"
 Por="23"
-Frm="980"
+Frm="970"
 [2000]
 Eqp="FMG_LIP"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="CF"

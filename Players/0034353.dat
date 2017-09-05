@@ -2,7 +2,7 @@
 Niv="535"
 Ata="412"
 Tec="516"
-Def="288"
+Def="282"
 Por="49"
 Frm="981"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PAT_SNP"
 Sue="41000"
 [Val]
 Rec="26"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="20"
+Les="0"
+Fam="18"
 Pow="B"
 Age="31"
 [Inf]

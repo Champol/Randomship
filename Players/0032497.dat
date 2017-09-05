@@ -1,10 +1,10 @@
 [Lvl]
 Niv="444"
 Ata="157"
-Tec="583"
+Tec="573"
 Def="108"
 Por="37"
-Frm="977"
+Frm="971"
 [2000]
 Eqp="COM_FER"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1969"

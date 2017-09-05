@@ -1,10 +1,10 @@
 [Lvl]
 Niv="388"
 Ata="251"
-Tec="415"
+Tec="404"
 Def="137"
 Por="40"
-Frm="982"
+Frm="975"
 [2000]
 Eqp="PPV_SOQ"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="WM"

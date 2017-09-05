@@ -1,10 +1,10 @@
 [Lvl]
 Niv="431"
 Ata="192"
-Tec="542"
+Tec="526"
 Def="164"
 Por="22"
-Frm="976"
+Frm="974"
 [2000]
 Eqp="PAT_CML"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="CM"

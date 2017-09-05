@@ -1,6 +1,6 @@
 [Lvl]
 Niv="528"
-Ata="132"
+Ata="138"
 Tec="372"
 Def="688"
 Por="14"
@@ -11,10 +11,10 @@ Eqp="FAN_TEL"
 Sue="36000"
 [Val]
 Rec="21"
-Day="67"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="15"
+Les="2"
+Fam="13"
 Pow="C"
 Age="19"
 [Inf]

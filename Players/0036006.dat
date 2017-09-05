@@ -1,10 +1,10 @@
 [Lvl]
 Niv="476"
-Ata="212"
+Ata="214"
 Tec="642"
 Def="224"
 Por="44"
-Frm="969"
+Frm="991"
 [2000]
 Eqp="PAT_SAL"
 Sue="16000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1982"

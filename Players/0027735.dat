@@ -1,10 +1,10 @@
 [Lvl]
 Niv="438"
 Ata="146"
-Tec="284"
+Tec="290"
 Def="573"
 Por="30"
-Frm="973"
+Frm="982"
 [2000]
 Eqp="HAT_CRA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="CB"

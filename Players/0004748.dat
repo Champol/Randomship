@@ -1,10 +1,10 @@
 [Lvl]
 Niv="478"
-Ata="590"
+Ata="582"
 Tec="326"
 Def="135"
 Por="34"
-Frm="975"
+Frm="983"
 [2000]
 Eqp="GAL_LYO"
 Sue="16000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="30"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1970"

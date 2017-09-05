@@ -1,10 +1,10 @@
 [Lvl]
 Niv="488"
-Ata="582"
+Ata="577"
 Tec="375"
 Def="200"
 Por="37"
-Frm="980"
+Frm="974"
 [2000]
 Eqp="GAL_PAL"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="28"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1972"

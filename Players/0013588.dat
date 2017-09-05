@@ -1,10 +1,10 @@
 [Lvl]
 Niv="469"
 Ata="166"
-Tec="637"
+Tec="642"
 Def="225"
 Por="21"
-Frm="980"
+Frm="990"
 [2000]
 Eqp="FMG_CTJ"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
-Ata="493"
+Ata="502"
 Tec="315"
 Def="212"
 Por="11"
-Frm="977"
+Frm="973"
 [2000]
 PCal="0"
 Eqp="CMP_MFU"
@@ -21,7 +21,7 @@ NoPar="2"
 P01="2000\Liga CMP\D3A\L01 (7).dat"
 P02="2000\Liga CMP\D3A\L07 (2).dat"
 [Val]
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="1"

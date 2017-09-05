@@ -1,10 +1,10 @@
 [Lvl]
 Niv="434"
 Ata="10"
-Tec="232"
+Tec="236"
 Def="220"
 Por="586"
-Frm="977"
+Frm="980"
 [2000]
 Eqp="FAN_MRI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="GK"

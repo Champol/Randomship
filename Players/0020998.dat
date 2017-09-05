@@ -1,7 +1,7 @@
 [Lvl]
 Niv="598"
 Ata="12"
-Tec="236"
+Tec="241"
 Def="317"
 Por="775"
 Frm="969"
@@ -26,10 +26,10 @@ P05="2000\Liga CUA\D3C\L09 (7).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="62"
+Fam="56"
 Pow="D"
 Age="24"
-Day="65"
+Day="71"
 Rec="73"
 LPD="1"
 [Inf]

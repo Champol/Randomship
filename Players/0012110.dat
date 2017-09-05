@@ -1,10 +1,10 @@
 [Lvl]
 Niv="488"
 Ata="208"
-Tec="673"
+Tec="680"
 Def="181"
 Por="40"
-Frm="990"
+Frm="974"
 [2000]
 Eqp="FMG_GEI"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1981"

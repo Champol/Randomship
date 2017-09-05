@@ -1,10 +1,10 @@
 [Lvl]
 Niv="470"
-Ata="214"
+Ata="205"
 Tec="542"
 Def="223"
 Por="45"
-Frm="971"
+Frm="973"
 [2000]
 Eqp="GAL_AHC"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1969"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="499"
-Ata="140"
+Ata="147"
 Tec="325"
 Def="606"
 Por="31"
-Frm="975"
+Frm="985"
 [2000]
 Eqp="GAL_MAR"
 Sue="23000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1981"

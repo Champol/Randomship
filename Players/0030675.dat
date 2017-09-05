@@ -2,7 +2,7 @@
 Niv="583"
 Ata="635"
 Tec="381"
-Def="306"
+Def="307"
 Por="8"
 Frm="980"
 [2000]
@@ -24,10 +24,10 @@ P03="2000\Liga BKN\D2A\L12 (7).dat"
 [Val]
 LPD="0"
 Rec="52"
-Day="67"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="44"
+Fam="39"
 Pow="C"
 Age="20"
 [Inf]

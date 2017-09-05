@@ -2,7 +2,7 @@
 Niv="520"
 Ata="703"
 Tec="312"
-Def="77"
+Def="81"
 Por="1"
 Frm="978"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PES_ALT"
 Sue="32000"
 [Val]
 Rec="16"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="13"
+Les="0"
+Fam="12"
 Pow="E"
 Age="23"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="517"
 Ata="412"
-Tec="616"
+Tec="607"
 Def="166"
 Por="8"
-Frm="975"
+Frm="974"
 [2000]
 P01="2000\Liga COM\CUP\C1V (28).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="30000"
 [Val]
 CPD="0"
 Rec="19"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="C"
 Age="28"
 [Inf]

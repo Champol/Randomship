@@ -1,10 +1,10 @@
 [Lvl]
 Niv="395"
-Ata="211"
+Ata="199"
 Tec="458"
 Def="230"
 Por="15"
-Frm="966"
+Frm="970"
 [2000]
 Eqp="BKN_GAS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="CM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="425"
 Ata="128"
-Tec="334"
+Tec="348"
 Def="542"
 Por="48"
-Frm="975"
+Frm="994"
 [2000]
 Eqp="PES_AQU"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CB"

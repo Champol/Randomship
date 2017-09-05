@@ -1,6 +1,6 @@
 [Lvl]
 Niv="559"
-Ata="566"
+Ata="563"
 Tec="525"
 Def="183"
 Por="48"
@@ -11,10 +11,10 @@ Eqp="HAT_FIA"
 Sue="58000"
 [Val]
 Rec="43"
-Day="68"
+Day="71"
 Tra="2000"
-Les="11"
-Fam="31"
+Les="10"
+Fam="28"
 Pow="E"
 Age="26"
 [Inf]

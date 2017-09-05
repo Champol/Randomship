@@ -1,10 +1,10 @@
 [Lvl]
 Niv="389"
 Ata="32"
-Tec="182"
+Tec="166"
 Def="526"
 Por="38"
-Frm="975"
+Frm="972"
 [2000]
 Eqp="FMG_TEL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="CB"

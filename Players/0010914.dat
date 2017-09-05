@@ -1,10 +1,10 @@
 [Lvl]
 Niv="436"
 Ata="231"
-Tec="264"
+Tec="273"
 Def="516"
 Por="30"
-Frm="974"
+Frm="984"
 [2000]
 Eqp="FMG_X-K"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WB"

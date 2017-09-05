@@ -1,10 +1,10 @@
 [Lvl]
 Niv="413"
 Ata="311"
-Tec="464"
+Tec="476"
 Def="164"
 Por="27"
-Frm="972"
+Frm="986"
 [2000]
 Eqp="CHM_ASI"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WM"

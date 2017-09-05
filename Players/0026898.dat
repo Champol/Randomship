@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
 Ata="310"
-Tec="500"
+Tec="508"
 Def="220"
 Por="36"
-Frm="963"
+Frm="975"
 [2000]
 Eqp="HAT_ESP"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WM"

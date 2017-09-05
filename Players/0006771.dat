@@ -1,10 +1,10 @@
 [Lvl]
 Niv="370"
 Ata="117"
-Tec="448"
+Tec="437"
 Def="262"
 Por="34"
-Frm="982"
+Frm="980"
 [2000]
 Eqp="GAL_TUN"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="DM"

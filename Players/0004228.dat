@@ -1,10 +1,10 @@
 [Lvl]
 Niv="400"
 Ata="553"
-Tec="232"
+Tec="236"
 Def="138"
 Por="26"
-Frm="974"
+Frm="964"
 [2000]
 Eqp="GAL_BOG"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CF"

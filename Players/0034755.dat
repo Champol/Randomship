@@ -1,10 +1,10 @@
 [Lvl]
 Niv="448"
 Ata="233"
-Tec="589"
+Tec="590"
 Def="190"
 Por="26"
-Frm="984"
+Frm="980"
 [2000]
 Eqp="PAT_BAT"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

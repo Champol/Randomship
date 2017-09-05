@@ -1,10 +1,10 @@
 [Lvl]
 Niv="471"
 Ata="210"
-Tec="538"
+Tec="534"
 Def="359"
 Por="19"
-Frm="970"
+Frm="979"
 [2000]
 Eqp="FAN_HAR"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="27"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1973"

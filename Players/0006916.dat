@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
-Ata="333"
+Ata="339"
 Tec="460"
 Def="280"
 Por="7"
-Frm="968"
+Frm="973"
 [2000]
 Eqp="GAL_TOY"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

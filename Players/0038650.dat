@@ -1,10 +1,10 @@
 [Lvl]
 Niv="399"
-Ata="514"
+Ata="522"
 Tec="331"
 Def="101"
 Por="30"
-Frm="969"
+Frm="972"
 [2000]
 Eqp="CHM_ZEK"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CF"

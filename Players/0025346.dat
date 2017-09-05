@@ -1,10 +1,10 @@
 [Lvl]
 Niv="421"
-Ata="416"
+Ata="404"
 Tec="362"
 Def="140"
 Por="30"
-Frm="965"
+Frm="973"
 [2000]
 Eqp="FAN_CHI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="SS"

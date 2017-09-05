@@ -1,10 +1,10 @@
 [Lvl]
 Niv="483"
-Ata="360"
+Ata="364"
 Tec="610"
 Def="170"
 Por="9"
-Frm="975"
+Frm="974"
 [2000]
 Eqp="FMG_ROK"
 Sue="18000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1982"

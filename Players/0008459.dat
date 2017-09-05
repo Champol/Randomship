@@ -1,10 +1,10 @@
 [Lvl]
 Niv="487"
-Ata="650"
+Ata="653"
 Tec="315"
 Def="105"
 Por="9"
-Frm="989"
+Frm="975"
 [2000]
 Eqp="PES_GEM"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="20"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1980"

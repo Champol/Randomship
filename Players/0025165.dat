@@ -1,10 +1,10 @@
 [Lvl]
 Niv="451"
 Ata="508"
-Tec="396"
+Tec="408"
 Def="142"
 Por="45"
-Frm="997"
+Frm="988"
 [2000]
 Eqp="FAN_OSG"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

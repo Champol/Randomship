@@ -1,10 +1,10 @@
 [Lvl]
 Niv="488"
 Ata="266"
-Tec="315"
+Tec="317"
 Def="514"
 Por="34"
-Frm="977"
+Frm="982"
 [2000]
 Eqp="GAL_JEN"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="26"
-Day="65"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1974"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="499"
 Ata="164"
-Tec="687"
+Tec="696"
 Def="262"
 Por="48"
-Frm="985"
+Frm="964"
 [2000]
 P03="2000\Liga PES\D3C\L12 (8).dat"
 P02="2000\Liga PES\D3C\L11 (3).dat"
@@ -24,10 +24,10 @@ Sue="23000"
 [Val]
 LPD="0"
 Rec="6"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="5"
+Fam="4"
 Pow="D"
 Age="19"
 [Inf]

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="512"
-Ata="540"
+Ata="531"
 Tec="432"
 Def="139"
 Por="8"
@@ -11,10 +11,10 @@ Eqp="CUA_CEI"
 Sue="28000"
 [Val]
 Rec="13"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="10"
+Les="0"
+Fam="9"
 Pow="E"
 Age="28"
 [Inf]

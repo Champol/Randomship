@@ -1,7 +1,7 @@
 [Lvl]
 Niv="414"
 Ata="128"
-Tec="530"
+Tec="546"
 Def="358"
 Por="22"
 Frm="980"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="PAT_TOB"
 Sue="10000"
 [Val]
-Day="67"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="0"

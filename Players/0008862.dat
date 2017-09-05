@@ -1,10 +1,10 @@
 [Lvl]
 Niv="452"
-Ata="249"
+Ata="234"
 Tec="588"
 Def="44"
 Por="22"
-Frm="976"
+Frm="980"
 [2000]
 Eqp="PES_ARI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1968"

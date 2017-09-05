@@ -2,7 +2,7 @@
 Niv="637"
 Ata="167"
 Tec="469"
-Def="806"
+Def="801"
 Por="12"
 Frm="960"
 [2000]
@@ -45,11 +45,11 @@ P16="2000\Liga CUA\CUP\C3V (9).dat"
 [Val]
 CPD="0"
 LPD="1"
-Rec="183"
-Day="67"
+Rec="184"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="205"
+Fam="184"
 Pow="C"
 Age="24"
 [Inf]

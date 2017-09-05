@@ -1,10 +1,10 @@
 [Lvl]
 Niv="472"
-Ata="223"
+Ata="235"
 Tec="620"
 Def="270"
 Por="24"
-Frm="984"
+Frm="985"
 [2000]
 P02="2000\Liga FMG\D3B\L12 (6).dat"
 Eqp="FMG_APP"
@@ -25,8 +25,8 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="65"
-Rec="3"
+Day="71"
+Rec="4"
 LPD="1"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="409"
 Ata="116"
-Tec="230"
+Tec="223"
 Def="524"
 Por="8"
-Frm="985"
+Frm="990"
 [2000]
 PCal="0"
 Eqp="FMG_PRO"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="67"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="CB"

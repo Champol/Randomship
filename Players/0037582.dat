@@ -1,10 +1,10 @@
 [Lvl]
 Niv="329"
-Ata="135"
+Ata="126"
 Tec="434"
 Def="125"
 Por="19"
-Frm="983"
+Frm="990"
 [2000]
 Eqp="PAT_PGZ"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="32"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1968"

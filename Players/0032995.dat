@@ -1,10 +1,10 @@
 [Lvl]
 Niv="549"
 Ata="528"
-Tec="448"
+Tec="450"
 Def="330"
 Por="50"
-Frm="974"
+Frm="978"
 [2000]
 P04="2000\Liga COM\D3C\L12 (3).dat"
 Eqp="COM_MOW"
@@ -24,10 +24,10 @@ P03="2000\Liga COM\D3C\L10 (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="23"
+Fam="21"
 Pow="D"
 Age="22"
-Day="65"
+Day="71"
 Rec="26"
 LPD="1"
 [Inf]

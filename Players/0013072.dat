@@ -1,10 +1,10 @@
 [Lvl]
 Niv="431"
-Ata="586"
+Ata="588"
 Tec="268"
 Def="150"
 Por="4"
-Frm="988"
+Frm="965"
 [2000]
 Eqp="FMG_APP"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="CF"

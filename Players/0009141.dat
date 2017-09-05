@@ -1,10 +1,10 @@
 [Lvl]
 Niv="496"
 Ata="175"
-Tec="347"
+Tec="361"
 Def="642"
 Por="47"
-Frm="978"
+Frm="974"
 [2000]
 P03="2000\Liga PES\D2A\L12 (8).dat"
 PCal="0"
@@ -31,7 +31,7 @@ LMJ="0"
 P02="2000\Liga PES\D2A\L09 (6).dat"
 [Val]
 Rec="7"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="4"

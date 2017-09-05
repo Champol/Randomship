@@ -1,10 +1,10 @@
 [Lvl]
 Niv="417"
-Ata="164"
+Ata="170"
 Tec="578"
 Def="166"
 Por="3"
-Frm="980"
+Frm="968"
 [2000]
 Eqp="HAT_SUP"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CM"

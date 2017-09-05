@@ -1,10 +1,10 @@
 [Lvl]
 Niv="528"
 Ata="304"
-Tec="721"
+Tec="724"
 Def="122"
 Por="41"
-Frm="971"
+Frm="968"
 [2000]
 Eqp="FAN_UAG"
 Sue="34000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="D"
 Age="19"
-Day="67"
+Day="71"
 Rec="18"
 [Inf]
 Nac="1981"

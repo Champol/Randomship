@@ -2,7 +2,7 @@
 Niv="691"
 Ata="6"
 Tec="369"
-Def="359"
+Def="358"
 Por="862"
 Frm="971"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PAT_PAR"
 Sue="310000"
 [Val]
 Rec="241"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="177"
+Fam="158"
 Pow="A"
 Age="25"
 [Inf]

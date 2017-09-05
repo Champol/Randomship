@@ -1,10 +1,10 @@
 [Lvl]
 Niv="539"
 Ata="348"
-Tec="608"
+Tec="617"
 Def="270"
 Por="48"
-Frm="979"
+Frm="990"
 [2000]
 Eqp="GAL_GET"
 Sue="42000"
@@ -22,10 +22,10 @@ P02="2000\Liga GAL\D2B\L12 (6).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="23"
+Fam="21"
 Pow="E"
 Age="20"
-Day="67"
+Day="71"
 Rec="24"
 LPD="0"
 [Inf]

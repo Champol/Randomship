@@ -1,10 +1,10 @@
 [Lvl]
 Niv="373"
 Ata="158"
-Tec="404"
+Tec="393"
 Def="207"
 Por="27"
-Frm="984"
+Frm="974"
 [2000]
 Eqp="PAT_FOL"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="32"
-Day="68"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="WM"

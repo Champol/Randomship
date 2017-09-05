@@ -1,6 +1,6 @@
 [Lvl]
 Niv="564"
-Ata="610"
+Ata="606"
 Tec="382"
 Def="240"
 Por="4"
@@ -11,10 +11,10 @@ Eqp="COM_QUI"
 Sue="61000"
 [Val]
 Rec="56"
-Day="65"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="41"
+Les="1"
+Fam="37"
 Pow="D"
 Age="26"
 [Inf]

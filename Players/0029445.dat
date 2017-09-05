@@ -2,7 +2,7 @@
 Niv="432"
 Ata="114"
 Tec="226"
-Def="556"
+Def="548"
 Por="50"
 Frm="975"
 [2000]
@@ -10,11 +10,11 @@ Eqp="BKN_ZON"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="1"
+Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="68"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="CB"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
 Ata="245"
-Tec="628"
+Tec="629"
 Def="229"
 Por="2"
-Frm="977"
+Frm="985"
 [2000]
 Eqp="PES_LEO"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="20"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1980"

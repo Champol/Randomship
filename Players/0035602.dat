@@ -1,10 +1,10 @@
 [Lvl]
 Niv="469"
 Ata="346"
-Tec="444"
+Tec="438"
 Def="260"
 Por="29"
-Frm="987"
+Frm="982"
 [2000]
 Eqp="PAT_LMP"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="E"
 Age="29"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1971"

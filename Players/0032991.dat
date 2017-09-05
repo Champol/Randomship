@@ -1,10 +1,10 @@
 [Lvl]
 Niv="372"
 Ata="274"
-Tec="354"
+Tec="348"
 Def="192"
 Por="46"
-Frm="967"
+Frm="973"
 [2000]
 Eqp="COM_MOW"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="WM"

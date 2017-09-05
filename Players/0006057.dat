@@ -1,6 +1,6 @@
 [Lvl]
 Niv="551"
-Ata="609"
+Ata="611"
 Tec="354"
 Def="230"
 Por="19"
@@ -28,10 +28,10 @@ P08="2000\Liga GAL\D3A\L11 (7).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="24"
+Fam="21"
 Pow="E"
 Age="23"
-Day="65"
+Day="71"
 Rec="24"
 LPD="1"
 [Inf]

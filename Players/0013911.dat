@@ -1,10 +1,10 @@
 [Lvl]
 Niv="440"
 Ata="518"
-Tec="350"
+Tec="356"
 Def="144"
 Por="10"
-Frm="986"
+Frm="964"
 [2000]
 Eqp="FMG_SHA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="SS"

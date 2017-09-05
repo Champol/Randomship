@@ -1,6 +1,6 @@
 [Lvl]
 Niv="498"
-Ata="303"
+Ata="298"
 Tec="347"
 Def="475"
 Por="43"
@@ -11,10 +11,10 @@ Eqp="PAT_EST"
 Sue="23000"
 [Val]
 Rec="12"
-Day="68"
+Day="71"
 Tra="2000"
-Les="2"
-Fam="9"
+Les="1"
+Fam="8"
 Pow="C"
 Age="32"
 [Inf]

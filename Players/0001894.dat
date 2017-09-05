@@ -1,7 +1,7 @@
 [Lvl]
 Niv="566"
 Ata="149"
-Tec="372"
+Tec="376"
 Def="735"
 Por="16"
 Frm="991"
@@ -11,10 +11,10 @@ Eqp="SEN_BWU"
 Sue="63000"
 [Val]
 Rec="51"
-Day="65"
+Day="71"
 Tra="2000"
-Les="13"
-Fam="38"
+Les="10"
+Fam="34"
 Pow="D"
 Age="23"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="402"
-Ata="294"
+Ata="290"
 Tec="356"
 Def="279"
 Por="11"
-Frm="984"
+Frm="980"
 [2000]
 Eqp="FAN_HAR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="WM"

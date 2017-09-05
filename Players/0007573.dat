@@ -1,10 +1,10 @@
 [Lvl]
 Niv="478"
-Ata="213"
+Ata="219"
 Tec="295"
 Def="624"
 Por="42"
-Frm="982"
+Frm="981"
 [2000]
 Eqp="PES_JAG"
 Sue="16000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="21"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1979"

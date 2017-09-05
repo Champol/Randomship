@@ -1,7 +1,7 @@
 [Lvl]
 Niv="569"
 Ata="592"
-Tec="508"
+Tec="498"
 Def="170"
 Por="46"
 Frm="986"
@@ -11,10 +11,10 @@ Eqp="CMP_NIZ"
 Sue="65000"
 [Val]
 Rec="57"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="42"
+Fam="38"
 Pow="B"
 Age="30"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="402"
 Ata="534"
-Tec="310"
+Tec="318"
 Def="85"
 Por="1"
-Frm="978"
+Frm="970"
 [2000]
 Eqp="PES_ARI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CF"

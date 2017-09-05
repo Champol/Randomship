@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
 Ata="666"
-Tec="280"
+Tec="286"
 Def="116"
 Por="30"
-Frm="981"
+Frm="982"
 [2000]
 Eqp="FAN_OMA"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="19"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1981"

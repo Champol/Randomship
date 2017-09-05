@@ -1,7 +1,7 @@
 [Lvl]
 Niv="530"
 Ata="265"
-Tec="674"
+Tec="684"
 Def="256"
 Por="31"
 Frm="980"
@@ -11,10 +11,10 @@ Eqp="BKN_ETI"
 Sue="28000"
 [Val]
 Rec="11"
-Day="67"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="8"
+Fam="7"
 Pow="B"
 Age="18"
 [Inf]

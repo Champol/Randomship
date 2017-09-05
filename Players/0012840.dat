@@ -1,10 +1,10 @@
 [Lvl]
 Niv="430"
-Ata="474"
+Ata="470"
 Tec="258"
 Def="179"
 Por="26"
-Frm="978"
+Frm="964"
 [2000]
 Eqp="FMG_IMO"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="WF"

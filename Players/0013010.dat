@@ -1,10 +1,10 @@
 [Lvl]
 Niv="375"
 Ata="40"
-Tec="476"
+Tec="469"
 Def="223"
 Por="15"
-Frm="974"
+Frm="971"
 [2000]
 Eqp="FMG_BRI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="DM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="526"
-Ata="451"
+Ata="444"
 Tec="572"
 Def="196"
 Por="24"
-Frm="975"
+Frm="974"
 [2000]
 PCal="0"
 Eqp="CHM_SPE"
@@ -12,10 +12,10 @@ Sue="35000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="22"
+Fam="20"
 Pow="C"
 Age="31"
-Day="65"
+Day="71"
 Rec="30"
 [Inf]
 Nac="1969"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="487"
-Ata="523"
+Ata="529"
 Tec="423"
 Def="186"
 Por="44"
-Frm="975"
+Frm="986"
 [2000]
 PCal="0"
 Eqp="PPV_RUN"
@@ -15,7 +15,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="21"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1979"

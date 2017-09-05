@@ -1,10 +1,10 @@
 [Lvl]
 Niv="525"
-Ata="638"
+Ata="636"
 Tec="410"
 Def="190"
 Por="14"
-Frm="968"
+Frm="967"
 [2000]
 Eqp="FAN_LTW"
 Sue="34000"
@@ -22,10 +22,10 @@ P02="2000\Liga FAN\D3A\L11 (1).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="14"
+Fam="13"
 Pow="E"
 Age="25"
-Day="65"
+Day="71"
 Rec="19"
 LPD="0"
 [Inf]

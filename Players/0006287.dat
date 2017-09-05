@@ -1,10 +1,10 @@
 [Lvl]
 Niv="464"
-Ata="618"
+Ata="626"
 Tec="334"
 Def="123"
 Por="37"
-Frm="981"
+Frm="975"
 [2000]
 Eqp="GAL_YAV"
 Sue="13000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

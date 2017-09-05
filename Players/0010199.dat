@@ -1,10 +1,10 @@
 [Lvl]
 Niv="490"
 Ata="538"
-Tec="380"
+Tec="368"
 Def="194"
 Por="34"
-Frm="980"
+Frm="981"
 [2000]
 PCal="0"
 Eqp="PES_MRK"
@@ -21,7 +21,7 @@ NoPar="1"
 P01="2000\Liga PES\D3C\L08 (3).dat"
 [Val]
 Rec="7"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="4"

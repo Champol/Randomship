@@ -1,10 +1,10 @@
 [Lvl]
 Niv="444"
 Ata="270"
-Tec="564"
+Tec="573"
 Def="226"
 Por="6"
-Frm="982"
+Frm="972"
 [2000]
 Eqp="GAL_JAK"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="B"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CM"

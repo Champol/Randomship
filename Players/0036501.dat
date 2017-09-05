@@ -1,7 +1,7 @@
 [Lvl]
 Niv="539"
 Ata="222"
-Tec="646"
+Tec="642"
 Def="360"
 Por="36"
 Frm="983"
@@ -11,10 +11,10 @@ Eqp="PAT_MAY"
 Sue="42000"
 [Val]
 Rec="37"
-Day="68"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="28"
+Les="3"
+Fam="25"
 Pow="C"
 Age="31"
 [Inf]

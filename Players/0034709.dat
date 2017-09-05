@@ -1,10 +1,10 @@
 [Lvl]
 Niv="438"
 Ata="490"
-Tec="420"
+Tec="434"
 Def="62"
 Por="28"
-Frm="988"
+Frm="978"
 [2000]
 Eqp="PAT_CSC"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="SS"

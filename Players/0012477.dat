@@ -1,10 +1,10 @@
 [Lvl]
 Niv="492"
 Ata="236"
-Tec="345"
+Tec="356"
 Def="577"
 Por="15"
-Frm="982"
+Frm="990"
 [2000]
 Eqp="FMG_STI"
 Sue="20000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="A"
 Age="17"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1983"

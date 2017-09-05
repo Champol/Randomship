@@ -1,10 +1,10 @@
 [Lvl]
 Niv="492"
-Ata="522"
+Ata="530"
 Tec="347"
 Def="282"
 Por="34"
-Frm="981"
+Frm="972"
 [2000]
 P01="2000\Liga AZR\D2A\L10 (3).dat"
 NoPar="1"
@@ -21,11 +21,11 @@ Eqp="AZR_DUJ"
 Sue="20000"
 [Val]
 LPD="0"
-Rec="5"
-Day="65"
+Rec="6"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="7"
+Fam="6"
 Pow="E"
 Age="19"
 [Inf]

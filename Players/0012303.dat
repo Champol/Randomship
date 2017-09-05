@@ -1,10 +1,10 @@
 [Lvl]
 Niv="390"
 Ata="189"
-Tec="246"
+Tec="252"
 Def="450"
 Por="22"
-Frm="963"
+Frm="978"
 [2000]
 Eqp="FMG_ARD"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WB"

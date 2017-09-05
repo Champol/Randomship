@@ -1,10 +1,10 @@
 [Lvl]
 Niv="467"
 Ata="258"
-Tec="289"
+Tec="297"
 Def="520"
 Por="31"
-Frm="985"
+Frm="983"
 [2000]
 Eqp="FMG_MAA"
 Sue="13000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1982"

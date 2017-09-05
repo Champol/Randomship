@@ -1,6 +1,6 @@
 [Lvl]
 Niv="507"
-Ata="646"
+Ata="638"
 Tec="322"
 Def="70"
 Por="27"
@@ -11,10 +11,10 @@ Eqp="FMG_GOU"
 Sue="26000"
 [Val]
 Rec="16"
-Day="67"
+Day="71"
 Tra="2000"
-Les="3"
-Fam="13"
+Les="1"
+Fam="12"
 Pow="D"
 Age="30"
 [Inf]

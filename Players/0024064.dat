@@ -1,10 +1,10 @@
 [Lvl]
 Niv="549"
 Ata="679"
-Tec="408"
+Tec="402"
 Def="172"
 Por="16"
-Frm="980"
+Frm="985"
 [2000]
 P02="2000\Liga FAN\D3A\L12 (7).dat"
 Eqp="FAN_GRI"
@@ -22,10 +22,10 @@ P01="2000\Liga FAN\D3A\L08 (6).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="21"
+Fam="19"
 Pow="D"
 Age="25"
-Day="65"
+Day="71"
 Rec="28"
 LPD="1"
 [Inf]

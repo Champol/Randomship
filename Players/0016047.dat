@@ -1,6 +1,6 @@
 [Lvl]
 Niv="314"
-Ata="98"
+Ata="89"
 Tec="108"
 Def="425"
 Por="23"
@@ -11,10 +11,10 @@ Eqp="PPV_VDM"
 Sue="10000"
 [Val]
 Rec="9"
-Day="65"
+Day="71"
 Tra="2000"
-Les="9"
-Fam="6"
+Les="6"
+Fam="5"
 Pow="D"
 Age="32"
 [Inf]

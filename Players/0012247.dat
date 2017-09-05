@@ -1,10 +1,10 @@
 [Lvl]
 Niv="480"
-Ata="163"
+Ata="172"
 Tec="331"
 Def="621"
 Por="6"
-Frm="983"
+Frm="979"
 [2000]
 Eqp="FMG_AWS"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1981"

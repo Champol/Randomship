@@ -1,10 +1,10 @@
 [Lvl]
 Niv="453"
 Ata="222"
-Tec="564"
+Tec="560"
 Def="202"
 Por="6"
-Frm="975"
+Frm="969"
 [2000]
 Eqp="PPV_UDS"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="29"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1971"

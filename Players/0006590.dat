@@ -1,10 +1,10 @@
 [Lvl]
 Niv="454"
-Ata="171"
+Ata="172"
 Tec="287"
 Def="614"
 Por="24"
-Frm="998"
+Frm="979"
 [2000]
 Eqp="GAL_RUU"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1981"

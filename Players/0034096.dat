@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
-Ata="544"
+Ata="534"
 Tec="321"
 Def="85"
 Por="30"
-Frm="979"
+Frm="976"
 [2000]
 Eqp="COM_MAB"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="CF"

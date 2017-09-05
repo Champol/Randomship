@@ -1,7 +1,7 @@
 [Lvl]
 Niv="392"
 Ata="48"
-Tec="171"
+Tec="177"
 Def="192"
 Por="517"
 Frm="964"
@@ -10,11 +10,11 @@ Eqp="CUA_KCB"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="7"
+Les="4"
 Fam="0"
 Pow="E"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="GK"

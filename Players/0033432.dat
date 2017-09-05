@@ -1,10 +1,10 @@
 [Lvl]
 Niv="413"
-Ata="428"
+Ata="420"
 Tec="304"
 Def="144"
 Por="17"
-Frm="980"
+Frm="976"
 [2000]
 Eqp="COM_EPS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="29"
-Day="65"
+Day="71"
 [Inf]
 Nac="1971"
 Pos="WF"

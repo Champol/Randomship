@@ -1,10 +1,10 @@
 [Lvl]
 Niv="471"
 Ata="157"
-Tec="588"
+Tec="584"
 Def="285"
 Por="16"
-Frm="969"
+Frm="974"
 [2000]
 P02="2000\Liga PAT\D3C\L03 (8).dat"
 P01="2000\Liga PAT\D3C\L02 (6).dat"
@@ -26,7 +26,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1970"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="418"
 Ata="35"
-Tec="149"
+Tec="136"
 Def="176"
 Por="532"
-Frm="984"
+Frm="975"
 [2000]
 Eqp="FAN_BRA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="GK"

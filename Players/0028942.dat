@@ -1,10 +1,10 @@
 [Lvl]
 Niv="467"
-Ata="574"
+Ata="578"
 Tec="276"
 Def="201"
 Por="3"
-Frm="976"
+Frm="980"
 [2000]
 Eqp="BKN_HAN"
 Sue="13000"
@@ -25,8 +25,8 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="18"
-Day="65"
-Rec="3"
+Day="71"
+Rec="4"
 LPD="0"
 [Inf]
 Nac="1982"

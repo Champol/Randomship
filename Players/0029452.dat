@@ -1,10 +1,10 @@
 [Lvl]
 Niv="420"
 Ata="298"
-Tec="548"
+Tec="557"
 Def="119"
 Por="8"
-Frm="984"
+Frm="980"
 [2000]
 Eqp="BKN_ZON"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="AM"

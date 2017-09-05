@@ -1,7 +1,7 @@
 [Lvl]
 Niv="506"
 Ata="551"
-Tec="321"
+Tec="322"
 Def="292"
 Por="29"
 Frm="988"
@@ -11,7 +11,7 @@ Eqp="BKN_ATA"
 Sue="25000"
 [Val]
 Rec="7"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="4"

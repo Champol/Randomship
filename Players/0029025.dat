@@ -1,10 +1,10 @@
 [Lvl]
 Niv="475"
-Ata="656"
+Ata="668"
 Tec="316"
 Def="114"
 Por="27"
-Frm="986"
+Frm="993"
 [2000]
 Eqp="BKN_ASG"
 Sue="15000"
@@ -16,7 +16,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="18"
-Day="67"
+Day="71"
 [Inf]
 Nac="1982"
 Pos="CF"

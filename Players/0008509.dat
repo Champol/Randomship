@@ -1,7 +1,7 @@
 [Lvl]
 Niv="537"
 Ata="226"
-Tec="678"
+Tec="687"
 Def="377"
 Por="31"
 Frm="982"
@@ -11,10 +11,10 @@ Eqp="PES_BUC"
 Sue="41000"
 [Val]
 Rec="21"
-Day="66"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="15"
+Les="2"
+Fam="13"
 Pow="D"
 Age="21"
 [Inf]

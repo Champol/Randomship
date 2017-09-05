@@ -1,10 +1,10 @@
 [Lvl]
 Niv="553"
 Ata="735"
-Tec="335"
+Tec="342"
 Def="163"
 Por="39"
-Frm="988"
+Frm="977"
 [2000]
 P01="2000\Liga BKN\D2B\L08 (4).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="52000"
 [Val]
 LPD="0"
 Rec="28"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="21"
+Fam="19"
 Pow="D"
 Age="21"
 [Inf]

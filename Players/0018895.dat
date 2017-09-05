@@ -1,7 +1,7 @@
 [Lvl]
 Niv="558"
 Ata="241"
-Tec="709"
+Tec="704"
 Def="307"
 Por="31"
 Frm="982"
@@ -11,10 +11,10 @@ Eqp="AZR_LUF"
 Sue="65000"
 [Val]
 Rec="51"
-Day="68"
+Day="71"
 Tra="2000"
-Les="3"
-Fam="38"
+Les="2"
+Fam="34"
 Pow="E"
 Age="28"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="394"
-Ata="265"
+Ata="257"
 Tec="484"
 Def="106"
 Por="31"
-Frm="980"
+Frm="974"
 [2000]
 Eqp="BKN_ZON"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="32"
-Day="65"
+Day="71"
 [Inf]
 Nac="1968"
 Pos="CM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="444"
-Ata="626"
+Ata="628"
 Tec="260"
 Def="69"
 Por="4"
-Frm="991"
+Frm="996"
 [2000]
 Eqp="GAL_EUT"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

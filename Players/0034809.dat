@@ -2,7 +2,7 @@
 Niv="547"
 Ata="254"
 Tec="364"
-Def="680"
+Def="676"
 Por="7"
 Frm="990"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PAT_CHK"
 Sue="48000"
 [Val]
 Rec="43"
-Day="68"
+Day="71"
 Tra="2000"
-Les="3"
-Fam="31"
+Les="2"
+Fam="28"
 Pow="D"
 Age="25"
 [Inf]

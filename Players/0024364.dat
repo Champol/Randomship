@@ -1,7 +1,7 @@
 [Lvl]
 Niv="559"
 Ata="268"
-Tec="412"
+Tec="406"
 Def="564"
 Por="22"
 Frm="977"
@@ -11,10 +11,10 @@ Eqp="FAN_SOR"
 Sue="58000"
 [Val]
 Rec="63"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="47"
+Les="0"
+Fam="42"
 Pow="E"
 Age="29"
 [Inf]

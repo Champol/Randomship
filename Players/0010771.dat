@@ -1,10 +1,10 @@
 [Lvl]
 Niv="472"
 Ata="271"
-Tec="594"
+Tec="595"
 Def="248"
 Por="23"
-Frm="978"
+Frm="991"
 [2000]
 Eqp="FMG_ANT"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="19"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1981"

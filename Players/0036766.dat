@@ -1,10 +1,10 @@
 [Lvl]
 Niv="504"
 Ata="657"
-Tec="352"
+Tec="357"
 Def="100"
 Por="43"
-Frm="990"
+Frm="983"
 [2000]
 Eqp="PAT_MOM"
 Sue="25000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="20"
-Day="65"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1980"

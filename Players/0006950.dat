@@ -1,10 +1,10 @@
 [Lvl]
 Niv="441"
-Ata="322"
+Ata="336"
 Tec="583"
 Def="155"
 Por="6"
-Frm="977"
+Frm="988"
 [2000]
 Eqp="GAL_MOR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="AM"

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="547"
 Ata="595"
-Tec="382"
+Tec="383"
 Def="245"
 Por="44"
 Frm="976"
@@ -23,10 +23,10 @@ P02="2000\Liga PPV\D2A\L04 (2).dat"
 [Val]
 LPD="0"
 Rec="29"
-Day="66"
+Day="71"
 Tra="2000"
-Les="4"
-Fam="22"
+Les="2"
+Fam="20"
 Pow="D"
 Age="24"
 [Inf]

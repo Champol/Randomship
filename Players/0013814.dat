@@ -1,10 +1,10 @@
 [Lvl]
 Niv="444"
 Ata="175"
-Tec="368"
+Tec="376"
 Def="496"
 Por="25"
-Frm="973"
+Frm="975"
 [2000]
 Eqp="FMG_HUA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="WB"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="405"
 Ata="80"
-Tec="556"
+Tec="564"
 Def="270"
 Por="11"
-Frm="972"
+Frm="966"
 [2000]
 Eqp="COM_KAR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="DM"

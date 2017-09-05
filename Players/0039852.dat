@@ -2,7 +2,7 @@
 Niv="413"
 Ata="202"
 Tec="226"
-Def="476"
+Def="467"
 Por="7"
 Frm="1003"
 [2000]
@@ -11,11 +11,11 @@ Sue="10000"
 PCal="0"
 [Val]
 Tra="2000"
-Les="1"
+Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="67"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="WB"

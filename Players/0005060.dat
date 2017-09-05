@@ -1,10 +1,10 @@
 [Lvl]
 Niv="488"
-Ata="269"
+Ata="266"
 Tec="587"
 Def="248"
 Por="24"
-Frm="981"
+Frm="974"
 [2000]
 P02="2000\Liga GAL\D4C\L06 (1).dat"
 LMJ="0"
@@ -35,7 +35,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="28"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1972"

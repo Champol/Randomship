@@ -2,7 +2,7 @@
 Niv="495"
 Ata="83"
 Tec="382"
-Def="608"
+Def="597"
 Por="30"
 Frm="983"
 [2000]
@@ -22,10 +22,10 @@ P02="2000\Liga PAT\D3A\L08 (7).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="8"
+Fam="7"
 Pow="E"
 Age="28"
-Day="65"
+Day="71"
 Rec="10"
 LPD="0"
 [Inf]

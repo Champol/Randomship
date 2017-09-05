@@ -1,10 +1,10 @@
 [Lvl]
 Niv="361"
 Ata="61"
-Tec="267"
+Tec="252"
 Def="433"
 Por="27"
-Frm="984"
+Frm="975"
 [2000]
 Eqp="COM_DOP"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="32"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1968"

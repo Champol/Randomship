@@ -1,10 +1,10 @@
 [Lvl]
 Niv="552"
 Ata="162"
-Tec="750"
+Tec="754"
 Def="331"
 Por="32"
-Frm="973"
+Frm="968"
 [2000]
 P12="2000\Liga CUA\D2A\L12 (2).dat"
 P11="2000\Liga CUA\D2A\L11 (1).dat"
@@ -41,11 +41,11 @@ P07="2000\Liga CUA\D2A\L06 (4).dat"
 [Val]
 CPD="0"
 LPD="0"
-Rec="31"
-Day="65"
+Rec="32"
+Day="71"
 Tra="2000"
 Les="0"
-Fam="36"
+Fam="32"
 Pow="B"
 Age="19"
 [Inf]

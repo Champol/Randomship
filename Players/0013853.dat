@@ -1,10 +1,10 @@
 [Lvl]
 Niv="492"
-Ata="600"
+Ata="590"
 Tec="318"
 Def="156"
 Por="18"
-Frm="968"
+Frm="961"
 [2000]
 Eqp="FMG_LIM"
 Sue="20000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="31"
-Day="65"
+Day="71"
 Rec="7"
 [Inf]
 Nac="1969"

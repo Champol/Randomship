@@ -1,10 +1,10 @@
 [Lvl]
 Niv="492"
-Ata="662"
+Ata="676"
 Tec="327"
 Def="155"
 Por="41"
-Frm="977"
+Frm="985"
 [2000]
 Eqp="FMG_LEE"
 Sue="20000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="5"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
 Ata="304"
-Tec="600"
+Tec="599"
 Def="240"
 Por="15"
-Frm="985"
+Frm="979"
 [2000]
 Eqp="BKN_TAL"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="20"
-Day="65"
+Day="71"
 Rec="4"
 [Inf]
 Nac="1980"

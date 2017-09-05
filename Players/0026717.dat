@@ -1,6 +1,6 @@
 [Lvl]
 Niv="586"
-Ata="114"
+Ata="111"
 Tec="414"
 Def="740"
 Por="24"
@@ -44,11 +44,11 @@ P15="2000\Liga HAT\D2A\L12 (8).dat"
 [Val]
 CPD="0"
 LPD="1"
-Rec="77"
-Day="67"
+Rec="82"
+Day="71"
 Tra="2000"
-Les="10"
-Fam="92"
+Les="8"
+Fam="82"
 Pow="E"
 Age="26"
 [Inf]

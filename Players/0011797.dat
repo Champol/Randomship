@@ -1,10 +1,10 @@
 [Lvl]
 Niv="413"
-Ata="544"
+Ata="534"
 Tec="215"
 Def="114"
 Por="2"
-Frm="972"
+Frm="978"
 [2000]
 Eqp="FMG_JAR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="CF"

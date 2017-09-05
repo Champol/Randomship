@@ -1,10 +1,10 @@
 [Lvl]
 Niv="384"
 Ata="1"
-Tec="217"
+Tec="225"
 Def="222"
 Por="502"
-Frm="963"
+Frm="979"
 [2000]
 Eqp="GAL_MLC"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="GK"

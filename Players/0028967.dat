@@ -1,10 +1,10 @@
 [Lvl]
 Niv="468"
-Ata="594"
+Ata="606"
 Tec="349"
 Def="199"
 Por="31"
-Frm="967"
+Frm="979"
 [2000]
 Eqp="BKN_CPH"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1982"

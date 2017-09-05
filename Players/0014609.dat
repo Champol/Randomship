@@ -1,10 +1,10 @@
 [Lvl]
 Niv="451"
-Ata="442"
+Ata="433"
 Tec="298"
 Def="265"
 Por="26"
-Frm="978"
+Frm="984"
 [2000]
 Eqp="PPV_ARR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="28"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1972"

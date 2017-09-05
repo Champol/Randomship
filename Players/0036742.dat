@@ -1,7 +1,7 @@
 [Lvl]
 Niv="497"
 Ata="502"
-Tec="392"
+Tec="380"
 Def="178"
 Por="44"
 Frm="984"
@@ -11,10 +11,10 @@ Eqp="PAT_SNA"
 Sue="22000"
 [Val]
 Rec="9"
-Day="68"
+Day="71"
 Tra="2000"
-Les="1"
-Fam="6"
+Les="0"
+Fam="5"
 Pow="E"
 Age="29"
 [Inf]

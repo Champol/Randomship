@@ -1,10 +1,10 @@
 [Lvl]
 Niv="422"
 Ata="206"
-Tec="313"
+Tec="302"
 Def="416"
 Por="50"
-Frm="962"
+Frm="969"
 [2000]
 Eqp="BKN_OLI"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="30"
-Day="65"
+Day="71"
 [Inf]
 Nac="1970"
 Pos="WB"

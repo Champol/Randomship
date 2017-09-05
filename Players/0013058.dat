@@ -1,10 +1,10 @@
 [Lvl]
 Niv="492"
-Ata="152"
+Ata="146"
 Tec="425"
 Def="559"
 Por="39"
-Frm="980"
+Frm="985"
 [2000]
 Eqp="FMG_APP"
 Sue="20000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="28"
-Day="65"
+Day="71"
 Rec="6"
 [Inf]
 Nac="1972"

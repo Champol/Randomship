@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
-Ata="588"
+Ata="596"
 Tec="301"
 Def="107"
 Por="32"
-Frm="981"
+Frm="977"
 [2000]
 PCal="0"
 Eqp="PAT_DOR"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="19"
-Day="65"
+Day="71"
 [Inf]
 Nac="1981"
 Pos="CF"

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="483"
 Ata="378"
-Tec="502"
+Tec="510"
 Def="250"
 Por="1"
 Frm="973"
@@ -11,7 +11,7 @@ Eqp="SEN_BWU"
 Sue="17000"
 [Val]
 Rec="5"
-Day="65"
+Day="71"
 Tra="2000"
 Les="0"
 Fam="4"

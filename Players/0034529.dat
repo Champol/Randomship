@@ -1,10 +1,10 @@
 [Lvl]
 Niv="411"
 Ata="266"
-Tec="526"
+Tec="536"
 Def="233"
 Por="12"
-Frm="997"
+Frm="988"
 [2000]
 Eqp="PAT_PAT"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="65"
+Day="71"
 [Inf]
 Nac="1983"
 Pos="CM"

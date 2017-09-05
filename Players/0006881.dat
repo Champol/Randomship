@@ -1,10 +1,10 @@
 [Lvl]
 Niv="440"
-Ata="156"
+Ata="144"
 Tec="252"
 Def="476"
 Por="17"
-Frm="981"
+Frm="988"
 [2000]
 Eqp="GAL_TAA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1970"

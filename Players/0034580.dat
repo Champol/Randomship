@@ -1,10 +1,10 @@
 [Lvl]
 Niv="440"
 Ata="152"
-Tec="594"
+Tec="604"
 Def="197"
 Por="2"
-Frm="982"
+Frm="976"
 [2000]
 Eqp="PAT_MIL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="19"
-Day="65"
+Day="71"
 [Inf]
 Nac="1981"
 Pos="CM"

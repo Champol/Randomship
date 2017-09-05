@@ -1,10 +1,10 @@
 [Lvl]
 Niv="459"
 Ata="201"
-Tec="344"
+Tec="351"
 Def="496"
 Por="41"
-Frm="978"
+Frm="982"
 [2000]
 Eqp="FMG_HUS"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="20"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1980"

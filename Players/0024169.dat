@@ -1,10 +1,10 @@
 [Lvl]
 Niv="409"
 Ata="70"
-Tec="526"
+Tec="516"
 Def="230"
 Por="7"
-Frm="980"
+Frm="971"
 [2000]
 Eqp="FAN_DIA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="DM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="472"
 Ata="417"
-Tec="494"
+Tec="506"
 Def="176"
 Por="18"
-Frm="972"
+Frm="965"
 [2000]
 Eqp="GAL_SMY"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="18"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1982"

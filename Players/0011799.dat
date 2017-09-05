@@ -1,10 +1,10 @@
 [Lvl]
 Niv="411"
 Ata="393"
-Tec="260"
+Tec="250"
 Def="277"
 Por="23"
-Frm="966"
+Frm="979"
 [2000]
 Eqp="FMG_JAR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="65"
+Day="71"
 [Inf]
 Nac="1969"
 Pos="WF"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="344"
-Ata="419"
+Ata="408"
 Tec="168"
 Def="116"
 Por="21"
-Frm="969"
+Frm="978"
 [2000]
 Eqp="COM_KAK"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="E"
 Age="32"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1968"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="451"
 Ata="300"
-Tec="528"
+Tec="514"
 Def="202"
 Por="19"
-Frm="973"
+Frm="968"
 [2000]
 Eqp="CUA_ARD"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="30"
-Day="65"
+Day="71"
 Rec="1"
 [Inf]
 Nac="1970"

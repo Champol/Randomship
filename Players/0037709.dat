@@ -1,10 +1,10 @@
 [Lvl]
 Niv="479"
-Ata="82"
+Ata="94"
 Tec="310"
 Def="630"
 Por="34"
-Frm="1000"
+Frm="982"
 [2000]
 PCal="0"
 Eqp="CHM_ZOT"
@@ -15,7 +15,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="18"
-Day="67"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1982"

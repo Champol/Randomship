@@ -1,10 +1,10 @@
 [Lvl]
 Niv="468"
-Ata="207"
+Ata="214"
 Tec="646"
 Def="166"
 Por="15"
-Frm="985"
+Frm="976"
 [2000]
 Eqp="FAN_ANV"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="18"
-Day="65"
+Day="71"
 Rec="2"
 [Inf]
 Nac="1982"
