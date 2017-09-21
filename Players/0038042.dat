@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
-Ata="538"
+Ata="536"
 Tec="280"
 Def="160"
 Por="3"
-Frm="969"
+Frm="978"
 [2000]
 Eqp="CHM_TOP"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="30"
-Day="75"
+Day="83"
 Rec="1"
 [Inf]
 Nac="1970"

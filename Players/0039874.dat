@@ -1,10 +1,10 @@
 [Lvl]
 Niv="555"
 Ata="28"
-Tec="300"
+Tec="299"
 Def="265"
 Por="694"
-Frm="979"
+Frm="973"
 [2000]
 Eqp="CHM_WIT"
 Sue="54000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="31"
+Fam="28"
 Pow="D"
 Age="29"
-Day="75"
+Day="83"
 Rec="47"
 [Inf]
 Nac="1971"

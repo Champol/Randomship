@@ -2,7 +2,7 @@
 Niv="552"
 Ata="242"
 Tec="712"
-Def="274"
+Def="272"
 Por="45"
 Frm="980"
 [2000]
@@ -23,10 +23,10 @@ P02="2000\Liga CUA\D2B\L09 (6).dat"
 [Val]
 LPD="0"
 Rec="38"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="27"
+Fam="25"
 Pow="D"
 Age="23"
 [Inf]

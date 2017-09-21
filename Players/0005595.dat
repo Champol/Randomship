@@ -1,7 +1,7 @@
 [Lvl]
 Niv="487"
 Ata="351"
-Tec="634"
+Tec="636"
 Def="182"
 Por="35"
 Frm="971"
@@ -10,11 +10,11 @@ Eqp="GAL_CRL"
 Sue="19000"
 [Val]
 Tra="2000"
-Les="5"
+Les="3"
 Fam="4"
 Pow="D"
 Age="18"
-Day="78"
+Day="83"
 Rec="4"
 [Inf]
 Nac="1982"

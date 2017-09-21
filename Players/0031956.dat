@@ -1,10 +1,10 @@
 [Lvl]
 Niv="421"
-Ata="456"
+Ata="472"
 Tec="404"
 Def="187"
 Por="22"
-Frm="992"
+Frm="973"
 [2000]
 Eqp="COM_SNT"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="SS"

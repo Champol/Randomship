@@ -1,7 +1,7 @@
 [Lvl]
 Niv="519"
 Ata="581"
-Tec="435"
+Tec="438"
 Def="212"
 Por="9"
 Frm="987"
@@ -11,10 +11,10 @@ Eqp="PAT_GNO"
 Sue="31000"
 [Val]
 Rec="11"
-Day="75"
+Day="83"
 Tra="2000"
-Les="4"
-Fam="7"
+Les="0"
+Fam="6"
 Pow="C"
 Age="20"
 [Inf]

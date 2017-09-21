@@ -1,10 +1,10 @@
 [Lvl]
 Niv="639"
 Ata="382"
-Tec="744"
+Tec="740"
 Def="178"
 Por="10"
-Frm="978"
+Frm="984"
 [2000]
 P04="2000\Liga ACT\D1A\L14 (6).dat"
 P01="2000\Liga ACT\D1A\L06 (6).dat"
@@ -25,10 +25,10 @@ P03="2000\Liga ACT\D1A\L11 (6).dat"
 [Val]
 LPD="0"
 Rec="241"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="170"
+Fam="156"
 Pow="B"
 Age="30"
 [Inf]

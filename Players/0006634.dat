@@ -1,10 +1,10 @@
 [Lvl]
 Niv="385"
 Ata="374"
-Tec="456"
+Tec="445"
 Def="104"
 Por="40"
-Frm="974"
+Frm="975"
 [2000]
 Eqp="GAL_MNE"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="32"
-Day="75"
+Day="83"
 [Inf]
 Nac="1968"
 Pos="CF"

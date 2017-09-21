@@ -1,10 +1,10 @@
 [Lvl]
 Niv="406"
-Ata="326"
+Ata="322"
 Tec="469"
 Def="90"
 Por="34"
-Frm="976"
+Frm="983"
 [2000]
 Eqp="COM_TIS"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="AM"

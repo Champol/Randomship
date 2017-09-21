@@ -1,7 +1,7 @@
 [Lvl]
 Niv="530"
 Ata="251"
-Tec="275"
+Tec="265"
 Def="601"
 Por="21"
 Frm="973"
@@ -28,10 +28,10 @@ P07="2000\Liga PPV\D3A\L11 (7).dat"
 [Val]
 LPD="1"
 Rec="23"
-Day="78"
+Day="83"
 Tra="2000"
-Les="2"
-Fam="18"
+Les="0"
+Fam="17"
 Pow="D"
 Age="28"
 [Inf]

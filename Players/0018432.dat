@@ -1,10 +1,10 @@
 [Lvl]
 Niv="464"
 Ata="262"
-Tec="592"
+Tec="600"
 Def="264"
 Por="43"
-Frm="982"
+Frm="983"
 [2000]
 PCal="0"
 Eqp="CMP_NTM"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga CMP\D3A\L12 (3).dat"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="1"

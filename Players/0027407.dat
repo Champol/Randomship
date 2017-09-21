@@ -2,7 +2,7 @@
 Niv="376"
 Ata="26"
 Tec="158"
-Def="258"
+Def="246"
 Por="408"
 Frm="970"
 [2000]
@@ -11,11 +11,11 @@ Sue="10000"
 PCal="0"
 [Val]
 Tra="2000"
-Les="3"
+Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="76"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="GK"

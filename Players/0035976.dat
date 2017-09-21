@@ -1,7 +1,7 @@
 [Lvl]
 Niv="430"
 Ata="348"
-Tec="543"
+Tec="555"
 Def="206"
 Por="19"
 Frm="975"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="PAT_RVG"
 Sue="10000"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="0"

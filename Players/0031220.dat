@@ -1,7 +1,7 @@
 [Lvl]
 Niv="561"
 Ata="391"
-Tec="707"
+Tec="705"
 Def="95"
 Por="8"
 Frm="978"
@@ -11,10 +11,10 @@ Eqp="COM_MAC"
 Sue="58000"
 [Val]
 Rec="46"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="30"
+Fam="28"
 Pow="D"
 Age="28"
 [Inf]

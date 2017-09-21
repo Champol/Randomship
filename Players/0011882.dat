@@ -1,6 +1,6 @@
 [Lvl]
 Niv="569"
-Ata="674"
+Ata="666"
 Tec="467"
 Def="136"
 Por="39"
@@ -10,11 +10,11 @@ Eqp="FMG_TIL"
 Sue="65000"
 [Val]
 Tra="2000"
-Les="4"
-Fam="37"
+Les="0"
+Fam="34"
 Pow="B"
 Age="31"
-Day="75"
+Day="83"
 Rec="56"
 [Inf]
 Nac="1969"

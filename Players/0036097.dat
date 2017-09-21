@@ -1,10 +1,10 @@
 [Lvl]
 Niv="674"
-Ata="724"
+Ata="722"
 Tec="484"
 Def="258"
 Por="28"
-Frm="969"
+Frm="987"
 [2000]
 P16="2000\Liga PAT\D3C\L14 (7).dat"
 P15="2000\Liga PAT\D3C\L13 (1).dat"
@@ -44,12 +44,12 @@ P13="2000\Liga PAT\D3C\L11 (2).dat"
 P14="2000\Liga PAT\D3C\L12 (6).dat"
 [Val]
 CPD="1"
-LPD="4"
+LPD="1"
 Rec="216"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="214"
+Fam="196"
 Pow="A"
 Age="29"
 [Inf]

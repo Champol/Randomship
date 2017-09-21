@@ -2,7 +2,7 @@
 Niv="620"
 Ata="5"
 Tec="293"
-Def="220"
+Def="216"
 Por="814"
 Frm="988"
 [2000]
@@ -11,10 +11,10 @@ Eqp="CUA_CHV"
 Sue="130000"
 [Val]
 Rec="145"
-Day="78"
+Day="83"
 Tra="2000"
-Les="5"
-Fam="95"
+Les="3"
+Fam="87"
 Pow="C"
 Age="25"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="617"
 Ata="422"
-Tec="654"
+Tec="660"
 Def="304"
 Por="27"
-Frm="951"
+Frm="979"
 [2000]
 P17="2000\Liga FMG\D1A\L14 (1).dat"
 P16="2000\Liga FMG\D1A\L13 (4).dat"
@@ -46,11 +46,11 @@ P15="2000\Liga FMG\CUP\C3V (2).dat"
 [Val]
 CPD="2"
 LPD="1"
-Rec="115"
-Day="75"
+Rec="118"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="129"
+Fam="118"
 Pow="D"
 Age="22"
 [Inf]

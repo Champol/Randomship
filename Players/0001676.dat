@@ -1,6 +1,6 @@
 [Lvl]
 Niv="370"
-Ata="427"
+Ata="433"
 Tec="303"
 Def="165"
 Por="47"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="SEN_NAB"
 Sue="10000"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="0"

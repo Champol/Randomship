@@ -1,7 +1,7 @@
 [Lvl]
 Niv="553"
 Ata="29"
-Tec="311"
+Tec="314"
 Def="274"
 Por="692"
 Frm="983"
@@ -10,11 +10,11 @@ Eqp="GAL_ANS"
 Sue="52000"
 [Val]
 Tra="2000"
-Les="9"
-Fam="19"
+Les="5"
+Fam="17"
 Pow="E"
 Age="22"
-Day="75"
+Day="83"
 Rec="29"
 [Inf]
 Nac="1978"

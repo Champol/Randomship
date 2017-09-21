@@ -1,10 +1,10 @@
 [Lvl]
 Niv="459"
-Ata="179"
+Ata="170"
 Tec="621"
 Def="117"
 Por="21"
-Frm="990"
+Frm="980"
 [2000]
 Eqp="COM_KAA"
 Sue="12000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="32"
-Day="75"
+Day="83"
 [Inf]
 Nac="1968"
 Pos="AM"

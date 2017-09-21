@@ -1,10 +1,10 @@
 [Lvl]
 Niv="469"
 Ata="200"
-Tec="620"
+Tec="613"
 Def="190"
 Por="6"
-Frm="977"
+Frm="966"
 [2000]
 Eqp="CHM_GRA"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="32"
-Day="75"
+Day="83"
 Rec="5"
 [Inf]
 Nac="1968"

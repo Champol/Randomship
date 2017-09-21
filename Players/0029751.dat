@@ -1,10 +1,10 @@
 [Lvl]
 Niv="410"
 Ata="214"
-Tec="524"
+Tec="535"
 Def="234"
 Por="6"
-Frm="986"
+Frm="970"
 [2000]
 Eqp="BKN_NIO"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="18"
-Day="75"
+Day="83"
 [Inf]
 Nac="1982"
 Pos="CM"

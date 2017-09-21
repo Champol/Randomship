@@ -2,7 +2,7 @@
 Niv="413"
 Ata="179"
 Tec="324"
-Def="550"
+Def="563"
 Por="4"
 Frm="980"
 [2000]
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="CMP_SUB"
 Sue="10000"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="0"

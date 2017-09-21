@@ -1,7 +1,7 @@
 [Lvl]
 Niv="554"
 Ata="86"
-Tec="268"
+Tec="256"
 Def="766"
 Por="33"
 Frm="968"
@@ -11,10 +11,10 @@ Eqp="PAT_CAS"
 Sue="70000"
 [Val]
 Rec="96"
-Day="75"
+Day="83"
 Tra="2000"
-Les="7"
-Fam="64"
+Les="3"
+Fam="59"
 Pow="D"
 Age="31"
 [Inf]

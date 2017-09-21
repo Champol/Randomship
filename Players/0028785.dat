@@ -1,10 +1,10 @@
 [Lvl]
 Niv="474"
 Ata="196"
-Tec="610"
+Tec="605"
 Def="168"
 Por="46"
-Frm="976"
+Frm="980"
 [2000]
 P03="2000\Liga BKN\D3B\L14 (5).dat"
 P02="2000\Liga BKN\D3B\L10 (3).dat"
@@ -23,7 +23,7 @@ Eqp="BKN_TIT"
 Sue="15000"
 [Val]
 LPD="1"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="4"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="371"
-Ata="348"
+Ata="338"
 Tec="324"
 Def="121"
 Por="0"
@@ -10,11 +10,11 @@ Eqp="PES_C-R"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="3"
+Les="1"
 Fam="0"
 Pow="E"
 Age="31"
-Day="78"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="SS"

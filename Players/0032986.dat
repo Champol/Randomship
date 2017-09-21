@@ -2,7 +2,7 @@
 Niv="282"
 Ata="103"
 Tec="301"
-Def="185"
+Def="174"
 Por="14"
 Frm="984"
 [2000]
@@ -10,11 +10,11 @@ Eqp="COM_MOW"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="12"
-Fam="12"
+Les="8"
+Fam="11"
 Pow="E"
 Age="32"
-Day="75"
+Day="83"
 Rec="16"
 [Inf]
 Nac="1968"

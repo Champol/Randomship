@@ -1,10 +1,10 @@
 [Lvl]
 Niv="417"
-Ata="562"
+Ata="572"
 Tec="310"
 Def="65"
 Por="41"
-Frm="982"
+Frm="987"
 [2000]
 Eqp="FMG_REQ"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="CF"

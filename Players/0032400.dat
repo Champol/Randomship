@@ -2,7 +2,7 @@
 Niv="516"
 Ata="124"
 Tec="391"
-Def="662"
+Def="669"
 Por="3"
 Frm="980"
 [2000]
@@ -11,10 +11,10 @@ Eqp="COM_ZER"
 Sue="30000"
 [Val]
 Rec="11"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="7"
+Fam="6"
 Pow="D"
 Age="19"
 [Inf]

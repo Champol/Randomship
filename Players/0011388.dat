@@ -1,10 +1,10 @@
 [Lvl]
 Niv="415"
 Ata="451"
-Tec="309"
+Tec="316"
 Def="183"
 Por="37"
-Frm="988"
+Frm="985"
 [2000]
 Eqp="FMG_ANA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="WF"

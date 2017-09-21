@@ -1,10 +1,10 @@
 [Lvl]
 Niv="443"
-Ata="268"
+Ata="276"
 Tec="560"
 Def="218"
 Por="19"
-Frm="978"
+Frm="988"
 [2000]
 Eqp="FMG_CAS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="75"
+Day="83"
 [Inf]
 Nac="1982"
 Pos="CM"

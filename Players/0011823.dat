@@ -1,10 +1,10 @@
 [Lvl]
 Niv="416"
 Ata="406"
-Tec="368"
+Tec="362"
 Def="73"
 Por="29"
-Frm="981"
+Frm="995"
 [2000]
 Eqp="FMG_GAM"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="SS"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="556"
-Ata="674"
+Ata="668"
 Tec="378"
 Def="167"
 Por="28"
-Frm="986"
+Frm="972"
 [2000]
 PCal="0"
 Eqp="GAL_FOM"
@@ -12,10 +12,10 @@ Sue="54000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="26"
+Fam="24"
 Pow="C"
 Age="30"
-Day="75"
+Day="83"
 Rec="39"
 [Inf]
 Nac="1970"

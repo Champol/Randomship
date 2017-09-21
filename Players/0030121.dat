@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
 Ata="138"
-Tec="639"
+Tec="646"
 Def="355"
 Por="26"
-Frm="979"
+Frm="968"
 [2000]
 P09="2000\Liga BKN\D3B\L13 (1).dat"
 P03="2000\Liga BKN\CUP\C1V (12).dat"
@@ -38,11 +38,11 @@ P08="2000\Liga BKN\D3B\L12 (6).dat"
 [Val]
 CPD="0"
 LPD="0"
-Rec="11"
-Day="75"
+Rec="12"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="E"
 Age="18"
 [Inf]

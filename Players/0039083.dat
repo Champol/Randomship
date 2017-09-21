@@ -1,10 +1,10 @@
 [Lvl]
 Niv="347"
 Ata="452"
-Tec="196"
+Tec="186"
 Def="142"
 Por="47"
-Frm="979"
+Frm="990"
 [2000]
 Eqp="CHM_FAN"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="31"
-Day="75"
+Day="83"
 Rec="1"
 [Inf]
 Nac="1969"

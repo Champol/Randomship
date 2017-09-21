@@ -1,10 +1,10 @@
 [Lvl]
 Niv="526"
-Ata="256"
+Ata="270"
 Tec="398"
 Def="564"
 Por="31"
-Frm="978"
+Frm="984"
 [2000]
 PCal="568"
 Eqp="PPV_PON"
@@ -23,10 +23,10 @@ P02="2000\Liga PPV\D3A\L13 (1).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="9"
+Fam="8"
 Pow="B"
 Age="18"
-Day="75"
+Day="83"
 Rec="12"
 LPD="0"
 [Inf]

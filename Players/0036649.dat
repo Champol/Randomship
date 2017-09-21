@@ -1,6 +1,6 @@
 [Lvl]
 Niv="642"
-Ata="624"
+Ata="613"
 Tec="633"
 Def="98"
 Por="38"
@@ -11,10 +11,10 @@ Eqp="PAT_PUR"
 Sue="172000"
 [Val]
 Rec="263"
-Day="78"
+Day="83"
 Tra="2000"
-Les="2"
-Fam="173"
+Les="0"
+Fam="159"
 Pow="C"
 Age="30"
 [Inf]

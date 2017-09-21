@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
-Ata="534"
+Ata="542"
 Tec="328"
 Def="239"
 Por="3"
-Frm="988"
+Frm="976"
 [2000]
 Eqp="COM_KHE"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="75"
+Day="83"
 Rec="5"
 [Inf]
 Nac="1982"

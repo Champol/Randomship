@@ -2,7 +2,7 @@
 Niv="515"
 Ata="206"
 Tec="394"
-Def="622"
+Def="616"
 Por="49"
 Frm="984"
 [2000]
@@ -10,11 +10,11 @@ Eqp="GAL_DAN"
 Sue="29000"
 [Val]
 Tra="2000"
-Les="11"
-Fam="12"
+Les="9"
+Fam="11"
 Pow="E"
 Age="25"
-Day="78"
+Day="83"
 Rec="17"
 [Inf]
 Nac="1975"

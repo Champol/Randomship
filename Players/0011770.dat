@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
-Ata="648"
+Ata="655"
 Tec="304"
 Def="175"
 Por="19"
-Frm="970"
+Frm="975"
 [2000]
 Eqp="FMG_PRA"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="19"
-Day="75"
+Day="83"
 Rec="2"
 [Inf]
 Nac="1981"

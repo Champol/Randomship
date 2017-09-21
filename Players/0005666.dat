@@ -1,10 +1,10 @@
 [Lvl]
 Niv="502"
-Ata="138"
+Ata="144"
 Tec="322"
 Def="684"
 Por="11"
-Frm="973"
+Frm="971"
 [2000]
 P02="2000\Liga GAL\D1A\L12 (3).dat"
 Eqp="GAL_SMY"
@@ -26,7 +26,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="18"
-Day="75"
+Day="83"
 Rec="7"
 LPD="0"
 [Inf]

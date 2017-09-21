@@ -1,7 +1,7 @@
 [Lvl]
 Niv="509"
 Ata="537"
-Tec="407"
+Tec="402"
 Def="204"
 Por="31"
 Frm="999"
@@ -11,10 +11,10 @@ Eqp="PAT_TBU"
 Sue="27000"
 [Val]
 Rec="15"
-Day="75"
+Day="83"
 Tra="2000"
-Les="12"
-Fam="11"
+Les="8"
+Fam="10"
 Pow="D"
 Age="29"
 [Inf]

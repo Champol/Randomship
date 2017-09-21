@@ -1,10 +1,10 @@
 [Lvl]
 Niv="434"
-Ata="549"
+Ata="540"
 Tec="270"
 Def="108"
 Por="2"
-Frm="989"
+Frm="978"
 [2000]
 Eqp="FAN_UAG"
 Sue="10000"
@@ -16,7 +16,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="32"
-Day="75"
+Day="83"
 [Inf]
 Nac="1968"
 Pos="CF"

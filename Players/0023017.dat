@@ -1,7 +1,7 @@
 [Lvl]
 Niv="408"
 Ata="471"
-Tec="349"
+Tec="364"
 Def="166"
 Por="28"
 Frm="972"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="CUA_ACH"
 Sue="10000"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="0"

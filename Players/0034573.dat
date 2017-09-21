@@ -1,10 +1,10 @@
 [Lvl]
 Niv="529"
-Ata="230"
+Ata="233"
 Tec="426"
 Def="550"
 Por="47"
-Frm="974"
+Frm="994"
 [2000]
 P02="2000\Liga PAT\D3D\L12 (2).dat"
 Eqp="PAT_MIL"
@@ -23,10 +23,10 @@ P03="2000\Liga PAT\D3D\L13 (6).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="19"
+Fam="17"
 Pow="E"
 Age="21"
-Day="75"
+Day="83"
 Rec="22"
 LPD="1"
 [Inf]

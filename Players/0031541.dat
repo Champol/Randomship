@@ -1,6 +1,6 @@
 [Lvl]
 Niv="305"
-Ata="153"
+Ata="144"
 Tec="315"
 Def="151"
 Por="33"
@@ -11,10 +11,10 @@ Eqp="COM_T17"
 Sue="10000"
 [Val]
 Rec="11"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="7"
+Fam="6"
 Pow="E"
 Age="32"
 [Inf]

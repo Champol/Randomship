@@ -1,10 +1,10 @@
 [Lvl]
 Niv="627"
 Ata="32"
-Tec="252"
+Tec="253"
 Def="278"
 Por="818"
-Frm="978"
+Frm="963"
 [2000]
 P10="2000\Liga AZR\D2A\L14 (6).dat"
 P09="2000\Liga AZR\D2A\L13 (7).dat"
@@ -31,10 +31,10 @@ P08="2000\Liga AZR\D2A\L12 (1).dat"
 [Val]
 LPD="1"
 Rec="99"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="88"
+Fam="81"
 Pow="C"
 Age="24"
 [Inf]

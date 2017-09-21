@@ -1,10 +1,10 @@
 [Lvl]
 Niv="466"
-Ata="538"
+Ata="550"
 Tec="412"
 Def="181"
 Por="45"
-Frm="979"
+Frm="975"
 [2000]
 P04="2000\Liga HAT\D2B\L09 (5).dat"
 P03="2000\Liga HAT\CUP\C2V (9).dat"
@@ -38,7 +38,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="18"
-Day="75"
+Day="83"
 Rec="5"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="491"
 Ata="164"
-Tec="428"
+Tec="422"
 Def="541"
 Por="26"
-Frm="973"
+Frm="981"
 [2000]
 P03="2000\Liga SEN\D2A\L10 (7).dat"
 P01="2000\Liga SEN\CUP\C2I (3).dat"
@@ -31,7 +31,7 @@ LMJ="0"
 P02="2000\Liga SEN\D2A\L09 (8).dat"
 [Val]
 CPD="0"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="5"

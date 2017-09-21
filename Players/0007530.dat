@@ -1,10 +1,10 @@
 [Lvl]
 Niv="609"
 Ata="347"
-Tec="659"
+Tec="651"
 Def="282"
 Por="49"
-Frm="970"
+Frm="986"
 [2000]
 P07="2000\Liga PES\D1A\L14 (7).dat"
 P05="2000\Liga PES\D1A\L11 (2).dat"
@@ -28,10 +28,10 @@ P06="2000\Liga PES\D1A\L12 (6).dat"
 [Val]
 LPD="0"
 Rec="111"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="91"
+Fam="84"
 Pow="C"
 Age="31"
 [Inf]

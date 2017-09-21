@@ -1,6 +1,6 @@
 [Lvl]
 Niv="613"
-Ata="809"
+Ata="805"
 Tec="371"
 Def="93"
 Por="46"
@@ -11,10 +11,10 @@ Eqp="AGE_PEN"
 Sue="119000"
 [Val]
 Rec="123"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="81"
+Fam="74"
 Pow="C"
 Age="27"
 [Inf]

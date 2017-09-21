@@ -1,10 +1,10 @@
 [Lvl]
 Niv="473"
-Ata="598"
+Ata="592"
 Tec="280"
 Def="134"
 Por="18"
-Frm="989"
+Frm="975"
 [2000]
 Eqp="COM_MAK"
 Sue="15000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="31"
-Day="75"
+Day="83"
 Rec="5"
 LPD="1"
 [Inf]

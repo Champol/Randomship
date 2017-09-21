@@ -1,10 +1,10 @@
 [Lvl]
 Niv="375"
-Ata="380"
+Ata="366"
 Tec="230"
 Def="188"
 Por="32"
-Frm="977"
+Frm="985"
 [2000]
 PCal="0"
 Eqp="CHM_ASI"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="WF"

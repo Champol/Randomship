@@ -1,10 +1,10 @@
 [Lvl]
 Niv="534"
 Ata="530"
-Tec="387"
+Tec="376"
 Def="282"
 Por="32"
-Frm="985"
+Frm="973"
 [2000]
 PCal="0"
 Eqp="CHM_ASI"
@@ -12,10 +12,10 @@ Sue="39000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="18"
+Fam="17"
 Pow="B"
 Age="32"
-Day="75"
+Day="83"
 Rec="26"
 [Inf]
 Nac="1968"

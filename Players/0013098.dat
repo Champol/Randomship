@@ -1,10 +1,10 @@
 [Lvl]
 Niv="469"
 Ata="273"
-Tec="594"
+Tec="601"
 Def="264"
 Por="20"
-Frm="967"
+Frm="978"
 [2000]
 Eqp="FMG_PAN"
 Sue="14000"
@@ -24,8 +24,8 @@ Les="0"
 Fam="3"
 Pow="D"
 Age="19"
-Day="75"
-Rec="2"
+Day="83"
+Rec="3"
 LPD="0"
 [Inf]
 Nac="1981"

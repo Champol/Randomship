@@ -2,7 +2,7 @@
 Niv="482"
 Ata="597"
 Tec="309"
-Def="181"
+Def="175"
 Por="27"
 Frm="979"
 [2000]
@@ -23,7 +23,7 @@ P01="2000\Liga CUA\D3C\L06 (3).dat"
 P03="2000\Liga CUA\D3C\L12 (2).dat"
 [Val]
 Rec="6"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="4"

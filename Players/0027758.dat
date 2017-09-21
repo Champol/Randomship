@@ -1,10 +1,10 @@
 [Lvl]
 Niv="439"
-Ata="158"
+Ata="148"
 Tec="284"
 Def="466"
 Por="8"
-Frm="986"
+Frm="984"
 [2000]
 Eqp="HAT_ENF"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="30"
-Day="75"
+Day="83"
 [Inf]
 Nac="1970"
 Pos="WB"

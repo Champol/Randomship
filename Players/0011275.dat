@@ -1,10 +1,10 @@
 [Lvl]
 Niv="490"
-Ata="594"
+Ata="582"
 Tec="348"
 Def="77"
 Por="13"
-Frm="984"
+Frm="990"
 [2000]
 Eqp="FMG_TEL"
 Sue="20000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 Rec="7"
 LPD="0"
 [Inf]

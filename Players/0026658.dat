@@ -2,7 +2,7 @@
 Niv="458"
 Ata="168"
 Tec="312"
-Def="625"
+Def="637"
 Por="25"
 Frm="972"
 [2000]
@@ -10,11 +10,11 @@ Eqp="HAT_ACH"
 Sue="12000"
 [Val]
 Tra="2000"
-Les="3"
+Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="76"
+Day="83"
 Rec="1"
 [Inf]
 Nac="1982"

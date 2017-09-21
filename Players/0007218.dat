@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
-Ata="536"
+Ata="548"
 Tec="458"
 Def="164"
 Por="43"
-Frm="981"
+Frm="976"
 [2000]
 Eqp="GAL_LIV"
 Sue="19000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="75"
+Day="83"
 Rec="4"
 LPD="0"
 [Inf]

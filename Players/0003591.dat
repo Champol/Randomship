@@ -1,10 +1,10 @@
 [Lvl]
 Niv="504"
-Ata="689"
+Ata="684"
 Tec="282"
 Def="87"
 Por="43"
-Frm="972"
+Frm="987"
 [2000]
 Eqp="GAL_VOR"
 Sue="25000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="5"
 Pow="E"
 Age="24"
-Day="75"
+Day="83"
 Rec="9"
 CPD="0"
 [Inf]

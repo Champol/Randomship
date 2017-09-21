@@ -1,10 +1,10 @@
 [Lvl]
 Niv="402"
 Ata="170"
-Tec="478"
+Tec="469"
 Def="246"
 Por="38"
-Frm="969"
+Frm="974"
 [2000]
 PCal="0"
 Eqp="PAT_PNA"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="CM"

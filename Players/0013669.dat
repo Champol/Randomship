@@ -2,7 +2,7 @@
 Niv="523"
 Ata="153"
 Tec="403"
-Def="660"
+Def="665"
 Por="9"
 Frm="986"
 [2000]
@@ -21,10 +21,10 @@ P01="2000\Liga FMG\D3D\L09 (7).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="8"
+Fam="7"
 Pow="D"
 Age="20"
-Day="75"
+Day="83"
 Rec="12"
 LPD="0"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="411"
-Ata="324"
+Ata="331"
 Tec="459"
 Def="216"
 Por="26"
-Frm="987"
+Frm="991"
 [2000]
 Eqp="FAN_TEH"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="B"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="WM"

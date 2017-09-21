@@ -2,7 +2,7 @@
 Niv="568"
 Ata="276"
 Tec="732"
-Def="262"
+Def="264"
 Por="19"
 Frm="980"
 [2000]
@@ -40,11 +40,11 @@ P11="2000\Liga PPV\CUP\C3V (7).dat"
 [Val]
 CPD="0"
 Tra="2000"
-Les="5"
-Fam="32"
+Les="1"
+Fam="29"
 Pow="E"
 Age="25"
-Day="75"
+Day="83"
 Rec="38"
 LPD="1"
 [Inf]

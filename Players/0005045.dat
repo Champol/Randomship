@@ -1,7 +1,7 @@
 [Lvl]
 Niv="543"
 Ata="576"
-Tec="480"
+Tec="483"
 Def="158"
 Por="25"
 Frm="982"
@@ -23,10 +23,10 @@ P02="2000\Liga GAL\D4A\L09 (2).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="16"
+Fam="15"
 Pow="E"
 Age="24"
-Day="75"
+Day="83"
 Rec="23"
 LPD="0"
 [Inf]

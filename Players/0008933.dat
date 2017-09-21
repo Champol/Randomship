@@ -2,7 +2,7 @@
 Niv="556"
 Ata="33"
 Tec="288"
-Def="232"
+Def="234"
 Por="702"
 Frm="988"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PES_KHR"
 Sue="54000"
 [Val]
 Rec="39"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="26"
+Fam="24"
 Pow="D"
 Age="26"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="523"
 Ata="141"
-Tec="690"
+Tec="693"
 Def="340"
 Por="26"
-Frm="972"
+Frm="969"
 [2000]
 P02="2000\Liga FAN\D2B\L09 (7).dat"
 Eqp="FAN_ERE"
@@ -23,10 +23,10 @@ P03="2000\Liga FAN\D2B\L10 (2).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="14"
+Fam="13"
 Pow="E"
 Age="20"
-Day="75"
+Day="83"
 Rec="16"
 LPD="1"
 [Inf]

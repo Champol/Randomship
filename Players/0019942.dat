@@ -1,7 +1,7 @@
 [Lvl]
 Niv="507"
 Ata="158"
-Tec="655"
+Tec="645"
 Def="200"
 Por="46"
 Frm="985"
@@ -11,10 +11,10 @@ Eqp="AZR_ITA"
 Sue="26000"
 [Val]
 Rec="16"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="12"
+Fam="11"
 Pow="D"
 Age="31"
 [Inf]

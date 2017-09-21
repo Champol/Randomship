@@ -1,10 +1,10 @@
 [Lvl]
 Niv="450"
-Ata="604"
+Ata="612"
 Tec="318"
 Def="96"
 Por="4"
-Frm="968"
+Frm="977"
 [2000]
 Eqp="FMG_ARA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="75"
+Day="83"
 [Inf]
 Nac="1982"
 Pos="CF"

@@ -2,7 +2,7 @@
 Niv="612"
 Ata="18"
 Tec="330"
-Def="209"
+Def="201"
 Por="778"
 Frm="984"
 [2000]
@@ -24,10 +24,10 @@ P03="2000\Liga HAT\D2B\L14 (3).dat"
 [Val]
 LPD="1"
 Rec="101"
-Day="76"
+Day="83"
 Tra="2000"
-Les="3"
-Fam="82"
+Les="0"
+Fam="75"
 Pow="C"
 Age="29"
 [Inf]

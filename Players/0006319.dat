@@ -2,7 +2,7 @@
 Niv="425"
 Ata="142"
 Tec="400"
-Def="445"
+Def="439"
 Por="3"
 Frm="977"
 [2000]
@@ -10,11 +10,11 @@ Eqp="GAL_PAL"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="7"
+Les="3"
 Fam="0"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="CB"

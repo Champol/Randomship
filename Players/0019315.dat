@@ -1,10 +1,10 @@
 [Lvl]
 Niv="521"
 Ata="25"
-Tec="257"
+Tec="259"
 Def="258"
 Por="660"
-Frm="977"
+Frm="978"
 [2000]
 P02="2000\Liga AZR\D2A\L11 (8).dat"
 P01="2000\Liga AZR\D2A\L06 (1).dat"
@@ -23,10 +23,10 @@ Sue="40000"
 [Val]
 LPD="0"
 Rec="29"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="24"
+Fam="22"
 Pow="E"
 Age="26"
 [Inf]

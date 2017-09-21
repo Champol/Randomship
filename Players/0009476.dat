@@ -1,10 +1,10 @@
 [Lvl]
 Niv="506"
-Ata="560"
+Ata="569"
 Tec="474"
 Def="113"
 Por="43"
-Frm="978"
+Frm="984"
 [2000]
 PCal="0"
 Eqp="PES_JOH"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga PES\D3D\L12 (8).dat"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="5"

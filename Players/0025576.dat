@@ -1,6 +1,6 @@
 [Lvl]
 Niv="492"
-Ata="205"
+Ata="202"
 Tec="610"
 Def="314"
 Por="49"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="ACT_CRE"
 Sue="20000"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="6"

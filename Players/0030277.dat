@@ -2,7 +2,7 @@
 Niv="493"
 Ata="37"
 Tec="274"
-Def="172"
+Def="168"
 Por="604"
 Frm="977"
 [2000]
@@ -11,10 +11,10 @@ Eqp="BKN_ONC"
 Sue="21000"
 [Val]
 Rec="11"
-Day="75"
+Day="83"
 Tra="2000"
-Les="9"
-Fam="7"
+Les="5"
+Fam="6"
 Pow="E"
 Age="29"
 [Inf]

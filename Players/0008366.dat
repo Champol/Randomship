@@ -1,10 +1,10 @@
 [Lvl]
 Niv="526"
 Ata="132"
-Tec="665"
+Tec="657"
 Def="351"
 Por="28"
-Frm="978"
+Frm="969"
 [2000]
 PCal="0"
 Eqp="PES_BRA"
@@ -12,10 +12,10 @@ Sue="42000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="21"
+Fam="19"
 Pow="D"
 Age="28"
-Day="75"
+Day="83"
 Rec="33"
 [Inf]
 Nac="1972"

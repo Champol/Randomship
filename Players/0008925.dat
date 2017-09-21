@@ -1,10 +1,10 @@
 [Lvl]
 Niv="550"
 Ata="584"
-Tec="478"
+Tec="480"
 Def="190"
 Por="6"
-Frm="973"
+Frm="976"
 [2000]
 P12="2000\Liga PES\D3B\L14 (1).dat"
 P11="2000\Liga PES\D3B\L12 (3).dat"
@@ -33,10 +33,10 @@ P10="2000\Liga PES\D3B\L10 (7).dat"
 [Val]
 LPD="1"
 Rec="34"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="31"
+Fam="28"
 Pow="D"
 Age="26"
 [Inf]

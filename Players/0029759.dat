@@ -2,7 +2,7 @@
 Niv="516"
 Ata="214"
 Tec="315"
-Def="667"
+Def="668"
 Por="24"
 Frm="989"
 [2000]
@@ -10,11 +10,11 @@ Eqp="BKN_GAS"
 Sue="30000"
 [Val]
 Tra="2000"
-Les="7"
-Fam="8"
+Les="3"
+Fam="7"
 Pow="E"
 Age="22"
-Day="75"
+Day="83"
 Rec="12"
 [Inf]
 Nac="1978"

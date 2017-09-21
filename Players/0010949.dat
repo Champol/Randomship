@@ -1,10 +1,10 @@
 [Lvl]
 Niv="472"
-Ata="316"
+Ata="324"
 Tec="534"
 Def="218"
 Por="28"
-Frm="987"
+Frm="997"
 [2000]
 Eqp="FMG_MET"
 Sue="15000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="18"
-Day="75"
+Day="83"
 [Inf]
 Nac="1982"
 Pos="WM"

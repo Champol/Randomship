@@ -1,10 +1,10 @@
 [Lvl]
 Niv="418"
 Ata="70"
-Tec="484"
+Tec="468"
 Def="316"
 Por="11"
-Frm="978"
+Frm="983"
 [2000]
 P02="2000\Liga AZR\D2B\L14 (7).dat"
 P01="2000\Liga AZR\D2B\L01 (7).dat"
@@ -22,13 +22,13 @@ Eqp="AZR_AVU"
 Sue="10000"
 [Val]
 LPD="0"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="2"
 Pow="E"
 Age="31"
-Rec="1"
+Rec="2"
 [Inf]
 Nac="1969"
 Pos="DM"

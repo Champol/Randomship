@@ -1,10 +1,10 @@
 [Lvl]
 Niv="668"
 Ata="169"
-Tec="464"
+Tec="465"
 Def="850"
 Por="4"
-Frm="949"
+Frm="969"
 [2000]
 P18="2000\Liga FAN\D1A\L14 (4).dat"
 P17="2000\Liga FAN\D1A\L13 (5).dat"
@@ -46,12 +46,12 @@ P15="2000\Liga FAN\D1A\L12 (8).dat"
 P16="2000\Liga FAN\CUP\C3V (10).dat"
 [Val]
 CPD="0"
-LPD="3"
+LPD="0"
 Rec="348"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="370"
+Fam="340"
 Pow="C"
 Age="28"
 [Inf]

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="545"
 Ata="120"
-Tec="338"
+Tec="348"
 Def="742"
 Por="44"
 Frm="982"
@@ -11,10 +11,10 @@ Eqp="PAT_RAI"
 Sue="46000"
 [Val]
 Rec="29"
-Day="76"
+Day="83"
 Tra="2000"
-Les="3"
-Fam="19"
+Les="0"
+Fam="17"
 Pow="C"
 Age="19"
 [Inf]

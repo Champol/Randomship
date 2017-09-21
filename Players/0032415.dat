@@ -1,6 +1,6 @@
 [Lvl]
 Niv="535"
-Ata="674"
+Ata="678"
 Tec="441"
 Def="114"
 Por="47"
@@ -11,10 +11,10 @@ Eqp="COM_ZER"
 Sue="40000"
 [Val]
 Rec="19"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="12"
+Fam="11"
 Pow="D"
 Age="21"
 [Inf]

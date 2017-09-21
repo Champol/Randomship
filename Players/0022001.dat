@@ -1,10 +1,10 @@
 [Lvl]
 Niv="495"
 Ata="238"
-Tec="658"
+Tec="646"
 Def="164"
 Por="23"
-Frm="971"
+Frm="961"
 [2000]
 PCal="0"
 Eqp="CUA_WAL"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga CUA\D3D\L13 (7).dat"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="4"

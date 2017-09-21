@@ -2,7 +2,7 @@
 Niv="554"
 Ata="246"
 Tec="301"
-Def="615"
+Def="604"
 Por="20"
 Frm="969"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PAT_CAZ"
 Sue="53000"
 [Val]
 Rec="85"
-Day="78"
+Day="83"
 Tra="2000"
-Les="1"
-Fam="56"
+Les="0"
+Fam="51"
 Pow="D"
 Age="32"
 [Inf]

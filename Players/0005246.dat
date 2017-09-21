@@ -1,10 +1,10 @@
 [Lvl]
 Niv="553"
 Ata="308"
-Tec="696"
+Tec="702"
 Def="330"
 Por="33"
-Frm="975"
+Frm="978"
 [2000]
 PCal="554"
 Eqp="GAL_ASK"
@@ -23,10 +23,10 @@ P02="2000\Liga GAL\D2A\L12 (1).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="20"
+Fam="18"
 Pow="C"
 Age="20"
-Day="75"
+Day="83"
 Rec="28"
 LPD="0"
 [Inf]

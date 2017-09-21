@@ -1,10 +1,10 @@
 [Lvl]
 Niv="490"
 Ata="145"
-Tec="388"
+Tec="392"
 Def="629"
 Por="5"
-Frm="973"
+Frm="987"
 [2000]
 Eqp="FMG_TUL"
 Sue="20000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="20"
-Day="75"
+Day="83"
 Rec="5"
 [Inf]
 Nac="1980"

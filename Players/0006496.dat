@@ -1,6 +1,6 @@
 [Lvl]
 Niv="672"
-Ata="257"
+Ata="252"
 Tec="876"
 Def="271"
 Por="38"
@@ -48,11 +48,11 @@ P19="2000\Liga GAL\D1A\L14 (3).dat"
 [Val]
 CPD="1"
 Tra="2000"
-Les="2"
-Fam="371"
+Les="0"
+Fam="340"
 Pow="B"
 Age="31"
-Day="78"
+Day="83"
 Rec="362"
 LPD="1"
 [Inf]

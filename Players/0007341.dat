@@ -1,10 +1,10 @@
 [Lvl]
 Niv="434"
 Ata="211"
-Tec="291"
+Tec="297"
 Def="498"
 Por="41"
-Frm="976"
+Frm="979"
 [2000]
 Eqp="GAL_JED"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="WB"

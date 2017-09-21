@@ -1,10 +1,10 @@
 [Lvl]
 Niv="405"
 Ata="127"
-Tec="403"
+Tec="393"
 Def="351"
 Por="32"
-Frm="986"
+Frm="990"
 [2000]
 Eqp="FMG_CAT"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="75"
+Day="83"
 [Inf]
 Nac="1968"
 Pos="WB"

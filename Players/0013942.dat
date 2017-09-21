@@ -1,10 +1,10 @@
 [Lvl]
 Niv="582"
-Ata="689"
+Ata="694"
 Tec="473"
 Def="146"
 Por="22"
-Frm="956"
+Frm="976"
 [2000]
 P20="2000\Liga PPV\D3B\L14 (6).dat"
 P19="2000\Liga PPV\D3B\L13 (7).dat"
@@ -49,11 +49,11 @@ P18="2000\Liga PPV\CUP\C3V (13).dat"
 [Val]
 CPD="1"
 LPD="1"
-Rec="48"
-Day="75"
+Rec="50"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="55"
+Fam="50"
 Pow="C"
 Age="20"
 [Inf]

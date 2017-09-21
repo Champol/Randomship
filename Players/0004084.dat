@@ -1,10 +1,10 @@
 [Lvl]
 Niv="547"
-Ata="621"
+Ata="624"
 Tec="444"
 Def="203"
 Por="32"
-Frm="977"
+Frm="981"
 [2000]
 P03="2000\Liga GAL\D4A\L09 (4).dat"
 P02="2000\Liga GAL\D4A\L05 (2).dat"
@@ -25,10 +25,10 @@ P04="2000\Liga GAL\D4A\L13 (6).dat"
 [Val]
 LPD="0"
 Rec="23"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="15"
+Fam="14"
 Pow="E"
 Age="21"
 [Inf]

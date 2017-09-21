@@ -1,10 +1,10 @@
 [Lvl]
 Niv="468"
-Ata="222"
+Ata="234"
 Tec="640"
 Def="216"
 Por="6"
-Frm="991"
+Frm="977"
 [2000]
 Eqp="GAL_TAZ"
 Sue="14000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="18"
-Day="75"
+Day="83"
 Rec="1"
 LPD="0"
 [Inf]

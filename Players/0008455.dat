@@ -1,10 +1,10 @@
 [Lvl]
 Niv="495"
 Ata="129"
-Tec="683"
+Tec="679"
 Def="139"
 Por="15"
-Frm="970"
+Frm="971"
 [2000]
 P04="2000\Liga PES\D2A\L10 (1).dat"
 P02="2000\Liga PES\D2A\L08 (4).dat"
@@ -25,10 +25,10 @@ P05="2000\Liga PES\D2A\L12 (5).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 Rec="13"
 LPD="1"
 [Inf]

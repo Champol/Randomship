@@ -1,7 +1,7 @@
 [Lvl]
 Niv="408"
 Ata="123"
-Tec="359"
+Tec="369"
 Def="516"
 Por="40"
 Frm="975"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="COM_BAN"
 Sue="10000"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="0"

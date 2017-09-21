@@ -1,10 +1,10 @@
 [Lvl]
 Niv="418"
-Ata="490"
+Ata="478"
 Tec="328"
 Def="77"
 Por="39"
-Frm="972"
+Frm="971"
 [2000]
 Eqp="FMG_BRU"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="30"
-Day="75"
+Day="83"
 [Inf]
 Nac="1970"
 Pos="CF"

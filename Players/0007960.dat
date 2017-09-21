@@ -1,7 +1,7 @@
 [Lvl]
 Niv="556"
 Ata="427"
-Tec="586"
+Tec="599"
 Def="247"
 Por="45"
 Frm="977"
@@ -31,11 +31,11 @@ P03="2000\Liga PES\CUP\C3I (16).dat"
 [Val]
 LPD="0"
 Tra="2000"
-Les="12"
-Fam="19"
+Les="8"
+Fam="17"
 Pow="A"
 Age="18"
-Day="75"
+Day="83"
 Rec="27"
 CPD="0"
 [Inf]

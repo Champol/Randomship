@@ -1,7 +1,7 @@
 [Lvl]
 Niv="526"
 Ata="288"
-Tec="666"
+Tec="662"
 Def="236"
 Por="27"
 Frm="985"
@@ -11,10 +11,10 @@ Eqp="PPV_J-T"
 Sue="35000"
 [Val]
 Rec="22"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="14"
+Fam="13"
 Pow="E"
 Age="27"
 [Inf]

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="504"
 Ata="122"
-Tec="688"
+Tec="694"
 Def="330"
 Por="43"
 Frm="976"
@@ -10,11 +10,11 @@ Eqp="GAL_ISS"
 Sue="25000"
 [Val]
 Tra="2000"
-Les="9"
+Les="5"
 Fam="4"
 Pow="C"
 Age="19"
-Day="75"
+Day="83"
 Rec="7"
 [Inf]
 Nac="1981"

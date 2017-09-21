@@ -1,7 +1,7 @@
 [Lvl]
 Niv="474"
 Ata="192"
-Tec="342"
+Tec="350"
 Def="544"
 Por="35"
 Frm="979"
@@ -11,7 +11,7 @@ Eqp="COM_BAL"
 Sue="15000"
 [Val]
 Rec="2"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="2"

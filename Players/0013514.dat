@@ -1,10 +1,10 @@
 [Lvl]
 Niv="616"
 Ata="250"
-Tec="326"
+Tec="320"
 Def="700"
 Por="10"
-Frm="980"
+Frm="975"
 [2000]
 P01="2000\Liga FMG\D1A\L11 (2).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="124000"
 [Val]
 LPD="0"
 Rec="118"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="81"
+Fam="74"
 Pow="B"
 Age="30"
 [Inf]

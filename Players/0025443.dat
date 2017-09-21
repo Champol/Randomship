@@ -1,10 +1,10 @@
 [Lvl]
 Niv="489"
 Ata="192"
-Tec="334"
+Tec="329"
 Def="525"
 Por="10"
-Frm="972"
+Frm="973"
 [2000]
 Eqp="FAN_BRA"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="29"
-Day="75"
+Day="83"
 Rec="7"
 [Inf]
 Nac="1971"

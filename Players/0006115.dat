@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
-Ata="529"
+Ata="523"
 Tec="376"
 Def="54"
 Por="28"
-Frm="986"
+Frm="990"
 [2000]
 Eqp="GAL_HOS"
 Sue="19000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="WF"

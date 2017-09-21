@@ -2,7 +2,7 @@
 Niv="488"
 Ata="208"
 Tec="402"
-Def="462"
+Def="458"
 Por="36"
 Frm="977"
 [2000]
@@ -10,11 +10,11 @@ Eqp="PAT_PGZ"
 Sue="19000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="4"
 Pow="D"
 Age="30"
-Day="78"
+Day="83"
 Rec="7"
 [Inf]
 Nac="1970"

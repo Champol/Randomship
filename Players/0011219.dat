@@ -1,10 +1,10 @@
 [Lvl]
 Niv="451"
 Ata="461"
-Tec="481"
+Tec="485"
 Def="86"
 Por="16"
-Frm="969"
+Frm="960"
 [2000]
 Eqp="FMG_HAV"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="75"
+Day="83"
 [Inf]
 Nac="1982"
 Pos="SS"

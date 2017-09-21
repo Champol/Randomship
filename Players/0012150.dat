@@ -2,7 +2,7 @@
 Niv="422"
 Ata="48"
 Tec="162"
-Def="220"
+Def="226"
 Por="587"
 Frm="987"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FMG_VAS"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="9"
+Les="5"
 Fam="0"
 Pow="D"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="GK"

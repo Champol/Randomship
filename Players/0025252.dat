@@ -1,10 +1,10 @@
 [Lvl]
 Niv="494"
 Ata="574"
-Tec="432"
+Tec="444"
 Def="85"
 Por="8"
-Frm="973"
+Frm="983"
 [2000]
 P02="2000\Liga FAN\D2B\L14 (4).dat"
 P01="2000\Liga FAN\D2B\L12 (8).dat"
@@ -23,7 +23,7 @@ Sue="21000"
 [Val]
 LPD="0"
 Rec="6"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="6"

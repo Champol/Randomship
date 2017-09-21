@@ -1,10 +1,10 @@
 [Lvl]
 Niv="572"
-Ata="754"
+Ata="763"
 Tec="371"
 Def="176"
 Por="31"
-Frm="960"
+Frm="962"
 [2000]
 P09="2000\Liga AGE\CUP\C3V (15).dat"
 P08="2000\Liga AGE\D2A\L12 (7).dat"
@@ -40,11 +40,11 @@ P11="2000\Liga AGE\D2A\L14 (7).dat"
 [Val]
 CPD="1"
 LPD="0"
-Rec="53"
-Day="78"
+Rec="57"
+Day="83"
 Tra="2000"
-Les="1"
-Fam="62"
+Les="0"
+Fam="57"
 Pow="C"
 Age="20"
 [Inf]

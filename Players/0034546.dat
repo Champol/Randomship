@@ -1,10 +1,10 @@
 [Lvl]
 Niv="642"
 Ata="280"
-Tec="465"
+Tec="468"
 Def="700"
 Por="34"
-Frm="975"
+Frm="967"
 [2000]
 P13="2000\Liga PAT\D2A\L09 (7).dat"
 P12="2000\Liga PAT\CUP\C2V (6).dat"
@@ -47,11 +47,11 @@ P18="2000\Liga PAT\D2A\L14 (2).dat"
 [Val]
 CPD="0"
 LPD="1"
-Rec="161"
-Day="78"
+Rec="162"
+Day="83"
 Tra="2000"
-Les="1"
-Fam="177"
+Les="0"
+Fam="162"
 Pow="C"
 Age="22"
 [Inf]

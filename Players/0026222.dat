@@ -1,7 +1,7 @@
 [Lvl]
 Niv="451"
 Ata="108"
-Tec="313"
+Tec="322"
 Def="615"
 Por="7"
 Frm="987"
@@ -11,7 +11,7 @@ Eqp="ACT_B-F"
 Sue="10000"
 [Val]
 Rec="1"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="1"

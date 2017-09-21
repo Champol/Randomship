@@ -1,10 +1,10 @@
 [Lvl]
 Niv="495"
-Ata="281"
+Ata="275"
 Tec="610"
 Def="202"
 Por="26"
-Frm="963"
+Frm="990"
 [2000]
 P02="2000\Liga GAL\CUP\C1V (34).dat"
 P01="2000\Liga GAL\CUP\C1I (34).dat"
@@ -35,7 +35,7 @@ Les="0"
 Fam="6"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 Rec="9"
 LPD="0"
 [Inf]

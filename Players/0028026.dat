@@ -2,7 +2,7 @@
 Niv="551"
 Ata="62"
 Tec="710"
-Def="423"
+Def="437"
 Por="14"
 Frm="987"
 [2000]
@@ -11,10 +11,10 @@ Eqp="AGE_CCW"
 Sue="41000"
 [Val]
 Rec="21"
-Day="75"
+Day="83"
 Tra="2000"
-Les="6"
-Fam="13"
+Les="2"
+Fam="12"
 Pow="B"
 Age="19"
 [Inf]

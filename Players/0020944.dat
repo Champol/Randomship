@@ -2,7 +2,7 @@
 Niv="488"
 Ata="150"
 Tec="371"
-Def="622"
+Def="630"
 Por="20"
 Frm="975"
 [2000]
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="CUA_AAI"
 Sue="19000"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="4"

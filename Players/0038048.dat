@@ -1,10 +1,10 @@
 [Lvl]
 Niv="433"
 Ata="200"
-Tec="565"
+Tec="574"
 Def="222"
 Por="8"
-Frm="988"
+Frm="991"
 [2000]
 Eqp="CHM_TOP"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="18"
-Day="75"
+Day="83"
 [Inf]
 Nac="1982"
 Pos="CM"

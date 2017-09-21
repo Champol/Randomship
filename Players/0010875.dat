@@ -1,10 +1,10 @@
 [Lvl]
 Niv="495"
 Ata="186"
-Tec="322"
+Tec="326"
 Def="630"
 Por="34"
-Frm="975"
+Frm="976"
 [2000]
 Eqp="FMG_DAN"
 Sue="21000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="25"
-Day="75"
+Day="83"
 Rec="7"
 [Inf]
 Nac="1975"

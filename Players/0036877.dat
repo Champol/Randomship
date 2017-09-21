@@ -1,10 +1,10 @@
 [Lvl]
 Niv="521"
-Ata="127"
+Ata="136"
 Tec="690"
 Def="333"
 Por="7"
-Frm="977"
+Frm="968"
 [2000]
 PCal="0"
 Eqp="PAT_G-Y"
@@ -12,10 +12,10 @@ Sue="32000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="11"
+Fam="10"
 Pow="C"
 Age="20"
-Day="75"
+Day="83"
 Rec="15"
 [Inf]
 Nac="1980"

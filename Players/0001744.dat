@@ -2,7 +2,7 @@
 Niv="354"
 Ata="128"
 Tec="327"
-Def="365"
+Def="352"
 Por="42"
 Frm="987"
 [2000]
@@ -11,7 +11,7 @@ Eqp="SEN_SWE"
 Sue="10000"
 [Val]
 Rec="1"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="1"

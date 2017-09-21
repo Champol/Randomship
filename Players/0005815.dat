@@ -1,10 +1,10 @@
 [Lvl]
 Niv="462"
 Ata="288"
-Tec="637"
+Tec="641"
 Def="99"
 Por="20"
-Frm="985"
+Frm="983"
 [2000]
 Eqp="GAL_DQA"
 Sue="12000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="75"
+Day="83"
 Rec="1"
 LPD="0"
 [Inf]

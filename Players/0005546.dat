@@ -1,10 +1,10 @@
 [Lvl]
 Niv="358"
 Ata="119"
-Tec="212"
+Tec="202"
 Def="424"
 Por="24"
-Frm="981"
+Frm="966"
 [2000]
 PCal="0"
 Eqp="GAL_MLC"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="31"
-Day="75"
+Day="83"
 Rec="1"
 [Inf]
 Nac="1969"

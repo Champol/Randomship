@@ -1,9 +1,9 @@
 [Lvl]
-Niv="637"
+Niv="646"
 Ata="39"
 Tec="325"
 Def="252"
-Por="840"
+Por="847"
 Frm="979"
 [2000]
 PCal="0"
@@ -11,10 +11,10 @@ Eqp="PAT_MAG"
 Sue="164000"
 [Val]
 Rec="158"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="104"
+Fam="95"
 Pow="A"
 Age="20"
 [Inf]

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="576"
 Ata="580"
-Tec="454"
+Tec="456"
 Def="327"
 Por="18"
 Frm="977"
@@ -10,11 +10,11 @@ Eqp="FAN_MRK"
 Sue="73000"
 [Val]
 Tra="2000"
-Les="0"
-Fam="30"
+Les="3"
+Fam="28"
 Pow="D"
 Age="20"
-Day="75"
+Day="90"
 Rec="45"
 [Inf]
 Nac="1980"

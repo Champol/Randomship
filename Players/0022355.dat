@@ -1,10 +1,10 @@
 [Lvl]
 Niv="396"
 Ata="429"
-Tec="315"
+Tec="312"
 Def="66"
 Por="7"
-Frm="971"
+Frm="979"
 [2000]
 Eqp="CUA_OSE"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="32"
-Day="75"
+Day="83"
 [Inf]
 Nac="1968"
 Pos="SS"

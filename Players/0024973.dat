@@ -1,10 +1,10 @@
 [Lvl]
 Niv="476"
 Ata="190"
-Tec="296"
+Tec="292"
 Def="592"
 Por="47"
-Frm="987"
+Frm="980"
 [2000]
 Eqp="FAN_ALA"
 Sue="16000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="29"
-Day="75"
+Day="83"
 Rec="5"
 [Inf]
 Nac="1971"

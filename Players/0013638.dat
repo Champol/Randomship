@@ -2,7 +2,7 @@
 Niv="402"
 Ata="76"
 Tec="238"
-Def="507"
+Def="501"
 Por="9"
 Frm="986"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FMG_SAR"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="5"
+Les="1"
 Fam="0"
 Pow="E"
 Age="30"
-Day="75"
+Day="83"
 [Inf]
 Nac="1970"
 Pos="CB"

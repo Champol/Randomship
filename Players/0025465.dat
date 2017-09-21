@@ -2,7 +2,7 @@
 Niv="532"
 Ata="37"
 Tec="198"
-Def="288"
+Def="280"
 Por="672"
 Frm="974"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FAN_TAR"
 Sue="38000"
 [Val]
 Tra="2000"
-Les="4"
-Fam="19"
+Les="0"
+Fam="17"
 Pow="E"
 Age="27"
-Day="75"
+Day="83"
 Rec="28"
 [Inf]
 Nac="1973"

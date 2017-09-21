@@ -1,6 +1,6 @@
 [Lvl]
 Niv="450"
-Ata="308"
+Ata="319"
 Tec="609"
 Def="157"
 Por="3"
@@ -10,11 +10,11 @@ Eqp="COM_N-O"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="8"
+Les="4"
 Fam="1"
 Pow="E"
 Age="18"
-Day="75"
+Day="83"
 Rec="1"
 [Inf]
 Nac="1982"

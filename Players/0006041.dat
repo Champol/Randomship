@@ -2,7 +2,7 @@
 Niv="509"
 Ata="354"
 Tec="413"
-Def="444"
+Def="441"
 Por="2"
 Frm="976"
 [2000]
@@ -10,11 +10,11 @@ Eqp="GAL_UMB"
 Sue="27000"
 [Val]
 Tra="2000"
-Les="3"
-Fam="11"
+Les="0"
+Fam="10"
 Pow="C"
 Age="32"
-Day="76"
+Day="83"
 Rec="15"
 [Inf]
 Nac="1968"

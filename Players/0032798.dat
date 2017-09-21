@@ -1,10 +1,10 @@
 [Lvl]
 Niv="441"
 Ata="561"
-Tec="241"
+Tec="231"
 Def="113"
 Por="14"
-Frm="976"
+Frm="965"
 [2000]
 Eqp="COM_BGG"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="CF"

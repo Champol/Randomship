@@ -1,10 +1,10 @@
 [Lvl]
 Niv="535"
-Ata="77"
+Ata="75"
 Tec="433"
 Def="644"
 Por="11"
-Frm="981"
+Frm="988"
 [2000]
 Eqp="BKN_PQG"
 Sue="40000"
@@ -21,10 +21,10 @@ P01="2000\Liga BKN\D2A\L12 (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="19"
+Fam="17"
 Pow="D"
 Age="28"
-Day="75"
+Day="83"
 Rec="29"
 LPD="0"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="497"
 Ata="111"
 Tec="473"
-Def="547"
+Def="545"
 Por="30"
 Frm="980"
 [2000]
@@ -10,11 +10,11 @@ Eqp="GAL_AUR"
 Sue="22000"
 [Val]
 Tra="2000"
-Les="7"
-Fam="7"
+Les="5"
+Fam="6"
 Pow="C"
 Age="31"
-Day="78"
+Day="83"
 Rec="11"
 [Inf]
 Nac="1969"

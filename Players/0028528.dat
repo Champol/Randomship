@@ -1,10 +1,10 @@
 [Lvl]
 Niv="546"
-Ata="742"
+Ata="752"
 Tec="362"
 Def="210"
 Por="48"
-Frm="969"
+Frm="970"
 [2000]
 P02="2000\Liga AGE\D2A\L09 (2).dat"
 P01="2000\Liga AGE\D2A\L06 (7).dat"
@@ -26,10 +26,10 @@ P05="2000\Liga AGE\D2A\L13 (5).dat"
 [Val]
 LPD="1"
 Rec="26"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="21"
+Fam="19"
 Pow="B"
 Age="18"
 [Inf]

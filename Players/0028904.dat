@@ -1,10 +1,10 @@
 [Lvl]
 Niv="559"
 Ata="582"
-Tec="496"
+Tec="498"
 Def="185"
 Por="0"
-Frm="981"
+Frm="985"
 [2000]
 P11="2000\Liga BKN\D2A\L14 (5).dat"
 P10="2000\Liga BKN\D2A\L12 (4).dat"
@@ -31,10 +31,10 @@ P09="2000\Liga BKN\D2A\L10 (3).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="40"
+Fam="37"
 Pow="E"
 Age="25"
-Day="75"
+Day="83"
 Rec="47"
 LPD="0"
 [Inf]

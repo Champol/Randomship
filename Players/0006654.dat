@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
 Ata="168"
-Tec="662"
+Tec="666"
 Def="297"
 Por="34"
-Frm="990"
+Frm="973"
 [2000]
 Eqp="GAL_ILL"
 Sue="19000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="19"
-Day="75"
+Day="83"
 Rec="4"
 [Inf]
 Nac="1981"

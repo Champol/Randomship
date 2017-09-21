@@ -1,6 +1,6 @@
 [Lvl]
 Niv="512"
-Ata="362"
+Ata="367"
 Tec="667"
 Def="107"
 Por="47"
@@ -11,10 +11,10 @@ Sue="28000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="8"
+Fam="7"
 Pow="E"
 Age="20"
-Day="75"
+Day="83"
 Rec="12"
 [Inf]
 Nac="1980"

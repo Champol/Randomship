@@ -1,7 +1,7 @@
 [Lvl]
 Niv="539"
 Ata="299"
-Tec="712"
+Tec="713"
 Def="199"
 Por="4"
 Frm="978"
@@ -11,10 +11,10 @@ Eqp="PPV_BRA"
 Sue="42000"
 [Val]
 Rec="23"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="15"
+Fam="14"
 Pow="D"
 Age="19"
 [Inf]

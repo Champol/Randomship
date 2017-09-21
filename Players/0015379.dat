@@ -1,10 +1,10 @@
 [Lvl]
 Niv="480"
 Ata="222"
-Tec="358"
+Tec="365"
 Def="523"
 Por="12"
-Frm="976"
+Frm="981"
 [2000]
 PCal="447"
 Eqp="PPV_UNI"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga PPV\D1A\L09 (6).dat"
 [Val]
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="5"

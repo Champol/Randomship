@@ -1,10 +1,10 @@
 [Lvl]
 Niv="549"
 Ata="120"
-Tec="396"
+Tec="388"
 Def="684"
 Por="12"
-Frm="976"
+Frm="989"
 [2000]
 Eqp="FAN_SHE"
 Sue="49000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="21"
+Fam="19"
 Pow="E"
 Age="26"
-Day="75"
+Day="83"
 Rec="33"
 [Inf]
 Nac="1974"

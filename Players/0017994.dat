@@ -1,10 +1,10 @@
 [Lvl]
 Niv="565"
 Ata="366"
-Tec="582"
+Tec="578"
 Def="283"
 Por="31"
-Frm="978"
+Frm="973"
 [2000]
 P03="2000\Liga CMP\D2B\L08 (5).dat"
 P01="2000\Liga CMP\D2B\L04 (1).dat"
@@ -27,10 +27,10 @@ P06="2000\Liga CMP\D2B\L12 (2).dat"
 [Val]
 LPD="1"
 Rec="58"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="47"
+Fam="43"
 Pow="B"
 Age="31"
 [Inf]

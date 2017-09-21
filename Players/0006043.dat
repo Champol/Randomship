@@ -1,10 +1,10 @@
 [Lvl]
 Niv="471"
-Ata="236"
+Ata="227"
 Tec="303"
 Def="472"
 Por="2"
-Frm="974"
+Frm="983"
 [2000]
 Eqp="GAL_UMB"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="31"
-Day="75"
+Day="83"
 Rec="4"
 [Inf]
 Nac="1969"

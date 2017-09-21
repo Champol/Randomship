@@ -1,10 +1,10 @@
 [Lvl]
 Niv="573"
 Ata="189"
-Tec="380"
+Tec="375"
 Def="727"
 Por="26"
-Frm="975"
+Frm="983"
 [2000]
 P04="2000\Liga COM\D2A\L14 (4).dat"
 P01="2000\Liga COM\D2A\L03 (2).dat"
@@ -25,10 +25,10 @@ P03="2000\Liga COM\D2A\L11 (5).dat"
 [Val]
 LPD="0"
 Rec="51"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="36"
+Fam="33"
 Pow="E"
 Age="24"
 [Inf]

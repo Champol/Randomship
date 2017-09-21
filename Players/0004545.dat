@@ -1,10 +1,10 @@
 [Lvl]
 Niv="431"
-Ata="497"
+Ata="512"
 Tec="390"
 Def="173"
 Por="34"
-Frm="976"
+Frm="975"
 [2000]
 PCal="0"
 Eqp="GAL_FOM"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="A"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="SS"

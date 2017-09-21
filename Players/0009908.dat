@@ -1,10 +1,10 @@
 [Lvl]
 Niv="345"
-Ata="145"
+Ata="151"
 Tec="445"
 Def="219"
 Por="8"
-Frm="976"
+Frm="997"
 [2000]
 Eqp="PES_CRA"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="CM"

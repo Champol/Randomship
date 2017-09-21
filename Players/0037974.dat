@@ -1,10 +1,10 @@
 [Lvl]
 Niv="408"
-Ata="173"
+Ata="165"
 Tec="470"
 Def="196"
 Por="8"
-Frm="991"
+Frm="974"
 [2000]
 Eqp="CHM_AUL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="30"
-Day="75"
+Day="83"
 [Inf]
 Nac="1970"
 Pos="WM"

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="522"
 Ata="214"
-Tec="360"
+Tec="372"
 Def="578"
 Por="5"
 Frm="974"
@@ -11,10 +11,10 @@ Eqp="CUA_FON"
 Sue="30000"
 [Val]
 Rec="16"
-Day="76"
+Day="83"
 Tra="2000"
-Les="3"
-Fam="12"
+Les="0"
+Fam="11"
 Pow="C"
 Age="19"
 [Inf]

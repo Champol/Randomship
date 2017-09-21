@@ -1,10 +1,10 @@
 [Lvl]
 Niv="534"
-Ata="710"
+Ata="717"
 Tec="377"
 Def="161"
 Por="36"
-Frm="982"
+Frm="983"
 [2000]
 PCal="0"
 Eqp="PPV_BOR"
@@ -12,10 +12,10 @@ Sue="39000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="12"
+Fam="11"
 Pow="C"
 Age="20"
-Day="75"
+Day="83"
 Rec="19"
 [Inf]
 Nac="1980"

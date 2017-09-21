@@ -1,10 +1,10 @@
 [Lvl]
 Niv="315"
-Ata="393"
+Ata="376"
 Tec="135"
 Def="160"
 Por="46"
-Frm="980"
+Frm="984"
 [2000]
 Eqp="PAT_CHÑ"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="32"
-Day="75"
+Day="83"
 [Inf]
 Nac="1968"
 Pos="CF"

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="530"
 Ata="315"
-Tec="624"
+Tec="633"
 Def="252"
 Por="40"
 Frm="986"
@@ -11,10 +11,10 @@ Eqp="SEN_SLA"
 Sue="37000"
 [Val]
 Rec="21"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="B"
 Age="19"
 [Inf]

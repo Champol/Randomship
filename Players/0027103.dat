@@ -1,10 +1,10 @@
 [Lvl]
 Niv="569"
-Ata="366"
+Ata="359"
 Tec="726"
 Def="122"
 Por="27"
-Frm="972"
+Frm="967"
 [2000]
 P15="2000\Liga HAT\CUP\C3V (14).dat"
 P14="2000\Liga HAT\D2A\L12 (4).dat"
@@ -46,11 +46,11 @@ P17="2000\Liga HAT\D2A\L14 (5).dat"
 [Val]
 CPD="1"
 LPD="1"
-Rec="80"
-Day="78"
+Rec="81"
+Day="83"
 Tra="2000"
-Les="1"
-Fam="88"
+Les="0"
+Fam="81"
 Pow="C"
 Age="31"
 [Inf]

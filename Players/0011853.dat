@@ -1,10 +1,10 @@
 [Lvl]
 Niv="512"
 Ata="515"
-Tec="423"
+Tec="429"
 Def="242"
 Por="38"
-Frm="970"
+Frm="982"
 [2000]
 Eqp="FMG_POD"
 Sue="28000"
@@ -21,10 +21,10 @@ P01="2000\Liga FMG\D3C\L06 (7).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="7"
+Fam="6"
 Pow="E"
 Age="21"
-Day="75"
+Day="83"
 Rec="10"
 LPD="1"
 [Inf]

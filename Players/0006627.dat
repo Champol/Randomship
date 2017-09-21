@@ -1,10 +1,10 @@
 [Lvl]
 Niv="502"
 Ata="106"
-Tec="634"
+Tec="640"
 Def="397"
 Por="47"
-Frm="971"
+Frm="977"
 [2000]
 Eqp="GAL_MNE"
 Sue="24000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="19"
-Day="75"
+Day="83"
 Rec="6"
 LPD="0"
 [Inf]

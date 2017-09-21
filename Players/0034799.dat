@@ -1,6 +1,6 @@
 [Lvl]
 Niv="502"
-Ata="603"
+Ata="594"
 Tec="341"
 Def="105"
 Por="12"
@@ -11,10 +11,10 @@ Eqp="PAT_CAR"
 Sue="24000"
 [Val]
 Rec="17"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="12"
+Fam="11"
 Pow="D"
 Age="32"
 [Inf]

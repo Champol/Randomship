@@ -1,10 +1,10 @@
 [Lvl]
 Niv="418"
 Ata="325"
-Tec="447"
+Tec="464"
 Def="271"
 Por="36"
-Frm="975"
+Frm="978"
 [2000]
 Eqp="GAL_MYG"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="A"
 Age="17"
-Day="75"
+Day="83"
 [Inf]
 Nac="1983"
 Pos="WM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="355"
-Ata="222"
+Ata="206"
 Tec="200"
 Def="340"
 Por="23"
-Frm="988"
+Frm="987"
 [2000]
 Eqp="FAN_DAL"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="31"
-Day="75"
+Day="83"
 [Inf]
 Nac="1969"
 Pos="WB"

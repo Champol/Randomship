@@ -1,10 +1,10 @@
 [Lvl]
 Niv="509"
-Ata="153"
+Ata="160"
 Tec="448"
 Def="630"
 Por="33"
-Frm="962"
+Frm="975"
 [2000]
 P02="2000\Liga FAN\D2B\L14 (4).dat"
 P01="2000\Liga FAN\D2B\L12 (8).dat"
@@ -22,11 +22,11 @@ Eqp="FAN_AZK"
 Sue="27000"
 [Val]
 LPD="0"
-Rec="9"
-Day="75"
+Rec="11"
+Day="83"
 Tra="2000"
 Les="0"
-Fam="12"
+Fam="11"
 Pow="C"
 Age="19"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="499"
-Ata="414"
+Ata="420"
 Tec="664"
 Def="54"
 Por="47"
-Frm="977"
+Frm="973"
 [2000]
 Eqp="FMG_EDA"
 Sue="23000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="B"
 Age="18"
-Day="75"
+Day="83"
 Rec="6"
 [Inf]
 Nac="1982"

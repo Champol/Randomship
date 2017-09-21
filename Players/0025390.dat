@@ -1,10 +1,10 @@
 [Lvl]
 Niv="333"
 Ata="155"
-Tec="351"
+Tec="339"
 Def="179"
 Por="36"
-Frm="978"
+Frm="983"
 [2000]
 Eqp="FAN_SHE"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="32"
-Day="75"
+Day="83"
 Rec="4"
 [Inf]
 Nac="1968"

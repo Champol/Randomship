@@ -2,7 +2,7 @@
 Niv="600"
 Ata="109"
 Tec="376"
-Def="774"
+Def="766"
 Por="16"
 Frm="984"
 [2000]
@@ -41,11 +41,11 @@ P13="2000\Liga FMG\D3C\L14 (4).dat"
 [Val]
 LPD="2"
 Tra="2000"
-Les="3"
-Fam="82"
+Les="1"
+Fam="75"
 Pow="C"
 Age="29"
-Day="78"
+Day="83"
 Rec="102"
 CPD="0"
 [Inf]

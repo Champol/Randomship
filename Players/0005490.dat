@@ -1,7 +1,7 @@
 [Lvl]
 Niv="282"
 Ata="26"
-Tec="277"
+Tec="266"
 Def="301"
 Por="49"
 Frm="979"
@@ -10,11 +10,11 @@ Eqp="GAL_KOR"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="9"
-Fam="14"
+Les="7"
+Fam="13"
 Pow="E"
 Age="32"
-Day="78"
+Day="83"
 Rec="22"
 [Inf]
 Nac="1968"

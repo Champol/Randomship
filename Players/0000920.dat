@@ -1,10 +1,10 @@
 [Lvl]
 Niv="505"
-Ata="680"
+Ata="690"
 Tec="356"
 Def="136"
 Por="29"
-Frm="988"
+Frm="975"
 [2000]
 P03="2000\Liga SEN\D3C\L14 (6).dat"
 P02="2000\Liga SEN\D3C\L12 (3).dat"
@@ -23,7 +23,7 @@ NoPar="3"
 P01="2000\Liga SEN\D3C\L09 (3).dat"
 [Val]
 Rec="7"
-Day="75"
+Day="83"
 Tra="2000"
 Les="0"
 Fam="5"

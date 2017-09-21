@@ -2,7 +2,7 @@
 Niv="481"
 Ata="224"
 Tec="384"
-Def="501"
+Def="502"
 Por="15"
 Frm="986"
 [2000]
@@ -11,11 +11,11 @@ Eqp="PAT_FER"
 Sue="17000"
 [Val]
 Tra="2000"
-Les="8"
+Les="5"
 Fam="4"
 Pow="D"
 Age="19"
-Day="76"
+Day="83"
 Rec="4"
 [Inf]
 Nac="1981"

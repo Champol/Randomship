@@ -1,10 +1,10 @@
 [Lvl]
 Niv="513"
 Ata="14"
-Tec="272"
+Tec="273"
 Def="181"
 Por="682"
-Frm="972"
+Frm="985"
 [2000]
 Eqp="FMG_LAB"
 Sue="29000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="6"
 Pow="E"
 Age="20"
-Day="75"
+Day="83"
 Rec="9"
 LPD="0"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="464"
 Ata="166"
-Tec="648"
+Tec="652"
 Def="162"
 Por="0"
-Frm="974"
+Frm="980"
 [2000]
 Eqp="FMG_CLN"
 Sue="13000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="18"
-Day="75"
+Day="83"
 Rec="1"
 [Inf]
 Nac="1982"

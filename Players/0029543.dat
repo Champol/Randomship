@@ -1,10 +1,10 @@
 [Lvl]
 Niv="491"
 Ata="565"
-Tec="323"
+Tec="331"
 Def="192"
 Por="29"
-Frm="968"
+Frm="965"
 [2000]
 P01="2000\Liga BKN\D3A\L04 (5).dat"
 NoPar="1"
@@ -25,7 +25,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="19"
-Day="75"
+Day="83"
 Rec="6"
 [Inf]
 Nac="1981"
