@@ -1,3 +1,5 @@
+[Val]
+KV="1"
 [Inf]
 Def="0"
 Vis="PAT_VEG"
@@ -7,3 +9,4 @@ Div="D1A"
 Lig="Liga PAT"
 Tor="L"
 OK="0"
+TV="1"

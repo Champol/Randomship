@@ -1,4 +1,5 @@
 [Inf]
+TV="1"
 Def="0"
 Vis="HAT_LON"
 Loc="HAT_POR"
@@ -7,3 +8,6 @@ Div="D1A"
 Lig="Liga HAT"
 Tor="L"
 OK="0"
+[Val]
+KL="0"
+KV="1"
