@@ -1,10 +1,10 @@
 [Lvl]
 Niv="522"
 Ata="276"
-Tec="621"
+Tec="615"
 Def="238"
 Por="9"
-Frm="980"
+Frm="977"
 [2000]
 P04="2000\Liga CHM\D3A\L06 (4).dat"
 PCal="0"
@@ -26,7 +26,7 @@ P05="2000\Liga CHM\D3A\L07 (7).dat"
 P06="2000\Liga CHM\D3A\L08 (4).dat"
 P07="2000\Liga CHM\D3A\L10 (1).dat"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="11"

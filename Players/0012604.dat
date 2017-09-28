@@ -1,10 +1,10 @@
 [Lvl]
 Niv="542"
 Ata="405"
-Tec="683"
+Tec="680"
 Def="112"
 Por="12"
-Frm="975"
+Frm="974"
 [2000]
 Eqp="FMG_VOR"
 Sue="44000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="12"
 Pow="E"
 Age="24"
-Day="83"
+Day="97"
 Rec="21"
 LPD="0"
 [Inf]

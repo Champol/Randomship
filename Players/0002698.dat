@@ -2,7 +2,7 @@
 Niv="511"
 Ata="50"
 Tec="278"
-Def="296"
+Def="308"
 Por="654"
 Frm="984"
 [2000]
@@ -11,7 +11,7 @@ Eqp="SEN_NCK"
 Sue="28000"
 [Val]
 Rec="9"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="5"

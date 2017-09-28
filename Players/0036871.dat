@@ -1,10 +1,10 @@
 [Lvl]
 Niv="533"
-Ata="363"
+Ata="365"
 Tec="701"
 Def="93"
 Por="48"
-Frm="996"
+Frm="983"
 [2000]
 PCal="0"
 Eqp="PAT_G-Y"
@@ -26,7 +26,7 @@ Les="0"
 Fam="12"
 Pow="E"
 Age="23"
-Day="83"
+Day="97"
 Rec="21"
 LPD="0"
 [Inf]

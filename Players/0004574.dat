@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
 Ata="704"
-Tec="284"
+Tec="299"
 Def="81"
 Por="11"
-Frm="971"
+Frm="976"
 [2000]
 Eqp="GAL_MUS"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="A"
 Age="18"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1982"

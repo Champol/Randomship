@@ -1,10 +1,10 @@
 [Lvl]
 Niv="488"
 Ata="174"
-Tec="339"
+Tec="333"
 Def="581"
 Por="4"
-Frm="976"
+Frm="977"
 [2000]
 Eqp="BKN_GPC"
 Sue="19000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="29"
-Day="83"
+Day="97"
 Rec="6"
 LPD="0"
 [Inf]

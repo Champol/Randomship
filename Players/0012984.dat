@@ -1,10 +1,10 @@
 [Lvl]
 Niv="526"
 Ata="533"
-Tec="492"
+Tec="490"
 Def="198"
 Por="4"
-Frm="979"
+Frm="988"
 [2000]
 Eqp="FMG_ZIG"
 Sue="35000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="23"
-Day="83"
+Day="97"
 Rec="19"
 [Inf]
 Nac="1977"

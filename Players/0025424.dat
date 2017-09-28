@@ -1,10 +1,10 @@
 [Lvl]
 Niv="538"
-Ata="568"
+Ata="567"
 Tec="481"
 Def="180"
 Por="21"
-Frm="968"
+Frm="983"
 [2000]
 Eqp="FAN_AVR"
 Sue="42000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="12"
 Pow="E"
 Age="24"
-Day="83"
+Day="97"
 [Inf]
 Nac="1976"
 Pos="SS"

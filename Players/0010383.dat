@@ -1,10 +1,10 @@
 [Lvl]
 Niv="422"
 Ata="35"
-Tec="159"
+Tec="169"
 Def="191"
 Por="594"
-Frm="983"
+Frm="990"
 [2000]
 Eqp="PES_PIS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="GK"

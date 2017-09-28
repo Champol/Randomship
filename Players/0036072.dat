@@ -1,10 +1,10 @@
 [Lvl]
 Niv="528"
-Ata="657"
+Ata="650"
 Tec="376"
 Def="76"
 Por="33"
-Frm="980"
+Frm="989"
 [2000]
 Eqp="PAT_ENT"
 Sue="35000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="28"
-Day="83"
+Day="97"
 [Inf]
 Nac="1972"
 Pos="CF"

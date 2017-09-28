@@ -1,10 +1,10 @@
 [Lvl]
 Niv="415"
 Ata="592"
-Tec="248"
+Tec="264"
 Def="149"
 Por="19"
-Frm="989"
+Frm="990"
 [2000]
 PCal="0"
 Eqp="FAN_HGS"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="CF"

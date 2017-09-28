@@ -1,10 +1,10 @@
 [Lvl]
 Niv="398"
 Ata="11"
-Tec="172"
+Tec="180"
 Def="186"
 Por="570"
-Frm="982"
+Frm="980"
 [2000]
 Eqp="GAL_ISS"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="GK"

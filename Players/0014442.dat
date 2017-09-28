@@ -2,7 +2,7 @@
 Niv="561"
 Ata="2"
 Tec="289"
-Def="231"
+Def="227"
 Por="722"
 Frm="969"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PPV_DIN"
 Sue="56000"
 [Val]
 Rec="52"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="31"
+Fam="30"
 Pow="C"
 Age="27"
 [Inf]

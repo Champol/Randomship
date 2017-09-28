@@ -1,10 +1,10 @@
 [Lvl]
 Niv="597"
-Ata="153"
+Ata="148"
 Tec="461"
 Def="630"
 Por="29"
-Frm="983"
+Frm="992"
 [2000]
 P10="2000\Liga PAT\D2B\L15 (6).dat"
 P09="2000\Liga PAT\D2B\L14 (5).dat"
@@ -31,10 +31,10 @@ Sue="96000"
 [Val]
 LPD="0"
 Rec="119"
-Day="92"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="88"
+Fam="85"
 Pow="B"
 Age="32"
 [Inf]

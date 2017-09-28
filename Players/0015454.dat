@@ -1,10 +1,10 @@
 [Lvl]
 Niv="469"
 Ata="408"
-Tec="459"
+Tec="452"
 Def="172"
 Por="1"
-Frm="987"
+Frm="969"
 [2000]
 Eqp="PPV_BLI"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="32"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1968"

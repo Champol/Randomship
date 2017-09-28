@@ -1,10 +1,10 @@
 [Lvl]
 Niv="462"
-Ata="84"
+Ata="96"
 Tec="622"
 Def="360"
 Por="45"
-Frm="971"
+Frm="975"
 [2000]
 Eqp="FMG_GAM"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1982"

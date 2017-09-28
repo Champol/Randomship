@@ -2,7 +2,7 @@
 Niv="539"
 Ata="113"
 Tec="722"
-Def="271"
+Def="269"
 Por="32"
 Frm="980"
 [2000]
@@ -29,10 +29,10 @@ P08="2000\Liga CHM\D2B\L15 (4).dat"
 [Val]
 LPD="2"
 Rec="29"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="24"
+Fam="23"
 Pow="D"
 Age="28"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="535"
-Ata="664"
+Ata="660"
 Tec="383"
 Def="123"
 Por="46"
-Frm="992"
+Frm="975"
 [2000]
 P02="2000\Liga GAL\CUP\C3I (13).dat"
 Eqp="GAL_FEL"
@@ -23,10 +23,10 @@ PCal="552"
 [Val]
 Tra="2000"
 Les="0"
-Fam="25"
+Fam="24"
 Pow="D"
 Age="28"
-Day="83"
+Day="97"
 Rec="37"
 CPD="0"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="515"
-Ata="704"
+Ata="707"
 Tec="287"
 Def="137"
 Por="11"
-Frm="980"
+Frm="968"
 [2000]
 P01="2000\Liga GAL\D3A\L14 (2).dat"
 NoPar="1"
@@ -25,7 +25,7 @@ Les="0"
 Fam="7"
 Pow="E"
 Age="22"
-Day="83"
+Day="97"
 Rec="12"
 [Inf]
 Nac="1978"

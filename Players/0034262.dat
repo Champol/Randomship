@@ -1,10 +1,10 @@
 [Lvl]
 Niv="483"
 Ata="370"
-Tec="626"
+Tec="636"
 Def="122"
 Por="23"
-Frm="994"
+Frm="970"
 [2000]
 Eqp="COM_TER"
 Sue="18000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="18"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1982"

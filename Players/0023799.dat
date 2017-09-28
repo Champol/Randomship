@@ -1,6 +1,6 @@
 [Lvl]
 Niv="760"
-Ata="331"
+Ata="328"
 Tec="998"
 Def="332"
 Por="49"
@@ -47,11 +47,11 @@ P18="2000\Liga FAN\D2A\L14 (4).dat"
 [Val]
 LPD="0"
 Tra="2000"
-Les="18"
-Fam="549"
+Les="11"
+Fam="528"
 Pow="A"
 Age="25"
-Day="83"
+Day="97"
 Rec="588"
 CPD="0"
 [Inf]

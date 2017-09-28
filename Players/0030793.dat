@@ -1,10 +1,10 @@
 [Lvl]
 Niv="528"
-Ata="694"
+Ata="703"
 Tec="356"
 Def="147"
 Por="19"
-Frm="965"
+Frm="980"
 [2000]
 P01="2000\Liga BKN\D3B\L09 (4).dat"
 NoPar="4"
@@ -25,7 +25,7 @@ P04="2000\Liga BKN\D3B\L15 (7).dat"
 [Val]
 LPD="0"
 Rec="13"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="10"

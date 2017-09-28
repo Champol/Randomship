@@ -1,10 +1,10 @@
 [Lvl]
 Niv="527"
 Ata="361"
-Tec="581"
+Tec="584"
 Def="253"
 Por="30"
-Frm="979"
+Frm="978"
 [2000]
 Eqp="FAN_MRI"
 Sue="35000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="11"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="16"
 [Inf]
 Nac="1981"

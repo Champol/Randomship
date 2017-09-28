@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
 Ata="602"
-Tec="266"
+Tec="260"
 Def="168"
 Por="26"
-Frm="986"
+Frm="989"
 [2000]
 Eqp="FMG_SIR"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="30"
-Day="83"
+Day="97"
 Rec="5"
 [Inf]
 Nac="1970"

@@ -2,7 +2,7 @@
 Niv="404"
 Ata="255"
 Tec="311"
-Def="432"
+Def="436"
 Por="14"
 Frm="989"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FMG_CTJ"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="5"
+Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="WB"

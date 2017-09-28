@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
 Ata="255"
-Tec="251"
+Tec="244"
 Def="515"
 Por="31"
-Frm="964"
+Frm="973"
 [2000]
 Eqp="PES_CAN"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 Rec="7"
 [Inf]
 Nac="1968"

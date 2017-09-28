@@ -1,10 +1,10 @@
 [Lvl]
 Niv="525"
-Ata="649"
+Ata="644"
 Tec="352"
 Def="155"
 Por="3"
-Frm="981"
+Frm="986"
 [2000]
 Eqp="GAL_FLO"
 Sue="34000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="28"
-Day="83"
+Day="97"
 Rec="16"
 LPD="0"
 [Inf]

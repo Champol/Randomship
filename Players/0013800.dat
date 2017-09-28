@@ -1,10 +1,10 @@
 [Lvl]
 Niv="491"
-Ata="566"
+Ata="577"
 Tec="359"
 Def="182"
 Por="31"
-Frm="980"
+Frm="985"
 [2000]
 Eqp="FMG_HAL"
 Sue="20000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="5"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="6"
 LPD="0"
 [Inf]

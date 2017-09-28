@@ -1,10 +1,10 @@
 [Lvl]
 Niv="435"
-Ata="465"
+Ata="462"
 Tec="356"
 Def="188"
 Por="16"
-Frm="977"
+Frm="984"
 [2000]
 Eqp="GAL_KON"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="32"
-Day="83"
+Day="97"
 [Inf]
 Nac="1968"
 Pos="CF"

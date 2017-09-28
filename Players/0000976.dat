@@ -1,10 +1,10 @@
 [Lvl]
 Niv="544"
 Ata="330"
-Tec="721"
+Tec="727"
 Def="226"
 Por="49"
-Frm="980"
+Frm="976"
 [2000]
 P03="2000\Liga SEN\D3A\L12 (8).dat"
 P02="2000\Liga SEN\D3A\L11 (3).dat"
@@ -27,10 +27,10 @@ P06="2000\Liga SEN\D3A\L15 (7).dat"
 [Val]
 LPD="1"
 Rec="21"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="17"
+Fam="16"
 Pow="C"
 Age="20"
 [Inf]

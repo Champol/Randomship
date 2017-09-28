@@ -1,10 +1,10 @@
 [Lvl]
 Niv="471"
 Ata="488"
-Tec="325"
+Tec="330"
 Def="302"
 Por="25"
-Frm="986"
+Frm="990"
 [2000]
 Eqp="COM_GUL"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="20"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1980"

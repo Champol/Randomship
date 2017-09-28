@@ -1,10 +1,10 @@
 [Lvl]
 Niv="527"
 Ata="699"
-Tec="324"
+Tec="329"
 Def="165"
 Por="14"
-Frm="968"
+Frm="985"
 [2000]
 Eqp="CHM_SAK"
 Sue="35000"
@@ -27,7 +27,7 @@ Les="0"
 Fam="10"
 Pow="E"
 Age="22"
-Day="83"
+Day="97"
 LPD="0"
 [Inf]
 Nac="1978"

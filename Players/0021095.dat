@@ -1,10 +1,10 @@
 [Lvl]
 Niv="552"
 Ata="242"
-Tec="712"
+Tec="714"
 Def="272"
 Por="45"
-Frm="980"
+Frm="987"
 [2000]
 P01="2000\Liga CUA\D2B\L07 (2).dat"
 NoPar="2"
@@ -23,10 +23,10 @@ P02="2000\Liga CUA\D2B\L09 (6).dat"
 [Val]
 LPD="0"
 Rec="38"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="25"
+Fam="24"
 Pow="D"
 Age="23"
 [Inf]

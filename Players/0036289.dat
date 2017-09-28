@@ -1,10 +1,10 @@
 [Lvl]
 Niv="565"
-Ata="229"
+Ata="224"
 Tec="306"
 Def="637"
 Por="43"
-Frm="974"
+Frm="981"
 [2000]
 P01="2000\Liga PAT\D3C\L05 (1).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="62000"
 [Val]
 LPD="0"
 Rec="69"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="42"
+Fam="40"
 Pow="C"
 Age="32"
 [Inf]

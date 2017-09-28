@@ -1,10 +1,10 @@
 [Lvl]
 Niv="529"
-Ata="521"
+Ata="523"
 Tec="400"
 Def="321"
 Por="0"
-Frm="969"
+Frm="975"
 [2000]
 Eqp="FMG_RAU"
 Sue="37000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="22"
-Day="83"
+Day="97"
 Rec="18"
 [Inf]
 Nac="1978"

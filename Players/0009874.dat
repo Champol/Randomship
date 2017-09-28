@@ -1,10 +1,10 @@
 [Lvl]
 Niv="459"
 Ata="340"
-Tec="520"
+Tec="530"
 Def="220"
 Por="31"
-Frm="972"
+Frm="984"
 [2000]
 PCal="0"
 Eqp="PES_CEL"
@@ -21,7 +21,7 @@ NoPar="1"
 P01="2000\Liga PES\D3C\L15 (3).dat"
 [Val]
 Rec="1"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="1"

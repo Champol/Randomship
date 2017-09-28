@@ -1,10 +1,10 @@
 [Lvl]
 Niv="416"
-Ata="490"
+Ata="494"
 Tec="277"
 Def="203"
 Por="15"
-Frm="978"
+Frm="968"
 [2000]
 Eqp="GAL_DQA"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="WF"

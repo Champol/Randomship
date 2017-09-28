@@ -1,10 +1,10 @@
 [Lvl]
 Niv="479"
 Ata="320"
-Tec="500"
+Tec="496"
 Def="182"
 Por="2"
-Frm="987"
+Frm="986"
 [2000]
 Eqp="PPV_FIC"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="28"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1972"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="414"
 Ata="116"
-Tec="276"
+Tec="282"
 Def="580"
 Por="4"
-Frm="971"
+Frm="977"
 [2000]
 Eqp="PES_ESP"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="92"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="CB"

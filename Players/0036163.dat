@@ -1,10 +1,10 @@
 [Lvl]
 Niv="504"
 Ata="332"
-Tec="585"
+Tec="594"
 Def="204"
 Por="30"
-Frm="971"
+Frm="976"
 [2000]
 P02="2000\Liga PAT\D3D\L06 (6).dat"
 LMJ="0"
@@ -36,7 +36,7 @@ Les="0"
 Fam="6"
 Pow="E"
 Age="20"
-Day="83"
+Day="97"
 Rec="10"
 [Inf]
 Nac="1980"

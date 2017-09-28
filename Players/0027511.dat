@@ -1,10 +1,10 @@
 [Lvl]
 Niv="431"
 Ata="118"
-Tec="551"
+Tec="565"
 Def="347"
 Por="4"
-Frm="988"
+Frm="989"
 [2000]
 Eqp="HAT_TEF"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="DM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="493"
 Ata="58"
-Tec="342"
+Tec="340"
 Def="614"
 Por="0"
-Frm="988"
+Frm="977"
 [2000]
 PCal="0"
 Eqp="CMP_BLE"
@@ -30,7 +30,7 @@ LMJ="0"
 P02="2000\Liga CMP\D2B\L09 (6).dat"
 [Val]
 Rec="9"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="5"

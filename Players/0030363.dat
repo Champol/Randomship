@@ -1,10 +1,10 @@
 [Lvl]
 Niv="517"
 Ata="288"
-Tec="634"
+Tec="632"
 Def="240"
 Por="47"
-Frm="963"
+Frm="973"
 [2000]
 PCal="0"
 Eqp="BKN_PVC"
@@ -31,7 +31,7 @@ P02="2000\Liga BKN\D3A\L12 (2).dat"
 P03="2000\Liga BKN\CUP\C3V (5).dat"
 [Val]
 Rec="15"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="11"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="467"
 Ata="516"
-Tec="251"
+Tec="241"
 Def="170"
 Por="16"
-Frm="964"
+Frm="974"
 [2000]
 Eqp="PAT_COR"
 Sue="13000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1968"

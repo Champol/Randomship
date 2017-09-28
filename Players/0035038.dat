@@ -2,7 +2,7 @@
 Niv="608"
 Ata="172"
 Tec="449"
-Def="751"
+Def="747"
 Por="17"
 Frm="980"
 [2000]
@@ -11,10 +11,10 @@ Eqp="PAT_PPH"
 Sue="114000"
 [Val]
 Rec="140"
-Day="92"
+Day="97"
 Tra="2000"
-Les="4"
-Fam="85"
+Les="2"
+Fam="82"
 Pow="C"
 Age="28"
 [Inf]

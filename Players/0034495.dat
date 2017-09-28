@@ -1,10 +1,10 @@
 [Lvl]
 Niv="474"
 Ata="174"
-Tec="643"
+Tec="653"
 Def="280"
 Por="40"
-Frm="974"
+Frm="991"
 [2000]
 Eqp="PAT_PMY"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="18"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1982"

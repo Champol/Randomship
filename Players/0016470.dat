@@ -1,10 +1,10 @@
 [Lvl]
 Niv="519"
-Ata="602"
+Ata="608"
 Tec="461"
 Def="178"
 Por="33"
-Frm="984"
+Frm="981"
 [2000]
 P03="2000\Liga CMP\D2B\L14 (8).dat"
 P02="2000\Liga CMP\D2B\L12 (2).dat"
@@ -23,7 +23,7 @@ NoPar="3"
 P01="2000\Liga CMP\D2B\L05 (7).dat"
 [Val]
 Rec="12"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="8"

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="482"
 Ata="352"
-Tec="628"
+Tec="634"
 Def="162"
 Por="9"
 Frm="981"
@@ -10,11 +10,11 @@ Eqp="GAL_SHI"
 Sue="17000"
 [Val]
 Tra="2000"
-Les="4"
+Les="1"
 Fam="4"
 Pow="C"
 Age="19"
-Day="90"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1981"

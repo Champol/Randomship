@@ -1,10 +1,10 @@
 [Lvl]
 Niv="530"
 Ata="137"
-Tec="717"
+Tec="719"
 Def="315"
 Por="15"
-Frm="989"
+Frm="981"
 [2000]
 P04="2000\Liga FMG\D3C\L12 (6).dat"
 P02="2000\Liga FMG\D3C\L09 (6).dat"
@@ -28,7 +28,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="21"
-Day="83"
+Day="97"
 Rec="18"
 LPD="1"
 [Inf]

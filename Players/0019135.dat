@@ -1,10 +1,10 @@
 [Lvl]
 Niv="502"
-Ata="625"
+Ata="624"
 Tec="355"
 Def="111"
 Por="49"
-Frm="977"
+Frm="986"
 [2000]
 P03="2000\Liga AZR\D2A\L12 (3).dat"
 P02="2000\Liga AZR\D2A\L02 (8).dat"
@@ -25,7 +25,7 @@ P04="2000\Liga AZR\D2A\L13 (4).dat"
 [Val]
 LPD="0"
 Rec="16"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="12"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="463"
-Ata="225"
+Ata="224"
 Tec="587"
 Def="160"
 Por="48"
-Frm="975"
+Frm="985"
 [2000]
 Eqp="FMG_CHE"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="29"
-Day="83"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1971"

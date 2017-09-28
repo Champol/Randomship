@@ -1,10 +1,10 @@
 [Lvl]
 Niv="446"
-Ata="314"
+Ata="319"
 Tec="590"
 Def="104"
 Por="17"
-Frm="976"
+Frm="986"
 [2000]
 Eqp="FMG_PAR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1981"

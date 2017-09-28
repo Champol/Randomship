@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
 Ata="479"
-Tec="445"
+Tec="452"
 Def="80"
 Por="20"
-Frm="986"
+Frm="977"
 [2000]
 Eqp="CUA_KCB"
 Sue="11000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="20"
-Day="83"
+Day="97"
 [Inf]
 Nac="1980"
 Pos="SS"

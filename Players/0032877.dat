@@ -1,10 +1,10 @@
 [Lvl]
 Niv="514"
-Ata="695"
+Ata="701"
 Tec="319"
 Def="156"
 Por="21"
-Frm="978"
+Frm="998"
 [2000]
 Eqp="COM_SHI"
 Sue="29000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="8"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="13"
 [Inf]
 Nac="1981"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="503"
 Ata="230"
-Tec="590"
+Tec="588"
 Def="312"
 Por="30"
-Frm="988"
+Frm="990"
 [2000]
 Eqp="COM_MOW"
 Sue="24000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="7"
 Pow="D"
 Age="30"
-Day="83"
+Day="97"
 [Inf]
 Nac="1970"
 Pos="CM"

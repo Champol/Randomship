@@ -1,10 +1,10 @@
 [Lvl]
 Niv="461"
-Ata="472"
+Ata="476"
 Tec="378"
 Def="222"
 Por="44"
-Frm="985"
+Frm="967"
 [2000]
 Eqp="FMG_COO"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="20"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1980"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="462"
-Ata="264"
+Ata="253"
 Tec="573"
 Def="83"
 Por="33"
-Frm="977"
+Frm="993"
 [2000]
 Eqp="CHM_AUL"
 Sue="13000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 Rec="4"
 [Inf]
 Nac="1968"

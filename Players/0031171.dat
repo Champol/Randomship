@@ -1,7 +1,7 @@
 [Lvl]
 Niv="681"
 Ata="691"
-Tec="656"
+Tec="657"
 Def="159"
 Por="28"
 Frm="985"
@@ -47,11 +47,11 @@ P18="2000\Liga COM\D1A\L14 (5).dat"
 [Val]
 CPD="0"
 Tra="2000"
-Les="7"
-Fam="343"
+Les="4"
+Fam="330"
 Pow="B"
 Age="27"
-Day="90"
+Day="97"
 Rec="359"
 LPD="1"
 [Inf]

@@ -2,7 +2,7 @@
 Niv="394"
 Ata="14"
 Tec="210"
-Def="98"
+Def="88"
 Por="485"
 Frm="982"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FAN_ZAL"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="8"
+Les="3"
 Fam="0"
 Pow="D"
 Age="32"
-Day="86"
+Day="97"
 [Inf]
 Nac="1968"
 Pos="GK"

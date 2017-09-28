@@ -1,10 +1,10 @@
 [Lvl]
 Niv="526"
-Ata="674"
+Ata="679"
 Tec="400"
 Def="160"
 Por="44"
-Frm="981"
+Frm="972"
 [2000]
 Eqp="GAL_SAY"
 Sue="35000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="20"
-Day="83"
+Day="97"
 Rec="17"
 [Inf]
 Nac="1980"

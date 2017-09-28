@@ -1,10 +1,10 @@
 [Lvl]
 Niv="345"
 Ata="203"
-Tec="368"
+Tec="353"
 Def="193"
 Por="5"
-Frm="981"
+Frm="986"
 [2000]
 Eqp="FAN_MOR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="E"
 Age="32"
-Day="83"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1968"

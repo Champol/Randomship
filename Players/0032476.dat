@@ -1,10 +1,10 @@
 [Lvl]
 Niv="446"
-Ata="514"
+Ata="522"
 Tec="368"
 Def="182"
 Por="30"
-Frm="991"
+Frm="974"
 [2000]
 Eqp="COM_MED"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="83"
+Day="97"
 [Inf]
 Nac="1982"
 Pos="SS"

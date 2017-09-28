@@ -1,10 +1,10 @@
 [Lvl]
 Niv="601"
 Ata="397"
-Tec="625"
+Tec="620"
 Def="286"
 Por="41"
-Frm="990"
+Frm="978"
 [2000]
 Eqp="GAL_MYG"
 Sue="101000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="80"
+Fam="77"
 Pow="C"
 Age="28"
-Day="83"
+Day="97"
 Rec="132"
 [Inf]
 Nac="1972"

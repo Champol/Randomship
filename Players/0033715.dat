@@ -1,10 +1,10 @@
 [Lvl]
 Niv="522"
-Ata="368"
+Ata="371"
 Tec="671"
 Def="142"
 Por="46"
-Frm="976"
+Frm="989"
 [2000]
 Eqp="COM_TOR"
 Sue="33000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="9"
 Pow="E"
 Age="24"
-Day="83"
+Day="97"
 Rec="13"
 LPD="1"
 [Inf]

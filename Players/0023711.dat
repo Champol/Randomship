@@ -1,7 +1,7 @@
 [Lvl]
 Niv="451"
 Ata="256"
-Tec="592"
+Tec="606"
 Def="225"
 Por="6"
 Frm="977"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="FAN_BAJ"
 Sue="10000"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="1"

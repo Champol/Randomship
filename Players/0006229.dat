@@ -1,10 +1,10 @@
 [Lvl]
 Niv="508"
-Ata="606"
+Ata="600"
 Tec="403"
 Def="123"
 Por="49"
-Frm="982"
+Frm="983"
 [2000]
 Eqp="GAL_MAN"
 Sue="26000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="8"
 Pow="E"
 Age="28"
-Day="83"
+Day="97"
 Rec="12"
 LPD="0"
 [Inf]

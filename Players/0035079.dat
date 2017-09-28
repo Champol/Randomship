@@ -1,10 +1,10 @@
 [Lvl]
 Niv="392"
 Ata="256"
-Tec="405"
+Tec="392"
 Def="110"
 Por="25"
-Frm="980"
+Frm="979"
 [2000]
 Eqp="PAT_ABO"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 [Inf]
 Nac="1968"
 Pos="WM"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="511"
 Ata="269"
-Tec="665"
+Tec="670"
 Def="258"
 Por="48"
-Frm="978"
+Frm="975"
 [2000]
 PCal="520"
 Eqp="BKN_MEG"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga BKN\D2A\L07 (2).dat"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="6"

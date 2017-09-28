@@ -1,8 +1,8 @@
 [Lvl]
-Niv="556"
+Niv="575"
 Ata="230"
 Tec="384"
-Def="637"
+Def="649"
 Por="6"
 Frm="971"
 [2000]
@@ -10,10 +10,10 @@ PCal="0"
 Eqp="BKN_R-S"
 Sue="54000"
 [Val]
-Day="92"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="26"
+Fam="25"
 Pow="B"
 Age="20"
 Rec="43"

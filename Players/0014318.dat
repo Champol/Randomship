@@ -1,10 +1,10 @@
 [Lvl]
 Niv="391"
 Ata="338"
-Tec="339"
+Tec="329"
 Def="183"
 Por="34"
-Frm="991"
+Frm="997"
 [2000]
 Eqp="PPV_ROB"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 [Inf]
 Nac="1968"
 Pos="WF"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="452"
 Ata="231"
-Tec="274"
+Tec="284"
 Def="543"
 Por="20"
-Frm="977"
+Frm="986"
 [2000]
 Eqp="FMG_CHU"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="19"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1981"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="494"
 Ata="163"
-Tec="348"
+Tec="359"
 Def="644"
 Por="39"
-Frm="980"
+Frm="974"
 [2000]
 P02="2000\Liga PPV\D3B\L09 (6).dat"
 Eqp="PPV_BOD"
@@ -26,7 +26,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="6"
 LPD="0"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="567"
-Ata="305"
+Ata="297"
 Tec="680"
 Def="129"
 Por="18"
-Frm="979"
+Frm="987"
 [2000]
 Eqp="BKN_CIM"
 Sue="64000"
@@ -25,10 +25,10 @@ P05="2000\Liga BKN\D2B\L15 (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="46"
+Fam="44"
 Pow="C"
 Age="32"
-Day="83"
+Day="97"
 Rec="72"
 LPD="1"
 [Inf]

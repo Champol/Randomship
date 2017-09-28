@@ -1,10 +1,10 @@
 [Lvl]
 Niv="510"
 Ata="204"
-Tec="674"
+Tec="675"
 Def="291"
 Por="31"
-Frm="986"
+Frm="983"
 [2000]
 P03="2000\Liga COM\D2B\L10 (4).dat"
 P01="2000\Liga COM\D2B\L03 (6).dat"
@@ -27,7 +27,7 @@ P06="2000\Liga COM\D2B\L15 (5).dat"
 [Val]
 LPD="0"
 Rec="11"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="11"

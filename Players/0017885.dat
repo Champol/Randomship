@@ -1,7 +1,7 @@
 [Lvl]
 Niv="405"
 Ata="580"
-Tec="250"
+Tec="260"
 Def="144"
 Por="48"
 Frm="972"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="CMP_RBR"
 Sue="10000"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="0"

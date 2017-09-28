@@ -1,10 +1,10 @@
 [Lvl]
 Niv="615"
 Ata="641"
-Tec="545"
+Tec="536"
 Def="80"
 Por="24"
-Frm="973"
+Frm="986"
 [2000]
 P01="2000\Liga FAN\D2B\L01 (5).dat"
 NoPar="2"
@@ -23,10 +23,10 @@ P02="2000\Liga FAN\D2B\L06 (7).dat"
 [Val]
 LPD="0"
 Rec="145"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="88"
+Fam="85"
 Pow="B"
 Age="32"
 [Inf]

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="550"
-Ata="669"
+Ata="674"
 Tec="408"
 Def="147"
 Por="19"
@@ -25,11 +25,11 @@ P05="2000\Liga PPV\D3B\L10 (2).dat"
 [Val]
 LPD="1"
 Tra="2000"
-Les="14"
+Les="7"
 Fam="12"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="17"
 [Inf]
 Nac="1981"

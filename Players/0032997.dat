@@ -1,10 +1,10 @@
 [Lvl]
 Niv="471"
-Ata="583"
+Ata="595"
 Tec="395"
 Def="70"
 Por="16"
-Frm="992"
+Frm="972"
 [2000]
 Eqp="COM_MOW"
 Sue="14000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="18"
-Day="83"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1982"

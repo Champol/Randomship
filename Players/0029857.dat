@@ -1,10 +1,10 @@
 [Lvl]
 Niv="559"
 Ata="207"
-Tec="706"
+Tec="700"
 Def="243"
 Por="48"
-Frm="977"
+Frm="969"
 [2000]
 P03="2000\Liga BKN\D3B\L08 (6).dat"
 P02="2000\Liga BKN\D3B\L05 (4).dat"
@@ -25,10 +25,10 @@ P04="2000\Liga BKN\D3B\L10 (4).dat"
 [Val]
 LPD="0"
 Rec="52"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="31"
+Fam="30"
 Pow="C"
 Age="31"
 [Inf]

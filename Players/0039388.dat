@@ -1,10 +1,10 @@
 [Lvl]
 Niv="483"
 Ata="134"
-Tec="253"
+Tec="238"
 Def="601"
 Por="34"
-Frm="969"
+Frm="983"
 [2000]
 Eqp="CHM_PRU"
 Sue="18000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 Rec="7"
 [Inf]
 Nac="1968"

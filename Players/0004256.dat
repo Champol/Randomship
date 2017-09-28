@@ -1,10 +1,10 @@
 [Lvl]
 Niv="520"
-Ata="591"
+Ata="589"
 Tec="438"
 Def="84"
 Por="23"
-Frm="985"
+Frm="971"
 [2000]
 PCal="0"
 Eqp="GAL_RYL"
@@ -12,10 +12,10 @@ Sue="32000"
 [Val]
 Tra="2000"
 Les="0"
-Fam="14"
+Fam="13"
 Pow="C"
 Age="31"
-Day="83"
+Day="97"
 Rec="23"
 [Inf]
 Nac="1969"

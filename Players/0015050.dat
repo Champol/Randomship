@@ -1,10 +1,10 @@
 [Lvl]
 Niv="405"
-Ata="276"
+Ata="284"
 Tec="450"
 Def="240"
 Por="48"
-Frm="985"
+Frm="987"
 [2000]
 Eqp="PPV_EUR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="WM"

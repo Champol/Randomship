@@ -1,7 +1,7 @@
 [Lvl]
 Niv="487"
 Ata="498"
-Tec="399"
+Tec="391"
 Def="148"
 Por="24"
 Frm="981"
@@ -10,11 +10,11 @@ Eqp="PAT_BAT"
 Sue="19000"
 [Val]
 Tra="2000"
-Les="5"
+Les="2"
 Fam="5"
 Pow="D"
 Age="31"
-Day="90"
+Day="97"
 Rec="9"
 [Inf]
 Nac="1969"

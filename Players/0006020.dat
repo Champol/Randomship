@@ -1,10 +1,10 @@
 [Lvl]
 Niv="515"
-Ata="272"
+Ata="268"
 Tec="658"
 Def="174"
 Por="22"
-Frm="980"
+Frm="978"
 [2000]
 Eqp="GAL_GAI"
 Sue="29000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="10"
 Pow="E"
 Age="27"
-Day="83"
+Day="97"
 Rec="15"
 [Inf]
 Nac="1973"

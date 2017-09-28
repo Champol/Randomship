@@ -1,10 +1,10 @@
 [Lvl]
 Niv="528"
-Ata="281"
+Ata="271"
 Tec="372"
 Def="523"
 Por="11"
-Frm="963"
+Frm="976"
 [2000]
 PCal="0"
 Eqp="PPV_ETI"
@@ -21,7 +21,7 @@ NoPar="1"
 P01="2000\Liga PPV\D2B\L12 (4).dat"
 [Val]
 Rec="18"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="12"

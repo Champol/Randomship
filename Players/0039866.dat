@@ -1,10 +1,10 @@
 [Lvl]
 Niv="324"
-Ata="411"
+Ata="396"
 Tec="172"
 Def="81"
 Por="24"
-Frm="984"
+Frm="980"
 [2000]
 Eqp="CHM_WIT"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="32"
-Day="83"
+Day="97"
 Rec="5"
 [Inf]
 Nac="1968"

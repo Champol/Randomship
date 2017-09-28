@@ -1,10 +1,10 @@
 [Lvl]
 Niv="531"
 Ata="532"
-Tec="516"
+Tec="514"
 Def="119"
 Por="16"
-Frm="971"
+Frm="985"
 [2000]
 Eqp="GAL_TRD"
 Sue="38000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="25"
-Day="83"
+Day="97"
 Rec="19"
 [Inf]
 Nac="1975"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="355"
-Ata="299"
+Ata="286"
 Tec="343"
 Def="117"
 Por="10"
@@ -10,11 +10,11 @@ Eqp="FAN_AVR"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="9"
+Les="7"
 Fam="1"
 Pow="E"
 Age="32"
-Day="92"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1968"

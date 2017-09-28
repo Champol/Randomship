@@ -1,10 +1,10 @@
 [Lvl]
 Niv="430"
 Ata="176"
-Tec="300"
+Tec="310"
 Def="506"
 Por="28"
-Frm="988"
+Frm="989"
 [2000]
 Eqp="COM_MIR"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="18"
-Day="83"
+Day="97"
 [Inf]
 Nac="1982"
 Pos="WB"

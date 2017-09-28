@@ -1,10 +1,10 @@
 [Lvl]
 Niv="459"
 Ata="86"
-Tec="336"
+Tec="339"
 Def="611"
 Por="4"
-Frm="981"
+Frm="985"
 [2000]
 Eqp="GAL_BON"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="18"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1982"

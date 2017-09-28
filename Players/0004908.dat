@@ -1,10 +1,10 @@
 [Lvl]
 Niv="536"
 Ata="307"
-Tec="372"
+Tec="373"
 Def="549"
 Por="4"
-Frm="969"
+Frm="967"
 [2000]
 PCal="0"
 Eqp="GAL_OPH"
@@ -15,7 +15,7 @@ Les="0"
 Fam="11"
 Pow="E"
 Age="23"
-Day="83"
+Day="97"
 Rec="19"
 [Inf]
 Nac="1977"

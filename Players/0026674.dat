@@ -1,10 +1,10 @@
 [Lvl]
 Niv="510"
 Ata="588"
-Tec="458"
+Tec="463"
 Def="116"
 Por="42"
-Frm="971"
+Frm="973"
 [2000]
 Eqp="HAT_ACH"
 Sue="27000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="6"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="10"
 [Inf]
 Nac="1981"

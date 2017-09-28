@@ -1,10 +1,10 @@
 [Lvl]
 Niv="514"
 Ata="252"
-Tec="680"
+Tec="683"
 Def="210"
 Por="11"
-Frm="979"
+Frm="984"
 [2000]
 P03="2000\Liga FAN\CUP\C2V (27).dat"
 P01="2000\Liga FAN\D3B\L04 (6).dat"
@@ -35,7 +35,7 @@ Les="0"
 Fam="6"
 Pow="E"
 Age="20"
-Day="83"
+Day="97"
 Rec="10"
 CPD="1"
 [Inf]

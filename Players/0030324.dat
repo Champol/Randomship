@@ -1,7 +1,7 @@
 [Lvl]
 Niv="395"
 Ata="135"
-Tec="465"
+Tec="455"
 Def="233"
 Por="13"
 Frm="985"
@@ -10,11 +10,11 @@ Eqp="BKN_M-P"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="23"
+Les="16"
 Fam="0"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 [Inf]
 Nac="1968"
 Pos="CM"

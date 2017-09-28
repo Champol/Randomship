@@ -1,7 +1,7 @@
 [Lvl]
 Niv="511"
 Ata="33"
-Tec="264"
+Tec="267"
 Def="162"
 Por="677"
 Frm="977"
@@ -22,7 +22,7 @@ P01="2000\Liga COM\D3D\L11 (5).dat"
 P02="2000\Liga COM\D3D\L13 (8).dat"
 [Val]
 Rec="11"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="9"

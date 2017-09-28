@@ -1,10 +1,10 @@
 [Lvl]
 Niv="597"
 Ata="156"
-Tec="773"
+Tec="765"
 Def="394"
 Por="22"
-Frm="982"
+Frm="967"
 [2000]
 Eqp="COM_MUN"
 Sue="106000"
@@ -12,10 +12,10 @@ PCal="0"
 [Val]
 Tra="2000"
 Les="0"
-Fam="75"
+Fam="72"
 Pow="C"
 Age="27"
-Day="83"
+Day="97"
 Rec="125"
 [Inf]
 Nac="1973"

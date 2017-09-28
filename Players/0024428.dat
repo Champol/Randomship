@@ -1,10 +1,10 @@
 [Lvl]
 Niv="467"
-Ata="126"
+Ata="124"
 Tec="202"
 Def="626"
 Por="7"
-Frm="974"
+Frm="969"
 [2000]
 Eqp="FAN_ILK"
 Sue="13000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="2"
 Pow="E"
 Age="29"
-Day="83"
+Day="97"
 [Inf]
 Nac="1971"
 Pos="CB"

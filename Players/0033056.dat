@@ -1,10 +1,10 @@
 [Lvl]
 Niv="491"
-Ata="416"
+Ata="411"
 Tec="498"
 Def="175"
 Por="45"
-Frm="980"
+Frm="971"
 [2000]
 Eqp="COM_ARN"
 Sue="20000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="6"
 Pow="C"
 Age="32"
-Day="83"
+Day="97"
 Rec="10"
 [Inf]
 Nac="1968"

@@ -2,7 +2,7 @@
 Niv="507"
 Ata="98"
 Tec="326"
-Def="648"
+Def="639"
 Por="14"
 Frm="977"
 [2000]
@@ -10,11 +10,11 @@ Eqp="GAL_HOR"
 Sue="26000"
 [Val]
 Tra="2000"
-Les="5"
+Les="1"
 Fam="11"
 Pow="B"
 Age="32"
-Day="88"
+Day="97"
 Rec="17"
 [Inf]
 Nac="1968"

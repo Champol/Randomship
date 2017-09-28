@@ -1,10 +1,10 @@
 [Lvl]
 Niv="453"
 Ata="169"
-Tec="571"
+Tec="588"
 Def="386"
 Por="43"
-Frm="987"
+Frm="986"
 [2000]
 Eqp="GAL_TAT"
 Sue="11000"
@@ -16,7 +16,7 @@ Les="0"
 Fam="1"
 Pow="A"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="DM"

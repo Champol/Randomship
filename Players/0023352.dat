@@ -2,7 +2,7 @@
 Niv="499"
 Ata="192"
 Tec="312"
-Def="614"
+Def="624"
 Por="42"
 Frm="993"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FAN_MUI"
 Sue="23000"
 [Val]
 Tra="2000"
-Les="9"
+Les="4"
 Fam="5"
 Pow="C"
 Age="18"
-Day="86"
+Day="97"
 Rec="9"
 [Inf]
 Nac="1982"

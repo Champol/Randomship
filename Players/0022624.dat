@@ -1,10 +1,10 @@
 [Lvl]
 Niv="598"
 Ata="88"
-Tec="433"
+Tec="443"
 Def="788"
 Por="4"
-Frm="991"
+Frm="969"
 [2000]
 P03="2000\Liga CUA\D2A\L12 (3).dat"
 P01="2000\Liga CUA\D2A\L06 (2).dat"
@@ -25,10 +25,10 @@ P04="2000\Liga CUA\D2A\L15 (4).dat"
 [Val]
 LPD="0"
 Rec="88"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="58"
+Fam="56"
 Pow="B"
 Age="20"
 [Inf]

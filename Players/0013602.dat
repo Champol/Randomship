@@ -1,10 +1,10 @@
 [Lvl]
 Niv="490"
 Ata="6"
-Tec="251"
+Tec="245"
 Def="156"
 Por="630"
-Frm="989"
+Frm="972"
 [2000]
 Eqp="FMG_CSH"
 Sue="20000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="C"
 Age="31"
-Day="83"
+Day="97"
 Rec="7"
 [Inf]
 Nac="1969"

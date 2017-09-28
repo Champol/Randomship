@@ -1,6 +1,6 @@
 [Lvl]
 Niv="488"
-Ata="525"
+Ata="512"
 Tec="416"
 Def="189"
 Por="28"
@@ -11,7 +11,7 @@ Eqp="PPV_VDM"
 Sue="19000"
 [Val]
 Rec="10"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="6"

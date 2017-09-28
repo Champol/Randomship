@@ -1,10 +1,10 @@
 [Lvl]
 Niv="481"
 Ata="208"
-Tec="645"
+Tec="650"
 Def="230"
 Por="13"
-Frm="981"
+Frm="977"
 [2000]
 Eqp="FAN_MUI"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="5"
 [Inf]
 Nac="1981"

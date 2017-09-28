@@ -1,7 +1,7 @@
 [Lvl]
 Niv="476"
 Ata="644"
-Tec="193"
+Tec="180"
 Def="54"
 Por="45"
 Frm="988"
@@ -10,11 +10,11 @@ Eqp="GAL_CON"
 Sue="16000"
 [Val]
 Tra="2000"
-Les="11"
+Les="4"
 Fam="4"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 Rec="5"
 [Inf]
 Nac="1968"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="372"
-Ata="185"
+Ata="178"
 Tec="433"
 Def="181"
 Por="13"
-Frm="981"
+Frm="976"
 [2000]
 Eqp="CUA_LAK"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 [Inf]
 Nac="1968"
 Pos="CM"

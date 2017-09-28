@@ -2,7 +2,7 @@
 Niv="547"
 Ata="600"
 Tec="462"
-Def="150"
+Def="148"
 Por="17"
 Frm="977"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FAN_BRA"
 Sue="48000"
 [Val]
 Tra="2000"
-Les="4"
-Fam="23"
+Les="2"
+Fam="22"
 Pow="E"
 Age="25"
-Day="92"
+Day="97"
 Rec="38"
 [Inf]
 Nac="1975"

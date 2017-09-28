@@ -1,7 +1,7 @@
 [Lvl]
 Niv="342"
 Ata="254"
-Tec="322"
+Tec="312"
 Def="221"
 Por="24"
 Frm="978"
@@ -10,11 +10,11 @@ Eqp="FAN_TAR"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="10"
+Les="7"
 Fam="2"
 Pow="D"
 Age="32"
-Day="90"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1968"

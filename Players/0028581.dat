@@ -1,10 +1,10 @@
 [Lvl]
 Niv="508"
 Ata="346"
-Tec="692"
+Tec="704"
 Def="161"
 Por="50"
-Frm="994"
+Frm="974"
 [2000]
 P05="2000\Liga AGE\D2A\L14 (7).dat"
 P03="2000\Liga AGE\D2A\L11 (2).dat"
@@ -26,7 +26,7 @@ P04="2000\Liga AGE\D2A\L12 (6).dat"
 [Val]
 LPD="0"
 Rec="10"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="10"

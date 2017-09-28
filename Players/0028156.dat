@@ -1,10 +1,10 @@
 [Lvl]
 Niv="510"
 Ata="622"
-Tec="356"
+Tec="366"
 Def="191"
 Por="5"
-Frm="989"
+Frm="972"
 [2000]
 PCal="0"
 Eqp="AGE_ABO"
@@ -21,7 +21,7 @@ NoPar="1"
 P01="2000\Liga AGE\D2A\L13 (8).dat"
 [Val]
 Rec="11"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="7"

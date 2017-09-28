@@ -1,10 +1,10 @@
 [Lvl]
 Niv="477"
 Ata="126"
-Tec="596"
+Tec="586"
 Def="302"
 Por="37"
-Frm="970"
+Frm="994"
 [2000]
 PCal="0"
 Eqp="CHM_ALP"
@@ -22,7 +22,7 @@ P01="2000\Liga CHM\D3A\L05 (6).dat"
 P02="2000\Liga CHM\D3A\L07 (2).dat"
 [Val]
 Rec="5"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="4"

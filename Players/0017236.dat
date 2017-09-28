@@ -1,10 +1,10 @@
 [Lvl]
 Niv="505"
-Ata="169"
+Ata="174"
 Tec="346"
 Def="660"
 Por="3"
-Frm="986"
+Frm="997"
 [2000]
 P02="2000\Liga CMP\D3B\L14 (3).dat"
 P01="2000\Liga CMP\D3B\L10 (6).dat"
@@ -23,7 +23,7 @@ Sue="25000"
 [Val]
 LPD="0"
 Rec="7"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="4"

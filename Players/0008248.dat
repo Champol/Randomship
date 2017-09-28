@@ -1,7 +1,7 @@
 [Lvl]
 Niv="545"
 Ata="270"
-Tec="720"
+Tec="724"
 Def="274"
 Por="31"
 Frm="967"
@@ -27,10 +27,10 @@ P07="2000\Liga PES\D2A\L15 (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="25"
+Fam="24"
 Pow="C"
 Age="19"
-Day="83"
+Day="97"
 Rec="26"
 LPD="1"
 [Inf]

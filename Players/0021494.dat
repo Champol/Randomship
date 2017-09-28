@@ -1,6 +1,6 @@
 [Lvl]
 Niv="612"
-Ata="172"
+Ata="175"
 Tec="445"
 Def="766"
 Por="43"
@@ -23,10 +23,10 @@ P02="2000\Liga CUA\D1A\L14 (8).dat"
 [Val]
 LPD="0"
 Rec="151"
-Day="92"
+Day="97"
 Tra="2000"
-Les="6"
-Fam="98"
+Les="4"
+Fam="94"
 Pow="C"
 Age="26"
 [Inf]

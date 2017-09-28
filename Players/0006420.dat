@@ -1,7 +1,7 @@
 [Lvl]
 Niv="471"
 Ata="116"
-Tec="214"
+Tec="220"
 Def="710"
 Por="32"
 Frm="976"
@@ -10,11 +10,11 @@ Eqp="GAL_DEL"
 Sue="14000"
 [Val]
 Tra="2000"
-Les="7"
+Les="2"
 Fam="2"
 Pow="D"
 Age="18"
-Day="86"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1982"

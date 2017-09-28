@@ -1,10 +1,10 @@
 [Lvl]
 Niv="461"
-Ata="354"
+Ata="348"
 Tec="444"
 Def="218"
 Por="4"
-Frm="969"
+Frm="977"
 [2000]
 P01="2000\Liga COM\D3C\L11 (6).dat"
 NoPar="1"
@@ -25,7 +25,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="31"
-Day="83"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1969"

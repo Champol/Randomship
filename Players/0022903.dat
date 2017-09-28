@@ -1,10 +1,10 @@
 [Lvl]
 Niv="488"
 Ata="625"
-Tec="341"
+Tec="340"
 Def="147"
 Por="45"
-Frm="981"
+Frm="987"
 [2000]
 PCal="0"
 Eqp="CUA_CKS"
@@ -21,7 +21,7 @@ NoPar="1"
 P01="2000\Liga CUA\D3D\L10 (8).dat"
 [Val]
 Rec="5"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="4"

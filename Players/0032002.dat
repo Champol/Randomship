@@ -1,6 +1,6 @@
 [Lvl]
 Niv="531"
-Ata="358"
+Ata="366"
 Tec="610"
 Def="226"
 Por="9"
@@ -10,11 +10,11 @@ Eqp="COM_HOB"
 Sue="37000"
 [Val]
 Tra="2000"
-Les="4"
+Les="1"
 Fam="11"
 Pow="C"
 Age="19"
-Day="90"
+Day="97"
 Rec="18"
 [Inf]
 Nac="1981"

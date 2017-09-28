@@ -1,10 +1,10 @@
 [Lvl]
 Niv="475"
-Ata="560"
+Ata="548"
 Tec="324"
 Def="167"
 Por="41"
-Frm="976"
+Frm="982"
 [2000]
 Eqp="FMG_GEI"
 Sue="15000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="29"
-Day="83"
+Day="97"
 Rec="5"
 [Inf]
 Nac="1971"

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="374"
 Ata="336"
-Tec="378"
+Tec="372"
 Def="40"
 Por="44"
 Frm="977"
@@ -10,11 +10,11 @@ Eqp="FMG_MIM"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="8"
+Les="3"
 Fam="0"
 Pow="E"
 Age="31"
-Day="86"
+Day="97"
 [Inf]
 Nac="1969"
 Pos="SS"

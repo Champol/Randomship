@@ -1,10 +1,10 @@
 [Lvl]
 Niv="527"
-Ata="600"
+Ata="602"
 Tec="454"
 Def="168"
 Por="7"
-Frm="971"
+Frm="961"
 [2000]
 PCal="0"
 Eqp="ACT_GRA"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga ACT\D1A\L12 (4).dat"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="12"

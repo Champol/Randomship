@@ -2,7 +2,7 @@
 Niv="528"
 Ata="34"
 Tec="159"
-Def="233"
+Def="229"
 Por="668"
 Frm="975"
 [2000]
@@ -11,10 +11,10 @@ Eqp="ACT_TRL"
 Sue="36000"
 [Val]
 Rec="30"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="18"
+Fam="17"
 Pow="D"
 Age="31"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="476"
-Ata="244"
+Ata="236"
 Tec="569"
 Def="139"
 Por="23"
-Frm="982"
+Frm="979"
 [2000]
 PCal="0"
 Eqp="PES_CAT"
@@ -30,7 +30,7 @@ LMJ="0"
 P02="2000\Liga PES\D3D\L06 (6).dat"
 [Val]
 Rec="4"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="4"

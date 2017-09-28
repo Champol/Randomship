@@ -1,10 +1,10 @@
 [Lvl]
 Niv="512"
 Ata="121"
-Tec="649"
+Tec="639"
 Def="280"
 Por="31"
-Frm="976"
+Frm="991"
 [2000]
 PCal="0"
 Eqp="CMP_MET"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga CMP\D2B\L07 (7).dat"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="12"

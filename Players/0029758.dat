@@ -1,6 +1,6 @@
 [Lvl]
 Niv="511"
-Ata="152"
+Ata="142"
 Tec="324"
 Def="646"
 Por="47"
@@ -10,11 +10,11 @@ Eqp="BKN_GAS"
 Sue="28000"
 [Val]
 Tra="2000"
-Les="8"
+Les="1"
 Fam="10"
 Pow="E"
 Age="27"
-Day="83"
+Day="97"
 Rec="15"
 [Inf]
 Nac="1973"

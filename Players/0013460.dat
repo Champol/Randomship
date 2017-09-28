@@ -1,10 +1,10 @@
 [Lvl]
 Niv="515"
 Ata="192"
-Tec="308"
+Tec="300"
 Def="558"
 Por="21"
-Frm="972"
+Frm="979"
 [2000]
 P05="2000\Liga FMG\D3A\L08 (5).dat"
 P01="2000\Liga FMG\CUP\C1I (25).dat"
@@ -38,7 +38,7 @@ Les="0"
 Fam="11"
 Pow="D"
 Age="30"
-Day="83"
+Day="97"
 Rec="17"
 LPD="0"
 [Inf]

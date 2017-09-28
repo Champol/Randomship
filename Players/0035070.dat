@@ -1,10 +1,10 @@
 [Lvl]
 Niv="452"
 Ata="262"
-Tec="356"
+Tec="360"
 Def="478"
 Por="24"
-Frm="975"
+Frm="969"
 [2000]
 Eqp="PAT_ABO"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="18"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1982"

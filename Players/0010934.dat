@@ -1,10 +1,10 @@
 [Lvl]
 Niv="566"
 Ata="26"
-Tec="191"
+Tec="184"
 Def="301"
 Por="715"
-Frm="964"
+Frm="984"
 [2000]
 P04="2000\Liga FMG\D3B\L14 (4).dat"
 P02="2000\Liga FMG\D3B\L05 (3).dat"
@@ -24,10 +24,10 @@ P03="2000\Liga FMG\D3B\L08 (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="27"
+Fam="26"
 Pow="B"
 Age="29"
-Day="83"
+Day="97"
 Rec="39"
 LPD="1"
 [Inf]

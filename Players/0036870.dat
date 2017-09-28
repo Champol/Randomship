@@ -1,10 +1,10 @@
 [Lvl]
 Niv="513"
 Ata="238"
-Tec="351"
+Tec="346"
 Def="534"
 Por="49"
-Frm="981"
+Frm="978"
 [2000]
 PCal="0"
 Eqp="PAT_G-Y"
@@ -23,10 +23,10 @@ P02="2000\Liga PAT\D3B\L13 (5).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="13"
+Fam="12"
 Pow="C"
 Age="29"
-Day="83"
+Day="97"
 Rec="16"
 LPD="0"
 [Inf]

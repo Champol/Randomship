@@ -1,10 +1,10 @@
 [Lvl]
 Niv="607"
 Ata="151"
-Tec="402"
+Tec="393"
 Def="750"
 Por="30"
-Frm="992"
+Frm="982"
 [2000]
 Eqp="PES_BOS"
 Sue="108000"
@@ -21,10 +21,10 @@ P01="2000\Liga PES\D1A\L10 (4).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="74"
+Fam="71"
 Pow="C"
 Age="30"
-Day="83"
+Day="97"
 Rec="114"
 LPD="1"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="571"
 Ata="356"
-Tec="364"
+Tec="362"
 Def="572"
 Por="15"
-Frm="969"
+Frm="974"
 [2000]
 P02="2000\Liga FMG\D2A\L14 (4).dat"
 Eqp="FMG_QUA"
@@ -22,10 +22,10 @@ P01="2000\Liga FMG\D2A\L11 (5).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="45"
+Fam="43"
 Pow="A"
 Age="31"
-Day="83"
+Day="97"
 Rec="67"
 LPD="0"
 [Inf]

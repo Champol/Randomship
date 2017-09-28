@@ -1,10 +1,10 @@
 [Lvl]
 Niv="557"
-Ata="196"
+Ata="192"
 Tec="720"
 Def="220"
 Por="4"
-Frm="983"
+Frm="980"
 [2000]
 P01="2000\Liga COM\D2B\L14 (8).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="56000"
 [Val]
 LPD="0"
 Rec="55"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="34"
+Fam="33"
 Pow="E"
 Age="27"
 [Inf]

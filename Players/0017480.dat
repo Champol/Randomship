@@ -1,6 +1,6 @@
 [Lvl]
 Niv="521"
-Ata="492"
+Ata="486"
 Tec="412"
 Def="265"
 Por="12"
@@ -11,7 +11,7 @@ Eqp="CMP_PAC"
 Sue="32000"
 [Val]
 Rec="17"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="11"

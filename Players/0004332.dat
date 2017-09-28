@@ -1,6 +1,6 @@
 [Lvl]
 Niv="515"
-Ata="206"
+Ata="208"
 Tec="394"
 Def="616"
 Por="49"
@@ -10,11 +10,11 @@ Eqp="GAL_DAN"
 Sue="29000"
 [Val]
 Tra="2000"
-Les="9"
+Les="2"
 Fam="11"
 Pow="E"
 Age="25"
-Day="83"
+Day="97"
 Rec="17"
 [Inf]
 Nac="1975"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
 Ata="238"
-Tec="278"
+Tec="268"
 Def="472"
 Por="3"
-Frm="987"
+Frm="982"
 [2000]
 Eqp="FMG_EPO"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="30"
-Day="83"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1970"

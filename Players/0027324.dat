@@ -1,10 +1,10 @@
 [Lvl]
 Niv="575"
 Ata="158"
-Tec="478"
+Tec="483"
 Def="697"
 Por="45"
-Frm="985"
+Frm="980"
 [2000]
 P05="2000\Liga HAT\D2A\L06 (3).dat"
 P03="2000\Liga HAT\D2A\L03 (3).dat"
@@ -27,10 +27,10 @@ P06="2000\Liga HAT\D2A\L15 (8).dat"
 [Val]
 LPD="2"
 Rec="69"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="49"
+Fam="47"
 Pow="C"
 Age="24"
 [Inf]

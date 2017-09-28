@@ -1,10 +1,10 @@
 [Lvl]
 Niv="493"
 Ata="124"
-Tec="620"
+Tec="610"
 Def="280"
 Por="29"
-Frm="983"
+Frm="989"
 [2000]
 Eqp="BKN_PQG"
 Sue="21000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="6"
 Pow="E"
 Age="29"
-Day="83"
+Day="97"
 [Inf]
 Nac="1971"
 Pos="DM"

@@ -1,6 +1,6 @@
 [Lvl]
 Niv="387"
-Ata="450"
+Ata="434"
 Tec="227"
 Def="68"
 Por="7"
@@ -10,11 +10,11 @@ Eqp="GAL_DQA"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="1"
+Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="88"
+Day="97"
 [Inf]
 Nac="1969"
 Pos="CF"

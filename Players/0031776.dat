@@ -1,10 +1,10 @@
 [Lvl]
 Niv="526"
 Ata="566"
-Tec="341"
+Tec="338"
 Def="249"
 Por="11"
-Frm="975"
+Frm="994"
 [2000]
 PCal="0"
 Eqp="COM_COC"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga COM\D3C\L15 (2).dat"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="12"

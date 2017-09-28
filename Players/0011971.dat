@@ -1,10 +1,10 @@
 [Lvl]
 Niv="409"
-Ata="471"
+Ata="463"
 Tec="281"
 Def="92"
 Por="25"
-Frm="981"
+Frm="987"
 [2000]
 Eqp="FMG_CHH"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="32"
-Day="83"
+Day="97"
 [Inf]
 Nac="1968"
 Pos="SS"

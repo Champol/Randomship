@@ -1,10 +1,10 @@
 [Lvl]
 Niv="599"
-Ata="649"
+Ata="646"
 Tec="518"
 Def="142"
 Por="10"
-Frm="992"
+Frm="985"
 [2000]
 P01="2000\Liga CHM\D2B\L10 (1).dat"
 NoPar="1"
@@ -22,10 +22,10 @@ Sue="111000"
 [Val]
 LPD="0"
 Rec="116"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="71"
+Fam="68"
 Pow="C"
 Age="28"
 [Inf]

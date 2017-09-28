@@ -1,10 +1,10 @@
 [Lvl]
 Niv="523"
 Ata="282"
-Tec="352"
+Tec="353"
 Def="560"
 Por="16"
-Frm="972"
+Frm="977"
 [2000]
 Eqp="COM_S-R"
 Sue="33000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="11"
 Pow="D"
 Age="21"
-Day="83"
+Day="97"
 Rec="17"
 [Inf]
 Nac="1979"

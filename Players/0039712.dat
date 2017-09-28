@@ -1,10 +1,10 @@
 [Lvl]
-Niv="625"
+Niv="621"
 Ata="142"
-Tec="440"
+Tec="433"
 Def="791"
 Por="1"
-Frm="975"
+Frm="991"
 [2000]
 P07="2000\Liga CHM\D1A\L15 (8).dat"
 P04="2000\Liga CHM\D1A\L06 (2).dat"
@@ -28,10 +28,10 @@ P06="2000\Liga CHM\D1A\L14 (7).dat"
 [Val]
 LPD="0"
 Rec="157"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="119"
+Fam="114"
 Pow="C"
 Age="26"
 [Inf]

@@ -1,7 +1,7 @@
 [Lvl]
 Niv="496"
 Ata="388"
-Tec="512"
+Tec="511"
 Def="262"
 Por="43"
 Frm="983"
@@ -21,11 +21,11 @@ NoPar="2"
 P01="2000\Liga COM\D3C\L08 (3).dat"
 [Val]
 Tra="2000"
-Les="13"
+Les="8"
 Fam="6"
 Pow="E"
 Age="20"
-Day="86"
+Day="97"
 Rec="7"
 LPD="0"
 [Inf]

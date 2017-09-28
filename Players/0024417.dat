@@ -1,10 +1,10 @@
 [Lvl]
 Niv="577"
 Ata="261"
-Tec="427"
+Tec="439"
 Def="732"
 Por="7"
-Frm="971"
+Frm="998"
 [2000]
 Eqp="FAN_MRK"
 Sue="73000"
@@ -21,10 +21,10 @@ P01="2000\Liga FAN\D2B\L13 (2).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="33"
+Fam="32"
 Pow="B"
 Age="20"
-Day="83"
+Day="97"
 Rec="51"
 LPD="0"
 [Inf]

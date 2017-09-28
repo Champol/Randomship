@@ -2,7 +2,7 @@
 Niv="592"
 Ata="613"
 Tec="410"
-Def="274"
+Def="270"
 Por="5"
 Frm="974"
 [2000]
@@ -26,11 +26,11 @@ P02="2000\Liga FMG\D2B\L02 (7).dat"
 P03="2000\Liga FMG\D2B\L03 (3).dat"
 [Val]
 Tra="2000"
-Les="3"
-Fam="58"
+Les="0"
+Fam="56"
 Pow="C"
 Age="27"
-Day="90"
+Day="97"
 Rec="71"
 LPD="0"
 [Inf]

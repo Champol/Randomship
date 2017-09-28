@@ -1,10 +1,10 @@
 [Lvl]
 Niv="534"
 Ata="169"
-Tec="667"
+Tec="670"
 Def="430"
 Por="8"
-Frm="976"
+Frm="978"
 [2000]
 P01="2000\Liga CUA\D3C\L08 (1).dat"
 NoPar="2"
@@ -28,7 +28,7 @@ Les="0"
 Fam="11"
 Pow="D"
 Age="21"
-Day="83"
+Day="97"
 [Inf]
 Nac="1979"
 Pos="DM"

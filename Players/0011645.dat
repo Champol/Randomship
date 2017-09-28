@@ -1,10 +1,10 @@
 [Lvl]
 Niv="458"
 Ata="90"
-Tec="553"
+Tec="550"
 Def="347"
 Por="30"
-Frm="983"
+Frm="972"
 [2000]
 Eqp="FMG_HER"
 Sue="12000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="2"
 Pow="C"
 Age="30"
-Day="83"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1970"

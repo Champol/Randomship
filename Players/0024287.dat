@@ -1,10 +1,10 @@
 [Lvl]
 Niv="498"
 Ata="308"
-Tec="644"
+Tec="642"
 Def="148"
 Por="11"
-Frm="982"
+Frm="979"
 [2000]
 P01="2000\Liga FAN\D3A\L05 (1).dat"
 NoPar="1"
@@ -21,7 +21,7 @@ Eqp="FAN_D-R"
 Sue="29000"
 [Val]
 LPD="0"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="10"

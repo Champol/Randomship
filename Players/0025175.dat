@@ -1,10 +1,10 @@
 [Lvl]
 Niv="426"
 Ata="18"
-Tec="278"
+Tec="290"
 Def="243"
 Por="528"
-Frm="963"
+Frm="978"
 [2000]
 P07="2000\Liga FAN\D3A\L14 (1).dat"
 P06="2000\Liga FAN\D3A\L13 (4).dat"
@@ -39,7 +39,7 @@ Les="0"
 Fam="11"
 Pow="C"
 Age="18"
-Day="83"
+Day="97"
 LPD="1"
 CPD="0"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="573"
 Ata="234"
-Tec="729"
+Tec="725"
 Def="261"
 Por="33"
-Frm="979"
+Frm="974"
 [2000]
 P02="2000\Liga GAL\D2B\L07 (2).dat"
 Eqp="GAL_YAV"
@@ -23,10 +23,10 @@ P03="2000\Liga GAL\D2B\L12 (8).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="43"
+Fam="41"
 Pow="D"
 Age="28"
-Day="83"
+Day="97"
 Rec="66"
 LPD="2"
 [Inf]

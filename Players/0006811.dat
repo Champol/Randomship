@@ -1,10 +1,10 @@
 [Lvl]
 Niv="308"
-Ata="370"
+Ata="363"
 Tec="164"
 Def="121"
 Por="16"
-Frm="970"
+Frm="974"
 [2000]
 Eqp="GAL_SAL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="5"
 Pow="E"
 Age="32"
-Day="83"
+Day="97"
 Rec="9"
 [Inf]
 Nac="1968"

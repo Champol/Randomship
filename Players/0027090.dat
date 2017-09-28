@@ -1,10 +1,10 @@
 [Lvl]
 Niv="521"
 Ata="130"
-Tec="378"
+Tec="373"
 Def="628"
 Por="45"
-Frm="985"
+Frm="971"
 [2000]
 P06="2000\Liga HAT\D2A\L12 (4).dat"
 P05="2000\Liga HAT\D2A\L06 (5).dat"
@@ -29,11 +29,11 @@ P08="2000\Liga HAT\D2A\L15 (3).dat"
 [Val]
 LPD="2"
 Rec="25"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="22"
-Pow="D"
+Fam="21"
+Pow="E"
 Age="29"
 [Inf]
 Nac="1971"

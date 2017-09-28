@@ -1,10 +1,10 @@
 [Lvl]
 Niv="439"
-Ata="278"
+Ata="287"
 Tec="631"
 Def="102"
 Por="1"
-Frm="972"
+Frm="982"
 [2000]
 Eqp="FMG_HAL"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="D"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="AM"

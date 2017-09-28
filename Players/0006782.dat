@@ -1,10 +1,10 @@
 [Lvl]
 Niv="482"
 Ata="612"
-Tec="285"
+Tec="280"
 Def="102"
 Por="47"
-Frm="984"
+Frm="975"
 [2000]
 Eqp="GAL_TUN"
 Sue="17000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="E"
 Age="27"
-Day="83"
+Day="97"
 Rec="5"
 [Inf]
 Nac="1973"

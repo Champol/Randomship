@@ -2,7 +2,7 @@
 Niv="538"
 Ata="535"
 Tec="340"
-Def="286"
+Def="272"
 Por="1"
 Frm="994"
 [2000]
@@ -11,10 +11,10 @@ Eqp="CUA_RRU"
 Sue="42000"
 [Val]
 Rec="41"
-Day="90"
+Day="97"
 Tra="2000"
-Les="4"
-Fam="25"
+Les="1"
+Fam="24"
 Pow="D"
 Age="31"
 [Inf]

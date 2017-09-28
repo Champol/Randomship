@@ -1,10 +1,10 @@
 [Lvl]
 Niv="520"
 Ata="628"
-Tec="408"
+Tec="411"
 Def="115"
 Por="40"
-Frm="997"
+Frm="985"
 [2000]
 PCal="0"
 Eqp="CUA_OLV"
@@ -22,7 +22,7 @@ P01="2000\Liga CUA\D3C\L08 (6).dat"
 P02="2000\Liga CUA\D3C\L15 (7).dat"
 [Val]
 Rec="12"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="8"

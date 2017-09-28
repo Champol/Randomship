@@ -1,6 +1,6 @@
 [Lvl]
 Niv="501"
-Ata="130"
+Ata="124"
 Tec="306"
 Def="641"
 Por="35"
@@ -10,11 +10,11 @@ Eqp="GAL_FLO"
 Sue="24000"
 [Val]
 Tra="2000"
-Les="4"
+Les="1"
 Fam="5"
 Pow="B"
 Age="31"
-Day="90"
+Day="97"
 Rec="9"
 [Inf]
 Nac="1969"

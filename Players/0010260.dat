@@ -1,10 +1,10 @@
 [Lvl]
 Niv="508"
-Ata="548"
+Ata="550"
 Tec="381"
 Def="226"
 Por="6"
-Frm="971"
+Frm="980"
 [2000]
 P02="2000\Liga PES\D3A\L11 (8).dat"
 P01="2000\Liga PES\D3A\L09 (1).dat"
@@ -25,7 +25,7 @@ P04="2000\Liga PES\D3A\L15 (4).dat"
 [Val]
 LPD="0"
 Rec="7"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="5"

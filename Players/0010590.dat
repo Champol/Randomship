@@ -1,10 +1,10 @@
 [Lvl]
 Niv="538"
-Ata="100"
+Ata="94"
 Tec="235"
 Def="732"
 Por="48"
-Frm="988"
+Frm="965"
 [2000]
 P01="2000\Liga PES\D3A\L06 (8).dat"
 NoPar="2"
@@ -23,10 +23,10 @@ P02="2000\Liga PES\D3A\L07 (2).dat"
 [Val]
 LPD="0"
 Rec="24"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
-Fam="16"
+Fam="15"
 Pow="D"
 Age="29"
 [Inf]

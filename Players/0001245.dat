@@ -1,6 +1,6 @@
 [Lvl]
 Niv="388"
-Ata="560"
+Ata="564"
 Tec="256"
 Def="89"
 Por="20"
@@ -10,7 +10,7 @@ PCal="0"
 Eqp="SEN_SPI"
 Sue="10000"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="0"

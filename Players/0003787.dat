@@ -1,10 +1,10 @@
 [Lvl]
 Niv="502"
-Ata="320"
+Ata="328"
 Tec="720"
 Def="75"
 Por="26"
-Frm="980"
+Frm="982"
 [2000]
 Eqp="GAL_CIN"
 Sue="24000"
@@ -24,7 +24,7 @@ Les="0"
 Fam="6"
 Pow="B"
 Age="18"
-Day="83"
+Day="97"
 Rec="6"
 LPD="1"
 [Inf]

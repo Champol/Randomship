@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
-Ata="230"
+Ata="224"
 Tec="576"
 Def="174"
 Por="14"
-Frm="987"
+Frm="978"
 [2000]
 Eqp="BKN_NIO"
 Sue="11000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="2"
 Pow="D"
 Age="31"
-Day="83"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1969"

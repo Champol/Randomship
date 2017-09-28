@@ -1,10 +1,10 @@
 [Lvl]
 Niv="530"
-Ata="358"
+Ata="363"
 Tec="692"
 Def="156"
 Por="34"
-Frm="982"
+Frm="977"
 [2000]
 P02="2000\Liga GAL\D4B\L09 (6).dat"
 Eqp="GAL_MRB"
@@ -27,7 +27,7 @@ Les="0"
 Fam="8"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="12"
 LPD="0"
 [Inf]

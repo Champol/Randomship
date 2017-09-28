@@ -1,7 +1,7 @@
 [Lvl]
 Niv="505"
 Ata="379"
-Tec="499"
+Tec="486"
 Def="195"
 Por="18"
 Frm="966"
@@ -10,11 +10,11 @@ Eqp="FMG_TIR"
 Sue="25000"
 [Val]
 Tra="2000"
-Les="14"
+Les="7"
 Fam="10"
 Pow="C"
 Age="32"
-Day="83"
+Day="97"
 Rec="15"
 [Inf]
 Nac="1968"

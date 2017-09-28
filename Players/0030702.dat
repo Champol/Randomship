@@ -2,7 +2,7 @@
 Niv="532"
 Ata="531"
 Tec="369"
-Def="266"
+Def="265"
 Por="2"
 Frm="985"
 [2000]
@@ -22,10 +22,10 @@ Sue="38000"
 [Val]
 LPD="0"
 Rec="27"
-Day="86"
+Day="97"
 Tra="2000"
-Les="2"
-Fam="17"
+Les="0"
+Fam="16"
 Pow="D"
 Age="27"
 [Inf]

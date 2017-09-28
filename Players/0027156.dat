@@ -1,10 +1,10 @@
 [Lvl]
 Niv="513"
-Ata="195"
+Ata="201"
 Tec="707"
 Def="201"
 Por="30"
-Frm="982"
+Frm="972"
 [2000]
 PCal="0"
 Eqp="HAT_PAN"
@@ -22,7 +22,7 @@ P01="2000\Liga HAT\D2A\L08 (4).dat"
 P02="2000\Liga HAT\D2A\L14 (4).dat"
 P03="2000\Liga HAT\D2A\L15 (2).dat"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="12"

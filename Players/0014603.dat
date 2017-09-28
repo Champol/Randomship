@@ -1,10 +1,10 @@
 [Lvl]
 Niv="555"
 Ata="339"
-Tec="723"
+Tec="717"
 Def="132"
 Por="20"
-Frm="987"
+Frm="978"
 [2000]
 Eqp="PPV_ARR"
 Sue="53000"
@@ -23,10 +23,10 @@ P03="2000\Liga PPV\D3A\L12 (2).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="20"
+Fam="19"
 Pow="D"
 Age="25"
-Day="83"
+Day="97"
 Rec="30"
 LPD="0"
 [Inf]

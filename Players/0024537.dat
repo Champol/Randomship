@@ -1,7 +1,7 @@
 [Lvl]
 Niv="468"
 Ata="11"
-Tec="200"
+Tec="204"
 Def="228"
 Por="663"
 Frm="981"
@@ -10,11 +10,11 @@ Eqp="FAN_MEZ"
 Sue="14000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="2"
 Pow="C"
 Age="18"
-Day="92"
+Day="97"
 Rec="2"
 [Inf]
 Nac="1982"

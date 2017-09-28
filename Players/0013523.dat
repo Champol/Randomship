@@ -1,7 +1,7 @@
 [Lvl]
 Niv="543"
 Ata="297"
-Tec="437"
+Tec="440"
 Def="555"
 Por="43"
 Frm="985"
@@ -29,10 +29,10 @@ P09="2000\Liga FMG\D3D\L15 (3).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="15"
+Fam="14"
 Pow="D"
 Age="21"
-Day="83"
+Day="97"
 Rec="19"
 LPD="2"
 [Inf]

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="426"
 Ata="59"
-Tec="616"
+Tec="627"
 Def="220"
 Por="49"
-Frm="968"
+Frm="983"
 [2000]
 P02="2000\Liga PPV\D3A\L14 (6).dat"
 P01="2000\Liga PPV\D3A\L12 (1).dat"
@@ -28,7 +28,7 @@ Les="0"
 Fam="1"
 Pow="E"
 Age="18"
-Day="83"
+Day="97"
 [Inf]
 Nac="1982"
 Pos="DM"

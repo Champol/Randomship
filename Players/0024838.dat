@@ -1,10 +1,10 @@
 [Lvl]
 Niv="502"
 Ata="141"
-Tec="640"
+Tec="647"
 Def="388"
 Por="42"
-Frm="994"
+Frm="970"
 [2000]
 Eqp="FAN_DOO"
 Sue="24000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="4"
 Pow="D"
 Age="19"
-Day="83"
+Day="97"
 Rec="7"
 [Inf]
 Nac="1981"

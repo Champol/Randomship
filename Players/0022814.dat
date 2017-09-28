@@ -1,10 +1,10 @@
 [Lvl]
 Niv="498"
 Ata="517"
-Tec="473"
+Tec="481"
 Def="106"
 Por="42"
-Frm="993"
+Frm="972"
 [2000]
 P03="2000\Liga CUA\D3B\L11 (3).dat"
 P02="2000\Liga CUA\D3B\L07 (8).dat"
@@ -22,7 +22,7 @@ LMJ="0"
 NoPar="3"
 P01="2000\Liga CUA\D3B\L06 (7).dat"
 [Val]
-Day="92"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="4"

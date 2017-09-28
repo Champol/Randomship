@@ -1,10 +1,10 @@
 [Lvl]
 Niv="486"
 Ata="10"
-Tec="264"
+Tec="273"
 Def="216"
 Por="655"
-Frm="985"
+Frm="977"
 [2000]
 PCal="0"
 Eqp="SEN_GAR"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga SEN\D3A\L15 (7).dat"
 [Val]
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="5"

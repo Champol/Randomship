@@ -1,10 +1,10 @@
 [Lvl]
 Niv="551"
-Ata="190"
+Ata="186"
 Tec="403"
 Def="599"
 Por="5"
-Frm="972"
+Frm="987"
 [2000]
 P05="2000\Liga PAT\D3B\L14 (2).dat"
 P04="2000\Liga PAT\D3B\L09 (4).dat"
@@ -25,10 +25,10 @@ P03="2000\Liga PAT\D3B\L06 (3).dat"
 [Val]
 Tra="2000"
 Les="0"
-Fam="19"
+Fam="18"
 Pow="D"
 Age="23"
-Day="83"
+Day="97"
 Rec="29"
 LPD="0"
 [Inf]

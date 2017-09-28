@@ -1,10 +1,10 @@
 [Lvl]
 Niv="455"
 Ata="286"
-Tec="464"
+Tec="461"
 Def="191"
 Por="0"
-Frm="981"
+Frm="984"
 [2000]
 Eqp="BKN_M-P"
 Sue="11000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="1"
 Pow="C"
 Age="32"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1968"

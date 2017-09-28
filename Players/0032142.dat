@@ -1,6 +1,6 @@
 [Lvl]
 Niv="427"
-Ata="150"
+Ata="151"
 Tec="250"
 Def="585"
 Por="50"
@@ -10,11 +10,11 @@ Eqp="COM_KAS"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="25"
+Les="21"
 Fam="0"
 Pow="E"
 Age="18"
-Day="88"
+Day="97"
 [Inf]
 Nac="1982"
 Pos="CB"

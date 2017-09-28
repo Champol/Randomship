@@ -1,10 +1,10 @@
 [Lvl]
 Niv="498"
-Ata="703"
+Ata="710"
 Tec="281"
 Def="142"
 Por="17"
-Frm="980"
+Frm="979"
 [2000]
 P05="2000\Liga PAT\D3B\L12 (8).dat"
 P03="2000\Liga PAT\D3B\L09 (7).dat"
@@ -28,7 +28,7 @@ P07="2000\Liga PAT\D3B\L14 (2).dat"
 P08="2000\Liga PAT\D3B\L15 (7).dat"
 [Val]
 Rec="10"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="10"

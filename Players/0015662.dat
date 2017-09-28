@@ -1,10 +1,10 @@
 [Lvl]
 Niv="388"
 Ata="36"
-Tec="104"
+Tec="88"
 Def="176"
 Por="484"
-Frm="987"
+Frm="976"
 [2000]
 PCal="0"
 Eqp="PPV_SAY"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="31"
-Day="92"
+Day="97"
 [Inf]
 Nac="1969"
 Pos="GK"

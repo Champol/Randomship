@@ -1,10 +1,10 @@
 [Lvl]
 Niv="358"
 Ata="147"
-Tec="393"
+Tec="383"
 Def="152"
 Por="49"
-Frm="994"
+Frm="983"
 [2000]
 Eqp="FMG_PRO"
 Sue="10000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="1"
 Pow="D"
 Age="32"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1968"

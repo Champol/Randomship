@@ -1,10 +1,10 @@
 [Lvl]
 Niv="423"
-Ata="200"
+Ata="212"
 Tec="362"
 Def="460"
 Por="3"
-Frm="990"
+Frm="988"
 [2000]
 PCal="0"
 Eqp="PPV_TOC"
@@ -15,7 +15,7 @@ Les="0"
 Fam="0"
 Pow="C"
 Age="17"
-Day="92"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="WB"

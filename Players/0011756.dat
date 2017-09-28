@@ -2,7 +2,7 @@
 Niv="458"
 Ata="274"
 Tec="340"
-Def="498"
+Def="500"
 Por="14"
 Frm="985"
 [2000]
@@ -10,11 +10,11 @@ Eqp="FMG_PRA"
 Sue="12000"
 [Val]
 Tra="2000"
-Les="7"
+Les="0"
 Fam="1"
 Pow="D"
 Age="18"
-Day="83"
+Day="97"
 Rec="1"
 [Inf]
 Nac="1982"

@@ -1,10 +1,10 @@
 [Lvl]
 Niv="371"
-Ata="286"
+Ata="292"
 Tec="492"
 Def="106"
 Por="2"
-Frm="972"
+Frm="990"
 [2000]
 Eqp="FMG_CHU"
 Sue="10000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="0"
 Pow="E"
 Age="17"
-Day="83"
+Day="97"
 [Inf]
 Nac="1983"
 Pos="AM"

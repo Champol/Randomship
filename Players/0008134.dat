@@ -1,10 +1,10 @@
 [Lvl]
 Niv="541"
 Ata="132"
-Tec="688"
+Tec="682"
 Def="384"
 Por="43"
-Frm="961"
+Frm="982"
 [2000]
 PCal="0"
 Eqp="PES_ODE"
@@ -30,7 +30,7 @@ CMJ="0"
 P02="2000\Liga PES\CUP\C1V (17).dat"
 [Val]
 Rec="21"
-Day="83"
+Day="97"
 Tra="2000"
 Les="0"
 Fam="12"

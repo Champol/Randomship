@@ -1,10 +1,10 @@
 [Lvl]
 Niv="502"
-Ata="346"
+Ata="336"
 Tec="470"
 Def="315"
 Por="27"
-Frm="974"
+Frm="985"
 [2000]
 P02="2000\Liga HAT\D2B\L04 (5).dat"
 Eqp="HAT_ENF"
@@ -25,7 +25,7 @@ Les="0"
 Fam="8"
 Pow="D"
 Age="30"
-Day="83"
+Day="97"
 Rec="12"
 LPD="0"
 [Inf]

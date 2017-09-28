@@ -1,10 +1,10 @@
 [Lvl]
 Niv="505"
 Ata="292"
-Tec="680"
+Tec="688"
 Def="206"
 Por="30"
-Frm="984"
+Frm="986"
 [2000]
 Eqp="PES_TAU"
 Sue="25000"
@@ -14,7 +14,7 @@ Les="0"
 Fam="5"
 Pow="D"
 Age="18"
-Day="83"
+Day="97"
 Rec="9"
 [Inf]
 Nac="1982"

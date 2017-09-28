@@ -1,10 +1,10 @@
 [Lvl]
 Niv="520"
 Ata="264"
-Tec="590"
+Tec="588"
 Def="344"
 Por="41"
-Frm="985"
+Frm="977"
 [2000]
 Eqp="HAT_CRW"
 Sue="32000"
@@ -15,7 +15,7 @@ Les="0"
 Fam="12"
 Pow="C"
 Age="31"
-Day="83"
+Day="97"
 [Inf]
 Nac="1969"
 Pos="CM"
