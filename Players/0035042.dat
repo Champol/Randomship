@@ -1,10 +1,10 @@
 [Lvl]
-Niv="659"
+Niv="648"
 Ata="130"
 Tec="396"
 Def="860"
 Por="27"
-Frm="981"
+Frm="966"
 [2000]
 P12="2000\Liga PAT\D1A\L14 (5).dat"
 P11="2000\Liga PAT\D1A\L13 (3).dat"
@@ -41,7 +41,7 @@ P10="2000\Liga PAT\CUP\C3V (15).dat"
 P13="2000\Liga PAT\D1A\L16 (1).dat"
 [Val]
 CPD="0"
-Day="97"
+Day="101"
 Tra="2000"
 Les="0"
 Fam="225"

@@ -1,10 +1,10 @@
 [Lvl]
-Niv="640"
+Niv="638"
 Ata="156"
 Tec="508"
 Def="784"
 Por="11"
-Frm="982"
+Frm="988"
 [2000]
 P07="2000\Liga AGE\D2A\L14 (6).dat"
 P05="2000\Liga AGE\D2A\L09 (3).dat"
@@ -36,7 +36,7 @@ P06="2000\Liga AGE\CUP\C3I (12).dat"
 [Val]
 LPD="0"
 Rec="195"
-Day="97"
+Day="101"
 Tra="2000"
 Les="0"
 Fam="120"

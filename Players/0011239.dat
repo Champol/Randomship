@@ -10,11 +10,11 @@ Eqp="FMG_CHB"
 Sue="44000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="16"
 Pow="C"
 Age="20"
-Day="97"
+Day="101"
 Rec="26"
 [Inf]
 Nac="1980"

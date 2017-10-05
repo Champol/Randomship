@@ -1,10 +1,10 @@
 [Lvl]
-Niv="437"
+Niv="452"
 Ata="222"
 Tec="579"
 Def="274"
 Por="31"
-Frm="997"
+Frm="1002"
 [2000]
 PCal="0"
 Eqp="SEN_EMO"
@@ -20,7 +20,7 @@ CMJ="0"
 NoPar="1"
 P01="2000\Liga SEN\CUP\COI (1).dat"
 [Val]
-Day="97"
+Day="101"
 Tra="2000"
 Les="0"
 Fam="0"

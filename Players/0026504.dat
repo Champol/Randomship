@@ -1,10 +1,10 @@
 [Lvl]
-Niv="578"
+Niv="562"
 Ata="134"
 Tec="423"
 Def="703"
 Por="5"
-Frm="967"
+Frm="977"
 [2000]
 P06="2000\Liga HAT\D1A\L15 (5).dat"
 PCal="556"
@@ -34,7 +34,7 @@ CMJ="0"
 P05="2000\Liga HAT\CUP\C3V (9).dat"
 [Val]
 Rec="85"
-Day="97"
+Day="101"
 Tra="2000"
 Les="0"
 Fam="53"

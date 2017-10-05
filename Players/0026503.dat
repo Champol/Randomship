@@ -1,10 +1,10 @@
 [Lvl]
-Niv="590"
+Niv="570"
 Ata="40"
 Tec="352"
 Def="358"
 Por="675"
-Frm="992"
+Frm="996"
 [2000]
 P04="2000\Liga HAT\D1A\L15 (5).dat"
 P02="2000\Liga HAT\D1A\L03 (6).dat"
@@ -25,7 +25,7 @@ P03="2000\Liga HAT\D1A\L10 (4).dat"
 [Val]
 LPD="0"
 Rec="112"
-Day="97"
+Day="101"
 Tra="2000"
 Les="0"
 Fam="85"

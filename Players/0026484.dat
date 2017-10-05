@@ -1,10 +1,10 @@
 [Lvl]
-Niv="563"
+Niv="560"
 Ata="330"
 Tec="447"
 Def="535"
 Por="15"
-Frm="993"
+Frm="980"
 [2000]
 PCal="540"
 Eqp="HAT_HAU"
@@ -21,7 +21,7 @@ NoPar="1"
 P01="2000\Liga HAT\D1A\L11 (7).dat"
 [Val]
 Rec="40"
-Day="97"
+Day="101"
 Tra="2000"
 Les="0"
 Fam="25"

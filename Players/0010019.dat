@@ -10,11 +10,11 @@ Eqp="PES_SCO"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="2"
+Les="0"
 Fam="0"
 Pow="C"
 Age="18"
-Day="97"
+Day="101"
 [Inf]
 Nac="1982"
 Pos="DM"

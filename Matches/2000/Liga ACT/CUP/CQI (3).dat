@@ -1,0 +1,13 @@
+[Inf]
+TV="1"
+Inv="0"
+Def="0"
+Vis="ACT_T-V"
+Loc="ACT_ROD"
+Rnd="CQI"
+Div="CUP"
+Lig="Liga ACT"
+Tor="C"
+OK="0"
+[Val]
+KV="1"

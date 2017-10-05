@@ -1,10 +1,10 @@
 [Lvl]
-Niv="628"
+Niv="629"
 Ata="262"
 Tec="832"
 Def="258"
 Por="26"
-Frm="980"
+Frm="972"
 [2000]
 P10="2000\Liga CHM\D2A\L13 (8).dat"
 P09="2000\Liga CHM\D2A\L12 (2).dat"
@@ -41,7 +41,7 @@ P12="2000\Liga CHM\D2A\L15 (4).dat"
 [Val]
 CPD="0"
 LPD="0"
-Day="97"
+Day="102"
 Tra="2000"
 Les="0"
 Fam="122"
