@@ -1,5 +1,5 @@
 [Lvl]
-Niv="633"
+Niv="636"
 Ata="160"
 Tec="800"
 Def="467"
@@ -41,9 +41,9 @@ P12="2000\Liga AGE\D1A\L14 (3).dat"
 P13="2000\Liga AGE\D1A\L15 (2).dat"
 P14="2000\Liga AGE\D1A\L16 (8).dat"
 [Val]
-Day="99"
+Day="103"
 Tra="2000"
-Les="3"
+Les="1"
 Fam="120"
 Pow="A"
 Age="20"

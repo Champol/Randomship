@@ -10,11 +10,11 @@ Eqp="PPV_ESP"
 Sue="22000"
 [Val]
 Tra="2000"
-Les="0"
+Les="1"
 Fam="5"
 Pow="D"
 Age="29"
-Day="99"
+Day="104"
 Rec="9"
 [Inf]
 Nac="1971"

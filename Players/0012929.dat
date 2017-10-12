@@ -10,11 +10,11 @@ Eqp="FMG_LIP"
 Sue="10000"
 [Val]
 Tra="2000"
-Les="0"
+Les="2"
 Fam="0"
 Pow="E"
 Age="30"
-Day="99"
+Day="104"
 [Inf]
 Nac="1970"
 Pos="CF"

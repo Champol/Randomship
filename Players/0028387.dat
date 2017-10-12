@@ -1,10 +1,10 @@
 [Lvl]
-Niv="536"
+Niv="534"
 Ata="691"
 Tec="341"
 Def="169"
 Por="14"
-Frm="980"
+Frm="992"
 [2000]
 PCal="566"
 Eqp="AGE_CHR"
@@ -20,7 +20,7 @@ LMJ="0"
 NoPar="1"
 P01="2000\Liga AGE\D1A\L09 (6).dat"
 [Val]
-Day="99"
+Day="103"
 Tra="2000"
 Les="0"
 Fam="39"
